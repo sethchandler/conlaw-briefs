@@ -16,7 +16,8 @@ conlaw-briefs/
 │   ├── NEW_TEXT_FOR_REVIEW.md   newly written text only, for independent review
 │   ├── CONVERSION_CONCERNS.md   possible errors in the originals, flagged but not fixed
 │   ├── PILOT_REPORT.md          the three-brief pilot
-│   └── all_changes.diff         every change to briefs/ since the original import
+│   ├── all_changes.diff         every change to briefs/ since the original import
+│   └── review_results/          independent review (ChatGPT) output and decisions
 └── tools/
     ├── update_briefing_book.py  builds the combined Briefing Book .tex/.pdf
     ├── preflight_audit.py       hygiene, URL and recent-case scan
