@@ -3,12 +3,24 @@
     {
       "number": 1,
       "title": "Structure of Government",
-      "chapters": [1, 2, 3, 4]
+      "chapters": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "number": 2,
       "title": "Individual Rights and Liberties",
-      "chapters": [5, 6, 7, 8, 9, 10]
+      "chapters": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
     }
   ],
   "chapters": [
@@ -24,7 +36,9 @@
         "Advisory Opinions / Finality",
         "Taxpayer Standing",
         "Standing & Mootness",
-        "Federal Equity / Universal Injunctions"
+        "Federal Equity / Universal Injunctions",
+        "Standing",
+        "Federal review of state judgments"
       ]
     },
     {
@@ -39,7 +53,9 @@
         "Executive Authority & Immigration",
         "Executive Power / Treaties",
         "Recess Appointments",
-        "Administrative State / Judicial Review"
+        "Administrative State / Judicial Review",
+        "Federal Reserve removal protections and interim relief",
+        "Presidential removal power and independent agencies"
       ]
     },
     {
@@ -58,7 +74,8 @@
         "Territories Clause (Insular Cases)",
         "Territories Clause",
         "Suspension of Habeas Corpus",
-        "Immigration Plenary Power"
+        "Immigration Plenary Power",
+        "Commerce Clause (cont.): The Rehnquist Court"
       ]
     },
     {
@@ -76,7 +93,8 @@
         "Extradition Clause",
         "Interstate Compacts",
         "State-Federal Structural Relations",
-        "State-Federal Structural Relations / Elections"
+        "State-Federal Structural Relations / Elections",
+        "Art. IV Privileges and Immunities"
       ]
     },
     {
@@ -87,7 +105,12 @@
         "State Action",
         "State Action / No Affirmative Duty",
         "Section 5 of the 14th Amendment",
-        "Citizenship and Reconstruction"
+        "Citizenship and Reconstruction",
+        "The Rule of Law Before the Bill of Rights",
+        "Incorporation Doctrine",
+        "Pre & Post Civil War Power to Police States",
+        "Post Civil War Amendments and Citizenship",
+        "Citizenship Clause and birthright citizenship"
       ]
     },
     {
@@ -100,7 +123,10 @@
         "Regulatory Takings",
         "Land-Use Exactions (Rough Proportionality)",
         "Public Use Clause",
-        "Per Se Physical Takings"
+        "Per Se Physical Takings",
+        "SDP: Family, Privacy, Autonomy",
+        "SDP: Family, Privacy, Autonomy continued",
+        "Substantive Due Process: Methodology War continued & IQS"
       ]
     },
     {
@@ -112,7 +138,12 @@
         "Equal Protection: Race and Affirmative Action",
         "Equal Protection: Gender, Poverty and Disability",
         "Rational Basis with Bite / Animus",
-        "Racial Gerrymandering"
+        "Racial Gerrymandering",
+        "Equal Protection: Limitations",
+        "Affirmative Action & Equal Protection",
+        "Racial redistricting, equal protection, and Voting Rights Act enforcement",
+        "LGBTQ issues",
+        "Transgender athletics, equal protection, and Title IX"
       ]
     },
     {
@@ -126,7 +157,9 @@
         "Fighting Words / Low-Value Speech",
         "Freedom of Association",
         "Student Speech",
-        "Government Speech vs. Public Forum"
+        "Government Speech vs. Public Forum",
+        "Election Speech and Campaign Finance",
+        "Coordinated party expenditures and campaign speech"
       ]
     },
     {
@@ -145,7 +178,9 @@
       "title": "The Second Amendment",
       "topics": [
         "The Second Amendment",
-        "Second Amendment"
+        "Second Amendment",
+        "Firearms restrictions and historical tradition",
+        "Public carry and private-property restrictions"
       ]
     }
   ]
