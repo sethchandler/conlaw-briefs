@@ -1,0 +1,53 @@
+"""Fill for 177_west_virginia_v_epa (pilot). See tools/fillkit.py."""
+from fillkit import *
+
+J = "https://supreme.justia.com/cases/federal/us/597/20-1530/"
+FILL = {
+ "sections": {
+  "Memory Jogger": [N(r"Giving the ``major questions doctrine'' its name in a majority opinion for the first time, the Court held 6--3 that \S~111(d) of the Clean Air Act did not clearly authorize EPA's Clean Power Plan, which set carbon-dioxide limits premised on shifting electricity generation away from coal (\href{" + J + r"}{Justia}).")],
+  "Detailed Case Facts": [SEC("Facts and Procedural History", to=r"\textbf{Procedural History:}")],
+  "Procedural History": [SEC("Facts and Procedural History", frm=r"\textbf{Procedural History:}", strip=r"\textbf{Procedural History:} ")],
+  "Judicial Votes": [
+    N(r"The Supreme Court \textbf{reversed and remanded} by a \textbf{6--3} vote. The case was argued on February 28, 2022, and decided on June 30, 2022 (\href{" + J + r"}{Justia}; \href{https://www.law.cornell.edu/supremecourt/text/20-1530}{Cornell LII}):"),
+    N(r"""\begin{itemize}
+    \item \textbf{Majority Opinion:} Chief Justice Roberts delivered the opinion of the Court, joined by Justices Thomas, Alito, Gorsuch, Kavanaugh, and Barrett.
+    \item \textbf{Concurring Opinion:} Justice Gorsuch filed a concurring opinion, joined by Justice Alito.
+    \item \textbf{Dissenting Opinion:} Justice Kagan filed a dissenting opinion, joined by Justices Breyer and Sotomayor.
+\end{itemize}"""),
+  ],
+  "Holding": [N(r"\textbf{Questions Presented:}"), SEC("Issue"), SEC("Holding")],
+  "Analysis of Opinions": [
+    N(r"\subsection{Majority Opinion (Chief Justice Roberts)}"), SEC("Reasoning"),
+    N(r"\subsection{Concurring Opinion (Justice Gorsuch)}"), N("Justice Gorsuch", glue=" "),
+    SEC("Separate Opinions", frm="Framed the major", to=r"  \item \textbf{Justice Kagan", lc=True),
+    N(r"\subsection{Dissenting Opinion (Justice Kagan)}"), N("Justice Kagan", glue=" "),
+    SEC("Separate Opinions", frm="Criticized the majority", to=r"\end{itemize}", lc=True),
+    N(r"\subsection{Subsequent Developments}"),
+    N(r"\begin{itemize}"),
+    SEC("Constitutional Significance", frm=r"  \item \textbf{\href{https://supreme.justia.com/cases/federal/us/600/", to=r"  \item \textbf{\href{https://supreme.justia.com/cases/federal/us/603/"),
+    SEC("Constitutional Significance", frm=r"  \item \textbf{\href{https://supreme.justia.com/cases/federal/us/607/"),
+  ],
+  "Examples: Future Applications": [
+    N(r"\begin{enumerate}"),
+    N(r"\item \textbf{Same-Side (Rule Likely Invalid): Repurposing a 1974 Biosecurity Statute to License Frontier AI.}", glue=" "),
+    S(r"In 1974, Congress enacted the Federal Biosecurity Preparedness Act, authorizing the Secretary of Health and Human Services to ``promulgate such standards and systems as the Secretary determines necessary to prevent catastrophic biological threats.'' For fifty years, HHS used the statute only to set lab-containment protocols for federal research facilities. Following a major public debate in which Congress repeatedly failed to pass a bill regulating artificial intelligence, the Secretary invokes the 1974 Act to issue a rule requiring every U.S. technology company training a frontier AI model above a specified compute threshold to obtain a federal license and submit model weights to HHS for biosecurity red-teaming, at an estimated industry compliance cost of \$18 billion per year.", glue=" "),
+    S(r"Challengers have a textbook major-questions claim: (1) an unheralded, transformative expansion of authority discovered in a 50-year-old statute used only for physical labs; (2) vast economic (\$18 billion/year) and political significance; (3) a stark mismatch between HHS's public-health mission and comprehensive licensing of the frontier AI sector; and (4) conspicuous congressional failure to enact AI licensing legislation. Under Roberts/Gorsuch, ``standards and systems'' is an ``empty vessel'' lacking clear congressional authorization; under Barrett/Kagan, even ordinary text-in-context interpretation makes it implausible that Congress hid a national AI-licensing regime inside a 1974 lab-safety clause."),
+    N(r"\item \textbf{Same-Side (Rule Likely Invalid): Using Ratemaking Authority to Phase Out Coal.} Relying on its decades-old authority to ensure that wholesale electricity rates are ``just and reasonable,'' a federal energy commission declares that any rate charged by a coal-fired plant after 2035 is unjust and unreasonable, effectively requiring every such plant to retire. As in \textit{West Virginia}, the agency would be using a long-standing, general provision to restructure the Nation's electricity mix---a decision of vast economic and political significance that Congress has debated without acting. Absent clear congressional authorization, a court applying the major questions doctrine would likely hold that the ratemaking provision does not reach so far (\href{" + J + r"}{Justia})."),
+    N(r"\item \textbf{Opposite-Side (Rule Likely Valid Under the Statute): Clear Congressional Authorization for AI Licensing.} Return to the biosecurity hypothetical, but suppose", glue=" "),
+    S(r"Congress in 2025 enacted the Artificial Intelligence Safety Act expressly granting a newly created AI Safety Agency authority to ``license and audit frontier AI models exceeding $10^{26}$ FLOPs to mitigate chemical, biological, radiological, or cyber risks,'' and the Agency sets detailed red-teaming standards under that statute. Here, the \textit{major questions doctrine does not defeat the rule}: Congress spoke clearly, the action sits squarely in the agency's core mission and expertise, and the statute is contemporaneous rather than an old ``backwater.'' Any challenge must therefore shift from statutory major-questions review to a constitutional \textit{nondelegation} claim---which, after \textit{FCC v. Consumers' Research}, 606 U.S. 656 (2025), will fail so long as Congress supplied an ``intelligible principle'' setting the general policy and boundaries of delegated authority."),
+    N(r"\item \textbf{Opposite-Side (Doctrine Likely Not Triggered): A Traditional, Source-Specific Standard Under \S~111(d).} EPA issues \S~111(d) emissions guidelines for existing power plants based on control technology that each plant can install on site, so that every regulated plant can comply by operating more cleanly rather than by shifting generation elsewhere. That is the inside-the-fenceline, technology-based approach EPA had always used under \S~111(d), so the rule claims no ``unheralded'' power and the major questions doctrine likely does not apply. Challengers would instead have to argue under ordinary statutory standards---for example, that the technology is not ``adequately demonstrated'' or is unreasonably costly. \textit{West Virginia} itself expressly declined to decide whether \S~111(d) is limited to such measures."),
+    N(r"\item \textbf{Fence-Sitter (Close Call): Mandatory Climate-Risk Disclosure by Public Companies.} Invoking its general authority to require disclosures ``necessary or appropriate in the public interest or for the protection of investors,'' the Securities and Exchange Commission requires public companies to report their greenhouse-gas emissions and climate-related financial risks. On one hand, disclosure rules sit within the agency's core expertise and long-standing practice, and the rule regulates what companies tell investors rather than how they produce energy. On the other hand, it imposes large compliance costs on a politically charged subject that Congress has not addressed, and it can be characterized as climate policy pursued through securities law. Whether a court treats the rule as an ordinary exercise of disclosure authority (as Justice Barrett's contextual reading of the doctrine in \textit{Biden v. Nebraska} might) or as a major question demanding clear authorization (as Justice Gorsuch's clear-statement approach might) could decide the case."),
+    N(r"\end{enumerate}"),
+  ],
+  "Critique": [ITEMS("Pedagogical", frm=r"  \item \textbf{Substantive Canon", to=r"\end{itemize}")],
+  "Key Quotations": [SEC("Key Quotations")],
+ },
+ "dropped": [
+  "Case Metadata: consolidated docket numbers, Chapter/Topic line, SupremeCourt.gov page-proof link (Justia and Cornell links kept in Judicial Votes).",
+  "Legacy section: introductory paragraph; Loper Bright / FCC v. Consumers' Research item (Consumers' Research still cited in Example 3). Kept: Biden v. Nebraska and Learning Resources v. Trump items.",
+  "Exam hypothetical heading 'Major Questions Analysis (West Virginia / Nebraska / Learning Resources)' and 'Opposite Side Contrast' label (their text is reused in Examples 1 and 3).",
+ ],
+ "notes": ["Kept Learning Resources v. Trump (2026) item is post-June-2026-cutoff for the drafter of this pass; it must be verified first in the audit."],
+}
+
+emit(__file__, FILL)

@@ -53,9 +53,9 @@
    },
    {
     "sec": "Separate Opinions",
-    "lcfirst": true,
     "from": "Framed the major",
-    "to": "  \\item \\textbf{Justice Kagan"
+    "to": "  \\item \\textbf{Justice Kagan",
+    "lcfirst": true
    },
    {
     "new": "\\subsection{Dissenting Opinion (Justice Kagan)}"
@@ -66,9 +66,9 @@
    },
    {
     "sec": "Separate Opinions",
-    "lcfirst": true,
     "from": "Criticized the majority",
-    "to": "\\end{itemize}"
+    "to": "\\end{itemize}",
+    "lcfirst": true
    },
    {
     "new": "\\subsection{Subsequent Developments}"
