@@ -1,0 +1,10 @@
+# Build products are delivered as downloads, not tracked
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+build/
+dist/
+__pycache__/
