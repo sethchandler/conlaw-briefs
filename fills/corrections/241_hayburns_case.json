@@ -1,0 +1,22 @@
+[
+ {
+  "id": "4.1",
+  "section": "Judicial Votes",
+  "severity": "MODERATE",
+  "find": "It divided \\textbf{3--3} and denied Attorney General Randolph's \\textit{ex officio} mandamus motion, then held his renewed motion on Hayburn's behalf under advisement until Congress's Act of February 28, 1793, mooted it",
+  "replace": "After argument on August 8 and 10--11, 1792, the Court divided \\textbf{3--3} and on August 11 did not allow Attorney General Randolph's \\textit{ex officio} mandamus motion. It held his renewed motion on Hayburn's behalf under advisement and never ruled on it after Congress enacted a new pension procedure on February 28, 1793",
+  "reason": "The Court's historical table gives the argument and procedural disposition dates. The Federal Judicial Center confirms the split. The Court never ruled on Hayburn's renewed motion.",
+  "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002409/usrep002409.pdf at 409–410; https://www.supremecourt.gov/opinions/datesofdecisions.pdf at the entry for 2 U.S. 409; https://www.fjc.gov/history/cases/cases-that-shaped-the-federal-courts/hayburns-case",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.2",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "the advisory-opinion bar that \\textit{Hayburn's Case} founded and \\textit{Muskrat v.\\ United States} applied",
+  "replace": "the Article III bar on advisory opinions illustrated by the circuit judges' letters in \\textit{Hayburn's Case} and applied in \\textit{Muskrat v.\\ United States}",
+  "reason": "The Supreme Court did not decide the constitutional question in Hayburn's Case. The letters expressed the circuit judges' views.",
+  "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep002/usrep002409/usrep002409.pdf at 409–414; https://supreme.justia.com/cases/federal/us/219/346/ at 361–363",
+  "decision": "APPLIED"
+ }
+]

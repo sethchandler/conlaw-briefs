@@ -1,0 +1,32 @@
+[
+ {
+  "id": "2.22",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "a State may not criminalize the public display of a single expletive conveying a political message",
+  "replace": "California could not punish the jacket's political message in the courthouse corridor under its generally worded breach-of-the-peace statute",
+  "reason": "The Court limited its holding to the circumstances and reserved more narrowly drawn rules for particular locations, as well as genuinely captive audiences.",
+  "source": "https://supreme.justia.com/cases/federal/us/403/15/ at 19–26",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.23",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "The federal regulator sanctions the station under its indecency rules.",
+  "replace": "The federal regulator issues a declaratory order finding the broadcast indecent and places the order in the station's license file.",
+  "reason": "Pacifica involved a declaratory order, with formal sanctions reserved for possible future action.",
+  "source": "https://supreme.justia.com/cases/federal/us/438/726/ at 729–730",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.24",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "the Court upheld a sanction on just these facts",
+  "replace": "the Court upheld a declaratory indecency order on materially the same facts",
+  "reason": "The FCC did not impose a formal sanction. The Court reviewed the narrowly framed order arising from the daytime broadcast.",
+  "source": "https://supreme.justia.com/cases/federal/us/438/726/ at 729–730, 750–751",
+  "decision": "APPLIED"
+ }
+]

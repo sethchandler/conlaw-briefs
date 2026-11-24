@@ -1,0 +1,42 @@
+[
+ {
+  "id": "3.54",
+  "section": "Memory Jogger",
+  "severity": "CRITICAL",
+  "find": "the Court held 7--2 that the Suspension Clause protects release from unlawful custody, not further review of a claim to stay, and that an alien at the threshold of entry has only the procedural rights Congress grants",
+  "replace": "the Court ruled against him 7--2. The five-Justice majority held that the Suspension Clause did not require habeas review to give him another chance to obtain admission and that a noncitizen at the threshold of entry has only the admission procedures Congress grants",
+  "reason": "Breyer and Ginsburg concurred in the judgment on narrower grounds. The due process analysis was about the procedures for admission.",
+  "source": "https://supreme.justia.com/cases/federal/us/591/19-161/ at slip op. 2–3, 34–36, 1–2 (Breyer, J., concurring in the judgment)",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.55",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "the Suspension Clause does not apply, and because she was apprehended immediately after unlawful entry at the threshold of the border, statutory procedure satisfies due process",
+  "replace": "the Suspension Clause does not require review of that claim. If the court treats her as still at the threshold of initial entry, as the proximity to the border and short elapsed time suggest, due process requires only the admission procedures Congress provided",
+  "reason": "Thuraissigiam addressed what relief the Suspension Clause protects. Its due process holding rested on the threshold-of-entry facts and did not adopt a fixed distance or time limit.",
+  "source": "https://supreme.justia.com/cases/federal/us/591/19-161/ at slip op. 2–3, 31–36; https://cdn.ca9.uscourts.gov/datastore/opinions/2026/09/21/24-2801.pdf at 25–33",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.56",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "places him in expedited removal under the statute's two-year presence limit",
+  "replace": "places him in expedited removal under a designation assumed valid and applicable within the statute's two-year limit",
+  "reason": "The two-year period limits the class that the Secretary may designate. The statute does not itself place every eligible noncitizen within expedited removal.",
+  "source": "https://www.law.cornell.edu/uscode/text/8/1225 at § 1225(b)(1)(A)(iii)",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.57",
+  "section": "Dropped",
+  "severity": "MODERATE",
+  "find": "",
+  "replace": "",
+  "reason": "In the dropped Through 2026 item, restore Padilla v. U.S. Immigration & Customs Enforcement, 192 F.4th 894 (9th Cir. 2026), with its limited holding. It verifies that Thuraissigiam does not foreclose due process challenges to prolonged detention by noncitizens apprehended in the interior well after entry. That distinction directly supports Example 3 and does not imply a right to a new asylum interview.",
+  "source": "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/09/21/24-2801.pdf at 23–34; https://www.govinfo.gov/app/details/USCOURTS-ca9-24-2801/USCOURTS-ca9-24-2801-0",
+  "decision": "Declined: asks to restore a 2026 Ninth Circuit decision (Padilla v. ICE). Lower-court legacy material is kept out; flagged for the audit."
+ }
+]

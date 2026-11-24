@@ -10,6 +10,7 @@ conlaw-briefs/
 ├── book/            chapters.json (parts, chapters, topic → chapter map)
 ├── fills/           how each of the 97 converted Group B briefs is rebuilt
 │   ├── src/         <brief>.py: which original passages go where, plus new text
+│   ├── corrections/ <brief>.json: reviewed find/replace corrections, with reason and source
 │   └── <brief>.json generated from src/; read by tools/assemble.py
 ├── reports/
 │   ├── NEW_TEXT_FOR_REVIEW.md   newly written text only, for independent review

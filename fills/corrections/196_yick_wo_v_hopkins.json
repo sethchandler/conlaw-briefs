@@ -1,0 +1,22 @@
+[
+ {
+  "id": "2.10",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "and under \\textit{Armstrong} he would not even obtain discovery.",
+  "replace": "and analogous federal selective-prosecution discovery would ordinarily require some evidence of discriminatory effect and intent under \\textit{Armstrong}.",
+  "reason": "Armstrong addressed discovery in a federal prosecution. It does not automatically govern the application of state discovery rules.",
+  "source": "https://supreme.justia.com/cases/federal/us/517/456/ at 462–470",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.11",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "and later cases such as \\textit{Kotch} largely abandoned \\textit{Yick Wo}'s arbitrary-power strand for economic regulation.",
+  "replace": "and \\textit{Kotch} illustrates that deferential review can uphold discretionary criteria in economic licensing when there is a rational basis for their use.",
+  "reason": "Kotch upheld a particular pilot-selection practice under rational-basis review and did not purport to abandon a broader Yick Wo rule.",
+  "source": "https://supreme.justia.com/cases/federal/us/330/552/ at 556–564; https://supreme.justia.com/cases/federal/us/118/356/ at 366–374",
+  "decision": "APPLIED"
+ }
+]

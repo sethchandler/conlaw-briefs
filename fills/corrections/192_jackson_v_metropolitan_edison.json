@@ -1,0 +1,22 @@
+[
+ {
+  "id": "2.3",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "A privately owned, heavily regulated electric monopoly that cut off a customer's power",
+  "replace": "A privately owned, heavily regulated electric utility with at least a partial monopoly that cut off a customer's power",
+  "reason": "The Court assumed a partial monopoly and treated the extent of the monopoly as disputed.",
+  "source": "https://supreme.justia.com/cases/federal/us/419/345/ at 350–352",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.4",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Because the Court divided evenly in \\textit{Drummond}, the outcome is open.",
+  "replace": "The evenly divided Court in \\textit{Drummond} set no national precedent. The outcome depends on the State's charter-school framework and its connection to the challenged expulsion. For example, the Fourth Circuit held in \\textit{Peltier v.\\ Charter Day School, Inc.} that a North Carolina charter school acted for the State when imposing a dress code on students.",
+  "reason": "Drummond's equally divided affirmance had no precedential opinion. Peltier supplies a pertinent application based on the State's delegation and the challenged student-facing action.",
+  "source": "https://www.supremecourt.gov/opinions/24pdf/24-394_9p6b.pdf; https://www.justice.gov/d9/case-documents/attachments/2022/06/14/peltier_v._charter_day_sch._no._20-1001_4th_cir._06-16-22.pdf at 15–38",
+  "decision": "APPLIED"
+ }
+]

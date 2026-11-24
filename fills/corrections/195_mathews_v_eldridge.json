@@ -1,0 +1,22 @@
+[
+ {
+  "id": "2.8",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Under the three factors, written pre-reduction procedures plus a prompt post-reduction hearing satisfy due process.",
+  "replace": "Under the three factors, written pre-reduction procedures plus a prompt post-reduction hearing likely satisfy the constitutional minimum on these facts. A veteran who timely requests a predetermination hearing in a covered VA rating reduction retains that regulatory protection before the reduction takes effect.",
+  "reason": "Mathews sets a constitutional floor. The VA separately grants a predetermination hearing in covered cases.",
+  "source": "https://supreme.justia.com/cases/federal/us/424/319/ at 333–349; https://www.law.cornell.edu/cfr/text/38/3.105 paragraphs (e), (i)",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.9",
+  "section": "Examples: Future Applications",
+  "severity": "CRITICAL",
+  "find": "A state agency deploys a proprietary AI model to cut 75\\% of in-home Medicaid nursing hours for low-income disabled adults after sending a generic notice citing ``updated clinical-risk scoring,'' offering a live ALJ hearing within 90 days. \\textbf{Claimants' Case:} Means-tested medical care implicates \\emph{Goldberg}-level subsistence risks, and ``black-box'' scoring destroys the transparent written contestability that saved the SSA process in \\emph{Eldridge}. \\textbf{``Opposite Side'' (State's Case):} Objective clinical data fits \\emph{Eldridge}'s ``generality of cases,'' a 90-day hearing is far faster than \\emph{Eldridge}'s one-year delay, and pre-termination hearings would drain scarce Medicaid funds. The case is close because the first factor points toward \\textit{Goldberg} while the second and third can be argued either way: whether a generic notice of an algorithmic score lets claimants respond meaningfully before the cut is exactly the question \\textit{Eldridge}'s reliance on detailed written notice leaves open.",
+  "replace": "A state agency uses a model to propose substantial reductions in in-home Medicaid nursing hours. It gives each recipient the specific medical findings, explains the criteria used and the reasons for the proposed reduction, and lets the recipient submit a written response. A timely request for a hearing before the date of action maintains services where federal regulations require continuation. Some disputes turn on conflicting accounts of the help a recipient needs day to day. Under \\textit{Mathews}, the State can argue that the individualized explanation, written response, and ability to maintain services reduce the risk of error. A recipient can argue that, when an assessment turns on credibility and live testimony could materially clarify it, those safeguards leave too great a risk of losing essential care. The constitutional question turns on those facts and the timing of any loss of services.",
+  "reason": "Federal Medicaid rules require specific reasons and generally protect continuation if a beneficiary requests a hearing before the date of action, subject to exceptions. The original treats generic notice and a later hearing as a realistic legal baseline.",
+  "source": "https://supreme.justia.com/cases/federal/us/424/319/ at 335, 343–349; https://www.law.cornell.edu/cfr/text/42/431.210; https://www.law.cornell.edu/cfr/text/42/431.230",
+  "decision": "APPLIED"
+ }
+]

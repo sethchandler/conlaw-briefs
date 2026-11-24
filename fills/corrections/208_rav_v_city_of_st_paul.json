@@ -1,0 +1,12 @@
+[
+ {
+  "id": "2.33",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "After a teenager burned a cross in a Black family's yard",
+  "replace": "After a teenager was charged with allegedly burning a cross in a Black family's yard",
+  "reason": "The Court considered a pretrial challenge and reported the cross burning as alleged.",
+  "source": "https://supreme.justia.com/cases/federal/us/505/377/ at 379–381",
+  "decision": "APPLIED"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "4.20",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "All three measures are \\textbf{constitutional}.",
+  "replace": "The first two measures do not add qualifications for Congress. The third does not do so either, but its constitutionality also depends on the burden it imposes on ballot access.",
+  "reason": "Thornton distinguishes ballot procedure from qualifications. An ostensibly neutral signature rule or filing deadline still must satisfy constitutional ballot-access review in the context of the overall election scheme.",
+  "source": "https://supreme.justia.com/cases/federal/us/514/779/ at 834–836; https://supreme.justia.com/cases/federal/us/415/724/ at 729–737; https://supreme.justia.com/cases/federal/us/460/780/ at 789–806",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.21",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "neutral signature thresholds and sore-loser rules are valid Elections Clause ``Manner'' regulations designed to prevent voter confusion and ballot overcrowding rather than to exclude a substantive class of federal candidates.",
+  "replace": "evenhanded signature thresholds and sore-loser rules can be valid Elections Clause regulations. A court would assess the combined effect of the June 1 deadline, the signature requirement, and the State's other ballot-access rules against the State's election-administration interests.",
+  "reason": "A neutral ballot-access rule can still impose an unconstitutional burden.",
+  "source": "https://supreme.justia.com/cases/federal/us/514/779/ at 834–836; https://supreme.justia.com/cases/federal/us/415/724/ at 729–737; https://supreme.justia.com/cases/federal/us/460/780/ at 789–806",
+  "decision": "APPLIED"
+ }
+]

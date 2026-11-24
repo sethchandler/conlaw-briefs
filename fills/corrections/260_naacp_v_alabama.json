@@ -1,0 +1,22 @@
+[
+ {
+  "id": "4.41",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "without a compelling, closely related state interest",
+  "replace": "without a sufficient justification supported by a substantial relation between disclosure and an important state interest",
+  "reason": "NAACP required a substantial relation to a legitimate and substantial interest. The Court's modern exacting-scrutiny test requires a sufficiently important interest and narrow tailoring. It does not require a compelling interest as a categorical rule.",
+  "source": "https://supreme.justia.com/cases/federal/us/357/449/ at 460–466; https://www.supremecourt.gov/opinions/20pdf/594us2r65_2co3.pdf at 607–613",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.42",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "the group has immediate associational standing because the subpoena itself chills donors and forces it to vindicate their anonymity before exposure nullifies the right",
+  "replace": "the group can allege a present injury to its own First Amendment rights because an outstanding subpoena for private donor information can deter donors and chill the group's advocacy even before enforcement",
+  "reason": "First Choice found Article III injury to the organization itself based on ongoing chill. It did not depend on representational standing or require completed disclosure.",
+  "source": "https://www.supremecourt.gov/opinions/25pdf/24-781_pok0.pdf at slip op. 5–10, 17–22",
+  "decision": "APPLIED"
+ }
+]

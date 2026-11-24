@@ -1,0 +1,12 @@
+[
+ {
+  "id": "2.29",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "the Court announced the four-part intermediate-scrutiny test for restrictions on truthful commercial speech about lawful activity: a substantial interest, direct advancement, and a restriction no more extensive than necessary",
+  "replace": "the Court announced a four-part test: whether the speech concerns lawful activity and is not misleading, whether the government asserts a substantial interest, whether the restriction directly advances it, and whether the restriction is no more extensive than necessary",
+  "reason": "The protected status of the speech is the first prong of the test. The original lists only the three governmental showings after that threshold.",
+  "source": "https://supreme.justia.com/cases/federal/us/447/557/ at 563–566",
+  "decision": "APPLIED"
+ }
+]

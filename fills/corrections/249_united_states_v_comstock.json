@@ -1,0 +1,12 @@
+[
+ {
+  "id": "4.19",
+  "section": "Examples: Future Applications",
+  "severity": "CRITICAL",
+  "find": "neither ``substantially linked'' (Alito/Kennedy) nor ``proper'' (\\textit{NFIB})",
+  "replace": "unlikely to have the substantial link to an enumerated power that Justice Alito identified in \\textit{Comstock} or to count as a proper means of carrying one into execution under the Chief Justice's analysis in \\textit{NFIB}",
+  "reason": "The quoted formulation is not the language used by either concurrence. Alito wrote of a substantial link, and Kennedy separately emphasized the strength of the chain to an enumerated power.",
+  "source": "https://supreme.justia.com/cases/federal/us/560/126/ at 150–154, 157–158 (Kennedy and Alito, JJ., concurring in the judgment); https://supreme.justia.com/cases/federal/us/567/519/ at 559–561 (opinion of Roberts, C.J.)",
+  "decision": "APPLIED"
+ }
+]

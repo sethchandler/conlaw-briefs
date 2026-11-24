@@ -1,0 +1,12 @@
+[
+ {
+  "id": "3.22",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "The medical claim is genuinely uncertain: \\textit{Abbasi} treated a Fifth Amendment prisoner-abuse claim as a new context, yet a denial of insulin is the same harm \\textit{Carlson} remedied.",
+  "replace": "The detainee can analogize the insulin denial to the deliberate indifference to an inmate's serious medical needs in \\textit{Carlson}. But \\textit{Abbasi} treated a Fifth Amendment detention-abuse claim as a new context, and the defendant here is a Marshal guarding a pretrial detainee rather than a federal prison official. Those differences weigh against recognizing the remedy.",
+  "reason": "Carlson involved inadequate treatment of a convicted prisoner's asthma. Abbasi identifies both the constitutional right and the officers' legal mandate as potentially meaningful context differences.",
+  "source": "https://supreme.justia.com/cases/federal/us/446/14/ at 16 n.1, 19–23; https://supreme.justia.com/cases/federal/us/582/15-1358/ at slip op. 16, 25–27",
+  "decision": "APPLIED"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "id": "3.27",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "It binds member states irrevocably, delegates sovereign taxing and enforcement powers to an interstate body that no single state could lawfully exercise alone, and directly encroaches upon exclusive federal supremacy over foreign affairs and foreign commerce (\\href{https://www.law.cornell.edu/constitution-conan/article-1/section-1/clause-3/requirement-of-congressional-consent-to-compacts}{Cornell LII Constitution Annotated}). Under \\textit{Virginia v. Tennessee} and \\textit{U.S. Steel}, such an agreement cannot operate without express congressional consent.",
+  "replace": "It limits member states' ability to withdraw for 25 years, delegates sovereign taxing and enforcement powers to an interstate body that no single state could lawfully exercise alone, and directly encroaches upon exclusive federal supremacy over foreign affairs and foreign commerce (\\href{https://www.law.cornell.edu/constitution-conan/article-1/section-1/clause-3/requirement-of-congressional-consent-to-compacts}{Cornell LII Constitution Annotated}). Under \\textit{Virginia v. Tennessee} and \\textit{U.S. Steel}, this arrangement requires congressional consent under the Compact Clause. Consent could not validate a state treaty forbidden by Article I, Section 10, Clause 1, and any duties would also have to satisfy the applicable constitutional limits.",
+  "reason": "The agreement is not irrevocable on the stated facts. It permits withdrawal with unanimous consent during the specified period. Compact Clause consent does not cure an independent constitutional prohibition. Virginia v. Tennessee also recognized that consent can be implied in appropriate cases.",
+  "source": "https://supreme.justia.com/cases/federal/us/434/452/ at 473",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.28",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "and members may withdraw. Critics",
+  "replace": "and members may withdraw, subject to a delay during the last six months of a presidential term. Critics",
+  "reason": "The compact delays the effectiveness of a late withdrawal until a President or Vice President has qualified for the next term. U.S. Steel treated free withdrawal as a factor.",
+  "source": "https://legislature.vermont.gov/statutes/section/17/058/02754; https://supreme.justia.com/cases/federal/us/434/452/ at 473",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.29",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Because \\textit{U.S. Steel} measured harm only against federal supremacy and the Court has never applied it to a compact affecting the selection of federal officers",
+  "replace": "Because \\textit{U.S. Steel} considered both federal supremacy and objections based on nonmember States' sovereignty, but the Court has never applied its analysis to a compact affecting the selection of presidential electors",
+  "reason": "The Court expressly examined the compact's alleged impairment of the sovereign rights of nonmember States.",
+  "source": "https://supreme.justia.com/cases/federal/us/434/452/ at 477–478",
+  "decision": "APPLIED"
+ }
+]

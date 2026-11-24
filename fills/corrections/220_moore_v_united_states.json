@@ -1,0 +1,42 @@
+[
+ {
+  "id": "3.8",
+  "section": "Memory Jogger",
+  "severity": "CRITICAL",
+  "find": "the Court held 7--2 that Congress may attribute an entity's realized but undistributed income to its shareholders and tax them on it, while reserving whether the Constitution requires realization",
+  "replace": "the Court upheld the tax 7--2. The five-Justice majority held that Congress may attribute a pass-through entity's realized but undistributed income to its shareholders or partners without apportionment when the entity itself has not been taxed on that income, while reserving whether the Constitution requires realization",
+  "reason": "Barrett and Alito concurred only in the judgment, and the majority expressly limited its holding to pass-through attribution where the entity itself had not been taxed on the income.",
+  "source": "https://www.supremecourt.gov/opinions/23pdf/22-800_jg6o.pdf at slip op. 22–24, 1–2 (Barrett, J., concurring in the judgment)",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.9",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Four Justices (Barrett, Alito, Thomas, Gorsuch) are already on record that unapportioned taxes on unrealized appreciation violate the Sixteenth Amendment and Direct Tax Clause; the Government would need all five remaining Justices (including Roberts and Kavanaugh, who stressed the Government's own concessions) either to reject a constitutional realization requirement (per Jackson) or to recharacterize the levy as an indirect excise.",
+  "replace": "Four Justices (Barrett, Alito, Thomas, Gorsuch) took the view that realization is required for an income tax under the Sixteenth Amendment. The majority reserved both that question and whether a tax on appreciation would be a direct tax requiring apportionment.",
+  "reason": "The separate opinions discussed realization. The classification and vote on this hypothetical levy were not decided.",
+  "source": "https://www.supremecourt.gov/opinions/23pdf/22-800_jg6o.pdf at slip op. 23–24, 2 (Barrett, J., concurring in the judgment), 1–2 (Thomas, J., dissenting)",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.10",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "it does not permit attribution to strangers to the entity",
+  "replace": "its holding does not extend to attributing the entity's profits to customers without an ownership interest",
+  "reason": "Moore did not announce a categorical ownership test for all income attribution. The relevant constitutional constraint it identified beyond its holding was due process's bar on arbitrary attribution.",
+  "source": "https://www.supremecourt.gov/opinions/23pdf/22-800_jg6o.pdf at slip op. 14 n.4, 22–23",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.11",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Under Kavanaugh's majority (see footnote 8 rejecting Barrett's domestic/widely held distinction), this satisfies pass-through attribution of entity-realized income, though challengers would press Due Process arbitrariness (lack of shareholder control or ability to compel dividends) and invoke Barrett's concurrence plus Thomas's dissent (4 Justices) to argue corporate form cannot be pierced for passive retail investors. Because the majority decided only the controlled-foreign-corporation tax before it, and four Justices doubted that corporate form may be disregarded for passive investors, the outcome is uncertain.",
+  "replace": "The government can invoke \\textit{Moore}'s reasoning because the corporation realizes the income, pays no tax on it, and its shareholders are taxed on pro rata shares. Challengers can argue that attribution to passive shareholders with no ability to compel dividends is arbitrary. Footnote 8 did not decide how the analysis applies to domestic or widely held corporations, so \\textit{Moore} leaves this outcome uncertain.",
+  "reason": "The majority neither adopted nor rejected the domestic/widely held distinction. The concurring and dissenting opinions did not establish a four-Justice position on this hypothetical tax.",
+  "source": "https://www.supremecourt.gov/opinions/23pdf/22-800_jg6o.pdf at slip op. 22–24 & n.8, 17 (Barrett, J., concurring in the judgment)",
+  "decision": "APPLIED"
+ }
+]

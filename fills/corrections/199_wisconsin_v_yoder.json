@@ -1,0 +1,32 @@
+[
+ {
+  "id": "2.14",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "Amish parents for refusing to send their children to formal high school after the eighth grade",
+  "replace": "Old Order Amish and Conservative Amish Mennonite parents for refusing to send their children to formal high school after the eighth grade",
+  "reason": "Two respondents belonged to the Old Order Amish religion. Adin Yutzy belonged to the Conservative Amish Mennonite Church.",
+  "source": "https://supreme.justia.com/cases/federal/us/406/205/ at 207",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.15",
+  "section": "Examples: Future Applications",
+  "severity": "CRITICAL",
+  "find": "it cannot show with particularity how two more years of classroom attendance for this small group would harm those interests",
+  "replace": "it cannot show with particularity how exempting this small group from two more years of classroom attendance would harm those interests",
+  "reason": "The original reverses the comparison. The State must justify refusing the exemption by showing the harm that granting it would cause.",
+  "source": "https://supreme.justia.com/cases/federal/us/406/205/ at 221–229",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.16",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "which would trigger strict scrutiny regardless of \\textit{Yoder}.",
+  "replace": "which could trigger strict scrutiny if the exemption mechanism or the treatment of comparable conduct makes the rule not generally applicable. Comparability turns on whether a religious exemption would undermine the State's disease-control interests in a similar way to a medical exemption.",
+  "reason": "Medical exemptions do not automatically require religious exemptions. General applicability turns on the nature of the exemption and whether the permitted conduct poses comparable risks to the asserted government interest.",
+  "source": "https://www.law.cornell.edu/supremecourt/text/19-123 (Part II–B); https://www.supremecourt.gov/opinions/20pdf/20a151_4g15.pdf at 1–2",
+  "decision": "APPLIED"
+ }
+]

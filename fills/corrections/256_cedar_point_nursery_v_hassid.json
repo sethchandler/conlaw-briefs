@@ -1,0 +1,12 @@
+[
+ {
+  "id": "4.34",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "is ordinarily a trespass, remedied in tort, not an appropriation of the right to exclude",
+  "replace": "ordinarily sounds in trespass, with any tort remedy depending on applicable law",
+  "reason": "Cedar Point distinguishes isolated intrusions from appropriations. It does not guarantee a damages remedy in tort against the State.",
+  "source": "https://supreme.justia.com/cases/federal/us/594/20-107/ at slip op. 16–17",
+  "decision": "APPLIED"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "2.20",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Because the speech was not directed to, and did not produce, imminent lawless action, and the organizer did not authorize or ratify the later vandalism, \\textit{Brandenburg} bars liability.",
+  "replace": "The warning was not directed to producing imminent lawless action and, on these facts, was unlikely to produce it. The organizer also neither authorized nor ratified the later vandalism. \\textit{Claiborne Hardware} therefore supports rejecting liability for the speech and for that vandalism.",
+  "reason": "Brandenburg asks whether imminent lawless action was intended and likely. Actual production of imminent lawlessness is not a prerequisite to unprotected incitement. Authorization or ratification is a separate ground for civil liability for others' conduct.",
+  "source": "https://supreme.justia.com/cases/federal/us/395/444/ at 447; https://supreme.justia.com/cases/federal/us/458/886/ at 927–929",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.21",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "the prosecution faces a steep imminence hurdle because a 24-hour gap leaves time for counterspeech and police intervention---though courts may scrutinize whether providing a definite time, place, and tools edges toward unprotected solicitation or conspiracy rather than abstract advocacy",
+  "replace": "the prosecution faces a substantial imminence hurdle because the call targets the following day. Its specificity matters to intent and likelihood, but conspiracy would require evidence of agreement, and a solicitation charge would require proof of its own elements",
+  "reason": "The hypothetical supplies no start time establishing a full twenty-four-hour gap and no agreement supporting conspiracy. A specifically scheduled act could raise a distinct solicitation issue under the applicable statute.",
+  "source": "https://supreme.justia.com/cases/federal/us/414/105/ at 108–109; https://supreme.justia.com/cases/federal/us/553/285/ at 297–298; https://www.law.cornell.edu/uscode/text/18/371",
+  "decision": "APPLIED"
+ }
+]

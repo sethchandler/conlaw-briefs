@@ -1,0 +1,22 @@
+[
+ {
+  "id": "2.41",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "a law distinguishing speech on its face by subject matter, function, or purpose is content based and triggers strict scrutiny regardless of benign motive",
+  "replace": "a law that facially distinguishes signs by the topics or messages they convey is content based and triggers strict scrutiny regardless of benign motive",
+  "reason": "City of Austin explains that a rule does not automatically become content based because it classifies a sign by a content-neutral function or purpose or requires official reading. Reed's categories turned on the messages the signs conveyed.",
+  "source": "https://supreme.justia.com/cases/federal/us/576/155/ at 163–171; https://www.law.cornell.edu/supremecourt/text/20-1029 (opinion of the Court, Part II)",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.42",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "the very feature for which Gilbert's rule was struck",
+  "replace": "which, the church argues, makes the sign's message the criterion for regulation",
+  "reason": "Gilbert's rule turned on message-based classifications. City of Austin rejected a rule under which merely having to read a sign establishes content discrimination.",
+  "source": "https://supreme.justia.com/cases/federal/us/576/155/ at 163–171; https://www.law.cornell.edu/supremecourt/text/20-1029 (Part II)",
+  "decision": "APPLIED"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "id": "3.4",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "After Watergate, Congress seized former President Nixon's papers and tapes for archival screening",
+  "replace": "After Watergate, Congress directed the Administrator of General Services to take custody of former President Nixon's presidential papers and tapes for screening by executive-branch archivists",
+  "reason": "The Act assigned custody and screening to the Executive Branch. That allocation was central to the separation-of-powers holding.",
+  "source": "https://supreme.justia.com/cases/federal/us/433/425/ at 429–433, 441–445",
+  "decision": "APPLIED"
+ }
+]

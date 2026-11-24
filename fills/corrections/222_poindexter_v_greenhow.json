@@ -1,0 +1,12 @@
+[
+ {
+  "id": "3.14",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "They are therefore valid obligations the State must honor.",
+  "replace": "The Bills of Credit Clause does not invalidate the warrants. Whether the holder can obtain relief depends separately on whom the holder sues, the remedy sought, and any waiver of sovereign immunity.",
+  "reason": "Poindexter distinguished a suit against an officer who wrongfully seized property from a suit to compel the State to pay its obligations.",
+  "source": "https://supreme.justia.com/cases/federal/us/114/270/ at 285–290, 299–304; https://supreme.justia.com/cases/federal/us/107/711/ at 720–728",
+  "decision": "APPLIED"
+ }
+]

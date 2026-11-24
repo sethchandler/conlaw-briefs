@@ -1,0 +1,12 @@
+[
+ {
+  "id": "4.33",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "which is the scenario Justice Kennedy flagged as possibly warranting ``a more stringent standard of review.''",
+  "replace": "which strengthens the case for examining whether the team was favored. Justice Kennedy left open whether a narrower category of takings should receive more stringent review.",
+  "reason": "Kennedy treated an identified beneficiary as a potential indicator of favoritism, but did not equate that single fact with the possible heightened-review category. He also discussed suspicious procedures and so-called transfers whose benefits are especially trivial or implausible.",
+  "source": "https://supreme.justia.com/cases/federal/us/545/469/ at 491–493 (Kennedy, J., concurring)",
+  "decision": "APPLIED"
+ }
+]

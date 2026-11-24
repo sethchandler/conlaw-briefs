@@ -1,0 +1,32 @@
+[
+ {
+  "id": "2.30",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "is narrowly tailored if it serves a substantial interest that would be achieved less effectively without it; it need not be the least restrictive means",
+  "replace": "must serve a significant governmental interest, burden no substantially greater amount of speech than necessary, and leave open ample alternative channels of communication. It need not be the least restrictive means",
+  "reason": "The less-effective-without-it formulation alone leaves out Ward's substantial-overbreadth limitation and the alternative-channels requirement.",
+  "source": "https://supreme.justia.com/cases/federal/us/491/781/ at 791, 798–803",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.31",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "if City X never tried enforcing its general noise ordinance or issuing citations to actual violators before banning all private bullhorns across an entire public plaza, the ordinance burdens substantially more peaceful speech than necessary and fails \\textit{Ward}'s narrow-tailoring prong.",
+  "replace": "if the ban substantially burdens speech, City X must show why substantially less intrusive tools such as enforcing its general noise ordinance would not adequately serve its interests. Failure to try those tools can weaken the City's showing, but is not by itself conclusive.",
+  "reason": "McCullen demanded a showing that substantially less burdensome alternatives would fail. It did not establish a universal exhaustion requirement before adopting a sound regulation.",
+  "source": "https://supreme.justia.com/cases/federal/us/573/464/ at 490–496; https://supreme.justia.com/cases/federal/us/491/781/ at 798–800",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.32",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "\\textit{McCullen} suggests the city must show it seriously tried less intrusive tools.",
+  "replace": "\\textit{McCullen} supports requiring the city to explain why substantially less speech-restrictive tools would not adequately protect residents.",
+  "reason": "McCullen tests the government's showing of inadequate alternatives. A prior trial of every less intrusive tool is not a separate constitutional prerequisite.",
+  "source": "https://supreme.justia.com/cases/federal/us/573/464/ at 490–496",
+  "decision": "APPLIED"
+ }
+]

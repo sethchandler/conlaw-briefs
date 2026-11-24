@@ -20,7 +20,7 @@ line; use " " to continue the same paragraph, e.g. after an \\item label).
 
 usage: assemble.py SOURCE.tex FILLS.json OUT.tex
 """
-import json, re, sys
+import json, os, re, sys
 
 A_SECTIONS = ["Memory Jogger", "Detailed Case Facts", "Procedural History",
               "Judicial Votes", "Holding", "Analysis of Opinions",
@@ -119,6 +119,15 @@ def build(src_text, fills):
             out.append(t.strip("\n").strip() + p.get("glue", "\n\n"))
     out.append("\\end{document}\n")
     tex = re.sub(r"\n{3,}", "\n\n", "".join(out))
+    # Reviewed corrections (fills/corrections/<stem>.json): exact find/replace on the
+    # assembled brief, whether the text was moved or new. Each find must occur once.
+    for c in fills.get("_corrections", []):
+        n = tex.count(c["find"])
+        if n != 1:
+            raise SystemExit(f"correction {c.get('id')}: find occurs {n} times: {c['find'][:70]!r}")
+        tex = tex.replace(c["find"], c["replace"])
+        stats["new"] += max(0, words(c["replace"]) - words(c["find"]))
+        stats["corrected"] = stats.get("corrected", 0) + 1
     return tex, stats, new_chunks, list(secs)
 
 
@@ -126,6 +135,9 @@ def main():
     src, fills_p, dst = sys.argv[1:4]
     src_text = open(src, encoding="utf-8").read()
     fills = json.load(open(fills_p, encoding="utf-8"))
+    corr_p = os.path.join(os.path.dirname(os.path.abspath(fills_p)), "corrections", os.path.basename(fills_p))
+    if os.path.exists(corr_p):
+        fills["_corrections"] = [c for c in json.load(open(corr_p, encoding="utf-8")) if c.get("decision", "").startswith("APPLIED")]
     tex, stats, new_chunks, b_secs = build(src_text, fills)
     # sanity: balanced braces / environments, banned strings
     assert tex.count("{") == tex.count("}"), "unbalanced braces"
@@ -136,6 +148,7 @@ def main():
     # which original sections were never drawn from at all?
     used = {p.get("sec") or p.get("items") for s in fills["sections"].values() for p in s}
     report = {"file": src.split("/")[-1], "moved_words": stats["moved"], "new_words": stats["new"],
+              "corrections_applied": stats.get("corrected", 0),
               "dropped": fills.get("dropped", []), "notes": fills.get("notes", []),
               "b_sections_unreferenced_by_slice": [k for k in b_secs if not any(u and k.lower().startswith(u.lower()) for u in used)]}
     print(json.dumps(report, indent=1))

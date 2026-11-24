@@ -1,0 +1,12 @@
+[
+ {
+  "id": "2.12",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "whereas the K--12 rule squarely tests \\href{https://www.law.cornell.edu/supremecourt/text/457/202}{Justice Powell's concurrence (457 U.S. at 240 n.5)}, which reserved the case of a mature minor entering unlawfully on his own volition.",
+  "replace": "whereas the K--12 rule presents the question noted in \\href{https://www.law.cornell.edu/supremecourt/text/457/202}{Justice Powell's concurrence (457 U.S. at 240 n.5)} only if the mature minors were solely responsible for their unlawful entry. Age and unaccompanied status alone do not establish that fact.",
+  "reason": "Powell discussed mature minors solely responsible for violations of immigration law. The hypothetical supplies neither the circumstances nor the timing of entry.",
+  "source": "https://supreme.justia.com/cases/federal/us/457/202/ at 239–240 & n.5",
+  "decision": "APPLIED"
+ }
+]

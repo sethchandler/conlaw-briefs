@@ -1,0 +1,12 @@
+[
+ {
+  "id": "4.28",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "because a flat public-art fee bears no essential nexus or rough proportionality to an interior renovation's impacts, it is an unconstitutional exaction",
+  "replace": "if the parcel-specific demand is subject to exactions review, a flat public-art fee with no relation to an interior renovation's impacts fails essential nexus and rough proportionality. \\textit{Sheetz} resolved the legislative-exemption issue and left other objections to monetary exactions open",
+  "reason": "Sheetz did not hold that every legislative permit fee is an exaction subject to heightened review. Koontz distinguished qualifying parcel-linked demands from ordinary taxes and user fees.",
+  "source": "https://supreme.justia.com/cases/federal/us/601/22-1074/ at slip op. 10–11 and 1–2 (Sotomayor, J., concurring); https://supreme.justia.com/cases/federal/us/570/595/ at 612–615",
+  "decision": "APPLIED"
+ }
+]

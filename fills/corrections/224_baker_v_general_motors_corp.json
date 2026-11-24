@@ -1,0 +1,12 @@
+[
+ {
+  "id": "3.17",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "or that State~A lacked personal jurisdiction over a physician who never entered State~A",
+  "replace": "or, if personal jurisdiction remains open to collateral review, that the physician did not purposefully establish sufficient contacts with State~A by treating the patient remotely",
+  "reason": "A physician need not enter the forum physically to be subject to specific jurisdiction. A jurisdictional determination already fully and fairly litigated and finally decided receives preclusive effect.",
+  "source": "https://supreme.justia.com/cases/federal/us/471/462/ at 472–476; https://supreme.justia.com/cases/federal/us/375/106/ at 111–115",
+  "decision": "APPLIED"
+ }
+]

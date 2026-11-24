@@ -1,0 +1,22 @@
+[
+ {
+  "id": "4.39",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "the speech falls outside fighting words and can be punished only if it satisfies the stringent requirements of \\textit{Brandenburg} incitement or \\textit{Counterman} true threats (requiring subjective recklessness)",
+  "replace": "the speech on these facts falls outside the fighting-words exception. A separate restriction would need its own First Amendment justification, such as a valid content-neutral limit on amplified sound",
+  "reason": "Fighting words, incitement, and true threats do not exhaust permissible speech regulation. The bullhorn scenario in particular can implicate content-neutral sound restrictions.",
+  "source": "https://supreme.justia.com/cases/federal/us/403/15/ at 19–21; https://supreme.justia.com/cases/federal/us/491/781/ at 791–803",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.40",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "calls him a damned racketeer and a fascist,",
+  "replace": "calls him a damned racketeer and a damned Fascist,",
+  "reason": "The analysis describes the insults as identical to Chaplinsky's. Chaplinsky used damned with both epithets as described by the Court.",
+  "source": "https://supreme.justia.com/cases/federal/us/315/568/ at 569, 574",
+  "decision": "APPLIED"
+ }
+]

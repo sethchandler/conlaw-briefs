@@ -1,0 +1,32 @@
+[
+ {
+  "id": "3.1",
+  "section": "Judicial Votes",
+  "severity": "MODERATE",
+  "find": "the Ninth Circuit's judgment dismissing the indictment",
+  "replace": "the Ninth Circuit's judgment reversing the conviction and directing dismissal of the indictment",
+  "reason": "The Ninth Circuit reversed Brown's conviction with directions to dismiss the indictment. The Supreme Court affirmed that judgment.",
+  "source": "https://supreme.justia.com/cases/federal/us/381/437/ at 438–440",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.2",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "\\textit{Brown} held that preventive aims are still punishment.",
+  "replace": "\\textit{Brown} held that a preventive aim does not by itself make an otherwise punitive vocational disqualification nonpunitive.",
+  "reason": "Brown rejected a categorical exemption for preventive measures. It did not hold that all measures with preventive aims are punishment.",
+  "source": "https://supreme.justia.com/cases/federal/us/381/437/ at 458–461",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.3",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Which test dominates, and how heavily the legislative record weighs, makes the outcome uncertain.",
+  "replace": "The outcome turns on how \\textit{Nixon}'s punishment factors apply, including the breadth of the ban, its fit with the public-funds rationale, and the strength of the evidence of punitive intent.",
+  "reason": "Nixon drew on Brown in formulating the punishment inquiry. The cases do not supply competing tests.",
+  "source": "https://supreme.justia.com/cases/federal/us/433/425/ at 473–484",
+  "decision": "APPLIED"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "id": "3.58",
+  "section": "Judicial Votes",
+  "severity": "CRITICAL",
+  "find": "the Circuit Court's denial of habeas corpus, \\textbf{9--0}",
+  "replace": "the Circuit Court's denial of habeas corpus, \\textbf{8--0}",
+  "reason": "Justice Stanley Matthews did not participate in any case in this volume and died before argument in this case. His seat was vacant.",
+  "source": "https://www.govinfo.gov/content/pkg/USREPORTS-130/pdf/USREPORTS-130-FrontMatter.pdf at n.1; https://supreme.justia.com/cases/federal/us/130/581/",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.59",
+  "section": "Judicial Votes",
+  "severity": "MODERATE",
+  "find": "Justice Field delivered the opinion for a unanimous Court.",
+  "replace": "Justice Field delivered the opinion for a unanimous Court. The ninth seat was vacant after Justice Stanley Matthews died on March 22, 1889.",
+  "reason": "The official roster documents Matthews's death before argument and his nonparticipation in the volume.",
+  "source": "https://www.govinfo.gov/content/pkg/USREPORTS-130/pdf/USREPORTS-130-FrontMatter.pdf at n.1; https://supreme.justia.com/cases/federal/us/130/581/",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.60",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Congress later enacts a statute taxing that income for all foreign recipients, without mentioning the treaty.",
+  "replace": "Congress later enacts a statute taxing that income for all foreign recipients, expressly including those exempt under earlier treaties.",
+  "reason": "The later-in-time rule requires a clear conflict. A later statute that speaks generally and says nothing about the treaty can often be read alongside a specific treaty exemption.",
+  "source": "https://supreme.justia.com/cases/federal/us/130/581/ at 600–603; https://supreme.justia.com/cases/federal/us/124/190/ at 194; https://supreme.justia.com/cases/federal/us/288/102/ at 118–120",
+  "decision": "APPLIED"
+ }
+]

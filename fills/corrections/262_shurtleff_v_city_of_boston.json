@@ -1,0 +1,22 @@
+[
+ {
+  "id": "4.45",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "Boston had approved 284 straight private requests to fly flags on a City Hall flagpole",
+  "replace": "Boston had allowed private groups to raise about 50 different flags at 284 City Hall ceremonies without any recorded refusal",
+  "reason": "The opinion counted ceremonies and unique flags. It did not identify 284 separate requests or a documented consecutive series of approvals.",
+  "source": "https://supreme.justia.com/cases/federal/us/596/20-1800/ at slip op. 2–3",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.46",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "inviting residents to submit plaques honoring local figures",
+  "replace": "inviting residents to lend plaques honoring local figures for a temporary rotating display",
+  "reason": "Permanent donated monuments or plaques on government property raise the distinct Summum government-speech issue. A temporary display open to private applicants supports the stated Shurtleff analogy.",
+  "source": "https://supreme.justia.com/cases/federal/us/555/460/ at 470–474, 478–480; https://supreme.justia.com/cases/federal/us/596/20-1800/ at slip op. 5–6, 10–12",
+  "decision": "APPLIED"
+ }
+]

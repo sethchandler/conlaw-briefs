@@ -1,0 +1,32 @@
+[
+ {
+  "id": "4.36",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "though no court had found intentional discrimination and no illustrative map could create the district while preserving the State's partisan-advantage goals.",
+  "replace": "although the record supports no strong inference of intentional discrimination and no map drawn without race as a districting criterion could add a majority-Hispanic district while meeting the State's legitimate districting objectives.",
+  "reason": "Callais requires evidence supporting a strong inference of intent. A prior judicial finding is not required, and the illustrative map must meet the State's legitimate objectives generally. It need not reproduce the challenged district.",
+  "source": "https://www.supremecourt.gov/opinions/25pdf/24-109_new_jifl.pdf at slip op. 23–26, 29–31",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.37",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "where the State lacked a strong basis in evidence that the VRA required it (\\href{https://supreme.justia.com/cases/federal/us/509/630/}{Justia}).",
+  "replace": "where the State lacked a strong basis in evidence that the VRA required it (\\href{https://supreme.justia.com/cases/federal/us/581/15-1262/}{Justia}).",
+  "reason": "The link points to Shaw v. Reno. The sentence discusses Cooper v. Harris.",
+  "source": "https://supreme.justia.com/cases/federal/us/581/15-1262/ at slip op. 8–14",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.38",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "But \\textit{Callais}, as described above, narrowed that interest to \\S~2 applied to intentional discrimination.",
+  "replace": "But \\textit{Callais} held that compliance with \\S~2 can be a compelling interest only when the statute properly interpreted requires a remedy, and it requires a strong inference of intentional discrimination in a vote-dilution case.",
+  "reason": "Callais requires a strong inference, not an actual finding of discriminatory intent.",
+  "source": "https://www.supremecourt.gov/opinions/25pdf/24-109_new_jifl.pdf at slip op. 2–3, 19–26, 32–35",
+  "decision": "APPLIED"
+ }
+]

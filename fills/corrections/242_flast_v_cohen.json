@@ -1,0 +1,32 @@
+[
+ {
+  "id": "4.3",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "upheld taxpayer standing for exactly this kind of as-applied challenge (\\href{https://supreme.justia.com/cases/federal/us/392/83/}{Justia}).",
+  "replace": "upheld taxpayer standing for exactly this kind of as-applied challenge.",
+  "reason": "The final Justia link points to Flast, although this sentence attributes the ruling to Bowen and already links directly to Bowen.",
+  "source": "https://supreme.justia.com/cases/federal/us/487/589/ at 618–620",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.4",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "because no clause other than the Establishment Clause qualifies as a specific spending limitation",
+  "replace": "because the plaintiffs identify no specific restriction on federal taxing and spending that qualifies for taxpayer standing under the Court's precedents",
+  "reason": "Flast reserved whether other provisions could satisfy its second nexus. Frothingham rejected a generalized challenge based on federalism. Richardson and Schlesinger did not decide the proposed Declare War Clause claim.",
+  "source": "https://supreme.justia.com/cases/federal/us/392/83/ at 102–105 & n.25; https://supreme.justia.com/cases/federal/us/418/166/ at 175; https://supreme.justia.com/cases/federal/us/418/208/ at 226–228",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.5",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Congress appropriates \\$20 million for grants to community organizations, including faith-based organizations, to provide addiction-recovery services; the statute does not require that any grantee be religious. The agency awards most of the money to churches whose programs incorporate worship, and taxpayers sue. If the grants are viewed as carrying out Congress's own spending program, \\textit{Bowen} supports standing. If they are viewed as the agency's discretionary choices under a general appropriation, the plurality in \\textit{Hein} would deny it. And with several Justices having urged that \\textit{Flast} be overruled, the result is genuinely uncertain.",
+  "replace": "Congress appropriates \\$20 million for a designated addiction-recovery grant program open to community organizations. Separately, the agency spends some of its general operating funds on a worship component available only at church-run recovery sites. Federal taxpayers challenge both expenditures under the Establishment Clause. The agency describes the worship component as routine administration funded at its discretion, which points toward \\textit{Hein}. The taxpayers argue that the agency actually pays for the worship through, and as part of, the statutory grant program, which would bring the challenge closer to \\textit{Bowen}. If the funding records leave that characterization genuinely contested, standing for the challenge to the worship component turns on how the program and the expenditures are structured.",
+  "reason": "The original facts specified a congressional appropriation for the very program challenged and expressly identified faith-based organizations as eligible. That closely tracks Bowen. The revised facts pose a concrete question about whether the challenged spending is attributable to the congressional program or to an independent executive decision.",
+  "source": "https://supreme.justia.com/cases/federal/us/487/589/ at 618–620; https://supreme.justia.com/cases/federal/us/551/587/ at 603–608 (plurality opinion)",
+  "decision": "APPLIED"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "2.18",
+  "section": "Judicial Votes",
+  "severity": "MODERATE",
+  "find": "The case was argued on January 6--7, 1964, and decided on March 9, 1964, together with \\textit{Abernathy v.\\ Sullivan}",
+  "replace": "\\textit{New York Times} was argued on January 6, 1964, and \\textit{Abernathy v.\\ Sullivan} on January 7, 1964. Both were decided on March 9, 1964",
+  "reason": "The U.S. Reports assigns a separate argument date to each case.",
+  "source": "https://supreme.justia.com/cases/federal/us/376/254/ at 254 & n.*",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.19",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "the blogger's own creation of the controversy point the other way",
+  "replace": "the fact that the bribery story itself cannot supply the notoriety needed to establish public-figure status point the other way",
+  "reason": "The zoning controversy existed independently of the article. The defendant cannot turn the owner into a public figure by giving her notoriety through the allegedly defamatory publication.",
+  "source": "https://supreme.justia.com/cases/federal/us/418/323/ at 345, 351–352; https://supreme.justia.com/cases/federal/us/443/111/ at 134–136",
+  "decision": "APPLIED"
+ }
+]

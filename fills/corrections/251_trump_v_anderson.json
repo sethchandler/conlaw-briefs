@@ -1,0 +1,22 @@
+[
+ {
+  "id": "4.22",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "enforcement belongs exclusively to Congress (via Section~5 legislation or the Senate's Article~I, \\S 5 judging power)",
+  "replace": "the Court's ruling resolves the State's authority without deciding the full scope of the Senate's separate power under Article~I, \\S~5 to judge its Members' qualifications",
+  "reason": "The example presents the Article I qualification mechanism as an alternative the Court affirmatively held sufficient. The Court cited historical practice but did not resolve that distinct question.",
+  "source": "https://supreme.justia.com/cases/federal/us/601/23-719/ at slip op. 5–8 & n.3, 1–2 (Barrett, J., concurring in part and concurring in the judgment)",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.23",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Any disqualification must come through legislation enacted by Congress or the House's own power to judge its Members' qualifications, so the order must be reversed.",
+  "replace": "The State's order must be reversed. The Court's discussion of federal enforcement and Congress's historical practice does not itself decide how the House could exercise its separate power to judge its Members' qualifications.",
+  "reason": "The five-Justice opinion relied on Section 5 for federal enforcement and cited the House's historical role. The case did not adjudicate an exercise of the House's own constitutional authority.",
+  "source": "https://supreme.justia.com/cases/federal/us/601/23-719/ at slip op. 5–8 & n.3",
+  "decision": "APPLIED"
+ }
+]

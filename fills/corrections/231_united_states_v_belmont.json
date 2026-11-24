@@ -1,0 +1,22 @@
+[
+ {
+  "id": "3.35",
+  "section": "Memory Jogger",
+  "severity": "CRITICAL",
+  "find": "The Court unanimously reversed and let the United States collect a New York bank deposit assigned to it by the Soviet Union in the Litvinov Assignment",
+  "replace": "The Court unanimously reversed the dismissal of the United States' suit to recover a New York bank deposit assigned to it by the Soviet Union in the Litvinov Assignment",
+  "reason": "Belmont held that the complaint stated a claim. It did not order collection or adjudicate the rights of absent claimants.",
+  "source": "https://supreme.justia.com/cases/federal/us/301/324/ at 326–327, 331–333",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.36",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "the United States may collect (\\href{https://supreme.justia.com/cases/federal/us/301/324/}{Justia})",
+  "replace": "the United States may pursue collection against the debtor, with the rights of any absent claimants left open (\\href{https://supreme.justia.com/cases/federal/us/301/324/}{Justia})",
+  "reason": "Belmont allowed the suit to proceed over the state-policy objection, while reserving the rights of parties not before the Court.",
+  "source": "https://supreme.justia.com/cases/federal/us/301/324/ at 332–333",
+  "decision": "APPLIED"
+ }
+]

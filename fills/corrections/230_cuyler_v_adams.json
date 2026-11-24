@@ -1,0 +1,52 @@
+[
+ {
+  "id": "3.30",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Relying on a 1996 federal statute granting advance congressional consent to interstate emergency-management compacts, Texas and Louisiana enter a mutual-aid disaster compact.",
+  "replace": "Texas and Louisiana are parties to the Emergency Management Assistance Compact, to which Congress expressly consented in 1996.",
+  "reason": "Congress consented to the specific Emergency Management Assistance Compact, which by its terms permits additional entrants. It did not grant blanket advance consent to all future emergency-management compacts.",
+  "source": "https://www.govinfo.gov/content/pkg/PLAW-104publ321/pdf/PLAW-104publ321.pdf",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.31",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Texas officials seek U.S.\\ Supreme Court review and federal declaratory relief.",
+  "replace": "Texas officials petition the U.S.\\ Supreme Court for review.",
+  "reason": "Federal district courts cannot review a final state-court judgment at the instance of the losing party. Review of a final state high-court ruling on a federal question can lie in the U.S. Supreme Court.",
+  "source": "https://supreme.justia.com/cases/federal/us/544/280/ at 291–294; https://www.law.cornell.edu/uscode/text/28/1257",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.32",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "because Congress granted advance consent and interstate disaster response affecting commerce",
+  "replace": "because Congress consented to the compact and interstate disaster response affecting commerce",
+  "reason": "Congress expressly consented to the particular compact in the example.",
+  "source": "https://www.govinfo.gov/content/pkg/PLAW-104publ321/pdf/PLAW-104publ321.pdf",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.33",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "presenting no federal question and no federal right actionable under \\S\\ 1983",
+  "replace": "creating no federal right actionable under \\S\\ 1983. The Compact Clause challenge presents a federal question that fails on the merits",
+  "reason": "Whether a compact violates the Compact Clause is a federal question even if the compact's terms remain state law.",
+  "source": "https://supreme.justia.com/cases/federal/us/327/678/ at 681–683; https://supreme.justia.com/cases/federal/us/449/433/ at 438–442",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.34",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "But footnote 10 of \\textit{Cuyler} expressly left this question open, and the Uniform Act may be ordinary reciprocal legislation rather than an agreement among States.",
+  "replace": "But \\textit{Cuyler}'s majority addressed the Detainer Agreement and did not decide the Uniform Act's status. Justice Rehnquist's dissent raised the Uniform Act as an example of the possible reach of the majority's reasoning.",
+  "reason": "Footnote 10 addressed the constitutional sources of congressional power. The Uniform Act was discussed in dissent.",
+  "source": "https://supreme.justia.com/cases/federal/us/449/433/ at 442 n.10, 453–454",
+  "decision": "APPLIED"
+ }
+]

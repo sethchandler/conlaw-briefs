@@ -36,6 +36,10 @@ FILL = {
     SEC(C, frm="Condemned the Government's", to=r"\item \textbf{Justice Jackson", lc=True),
     N(r"\subsection{Dissenting Opinion (Justice Jackson)}"), N("Justice Jackson", glue=" "),
     SEC(C, frm="Argued that focusing", to=r"\end{itemize}", lc=True),
+    N(r"\subsection{Subsequent Developments}"),
+    N(r"\begin{itemize}"),
+    N(r"\item \textbf{The Class-Action Route Applied:} Granting certiorari before judgment in \textit{Trump v.\ Barbara}, No.~25-365 (June 30, 2026), the Court affirmed a preliminary injunction that a provisionally certified nationwide class had obtained against Executive Order No.~14160, holding that the order violates the Citizenship Clause. Chief Justice Roberts wrote for five Justices; Justice Kavanaugh concurred in the judgment and dissented in part; Justices Thomas, Alito, and Gorsuch dissented."),
+    N(r"\end{itemize}"),
   ],
   "Examples: Future Applications": [
     N(r"\begin{enumerate}"),
@@ -55,7 +59,7 @@ FILL = {
  },
  "dropped": [
   "Case Metadata: consolidated docket numbers, Briefing Book placement, filing date, SupremeCourt.gov page-proof link (Justia and Cornell links kept in Judicial Votes).",
-  "Legacy section in full (no Subsequent Developments subsection): CRS Report framing and all three 2025--2026 items (remand class actions, Barbara v. Trump / Trump v. Barbara merits ruling, Tincher v. Noem, Ninth and First Circuit state-plaintiff remand rulings, Louisiana v. FDA / City of Columbus APA-vacatur rulings). These are lower-court applications or a later ruling on the executive order's merits rather than on CASA's remedial holding, and none could be verified for this pass.",
+  "Legacy section (restated after independent review: one new sentence on Trump v. Barbara (June 30, 2026), verified on CourtListener, now under Subsequent Developments): CRS Report framing and all three 2025--2026 items (remand class actions, Barbara v. Trump / Trump v. Barbara merits ruling, Tincher v. Noem, Ninth and First Circuit state-plaintiff remand rulings, Louisiana v. FDA / City of Columbus APA-vacatur rulings). These are lower-court applications or a later ruling on the executive order's merits rather than on CASA's remedial holding, and none could be verified for this pass.",
   "Exam Hypotheticals 'Analysis:' labels; their text is reused in Examples 1 and 3.",
  ],
 }

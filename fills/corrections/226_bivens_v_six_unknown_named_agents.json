@@ -1,0 +1,12 @@
+[
+ {
+  "id": "3.21",
+  "section": "Memory Jogger",
+  "severity": "CRITICAL",
+  "find": "Federal narcotics agents raided Webster Bivens's apartment without a warrant, manacled him before his family, and strip-searched him; a 6--3 Court held that a victim of a Fourth Amendment violation by federal officers may sue them for money damages directly under the Constitution, absent special factors counseling hesitation or an equally effective congressional remedy",
+  "replace": "Webster Bivens alleged that federal narcotics agents entered his apartment without a warrant or probable cause, arrested him in front of his family, and strip-searched him. A 6--3 Court held that he could seek damages directly under the Fourth Amendment for the alleged search and arrest, finding no special factors counseling hesitation or congressional direction to use an alternative remedy",
+  "reason": "The Court accepted the allegations at the pleading stage and recognized a remedy in this setting. The holding does not recognize a general damages action for every Fourth Amendment violation by federal officers.",
+  "source": "https://supreme.justia.com/cases/federal/us/403/388/ at 389–397; https://supreme.justia.com/cases/federal/us/596/21-147/ at slip op. 5–8",
+  "decision": "APPLIED"
+ }
+]

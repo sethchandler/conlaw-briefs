@@ -1,0 +1,12 @@
+[
+ {
+  "id": "4.16",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "but without \\textit{Chevron} and \\textit{Brand X}, can the agency defend its new interpretation as merely ``permissible,'' or must the reviewing court now independently determine the single best meaning of the statute?",
+  "replace": "but the reviewing court must independently interpret the statute under \\textit{Loper Bright}. The question is whether the 2012 decision resolved the lawfulness of the new reading, and, if not, whether the statute delegates authority to choose among permissible approaches.",
+  "reason": "Loper Bright settled the standard of review. Any real uncertainty concerns the scope of the old holding and the possible scope of a delegation.",
+  "source": "https://www.supremecourt.gov/opinions/23pdf/603us1r54_o7jp.pdf at 394–396, 412",
+  "decision": "APPLIED"
+ }
+]

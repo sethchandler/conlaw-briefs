@@ -1,0 +1,22 @@
+[
+ {
+  "id": "3.15",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "leaving only want of jurisdiction as a defense",
+  "replace": "distinguishing such errors from a lack of jurisdiction that is open to collateral review",
+  "reason": "Fauntleroy addressed legal error versus jurisdiction. Its holding does not exclude other recognition defenses or permit relitigation of jurisdiction already fully and fairly adjudicated.",
+  "source": "https://supreme.justia.com/cases/federal/us/210/230/ at 237; https://supreme.justia.com/cases/federal/us/375/106/ at 111–115",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.16",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Here, State A has two potent \\textit{Fauntleroy}-compatible defenses that flip the outcome: (1) \\textit{lack of personal jurisdiction} in State B (which Holmes expressly preserved as a valid collateral attack, 210 U.S. at 237, and which Y did not waive by defaulting), and (2) the \\textit{penal-judgment exception} (\\href{https://supreme.justia.com/cases/federal/us/146/657/}{\\textit{Huntington v. Attrill}, 146 U.S. 657 (1892)}), arguing that a state-brought punitive fine---unlike Fauntleroy's private contract/arbitration recovery---is a penal obligation that sister states need not execute.",
+  "replace": "State A may refuse enforcement if the fine punishes a public wrong rather than compensating a private injury, under the penal-judgment exception in \\href{https://supreme.justia.com/cases/federal/us/146/657/}{\\textit{Huntington v. Attrill}, 146 U.S. 657 (1892)}. Because Y defaulted, Y may also contest State B's personal jurisdiction, though deliberately mailing regulated goods into State B may supply sufficient forum contacts.",
+  "reason": "Default leaves personal jurisdiction open to challenge, but never physically entering the forum does not itself establish the defense. Huntington classifies penalties by their purpose.",
+  "source": "https://supreme.justia.com/cases/federal/us/210/230/ at 237; https://supreme.justia.com/cases/federal/us/146/657/ at 668–674; https://supreme.justia.com/cases/federal/us/471/462/ at 475–476",
+  "decision": "APPLIED"
+ }
+]

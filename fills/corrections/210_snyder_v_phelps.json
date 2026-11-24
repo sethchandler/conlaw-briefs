@@ -1,0 +1,22 @@
+[
+ {
+  "id": "2.39",
+  "section": "Memory Jogger",
+  "severity": "CRITICAL",
+  "find": "the First Amendment bars tort liability, including for intentional infliction of emotional distress, for peaceful speech on matters of public concern in a public forum, however hurtful",
+  "replace": "the First Amendment barred tort liability for this peaceful picketing on matters of public concern on public land, considering the signs' content, form, and context and the protest's distance from the service",
+  "reason": "Snyder expressly limited its holding to the record before it. It did not supply categorical immunity from tort liability for every peaceful statement on a matter of public concern in a public forum.",
+  "source": "https://supreme.justia.com/cases/federal/us/562/443/ at 451–460",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.40",
+  "section": "Examples: Future Applications",
+  "severity": "CRITICAL",
+  "find": "\\textit{Snyder} extended \\textit{Hustler}'s protection to private-figure plaintiffs whenever the speech, judged by its content, form, and context, addresses a matter of public concern.",
+  "replace": "\\textit{Snyder} protected speakers against an outrageousness-based verdict in a suit by a private figure, taking account of the speech's content, form, context, and the specific manner of the protest. Its reasoning supports protection for this commentary on a public controversy.",
+  "reason": "Snyder did not extend Hustler to every claim by a private figure involving public-concern speech. It expressly confined its holding to the facts before it.",
+  "source": "https://supreme.justia.com/cases/federal/us/562/443/ at 451–460; https://supreme.justia.com/cases/federal/us/485/46/ at 50–57",
+  "decision": "APPLIED"
+ }
+]

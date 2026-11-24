@@ -1,0 +1,22 @@
+[
+ {
+  "id": "4.43",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "unless it reasonably forecasts material and substantial disruption",
+  "replace": "absent actual or reasonably forecast material and substantial disruption of schoolwork or discipline, or an invasion of the rights of others",
+  "reason": "Tinker separately identified substantial disruption and invasion of the rights of others. The original made a forecast of disruption the only permissible basis.",
+  "source": "https://supreme.justia.com/cases/federal/us/393/503/ at 508–509, 513–514",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.44",
+  "section": "Examples: Future Applications",
+  "severity": "CRITICAL",
+  "find": "reasonably forecasting ``material and substantial disruption'' rather than mere undifferentiated fear",
+  "replace": "reasonably forecasting material and substantial disruption rather than mere undifferentiated fear",
+  "reason": "The quoted phrase is a paraphrase. Tinker used materially and substantially disrupt and material and substantial interference.",
+  "source": "https://supreme.justia.com/cases/federal/us/393/503/ at 509, 511, 513",
+  "decision": "APPLIED"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "2.5",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "A challenger's best counterargument---echoing Justice Thomas's concurrence---is that prior federal restraint under \\S~5 remains unconstitutional absent \\emph{Katzenbach}-level systemic defiance.",
+  "replace": "A challenger could argue that even a current trigger must identify sufficiently serious and persistent violations to justify preclearance. Justice Thomas separately concluded that \\S~5 itself was unconstitutional on the record before the Court.",
+  "reason": "The Court decided the validity of the coverage formula alone. Thomas concluded that §5 was unconstitutional under then-current conditions and did not decide what a future record would sustain.",
+  "source": "https://supreme.justia.com/cases/federal/us/570/529/ at 557–559 (Thomas, J., concurring)",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.6",
+  "section": "Examples: Future Applications",
+  "severity": "CRITICAL",
+  "find": "A federal statute bars States from authorizing new forms of sports wagering but allows two States that already licensed it before a set date to continue.",
+  "replace": "A federal statute makes it unlawful for private businesses to offer sports wagering without a federal license and lets operators in two States with qualifying preexisting regulatory programs obtain a license through a streamlined process.",
+  "reason": "Murphy invalidated a materially analogous restriction on state authorization as commandeering. Regulating private operators directly preserves the open equal-sovereignty question.",
+  "source": "https://www.law.cornell.edu/supremecourt/text/16-476 (Parts III–IV); https://supreme.justia.com/cases/federal/us/570/529/ at 542–545",
+  "decision": "APPLIED"
+ }
+]

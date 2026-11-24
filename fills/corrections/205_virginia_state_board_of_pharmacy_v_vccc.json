@@ -1,0 +1,12 @@
+[
+ {
+  "id": "2.28",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "the law partly suppresses truthful information to reduce demand, which \\textit{Virginia Pharmacy} and \\textit{44 Liquormart} condemn, yet leaves the information available to account holders and targets inducements to a harmful activity.",
+  "replace": "the law restricts truthful information to reduce demand, yet leaves terms available to account holders and targets a subset of advertisements. Under \\textit{Greater New Orleans Broadcasting Ass'n v.\\ United States}, 527 U.S.\\ 173 (1999), the State still needs evidence of direct advancement and a reasonable fit. The availability of in-app promotions bears on both questions.",
+  "reason": "The Court's gambling-advertising decision rejected a categorical vice exception and evaluated evidence of direct advancement and fit. In-app access may matter to the tailoring inquiry and to whether the restriction materially advances the asserted goal.",
+  "source": "https://supreme.justia.com/cases/federal/us/527/173/ at 183–195; https://supreme.justia.com/cases/federal/us/517/484/ at 499–508",
+  "decision": "APPLIED"
+ }
+]

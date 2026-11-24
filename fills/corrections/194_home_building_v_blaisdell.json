@@ -1,0 +1,12 @@
+[
+ {
+  "id": "2.7",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "That is the pattern struck down in \\href{https://supreme.justia.com/cases/federal/us/295/56/}{\\emph{W.\\ B.\\ Worthen Co.\\ v.\\ Kavanaugh}, 295 U.S.\\ 56 (1935)}, and in the nineteenth-century cases \\textit{Blaisdell} distinguished, such as \\emph{Bronson v.\\ Kinzie}.",
+  "replace": "The cumulative impairment resembles \\href{https://supreme.justia.com/cases/federal/us/295/56/}{\\emph{W.\\ B.\\ Worthen Co.\\ v.\\ Kavanaugh}, 295 U.S.\\ 56 (1935)}, which involved enforcement of a lien for municipal improvement assessments. \\emph{Bronson v.\\ Kinzie}, which \\textit{Blaisdell} distinguished, directly addressed a new redemption provision imposed on an existing mortgage.",
+  "reason": "Kavanaugh dealt with interlocking changes to mortgage-like enforcement remedies for improvement-district assessments. The existing-mortgage holding in Bronson is the more direct analogy.",
+  "source": "https://supreme.justia.com/cases/federal/us/295/56/ at 58–62; https://supreme.justia.com/cases/federal/us/290/398/ at 429–435",
+  "decision": "APPLIED"
+ }
+]

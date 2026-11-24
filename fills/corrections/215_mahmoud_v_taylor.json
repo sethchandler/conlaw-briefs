@@ -1,0 +1,32 @@
+[
+ {
+  "id": "2.49",
+  "section": "Memory Jogger",
+  "severity": "CRITICAL",
+  "find": "Holding 6--3 that a Maryland school board burdened parents' free exercise by requiring young children to receive normative LGBTQ+-inclusive storybook instruction without notice or opt-outs, the Court applied",
+  "replace": "Ruling 6--3 that the parents were entitled to a preliminary injunction because they were likely to succeed on their Free Exercise challenge to mandatory use of the storybooks without notice or opt-outs, the Court applied",
+  "reason": "The appeal concerned preliminary relief. The Court found likely success and ordered interim notice and opt-outs for the petitioners while the case continued.",
+  "source": "https://www.supremecourt.gov/opinions/24pdf/24-297_4f14.pdf at 16–17, 41",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.50",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Under \\textit{Mahmoud}, normative instruction hostile to parents' faith aimed at impressionable seven-year-olds triggers automatic strict scrutiny under \\textit{Yoder}",
+  "replace": "Under \\textit{Mahmoud}, mandatory instruction aimed at impressionable seven-year-olds that actively disparages their parents' faith supports a finding of substantial interference with their religious development and triggers strict scrutiny under \\textit{Yoder}",
+  "reason": "The Court required substantial interference with religious development of the character identified in Yoder and treated that inquiry as fact intensive. Normative content alone does not automatically trigger strict scrutiny.",
+  "source": "https://www.supremecourt.gov/opinions/24pdf/24-297_4f14.pdf at 17–27",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.51",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "rather than the ``unmistakably normative'' instruction the Court condemned",
+  "replace": "rather than instruction that substantially interferes with religious development in the manner the Court found likely on the record before it",
+  "reason": "Mahmoud directed consideration of the specific burden, student age, and instructional content and context. It did not hold that any normative instruction is constitutionally forbidden.",
+  "source": "https://www.supremecourt.gov/opinions/24pdf/24-297_4f14.pdf at 20–27, 41",
+  "decision": "APPLIED"
+ }
+]

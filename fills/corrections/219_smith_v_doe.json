@@ -1,0 +1,32 @@
+[
+ {
+  "id": "3.5",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "passive online archive of public convictions",
+  "replace": "public disclosure of conviction and identifying information, with the separate reporting requirement enforced administratively",
+  "reason": "The hypothetical expressly entails quarterly reports of private account information and publication of identifying details. Smith distinguished passive public access to registry information from affirmative notification. The hypothetical also imposes a separate reporting burden.",
+  "source": "https://supreme.justia.com/cases/federal/us/538/84/ at 90–91, 98–102",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.6",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "\\textit{Snyder} / \\href{https://law.justia.com/cases/federal/appellate-courts/ca6/23-5248/23-5248-2024-05-15.html}{\\textit{Doe v. Lee}} (6th Cir. 2024)",
+  "replace": "\\textit{Snyder}",
+  "reason": "Snyder supports the analogy to banishment. The 2024 Tennessee decision required a provision-by-provision analysis and did not decide that the restrictions were punishment.",
+  "source": "https://law.justia.com/cases/federal/appellate-courts/ca6/14-1706/14-1706-2016-08-25.html; https://law.justia.com/cases/federal/appellate-courts/ca6/23-5248/23-5248-2024-05-15.html",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.7",
+  "section": "Dropped",
+  "severity": "MODERATE",
+  "find": "",
+  "replace": "",
+  "reason": "Restore the dropped discussion of the November 2026 Tennessee decision. On remand from the 2024 decision cited in Example 3, the Sixth Circuit held the retroactive classification provisions nonpunitive and dismissed the geographical-restriction claims against the bureau director for lack of standing. The different treatment of classifications and geographic restrictions matters to the current application of Smith.",
+  "source": "https://www.opn.ca6.uscourts.gov/opinions.pdf/26a0302p-06.pdf at 5, 7–13, 17–18",
+  "decision": "Declined: asks to restore a November 2026 Sixth Circuit decision. Lower-court legacy material is kept out unless directly on point; flagged for the audit instead."
+ }
+]

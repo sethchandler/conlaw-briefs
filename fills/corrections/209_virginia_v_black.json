@@ -1,0 +1,52 @@
+[
+ {
+  "id": "2.34",
+  "section": "Memory Jogger",
+  "severity": "CRITICAL",
+  "find": "but a plurality struck down the provision treating any cross burning as prima facie evidence of that intent",
+  "replace": "but four Justices would have held the prima facie provision facially invalid as construed in Barry Black's jury instruction. Seven Justices agreed that Black's conviction could not stand",
+  "reason": "Four Justices endorsed the facial rationale based on the model instruction, and three more agreed with the judgment as to Black on other grounds. The Court left a saving construction or severability open.",
+  "source": "https://supreme.justia.com/cases/federal/us/538/343/ at 346, 364–369, 380–381, 387",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.35",
+  "section": "Judicial Votes",
+  "severity": "MODERATE",
+  "find": "The Supreme Court \\textbf{affirmed in part, vacated in part, and remanded}.",
+  "replace": "The Supreme Court \\textbf{affirmed} as to Barry Black and \\textbf{vacated and remanded} as to Richard Elliott and Jonathan O'Mara.",
+  "reason": "The disposition differed by respondent. Black's invalidation stood, and the other two cases returned to the state court.",
+  "source": "https://supreme.justia.com/cases/federal/us/538/343/ at 367–368",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.36",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "If the jury finds intent from the context---a nighttime display at a targeted official's home---rather than from the prima facie clause, Defendant A's conviction stands.",
+  "replace": "If the jury is instructed to find intent independently from the context and is given no prima facie instruction, the core ban can support a conviction if the provision is severable or has a valid limiting construction under state law.",
+  "reason": "Black did not leave Elliott's conviction intact simply because the jury received no prima facie instruction. It vacated and left severability and retrial open.",
+  "source": "https://supreme.justia.com/cases/federal/us/538/343/ at 364–368",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.37",
+  "section": "Examples: Future Applications",
+  "severity": "CRITICAL",
+  "find": "However, under \\textit{Black} Parts IV--V, the prima facie evidence clause is facially unconstitutional because it strips away context and risks convicting Defendant B for core political protest.",
+  "replace": "If the jury is instructed that the public display alone suffices to infer intent, Defendant B has the same First Amendment objection that succeeded as to Black's conviction. Four Justices treated the clause as facially invalid under that construction. The Court left open whether a different construction might save it.",
+  "reason": "A four-Justice plurality found facial invalidity under the model instruction. The Court did not invalidate every possible construction of a prima facie provision.",
+  "source": "https://supreme.justia.com/cases/federal/us/538/343/ at 364–368",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.38",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "adding the ``on the basis of'' list destroys the \\textit{Black} distinction and triggers invalidation under \\textit{R.A.V. v. St. Paul} as viewpoint/topic discrimination within a proscribable class",
+  "replace": "the constitutional result depends on what the list does. If it selects punishable threats by the viewpoint or topic they express, it raises the \\textit{R.A.V.} problem. If it turns on bias in selecting the victim of independently punishable conduct, \\textit{Wisconsin v.\\ Mitchell} supplies a different analysis",
+  "reason": "The selection of a victim because of bias is not necessarily a subject- or viewpoint-based speech restriction. The original assumes how the provision would be construed.",
+  "source": "https://supreme.justia.com/cases/federal/us/505/377/ at 388–396; https://supreme.justia.com/cases/federal/us/508/476/ at 484–490",
+  "decision": "APPLIED"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "id": "3.41",
+  "section": "Examples: Future Applications",
+  "severity": "CRITICAL",
+  "find": "the Court rejected that argument on these facts and held that the civilian was entitled to the protections of Article~III and the Fifth and Sixth Amendments. The plurality declined to extend the \\textit{Insular Cases}' territorial reasoning beyond its context of governing unincorporated territories.",
+  "replace": "the Court held that the military could not try the civilian for a capital offense in peacetime. A four-Justice plurality relied on Article~III and the Fifth and Sixth Amendments and declined to extend the \\textit{Insular Cases}. Justices Frankfurter and Harlan concurred on narrower grounds limited to capital cases.",
+  "reason": "Only four Justices joined Black's constitutional analysis. Frankfurter and Harlan separately concurred in the result.",
+  "source": "https://supreme.justia.com/cases/federal/us/354/1/ at 3–5, 14, 39–41, 45, 65",
+  "decision": "APPLIED"
+ }
+]

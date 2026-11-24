@@ -1,0 +1,32 @@
+[
+ {
+  "id": "4.8",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Footnote 10 explicitly carved out APA \\S\\ 706(2) vacatur (which lower courts through 2026 continue to apply universally), and the majority itself identified a properly certified Rule 23(b)(2) class action as the lawful modern descendant of the English bill of peace",
+  "replace": "Footnote 10 reserved whether the APA authorizes universal vacatur. The Court distinguished certified class relief from a universal injunction by explaining that Rule 23 is the modern counterpart to the bill of peace",
+  "reason": "CASA expressly declined to decide the distinct APA question. Its account of Rule 23 distinguishes a certified class from relief for unrepresented nonparties.",
+  "source": "https://supreme.justia.com/cases/federal/us/606/24a884/ at slip op. 9–11 & n.10",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.9",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "an injunction limited to its own residents would not give it complete relief",
+  "replace": "an injunction confined to students already residing in the State would not remedy its own financial and administrative injuries",
+  "reason": "Complete relief for a State is measured by the State's own cognizable injury. Identifying that injury is necessary to distinguish the State's argument from an effort to protect nonparties.",
+  "source": "https://supreme.justia.com/cases/federal/us/606/24a884/ at slip op. 17–19",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.10",
+  "section": "Dropped",
+  "severity": "MODERATE",
+  "find": "",
+  "replace": "",
+  "reason": "Restore the directly relevant portions of the dropped discussion. In Barbara, the Supreme Court affirmed a nationwide class's preliminary injunction on the citizenship merits, illustrating the class-action route after CASA. In Washington v. Trump, the Ninth Circuit upheld broad relief as necessary to redress the plaintiff States' own injuries, illustrating the issue in Example 5. The Supreme Court denied review of Washington without deciding that remedial issue.",
+  "source": "https://www.supremecourt.gov/opinions/25pdf/25-365_4hdj.pdf at slip op. 3–4, 26; https://cdn.ca9.uscourts.gov/datastore/opinions/2025/07/23/25-807.pdf at 63–70; https://www.supremecourt.gov/docket/docketfiles/html/public/25-364.html",
+  "decision": "Handled differently: Supreme Court's Trump v. Barbara (June 30, 2026) verified on CourtListener and added as one new Subsequent Developments sentence; the Ninth Circuit's Washington v. Trump (lower court) not added."
+ }
+]

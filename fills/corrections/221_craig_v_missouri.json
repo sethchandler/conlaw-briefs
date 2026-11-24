@@ -1,0 +1,22 @@
+[
+ {
+  "id": "3.12",
+  "section": "Judicial Votes",
+  "severity": "CRITICAL",
+  "find": "\\textbf{reversed} the Supreme Court of Missouri",
+  "replace": "\\textbf{reversed and remanded} the judgment of the Supreme Court of Missouri with directions to enter judgment for the original defendants",
+  "reason": "The disposition expressly included a remand with directions.",
+  "source": "https://supreme.justia.com/cases/federal/us/29/410/ at 437–438",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.13",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "designed for everyday commerce and taxes",
+  "replace": "designed for everyday commerce",
+  "reason": "The hypothetical does not say the tokens are receivable for taxes. Tax receivability was a distinct feature of the certificates in Craig.",
+  "source": "https://supreme.justia.com/cases/federal/us/29/410/ at 432–433",
+  "decision": "APPLIED"
+ }
+]

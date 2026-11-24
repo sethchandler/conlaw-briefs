@@ -1,0 +1,12 @@
+[
+ {
+  "id": "2.13",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Under \\emph{Everson}, \\emph{Zelman}, and \\emph{Carson}, Track A violates the Free Exercise Clause.",
+  "replace": "Under \\emph{Carson}, Track A violates the Free Exercise Clause. \\emph{Everson} and \\emph{Zelman} explain why including religious options in a neutral benefit can be consistent with the Establishment Clause.",
+  "reason": "Everson and Zelman upheld inclusion against Establishment Clause challenges. Carson supplies the Free Exercise holding governing the exclusion.",
+  "source": "https://supreme.justia.com/cases/federal/us/330/1/ at 16–18; https://supreme.justia.com/cases/federal/us/536/639/ at 652–654; https://supreme.justia.com/cases/federal/us/596/20-1088/ (Parts II–III)",
+  "decision": "APPLIED"
+ }
+]

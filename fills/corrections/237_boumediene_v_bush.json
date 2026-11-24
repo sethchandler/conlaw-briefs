@@ -1,0 +1,32 @@
+[
+ {
+  "id": "3.51",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "the Court struck down \\S~7 of the Military Commissions Act because",
+  "replace": "the Court held \\S~7 of the Military Commissions Act unconstitutional as applied to these detainees because",
+  "reason": "The Suspension Clause holding concerned these detainees at Guantanamo and their statutory substitute. It did not decide the application of § 7 to every possible detention.",
+  "source": "https://supreme.justia.com/cases/federal/us/553/723/ at 732–733, 771, 792",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.52",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "unless Congress invokes Rebellion or Invasion or provides an adequate judicial substitute",
+  "replace": "unless an actual rebellion or invasion requires suspension for public safety, or Congress provides an adequate judicial substitute",
+  "reason": "The Constitution requires both rebellion or invasion and a public-safety need. Invoking one of the conditions does not suffice.",
+  "source": "https://supreme.justia.com/cases/federal/us/553/723/ at 739, 771–772, 792; https://constitution.congress.gov/browse/article-1/section-9/clause-2/",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.53",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "lacks a constitutional habeas right because",
+  "replace": "would likely lack a constitutional habeas right if",
+  "reason": "Boumediene adopted a functional inquiry. A combat-zone location and practical obstacles strongly disfavor the writ but are not a categorical rule.",
+  "source": "https://supreme.justia.com/cases/federal/us/553/723/ at 766–771",
+  "decision": "APPLIED"
+ }
+]

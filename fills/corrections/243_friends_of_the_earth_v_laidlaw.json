@@ -1,0 +1,22 @@
+[
+ {
+  "id": "4.6",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "whose members regularly kayak on Buffalo Bayou",
+  "replace": "whose members have cut back their regular kayaking on Buffalo Bayou because of reasonable concerns about the plant's discharges",
+  "reason": "The analysis invokes curtailed use, but the facts did not say anyone curtailed use or otherwise suffered a concrete injury from the pollution.",
+  "source": "https://supreme.justia.com/cases/federal/us/528/167/ at 181–185",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.7",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "which is why \\textit{Steel Co.\\ v.\\ Citizens for a Better Environment} found no standing",
+  "replace": "as \\textit{Steel Co.\\ v.\\ Citizens for a Better Environment} explained in applying a different environmental statute. The Clean Water Act also independently requires a good-faith allegation of a continuing or intermittent violation at filing under \\textit{Gwaltney}",
+  "reason": "Steel Co. addressed redressability under the Emergency Planning and Community Right-to-Know Act. Gwaltney addresses the Clean Water Act's separate statutory limit.",
+  "source": "https://supreme.justia.com/cases/federal/us/523/83/ at 105–109; https://supreme.justia.com/cases/federal/us/484/49/ at 56–64; https://supreme.justia.com/cases/federal/us/528/167/ at 187–188",
+  "decision": "APPLIED"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "id": "4.29",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "neither condition escapes heightened scrutiny merely because it is legislatively enacted or demands money",
+  "replace": "neither condition is exempt merely because a legislature imposed it. For the parcel-specific fee, assume the demand would amount to a taking if imposed outside the permitting process",
+  "reason": "Koontz distinguishes monetary exactions from ordinary taxes or user fees. Sheetz rejected a categorical legislative exemption but reserved other questions about fees and permits.",
+  "source": "https://supreme.justia.com/cases/federal/us/601/22-1074/ at slip op. 10–11 and 1–2 (Sotomayor, J., concurring); https://supreme.justia.com/cases/federal/us/570/595/ at 612–615",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.30",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "it fails \\href{https://supreme.justia.com/cases/federal/us/512/374/}{\\emph{Dolan}}'s Step~2 ``rough proportionality'' test: the city has made no individualized showing that 15 weekly truck trips justify stripping the owner of her right to exclude the public from a permanent 20-foot boardwalk.",
+  "replace": "it likely fails \\href{https://supreme.justia.com/cases/federal/us/512/374/}{\\emph{Dolan}}'s Step~2 ``rough proportionality'' test because the facts show no relation in nature or extent between the project's truck trips and a permanent public boardwalk. \\textit{Sheetz} left open how specifically a classwide condition must be tailored.",
+  "reason": "The boardwalk's mismatch with the project's impact supports the result. The Supreme Court reserved how specifically classwide legislative conditions must be tailored.",
+  "source": "https://supreme.justia.com/cases/federal/us/512/374/ at 391–395; https://supreme.justia.com/cases/federal/us/601/22-1074/ at slip op. 10–11",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.31",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "After \\textit{Koontz}, a demand for money is an exaction subject to \\textit{Nollan} and \\textit{Dolan}, and after \\textit{Sheetz}, the fee is not exempt because the legislature set it.",
+  "replace": "Under \\textit{Koontz}, a monetary demand tied to a particular parcel can be an exaction subject to \\textit{Nollan} and \\textit{Dolan}. Under \\textit{Sheetz}, a qualifying exaction is not exempt because the legislature set it.",
+  "reason": "Not every monetary demand is an exaction. Koontz addressed a parcel-linked permit demand and distinguished taxes and user fees.",
+  "source": "https://supreme.justia.com/cases/federal/us/570/595/ at 612–615; https://supreme.justia.com/cases/federal/us/601/22-1074/ at slip op. 10–11",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.32",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "After \\textit{Sheetz}, the legislative fee is subject to \\textit{Nollan/Dolan}, but the Court left open whether",
+  "replace": "\\textit{Sheetz} would not exempt the fee from \\textit{Nollan/Dolan} solely because it was legislatively enacted. Assuming the fee is a qualifying exaction, the Court left open whether",
+  "reason": "Sheetz resolved the legislative versus administrative question. It did not decide whether a particular fee meets the threshold for exactions scrutiny or how a classwide schedule must be tailored.",
+  "source": "https://supreme.justia.com/cases/federal/us/601/22-1074/ at slip op. 10–11 and 1–2 (Sotomayor, J., concurring)",
+  "decision": "APPLIED"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "id": "2.43",
+  "section": "Memory Jogger",
+  "severity": "CRITICAL",
+  "find": "won a new trial: the Court held 7--2 that a true-threats prosecution requires proof",
+  "replace": "obtained vacatur and remand by a 7--2 vote: a five-Justice majority held that a true-threats prosecution requires proof",
+  "reason": "The Supreme Court vacated and remanded for further proceedings. Five Justices adopted the general true-threats standard; two additional Justices concurred in the judgment on narrower grounds.",
+  "source": "https://supreme.justia.com/cases/federal/us/600/22-138/ (syllabus, opinion of the Court, and Sotomayor concurrence)",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.44",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "a jury finding of purpose necessarily includes conscious disregard of the risk that the message would be seen as threatening",
+  "replace": "the jury's finding that the defendant meant his message to cause fear of death satisfies the constitutional minimum",
+  "reason": "Purpose and recklessness are distinct mental states. Proof that the defendant intended the message to frighten the recipient satisfies a floor of at least recklessness without requiring a separate finding that he consciously disregarded a risk.",
+  "source": "https://supreme.justia.com/cases/federal/us/600/22-138/ (Part II–B)",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.45",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Justice Barrett's dissent flagged exactly this civil setting as unresolved",
+  "replace": "Justice Barrett's dissent argued that the majority's logic would also affect civil restraining orders",
+  "reason": "Barrett argued that the new First Amendment standard would affect civil orders. The majority did not decide the civil protective-order question.",
+  "source": "https://supreme.justia.com/cases/federal/us/600/22-138/ (Barrett dissent, Part III)",
+  "decision": "APPLIED"
+ }
+]

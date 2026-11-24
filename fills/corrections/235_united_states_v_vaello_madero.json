@@ -1,0 +1,42 @@
+[
+ {
+  "id": "3.42",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "The SSA sued a disabled U.S. citizen",
+  "replace": "The United States sued a disabled U.S. citizen",
+  "reason": "The United States brought the restitution action. The Social Security Administration administered the benefits.",
+  "source": "https://supreme.justia.com/cases/federal/us/596/20-303/ at slip op. 3–4",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.43",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "(Exclusion Invalid): Excluding Residents of a State.",
+  "replace": "(Territorial Rationale Unavailable): Excluding Residents of a State.",
+  "reason": "Footnote 1 reserved the question of different treatment among States. The example's label announces a result the case does not resolve.",
+  "source": "https://supreme.justia.com/cases/federal/us/596/20-303/ at slip op. 7 n.1",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.44",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "and \\emph{Vaello Madero} Footnote 1 expressly refuses to extend territorial fiscal-balance deference to exclusions of individual States---which would also collide with structural principles of equal state sovereignty and interstate travel.",
+  "replace": "and footnote 1 of \\emph{Vaello Madero} expressly reserves whether Congress may treat residents of individual States differently. Whether the exclusion would survive Fifth Amendment review requires a separate analysis.",
+  "reason": "The cited footnote reserved the question. It did not decide that such a law would violate equal sovereignty or the right to interstate travel.",
+  "source": "https://supreme.justia.com/cases/federal/us/596/20-303/ at slip op. 7 n.1",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.45",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "or, on Justice Thomas's view, violating the Citizenship Clause",
+  "replace": "Justice Thomas separately suggested that the Citizenship Clause might protect against federal racial discrimination in civil rights",
+  "reason": "Thomas identified a possible basis for federal equal-citizenship protections and expressly left the question open.",
+  "source": "https://supreme.justia.com/cases/federal/us/596/20-303/ at slip op. 8–11 (Thomas, J., concurring)",
+  "decision": "APPLIED"
+ }
+]

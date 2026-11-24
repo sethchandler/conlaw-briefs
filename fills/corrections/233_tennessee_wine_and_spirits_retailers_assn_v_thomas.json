@@ -1,0 +1,22 @@
+[
+ {
+  "id": "3.39",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Under \\textit{Tennessee Wine}, the statute is \\textbf{unconstitutional}. It facially discriminates against nonresidents, is not an essential feature of a three-tier system, and rests on",
+  "replace": "The applicant has a strong claim under \\textit{Tennessee Wine} if the local-ownership rule favors in-state economic interests in practical effect. It is not an essential feature of a three-tier system and rests on",
+  "reason": "The text conditions licensure on past ownership of local property, which nonresidents can also own. The analogy to Tennessee Wine depends on discrimination against interstate commerce, not an express residency classification.",
+  "source": "https://supreme.justia.com/cases/federal/us/588/18-96/ at slip op. 12–13, 19–22, 31–36",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.40",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "\\href{https://law.justia.com/cases/federal/appellate-courts/ca9/23-16148/23-16148-2025-03-04.html}{\\textit{Day v. Henry} (9th Cir. 2025)}",
+  "replace": "\\href{https://cdn.ca9.uscourts.gov/datastore/opinions/2025/09/05/23-16148.pdf}{\\textit{Day v. Henry} (9th Cir. 2025)}",
+  "reason": "The panel withdrew the linked March 4 opinion and replaced it with an amended opinion on September 5, 2025.",
+  "source": "https://cdn.ca9.uscourts.gov/datastore/opinions/2025/09/05/23-16148.pdf at 6",
+  "decision": "APPLIED"
+ }
+]

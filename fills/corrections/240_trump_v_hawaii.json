@@ -1,0 +1,22 @@
+[
+ {
+  "id": "3.61",
+  "section": "Memory Jogger",
+  "severity": "CRITICAL",
+  "find": "Upholding Proclamation No.~9645, President Trump's third entry-restriction order, the Court held 5--4 that \\S~1182(f) gives the President broad power to suspend entry and that, under deferential rational-basis review, the facially neutral proclamation survived an Establishment Clause challenge; it also repudiated \\textit{Korematsu}",
+  "replace": "Reversing a preliminary injunction against President Trump's Proclamation No.~9645, the Court held 5--4 that \\S~1182(f) gives the President broad power to suspend entry. Assuming it could look beyond the proclamation's facial neutrality under rational-basis review, the Court held that the plaintiffs had not shown a likelihood of success on their Establishment Clause challenge. It also repudiated \\textit{Korematsu}",
+  "reason": "The Court reviewed a preliminary injunction. It assumed for purposes of the case that it could look beyond the face of the proclamation rather than generally prescribing that level of scrutiny.",
+  "source": "https://supreme.justia.com/cases/federal/us/585/17-965/ at slip op. 30–38",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.62",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "and a neutral text plus an agency process ordinarily suffices",
+  "replace": "and evidence that the administration disregarded its own review or disabled the waivers could undermine the claimed justification",
+  "reason": "The rational-basis analysis considered the substance of the review and the availability of waivers. The Court did not establish that facial neutrality and the mere existence of an agency process ordinarily suffice.",
+  "source": "https://supreme.justia.com/cases/federal/us/585/17-965/ at slip op. 32–38, 1–7 (Breyer, J., dissenting)",
+  "decision": "APPLIED"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "id": "2.46",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "a brief, automated factual notice of a declined transfer easily satisfies \\textit{Zauderer} without chilling protected expression.",
+  "replace": "a brief, automated notice of a declined transfer is plausibly incidental to regulation of the transaction. If the notice separately compels commercial speech, the State must show that any applicable disclosure standard is satisfied, including \\textit{Zauderer}'s limits on unjustified or unduly burdensome disclosures.",
+  "reason": "Moody reserved non-feed applications and did not decide which compulsory-disclosure standard applies to a payment notice. FAIR provides an incidental-speech analogy, while Zauderer's scope and requirements require separate analysis.",
+  "source": "https://supreme.justia.com/cases/federal/us/603/22-277/ (Part II); https://supreme.justia.com/cases/federal/us/547/47/ at 60–62; https://www.law.cornell.edu/supremecourt/text/16-1140 (Part II–B)",
+  "decision": "APPLIED"
+ }
+]

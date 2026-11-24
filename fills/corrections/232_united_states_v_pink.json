@@ -1,0 +1,22 @@
+[
+ {
+  "id": "3.37",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "To normalize diplomatic relations with Nation Z after a civil war,",
+  "replace": "Upon formally recognizing Nation Z's new government after a civil war,",
+  "reason": "The analysis treats the agreement as incident to formal recognition. A general effort to normalize relations does not itself establish the premise.",
+  "source": "https://supreme.justia.com/cases/federal/us/315/203/ at 229–234",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.38",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "the Court upheld a similar suspension of claims while declining to decide whether the creditors were entitled to compensation",
+  "replace": "the Court upheld the nullification of attachments under statutory authority and the suspension of claims based on a history of congressional acquiescence, while leaving any taking claim for later adjudication",
+  "reason": "Dames & Moore used different grounds for nullifying attachments and suspending claims. The hypothetical concerns liens, so the attachment holding matters.",
+  "source": "https://supreme.justia.com/cases/federal/us/453/654/ at 669–674, 675–688",
+  "decision": "APPLIED"
+ }
+]

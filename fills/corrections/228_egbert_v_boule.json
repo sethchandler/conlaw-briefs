@@ -1,0 +1,42 @@
+[
+ {
+  "id": "3.23",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "the Court held 6--3 (Fourth Amendment) and 9--0 (First Amendment retaliation) that no implied damages remedy exists whenever there is any reason to think Congress is better equipped to create one",
+  "replace": "the Court rejected his Fourth Amendment claim 6--3 and his First Amendment retaliation claim 9--0. The five-Justice majority explained that a court may not extend \\textit{Bivens} if there is any reason to think Congress is better equipped to create a remedy",
+  "reason": "Four Justices concurred in the judgment as to retaliation without joining the majority's reasoning. The majority's test concerns extending Bivens to new contexts.",
+  "source": "https://supreme.justia.com/cases/federal/us/596/21-147/ at slip op. 5–8, 13–16, 1–2 (Sotomayor, J., concurring in the judgment in part and dissenting in part)",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.24",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "unless the court treats it as factually identical to \\textit{Bivens}",
+  "replace": "unless the court finds no meaningful difference from \\textit{Bivens}",
+  "reason": "Abbasi and Egbert ask whether differences are meaningful. The facts do not have to be identical.",
+  "source": "https://supreme.justia.com/cases/federal/us/582/15-1358/ at slip op. 16; https://supreme.justia.com/cases/federal/us/596/21-147/ at slip op. 6–8",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.25",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "all nine Justices agreed that no \\textit{Bivens} action exists for First Amendment retaliation, because",
+  "replace": "all nine Justices agreed that Boule's retaliation claim failed. The majority declined to recognize a \\textit{Bivens} action for First Amendment retaliation because",
+  "reason": "The vote was unanimous on the result of Boule's claim. Justice Sotomayor, joined by Justices Breyer and Kagan, relied on precedent rather than the majority's test.",
+  "source": "https://supreme.justia.com/cases/federal/us/596/21-147/ at slip op. 13–16 and 15–17 (Sotomayor, J., concurring in the judgment in part and dissenting in part)",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.26",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Federal drug agents enter a New York apartment without a warrant, manacle the tenant in front of his family, threaten them, search the apartment, and strip-search the tenant at a federal facility. The tenant sues the agents for damages under the Fourth Amendment. The facts track \\textit{Bivens} itself, which \\textit{Egbert} declined to overrule, so a court could hold the claim arises in no new context. But \\textit{Egbert} warned that ``parallel circumstances'' with \\textit{Bivens} are not enough unless the claim also survives the Court's restrictive modern framework, and the agency's internal complaint process might count as an alternative remedial structure. Justice Gorsuch saw no principled way to distinguish such cases. Whether even a \\textit{Bivens} replica survives is uncertain.",
+  "replace": "Federal narcotics agents assigned to a joint federal--state task force arrest a tenant in his New York apartment without a warrant or probable cause, manacle him in front of his family, search the apartment, and strip-search him at a federal facility. The tenant sues the federal agents for damages under the Fourth Amendment. The alleged search and arrest closely track \\textit{Bivens}, and the plaintiff can argue that the agents acted in their ordinary federal narcotics-enforcement role. If the task force gave the agents a materially different legal mandate or supplied a distinct remedial process, a court could find a new context and decline to extend \\textit{Bivens}. Whether the task-force assignment made a meaningful difference would turn on the facts.",
+  "reason": "Egbert's reference to parallel circumstances addresses extension to a new context. The original example stated no meaningful factual difference from Bivens and treated modern limits on extensions as though they displaced the original holding.",
+  "source": "https://supreme.justia.com/cases/federal/us/403/388/ at 389; https://supreme.justia.com/cases/federal/us/582/15-1358/ at slip op. 16; https://supreme.justia.com/cases/federal/us/596/21-147/ at slip op. 6–12, 16",
+  "decision": "APPLIED"
+ }
+]

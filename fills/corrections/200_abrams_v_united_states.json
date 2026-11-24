@@ -1,0 +1,12 @@
+[
+ {
+  "id": "2.17",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "the prosecution fails on both \\emph{mens rea} (collateral effect vs.\\ specific intent to aid an enemy) and \\emph{imminence} (a vague call for a strike ``next month'' lacks immediate lawless incitement).",
+  "replace": "the prosecution fails under \\emph{Brandenburg} because the call is not directed to producing imminent lawless action. Holmes separately distinguished a purpose to obstruct the United States' war effort from a merely collateral effect of protesting American policy abroad.",
+  "reason": "Brandenburg never requires specific intent to aid an enemy. Holmes discussed whether defendants meant to hinder the United States' war effort rather than merely affect intervention in Russia.",
+  "source": "https://supreme.justia.com/cases/federal/us/250/616/ at 626–629 (Holmes, J., dissenting); https://supreme.justia.com/cases/federal/us/395/444/ at 447–449",
+  "decision": "APPLIED"
+ }
+]

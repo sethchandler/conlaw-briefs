@@ -1,0 +1,22 @@
+[
+ {
+  "id": "2.47",
+  "section": "Examples: Future Applications",
+  "severity": "MINOR",
+  "find": "\\emph{Carson}, 596 U.S. \\_\\_\\_ (2022)",
+  "replace": "\\emph{Carson}, 596 U.S.\\ 767 (2022)",
+  "reason": "The placeholder can be replaced with the published first page.",
+  "source": "https://www.law.cornell.edu/supremecourt/text/20-1088; https://www.supremecourt.gov/opinions/boundvolumes/596BV.pdf at 767",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "2.48",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "But \\textit{Zelman} stressed that the choice must be genuine and that adequate secular options must be available, and an offender facing jail in the meantime may have what Justice Souter called a Hobson's choice.",
+  "replace": "But \\textit{Zelman} examined whether there were genuine secular options in the context of the whole program. A person who must attend worship or remain in jail may face what Justice Souter called a Hobson's choice. The separate question is whether the State is effectively coercing religious participation, as in \\textit{Kerr v.\\ Farrey}.",
+  "reason": "Zelman assessed private choice in context. A threatened custodial consequence raises a distinct coercion issue. Kerr found unconstitutional coercion where an inmate was required to attend a religiously oriented program or suffer adverse consequences.",
+  "source": "https://supreme.justia.com/cases/federal/us/536/639/ at 655–663, 715–717; https://law.justia.com/cases/federal/appellate-courts/F3/95/472/547412/",
+  "decision": "APPLIED"
+ }
+]

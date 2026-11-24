@@ -1,0 +1,42 @@
+[
+ {
+  "id": "4.24",
+  "section": "Memory Jogger",
+  "severity": "CRITICAL",
+  "find": "but never removed him; the Court held 6--3 that the Due Process Clause imposes no duty to protect against private violence unless the State has taken the person into custody or created the danger",
+  "replace": "and briefly obtained a court order placing him in the hospital's custody before returning him to his father. The Court held 6--3 that the Due Process Clause generally imposes no affirmative duty to protect against private violence and that the earlier temporary custody did not create a continuing duty. The Court noted that the State neither created the danger nor made Joshua more vulnerable, but did not recognize a separate state-created-danger exception",
+  "reason": "Joshua was temporarily placed in hospital custody. DeShaney recognized a duty arising from involuntary restraint and observed that officials had neither created the danger nor increased his vulnerability. The Court did not hold that state-created danger is a separate exception.",
+  "source": "https://supreme.justia.com/cases/federal/us/489/189/ at 192–193, 195–202 & n.9",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.25",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "and state protective-order statutes confer no federal procedural property interest in arrest",
+  "replace": "and the hypothetical identifies no state-law entitlement to enforcement sufficient to create a procedural due process property interest",
+  "reason": "Castle Rock interpreted the particular Colorado scheme and found no entitlement to enforcement there. Whether a claimed entitlement exists depends on the law invoked.",
+  "source": "https://supreme.justia.com/cases/federal/us/545/748/ at 756–766",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.26",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "(Plaintiff Prevails): A Child Stranded on the Highway.",
+  "replace": "(Potential Claim): A Child Stranded on the Highway.",
+  "reason": "The example itself acknowledges that the theory is circuit-dependent. Recognizing a viable claim is not a merits judgment or a determination that the officer lacks qualified immunity.",
+  "source": "https://supreme.justia.com/cases/federal/us/489/189/ at 197–201; https://www.govinfo.gov/app/details/USCOURTS-ca5-24-60370/USCOURTS-ca5-24-60370-1",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.27",
+  "section": "Dropped",
+  "severity": "MODERATE",
+  "find": "",
+  "replace": "",
+  "reason": "Restore the dropped Fifth Circuit update in corrected form. Sterling's 2025 panel opinion recognized state-created danger, but the grant of rehearing en banc vacated it. The September 2026 en banc majority affirmed dismissal without adopting the doctrine. That sequence is necessary to explain the current circuit treatment of Example 3.",
+  "source": "https://law.justia.com/cases/federal/appellate-courts/ca5/24-60370/24-60370-2025-11-17.html; https://law.justia.com/cases/federal/appellate-courts/ca5/24-60370/24-60370-2026-02-19.html; https://www.govinfo.gov/app/details/USCOURTS-ca5-24-60370/USCOURTS-ca5-24-60370-1",
+  "decision": "Declined: asks to restore 2025-26 Fifth Circuit rulings (Sterling). Lower-court legacy material is kept out; flagged for the audit."
+ }
+]

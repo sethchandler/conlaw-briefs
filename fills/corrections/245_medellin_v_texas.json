@@ -1,0 +1,42 @@
+[
+ {
+  "id": "4.11",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "The Senate consents to a human-rights treaty guaranteeing fair criminal procedures, but attaches a declaration that the treaty's substantive provisions are not self-executing, and Congress passes no implementing statute.",
+  "replace": "The President ratifies a human-rights treaty guaranteeing fair criminal procedures after the Senate gives its advice and consent subject to a declaration that the substantive provisions are not self-executing. Congress passes no implementing statute.",
+  "reason": "The Senate gives advice and consent subject to its declaration. Ratification by the President is needed for the hypothetical's treaty to bind the United States internationally.",
+  "source": "https://supreme.justia.com/cases/federal/us/552/491/ at 505–506, 521–523; https://constitution.congress.gov/browse/article-2/section-2/clause-2/",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.12",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "Here the ratifying Senate expressly said the opposite.",
+  "replace": "Here the Senate expressly conditioned its consent on non-self-execution, and the President ratified on those terms.",
+  "reason": "The Senate's declaration conditions its consent. The President ratifies the treaty.",
+  "source": "https://constitution.congress.gov/browse/article-2/section-2/clause-2/; https://supreme.justia.com/cases/federal/us/552/491/ at 505–506, 521–523",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.13",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "if the Senate ratifies a treaty whose text explicitly directs",
+  "replace": "if the President ratifies, with the Senate's advice and consent, a treaty whose text explicitly directs",
+  "reason": "The President ratifies treaties with the advice and consent of the Senate.",
+  "source": "https://constitution.congress.gov/browse/article-2/section-2/clause-2/",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "4.14",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "the Court in \\textit{Sanchez-Llamas v.\\ Oregon}, 548 U.S.\\ 331 (2006), assumed without deciding that it does, and \\textit{Medell\\'{i}n} did not resolve the point. The outcome therefore remains uncertain.",
+  "replace": "the Court in \\textit{Sanchez-Llamas v.\\ Oregon}, 548 U.S.\\ 331 (2006), assumed without deciding that Article 36 creates individually enforceable rights. It did not decide the availability of damages under \\S~1983. The Seventh Circuit has recognized such a claim, while the Ninth Circuit has rejected it. The outcome therefore depends in part on the forum.",
+  "reason": "Sanchez-Llamas addressed suppression and procedural default. Jogi and Cornejo directly addressed the distinct § 1983 question and reached opposite conclusions.",
+  "source": "https://supreme.justia.com/cases/federal/us/548/331/ at 343, 350, 360; https://law.justia.com/cases/federal/appellate-courts/F3/480/822/617245/ at 834–836; https://cdn.ca9.uscourts.gov/datastore/opinions/2007/09/24/0556202.pdf",
+  "decision": "APPLIED"
+ }
+]

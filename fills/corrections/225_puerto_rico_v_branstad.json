@@ -1,0 +1,32 @@
+[
+ {
+  "id": "3.18",
+  "section": "Memory Jogger",
+  "severity": "MODERATE",
+  "find": "the Court unanimously overruled \\textit{Kentucky v.\\ Dennison} and held that federal courts may order a governor by mandamus to perform the mandatory duty to surrender a fugitive, and that Puerto Rico may enforce that duty under the federal Extradition Act",
+  "replace": "the Court held unanimously that Puerto Rico could obtain a federal court order enforcing the Governor's mandatory duty under the Extradition Act, overruling \\textit{Kentucky v.\\ Dennison} to the extent it made that statutory duty unenforceable. Six Justices reached the same conclusion under the Extradition Clause",
+  "reason": "Dennison's mandatory-duty holding survived. Three Justices did not join the constitutional holding.",
+  "source": "https://supreme.justia.com/cases/federal/us/483/219/ at 226–231",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.19",
+  "section": "Judicial Votes",
+  "severity": "MODERATE",
+  "find": "and joined in part by Justice Scalia.",
+  "replace": "and joined by Justice Scalia as to the application of the Extradition Act and the overruling of \\textit{Dennison}'s interpretation of its predecessor.",
+  "reason": "The official syllabus says Scalia joined in part. His separate opinion identifies the portions he joined by subject, without listing them by section.",
+  "source": "https://supreme.justia.com/cases/federal/us/483/219/ at 230–231",
+  "decision": "APPLIED"
+ },
+ {
+  "id": "3.20",
+  "section": "Examples: Future Applications",
+  "severity": "MODERATE",
+  "find": "\\emph{Michigan v.\\ Doran} limits the asylum State's review to whether the papers are in order and the person is the charged fugitive",
+  "replace": "\\emph{Michigan v.\\ Doran} limits review after the asylum State's governor grants extradition to whether the papers are facially in order, a crime has been charged in the demanding State, the detainee is the person named, and the detainee is a fugitive",
+  "reason": "Doran specified four inquiries on habeas review of a grant of extradition.",
+  "source": "https://supreme.justia.com/cases/federal/us/439/282/ at 288–290",
+  "decision": "APPLIED"
+ }
+]
