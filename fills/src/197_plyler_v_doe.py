@@ -1,0 +1,82 @@
+"""Fill for 197_plyler_v_doe. See tools/fillkit.py."""
+from fillkit import *
+
+J = "https://supreme.justia.com/cases/federal/us/457/202/"
+C = "https://www.law.cornell.edu/supremecourt/text/457/202"
+
+def Q(quote, who, pin):
+    # Attribution placed inside the quote block; tools/normalize_quotes.py then moves it to a
+    # Group A "\noindent ---" line (check_brief.py does not match manual_quotes.txt's ".tex" names).
+    return [N(r"\begin{quote}", glue="\n"), S(quote, glue="\n"), N(r"---", glue=" "),
+            S(who, glue=""), N(",", glue=" "), S(pin, glue="\n"), N(r"\end{quote}")]
+
+def PIN(p):
+    return r"\href{" + C + r"}{457 U.S. at " + p + r"} (\href{" + J + r"}{Justia})."
+
+B = "Brennan, J., Majority"
+FILL = {
+ "sections": {
+  "Memory Jogger": [N(r"By a 5--4 vote, the Court held that Texas could not deny a free public education to undocumented children: they are ``persons within its jurisdiction'' under the Equal Protection Clause, and a law imposing a lifetime hardship on innocent children must further some substantial goal of the State (\href{" + J + r"}{Justia}).")],
+  "Detailed Case Facts": [SEC("Facts and Procedural History", to="Two consolidated lines of litigation")],
+  "Procedural History": [SEC("Facts and Procedural History", frm="Two consolidated lines of litigation")],
+  "Judicial Votes": [
+    N(r"The Supreme Court \textbf{affirmed} the Fifth Circuit in both consolidated cases by a \textbf{5--4} vote. The cases were argued on December 1, 1981, and decided on June 15, 1982 (\href{" + J + r"}{Justia}; \href{" + C + r"}{Cornell LII}):"),
+    N(r"""\begin{itemize}
+    \item \textbf{Majority Opinion:} Justice Brennan delivered the opinion of the Court, joined by Justices Marshall, Blackmun, Powell, and Stevens.
+    \item \textbf{Concurring Opinions:} Justice Marshall, Justice Blackmun, and Justice Powell each filed a concurring opinion.
+    \item \textbf{Dissenting Opinion:} Chief Justice Burger filed a dissenting opinion, joined by Justices White, Rehnquist, and O'Connor.
+\end{itemize}"""),
+  ],
+  "Holding": [N(r"\textbf{Questions Presented:}"), SEC("Issue"), N(r"\textbf{Holding:}"), SEC("Holding")],
+  "Analysis of Opinions": [
+    N(r"\subsection{Majority Opinion (Justice Brennan)}"), SEC("Reasoning"),
+    N(r"\subsection{Concurring Opinion (Justice Marshall)}"), N("Justice Marshall", glue=" "),
+    SEC("Concurring and Dissenting", frm="Joined the majority opinion while", to=r"    \item \textbf{Justice Blackmun", lc=True),
+    N(r"\subsection{Concurring Opinion (Justice Blackmun)}"),
+    SEC("Concurring and Dissenting", frm="Having joined the majority in", to=r"    \item \textbf{Justice Powell"),
+    N(r"\subsection{Concurring Opinion (Justice Powell)}"),
+    SEC("Concurring and Dissenting", frm="Author of the", to=r"    \item \textbf{Chief Justice Burger"),
+    N(r"\subsection{Dissenting Opinion (Chief Justice Burger)}"),
+    SEC("Concurring and Dissenting", frm="Chief Justice Burger agreed", to=r"\end{itemize}"),
+    N(r"\subsection{Subsequent Developments}"),
+    N(r"\begin{itemize}"),
+    N(r"\item \textbf{Residency Requirements:}", glue=" "),
+    S(r"Within one year, \href{https://supreme.justia.com/cases/federal/us/461/321/}{\textit{Martinez v.\ Bynum}}, 461 U.S. 321 (1983), upheld a separate portion of Texas Education Code \S~21.031 imposing a bona fide residency requirement for public schooling."),
+    N(r"\item \textbf{Refusal to Extend Heightened Review:}", glue=" "),
+    S(r"In \href{https://supreme.justia.com/cases/federal/us/487/450/}{\textit{Kadrmas v.\ Dickinson Public Schools}}, 487 U.S. 450, 459 (1988), the Court refused to extend \textit{Plyler}'s heightened review to school-bus user fees, stressing that \textit{Plyler} rested on ``unique circumstances.''"),
+    N(r"\end{itemize}"),
+  ],
+  "Examples: Future Applications": [
+    N(r"\begin{enumerate}"),
+    N(r"\item \textbf{Same-Side (Unconstitutional): Proof of Lawful Status as a Condition of Enrollment.} A school district adopts a rule that no child may enroll in its elementary or secondary schools without presenting a birth certificate, passport, or federal immigration document showing lawful presence. Undocumented children who cannot produce such papers are turned away. Although the rule is framed as a documentation requirement rather than a ban, its effect is the absolute, status-based deprivation of basic education that \textit{Plyler} condemned. The children are not accountable for their status, the denial imposes a lifetime hardship, and the district cannot show that excluding them furthers a substantial state goal. As in \textit{Plyler}, saving money by excluding a disfavored group is not enough, and the rule violates the Equal Protection Clause."),
+    N(r"\item \textbf{Same-Side (Unconstitutional): Tuition for Citizen Children of Undocumented Parents.} A State requires families to pay tuition for any child, including a U.S.\ citizen child, whose parents cannot document lawful presence. The State argues that the rule targets only the parents' unlawful conduct. \textit{Plyler}'s reasoning applies with even greater force: the Court held that visiting condemnation on children for their parents' misconduct is contrary to basic principles of individual responsibility, and these children are citizens with every claim to equal treatment. The rule penalizes innocent children for a status they did not choose, imposes the same lifetime hardship of lost education, and serves no substantial interest the State could not pursue by other means. It is invalid under \textit{Plyler}, and likely under any standard of review."),
+    N(r"\item \textbf{Opposite-Side (Likely Upheld): Higher-Education Tuition, With a K--12 Twist.}", glue=" "),
+    S(r"State Y denies in-state university tuition to undocumented graduates and charges K--12 tuition to 17-year-old unaccompanied minors.", glue=" "),
+    S(r"The university ban likely survives (\href{https://www.everycrsreport.com/reports/R43447.html}{CRS Report R43447}), whereas the K--12 rule squarely tests \href{https://www.law.cornell.edu/supremecourt/text/457/202}{Justice Powell's concurrence (457 U.S. at 240 n.5)}, which reserved the case of a mature minor entering unlawfully on his own volition."),
+    N(r"\item \textbf{Opposite-Side (Upheld): A Bona Fide Residency Requirement.} A child whose parents live in another country moves in with an aunt in a Texas school district for the main purpose of attending its public schools, and the district denies him tuition-free admission because he is not a bona fide resident of the district. The family argues that \textit{Plyler} forbids denying a free public education to any child. The rule is valid. \textit{Plyler} invalidated a classification based on immigration status that imposed a total deprivation on innocent children; a neutral residency rule applies to every child alike, whatever his status. In \textit{Martinez v.\ Bynum}, 461 U.S. 321 (1983), the Court upheld exactly such a requirement under a separate portion of \S~21.031. A State may not, however, relabel undocumented children as nonresidents to evade \textit{Plyler}."),
+    N(r"\item \textbf{Fence-Sitter (Unsettled): Collecting Students' Immigration Status.}", glue=" "),
+    S(r"State X requires schools to verify and report aggregate student immigration status while keeping enrollment free.", glue=" "),
+    N(r"\textit{Issue:}", glue=" "),
+    S(r"Whether the chilling effect on enrollment functions as an unconstitutional barrier under \textit{Plyler} or survives rational basis review as fiscal data collection under \textit{Kadrmas}.", glue=" "),
+    N(r"The answer likely turns on proof: \textit{Plyler} rested on a total exclusion, so a court would ask whether the reporting rule in fact deters enrollment or merely collects data, and the Court has never decided whether an indirect burden of this kind triggers \textit{Plyler}'s heightened review."),
+    N(r"\end{enumerate}"),
+  ],
+  "Critique": [SEC("Pedagogical", frm="Critics fault", to=r"\subsection*{2. Exam Hypotheticals}")],
+  "Key Quotations":
+    Q(r"``Use of the phrase `within its jurisdiction' thus does not detract from, but rather confirms, the understanding that the protection of the Fourteenth Amendment extends to anyone, citizen or stranger, who is subject to the laws of a State, and reaches into every corner of a State's territory.''", B, PIN("215"))
+    + Q(r"``Public education is not a `right' granted to individuals by the Constitution. \textit{San Antonio Independent School Dist.\ v.\ Rodriguez}, 411 U.S. 1, 35 (1973). But neither is it merely some governmental `benefit' indistinguishable from other forms of social welfare legislation. Both the importance of education in maintaining our basic institutions, and the lasting impact of its deprivation on the life of the child, mark the distinction.''", B, PIN("221"))
+    + Q(r"``Section 21.031 imposes a lifetime hardship on a discrete class of children not accountable for their disabling status. The stigma of illiteracy will mark them for the rest of their lives. By denying these children a basic education, we deny them the ability to live within the structure of our civic institutions, and foreclose any realistic possibility that they will contribute in even the smallest way to the progress of our Nation. In determining the rationality of \S~21.031, we may appropriately take into account its costs to the Nation and to the innocent children who are its victims. In light of these countervailing costs, the discrimination contained in \S~21.031 can hardly be considered rational unless it furthers some substantial goal of the State.''", B, PIN("223--24"))
+    + Q(r"``It is difficult to understand precisely what the State hopes to achieve by promoting the creation and perpetuation of a subclass of illiterates within our boundaries, surely adding to the problems and costs of unemployment, welfare, and crime. It is thus clear that whatever savings might be achieved by denying these children an education, they are wholly insubstantial in light of the costs involved to these children, the State, and the Nation.''", B, PIN("230"))
+    + Q(r"``Were it our business to set the Nation's social policy, I would agree without hesitation that it is senseless for an enlightened society to deprive any children---including illegal aliens---of an elementary education. \ldots\ However, the Constitution does not constitute us as `Platonic Guardians' nor does it vest in this Court the authority to strike down laws because they do not meet our standards of desirable social policy, `wisdom,' or `common sense.' ''", "Burger, C.J., Dissenting", PIN("242")),
+ },
+ "dropped": [
+  "Case Metadata: full case name, parallel citations, docket numbers, rehearing denial, constitutional provision line.",
+  "Legacy section 1: Burger-prediction framing sentence; PRWORA/IIRIRA lower-court sentence; 'rational basis with bite' sentence. Kept: Martinez v. Bynum and Kadrmas sentences.",
+  "Legacy section 2 (2025--2026 state bills, Heritage report, House hearing, enrollment statistics): political developments and commentary, not decisions applying Plyler.",
+  "Exam Hypothetical 3 (Congressional Authorization): a second genuinely open question; only one Fence-Sitter slot is available, so it is not reused.",
+  "Key Quotations: the bold topic labels on each list item (the Justice/opinion part of each label is kept as the attribution).",
+ ],
+ "notes": ["Key Quotations rebuilt from verbatim pieces (manual_quotes list); all five quotations kept, none added. Attributions are emitted inside each quote block and converted by normalize_quotes.py because check_brief.py compares stems against manual_quotes.txt entries that end in .tex."],
+}
+
+emit(__file__, FILL)

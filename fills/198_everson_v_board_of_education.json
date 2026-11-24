@@ -1,0 +1,275 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "Incorporating the Establishment Clause against the states and invoking Jefferson's ``wall of separation between church and State,'' the Court nonetheless upheld 5--4 New Jersey's reimbursement of bus fares for children attending parochial schools as a neutral public-welfare benefit, like police and fire protection (\\href{https://supreme.justia.com/cases/federal/us/330/1/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "Arch R. Everson, a taxpayer"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "Arch R. Everson, a taxpayer"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court \\textbf{affirmed} the New Jersey Court of Errors and Appeals by a \\textbf{5--4} vote. The case was argued on November 20, 1946, and decided on February 10, 1947 (\\href{https://supreme.justia.com/cases/federal/us/330/1/}{Justia}; \\href{https://www.law.cornell.edu/supremecourt/text/330/1}{Cornell LII}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Majority Opinion:} Justice Black delivered the opinion of the Court, joined by Chief Justice Vinson and Justices Reed, Douglas, and Murphy.\n    \\item \\textbf{Concurring Opinions:} None.\n    \\item \\textbf{Dissenting Opinions:} Justice Jackson filed a dissenting opinion, joined by Justice Frankfurter. Justice Rutledge filed a dissenting opinion, joined by Justices Frankfurter, Jackson, and Burton.\n\\end{itemize}"
+   },
+   {
+    "src": "Notably, all four dissenting Justices agreed with Justice Black's two foundational constitutional premises---that the Establishment Clause is incorporated against the states via the Fourteenth Amendment and that it mandates a strict separation of church and state---but forcefully argued that the majority betrayed its own principles in upholding the Ewing Township reimbursement scheme."
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Majority Opinion (Justice Black)}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Jackson)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Justice Jackson opened",
+    "to": "\\subsection{Dissenting Opinion of Justice Rutledge"
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Rutledge)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Justice Rutledge authored"
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "new": "\\begin{itemize}"
+   },
+   {
+    "new": "\\item \\textbf{Early Applications of the Wall and the Child-Benefit Theory (1948--1971):}",
+    "glue": " "
+   },
+   {
+    "src": "Early decisions enforced Justice Black's ``wall'' to bar in-school religious instruction in \\href{https://supreme.justia.com/cases/federal/us/333/203/}{\\emph{McCollum v. Board of Education}, 333 U.S. 203 (1948)}, and public school prayer in \\href{https://supreme.justia.com/cases/federal/us/370/421/}{\\emph{Engel v. Vitale}, 370 U.S. 421 (1962)}, while allowing off-campus released time in \\href{https://supreme.justia.com/cases/federal/us/343/306/}{\\emph{Zorach v. Clauson}, 343 U.S. 306 (1952)}, and secular textbook loans in \\href{https://supreme.justia.com/cases/federal/us/392/236/}{\\emph{Board of Education v. Allen}, 392 U.S. 236 (1968)}. In \\href{https://supreme.justia.com/cases/federal/us/403/602/}{\\emph{Lemon v. Kurtzman}, 403 U.S. 602 (1971)}, the Court formalized its three-prong purpose, effect, and entanglement test to block direct parochial school salary supplements."
+   },
+   {
+    "new": "\\item \\textbf{Neutrality Becomes a Mandate (2002--2022):}",
+    "glue": " "
+   },
+   {
+    "src": "Since 2002, however, the Court has elevated \\emph{Everson}'s neutrality strand and dismantled its ``no-aid'' wall. \\href{https://supreme.justia.com/cases/federal/us/536/639/}{\\emph{Zelman v. Simmons-Harris}, 536 U.S. 639 (2002)}, upheld neutral school vouchers directed by ``true private choice.'' Although \\href{https://supreme.justia.com/cases/federal/us/540/712/}{\\emph{Locke v. Davey}, 540 U.S. 712 (2004)}, preserved ``play in the joints'' to bar state scholarships for devotional ministry degrees, the Court's Free Exercise trilogy turned \\emph{Everson}'s nondiscrimination dictum into a binding mandate: \\href{https://supreme.justia.com/cases/federal/us/582/15-577/}{\\emph{Trinity Lutheran Church of Columbia, Inc. v. Comer}, 582 U.S. 449 (2017)} (playground grants), \\href{https://supreme.justia.com/cases/federal/us/591/18-1195/}{\\emph{Espinoza v. Montana Department of Revenue}, 591 U.S. 464 (2020)} (invalidating Blaine Amendment exclusions from tax-credit scholarships), and \\href{https://supreme.justia.com/cases/federal/us/596/20-1088/}{\\emph{Carson v. Makin}, 596 U.S. 767 (2022)} (erasing the status/use distinction for Maine tuition aid)."
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Aid Upheld): Free Transit Passes for All Students.} A city gives every enrolled K--12 student a free pass for its public buses and subways, whether the student attends a public, private secular, or religious school. A taxpayer sues, arguing that passes used to reach Catholic and Jewish day schools are tax support for religious institutions. Under \\textit{Everson}, the program is a general public-welfare benefit paid to students and their families, not to the schools, and it is indistinguishable from the bus-fare reimbursements the Court upheld. Excluding religious-school students would make the city an adversary of religion rather than a neutral, so the passes survive the Establishment Clause challenge (\\href{https://supreme.justia.com/cases/federal/us/330/1/}{Justia})."
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Aid Upheld): Loaning Secular Textbooks to All Students.} A state lends approved secular textbooks in mathematics, science, and history to every student in grades 7--12, including students at parochial schools; the books remain state property and the school never receives money. Taxpayers object that the books free up parochial-school budgets for religious instruction. Extending \\textit{Everson}'s child-benefit reasoning, \\href{https://supreme.justia.com/cases/federal/us/392/236/}{\\textit{Board of Education v.\\ Allen}, 392 U.S.\\ 236 (1968)}, upheld exactly this kind of program: the benefit runs to students and parents, the materials are secular, and the State contributes nothing to the schools' religious mission. Rutledge's fungibility objection did not carry the day in \\textit{Everson}, and it does not here."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Aid Invalid): Tax Grants to Pay Clergy Salaries.} To help congregations hit hard by an economic downturn, a county appropriates tax revenue for grants to churches, synagogues, and mosques to pay the salaries of their clergy, distributing the money equally among all faiths that apply. Equal treatment of all religions does not save the program. \\textit{Everson} declared that government may not pass laws that aid all religions and that no tax in any amount may be levied to support religious activities or institutions, and the grants pay for the core religious function itself rather than a service ``separate'' from it like police or fire protection. Madison's objection to the nondiscriminatory Virginia assessment, which both the majority and Rutledge embraced, applies directly."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Practice Invalid): Religious Classes Inside Public Schools.} A public school district lets clergy of several faiths come into its classrooms for an hour each week during the school day to teach religion to students whose parents consent, while other students move to another room for secular study. The program uses the public school building and the State's compulsory-attendance machinery to help religious groups spread their faith. Applying \\textit{Everson}'s incorporated Establishment Clause, \\href{https://supreme.justia.com/cases/federal/us/333/203/}{\\textit{McCollum v.\\ Board of Education}, 333 U.S.\\ 203 (1948)}, held such a program unconstitutional; unlike \\textit{Everson}'s bus fares, the aid here goes to religious instruction itself."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Unresolved): Private Aid Versus Charter Status.}",
+    "glue": " "
+   },
+   {
+    "src": "The State of Franklin reimburses rural parents for private high school tuition and busing, excluding ``sectarian'' schools (Track A), and contracts with private nonprofits to run tuition-free ``public charter schools'' that must be nonsectarian (Track B). Under \\emph{Everson}, \\emph{Zelman}, and \\emph{Carson}, Track A violates the Free Exercise Clause. Track B turns on the unresolved \\emph{Drummond} state-action threshold: if charter schools are state actors, the Establishment Clause bars sectarian operation; if they are private benefit recipients, \\emph{Carson} forbids religious exclusion."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "items": "Pedagogical",
+    "from": "  \\item \\textbf{Federalism",
+    "to": "\\end{itemize}"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "new": "``\\,",
+    "glue": ""
+   },
+   {
+    "src": "The ``establishment of religion'' clause of the First Amendment means at least this: neither a state nor the Federal Government can set up a church. Neither can pass laws which aid one religion, aid all religions, or prefer one religion over another. Neither can force nor influence a person to go to or to remain away from church against his will or force him to profess a belief or disbelief in any religion. No person can be punished for entertaining or professing religious beliefs or disbeliefs, for church attendance or non-attendance. No tax in any amount, large or small, can be levied to support any religious activities or institutions, whatever they may be called, or whatever form they may adopt to teach or practice religion. Neither a state nor the Federal Government can, openly or secretly, participate in the affairs of any religious organizations or groups, and vice versa. In the words of Jefferson, the clause against establishment of religion by law was intended to erect ``a wall of separation between church and State.''",
+    "glue": ""
+   },
+   {
+    "new": "\\,''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Black, J., for the Court, \\href{https://supreme.justia.com/cases/federal/us/330/1/}{330 U.S. at 15--16}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "new": "``",
+    "glue": ""
+   },
+   {
+    "src": "That Amendment requires the state to be a neutral in its relations with groups of religious believers and nonbelievers; it does not require the state to be their adversary. State power is no more to be used so as to handicap religions than it is to favor them. \\ldots{} The First Amendment has erected a wall between church and state. That wall must be kept high and impregnable. We could not approve the slightest breach. New Jersey has not breached it here.",
+    "glue": ""
+   },
+   {
+    "new": "''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Black, J., for the Court, \\href{https://supreme.justia.com/cases/federal/us/330/1/}{330 U.S. at 18}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "new": "``",
+    "glue": ""
+   },
+   {
+    "src": "In fact, the undertones of the opinion, advocating complete and uncompromising separation of Church from State, seem utterly discordant with its conclusion, yielding support to their commingling in educational matters. The case which irresistibly comes to mind as the most fitting precedent is that of Julia who, according to Byron's reports, ``whispering `I will ne'er consent,' -- consented.''",
+    "glue": ""
+   },
+   {
+    "new": "\\,''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Jackson, J., dissenting, \\href{https://supreme.justia.com/cases/federal/us/330/1/}{330 U.S. at 19}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "new": "``",
+    "glue": ""
+   },
+   {
+    "src": "But we cannot have it both ways. Religious teaching cannot be a private affair when the state seeks to impose regulations which infringe on it indirectly, and a public affair when it comes to taxing citizens of one faith to aid another, or those of no faith to aid all. \\ldots{} If the state may aid these religious schools, it may therefore regulate them. Many groups have sought aid from tax funds, only to find that it carried political controls with it.",
+    "glue": ""
+   },
+   {
+    "new": "''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Jackson, J., dissenting, \\href{https://www.law.cornell.edu/supremecourt/text/330/1}{330 U.S. at 27--28}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "new": "``",
+    "glue": ""
+   },
+   {
+    "src": "Neither so high nor so impregnable today as yesterday is the wall raised between church and state by Virginia's great statute of religious freedom and the First Amendment, now made applicable to all the states by the Fourteenth. New Jersey's statute sustained is the first, if indeed it is not the second, breach to be made by this Court's action. That a third, and a fourth, and still others will be attempted we may be sure.",
+    "glue": ""
+   },
+   {
+    "new": "''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Rutledge, J., dissenting, \\href{https://supreme.justia.com/cases/federal/us/330/1/}{330 U.S. at 29}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: parallel citations, court line, lower-court disposition line, constitutional-provisions line (Justia and Cornell links kept in Judicial Votes).",
+  "Separate-opinions intro sentence 'No concurring opinions were filed.' (stated in Judicial Votes); the remaining intro sentence was moved into Judicial Votes.",
+  "Legacy section: opening framing sentence; Kennedy v. Bremerton sentence (abandoning Lemon is not a development of Everson's holding); 'Through 2026' paragraph (Drummond 4--4 affirmance, Catholic Charities, Mahmoud v. Taylor, St. Mary Catholic Parish v. Roy argument) - tangential or unverifiable recent events. Kept: early applications (McCollum, Engel, Zorach, Allen, Lemon) and the Zelman/Locke/Trinity Lutheran/Espinoza/Carson line.",
+  "Key Quotations: bold topical labels before each quotation (only the attribution part is moved).",
+  "Exam Hypothetical: 'Opposite Side' Contrast (St. Mary Catholic Parish v. Roy nondiscrimination-condition scenario) - an exam-discussion prompt resting on a pending 2026 case that cannot be verified; the hypothetical itself is reused as the Fence-Sitter."
+ ],
+ "notes": [
+  "Key Quotations rebuilt from verbatim pieces (manual_quotes list); all five kept, none added. The original sets them as unmarked block quotes, so new opening/closing quotation marks (``...'') were added around each verbatim quote to match Group A style and let normalize_quotes.py convert the attributions; where a quote already ends in '' a thin space separates the marks.",
+  "The Reasoning section's own \\subsection headings remain inside the Majority Opinion subsection (moved verbatim)."
+ ]
+}

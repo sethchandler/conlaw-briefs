@@ -1,0 +1,131 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "Applying the functional test of \\textit{Virginia v. Tennessee}, the Court held 7--2 that the Multistate Tax Compact needed no congressional consent because it gave member states no power they lacked individually and did not enhance state power at the expense of federal supremacy (\\href{https://supreme.justia.com/cases/federal/us/434/452/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "In 1972, United States Steel Corp."
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "In 1972, United States Steel Corp."
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court \\textbf{affirmed} the three-judge District Court by a \\textbf{7--2} vote. The case was argued on October 11, 1977, and decided on February 21, 1978 (\\href{https://supreme.justia.com/cases/federal/us/434/452/}{Justia}; \\href{https://www.law.cornell.edu/supremecourt/text/434/452}{Cornell LII}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Majority Opinion:} Justice Powell delivered the opinion of the Court, joined by Chief Justice Burger and Justices Brennan, Stewart, Marshall, Rehnquist, and Stevens.\n    \\item \\textbf{Concurring Opinions:} None.\n    \\item \\textbf{Dissenting Opinion:} Justice White filed a dissenting opinion, joined by Justice Blackmun.\n\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Question Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Majority Opinion (Justice Powell)}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice White)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "strip": "\\textbf{Justice White (Dissenting, joined by Justice Blackmun):} "
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "new": "\\begin{itemize}"
+   },
+   {
+    "new": "\\item \\textbf{Applied to Regional Banking Statutes:}",
+    "glue": " "
+   },
+   {
+    "src": "In \\href{https://supreme.justia.com/cases/federal/us/472/159/}{\\textit{Northeast Bancorp, Inc. v. Board of Governors}}, 472 U.S. 159 (1985), the Court applied \\textit{U.S. Steel} to uphold regional New England banking statutes, refining the indicia of a ``compact'' (such as a joint organization, non-unilateral withdrawal, and reciprocal obligations) while confirming that even if an agreement existed, it neither enhanced state power over the Federal Government nor impaired nonmember states' sovereignty."
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (No Consent Needed): An Advisory Interstate AI Oversight Commission.}",
+    "glue": " "
+   },
+   {
+    "src": "Fifteen states enact an unconsented ``Interstate AI Oversight Compact'' creating a joint commission that drafts model algorithmic-transparency rules and conducts voluntary joint technical audits of AI companies at a member state's request. Member states may accept or reject any model rule, impose their own fines, and withdraw upon 30 days' notice.",
+    "glue": " "
+   },
+   {
+    "src": "Under \\textit{U.S. Steel}, the compact is valid without congressional consent. Even though Congress has debated federal AI legislation (a ``federal interest''), the compact delegates no sovereign authority, exercises no power unavailable to individual states, permits unilateral withdrawal, and leaves Congress's Commerce Clause preemption power intact."
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (No Consent Needed): Reciprocal Recognition of Teaching Licenses.} Twenty States enact identical statutes agreeing to recognize one another's teaching licenses and creating an advisory council of state education officials that recommends common certification standards. Each State keeps full control over whom it licenses, may ignore the council's recommendations, and may withdraw by repealing its statute. A teachers' union argues that the arrangement is an unconsented compact. Under \\textit{U.S. Steel}, the relevant question is the agreement's potential impact on federal supremacy, and here there is none: every State could recognize out-of-state licenses on its own, the council exercises no sovereign power, and Congress remains free to legislate. The arrangement therefore requires no congressional consent, whether it is called a compact or reciprocal legislation."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Consent Required): A Binding Atlantic Maritime Security Compact.}",
+    "glue": " "
+   },
+   {
+    "src": "Suppose instead twelve coastal states form an unconsented ``Atlantic Maritime Security Compact'' that establishes a binding regional port authority with independent power to levy harbor tariffs on foreign vessels, negotiate bilateral customs-inspection agreements with European nations, and prohibit any member state from withdrawing for 25 years without unanimous consent.",
+    "glue": " "
+   },
+   {
+    "src": "Unlike the Multistate Tax Compact in \\textit{U.S. Steel}, this pact violates the Compact Clause (and the Treaty and Import--Export/Tonnage Clauses). It binds member states irrevocably, delegates sovereign taxing and enforcement powers to an interstate body that no single state could lawfully exercise alone, and directly encroaches upon exclusive federal supremacy over foreign affairs and foreign commerce (\\href{https://www.law.cornell.edu/constitution-conan/article-1/section-1/clause-3/requirement-of-congressional-consent-to-compacts}{Cornell LII Constitution Annotated}). Under \\textit{Virginia v. Tennessee} and \\textit{U.S. Steel}, such an agreement cannot operate without express congressional consent."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Consent Required): Transferring a County Between States.} Two neighboring States agree that a populous county will be detached from the first State and annexed to the second, and each legislature approves the transfer. The second State would gain population, and with it potential seats in the House of Representatives and electoral votes. Under the functional test of \\textit{Virginia v. Tennessee} that \\textit{U.S. Steel} reaffirmed, an agreement requires consent when it tends to increase the political power of the States in a way that may encroach upon the just supremacy of the United States. Shifting a block of population and territory between States alters representation in the national government itself, so the agreement cannot take effect without Congress's consent."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Unsettled): The National Popular Vote Interstate Compact.} States agree to award their presidential electors to the winner of the national popular vote, effective only once States holding a majority of electoral votes have joined. Supporters rely on \\textit{U.S. Steel}: each State already has plenary power under Article II to choose how to appoint its electors, the agreement creates no commission with sovereign power, and members may withdraw. Critics answer with Justice White's point that the Clause must forbid some joint actions that individual States could take alone, and argue that a bloc controlling the outcome of presidential elections changes the national political structure and dilutes the influence of nonmember States. Because \\textit{U.S. Steel} measured harm only against federal supremacy and the Court has never applied it to a compact affecting the selection of federal officers, the outcome is genuinely uncertain."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "items": "Pedagogical",
+    "from": "  \\item \\textbf{Nullification",
+    "to": "\\end{itemize}"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "sec": "Key Quotations"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: docket number, lower-court line (covered in Procedural History), constitutional provision line.",
+  "Legacy section: introductory sentence; Cuyler v. Adams sentence (effect of congressional consent, not an application of U.S. Steel's no-consent holding); 'Expansion of Unconsented Interstate Cooperation' item (statistics and commentary); NPVIC debate item (commentary; its question is the Fence-Sitter). Kept: Northeast Bancorp sentence.",
+  "Exam Hypotheticals: 'Analysis:' and 'Contrast:' labels (text reused in Examples 1 and 3)."
+ ]
+}

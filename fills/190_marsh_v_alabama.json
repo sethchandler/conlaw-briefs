@@ -1,0 +1,278 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "When a private corporation owns and runs an entire company town open to the public, it performs a public function and is bound by the First and Fourteenth Amendments; Alabama therefore could not convict a Jehovah's Witness of trespass for leafletting on the town's business-block sidewalk (\\href{https://supreme.justia.com/cases/federal/us/326/501/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "The company-paid deputy sheriff arrested Marsh"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "The company-paid deputy sheriff arrested Marsh"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court \\textbf{reversed and remanded} by a \\textbf{5--3} vote. The case was argued on December 6, 1945, and decided on January 7, 1946 (\\href{https://supreme.justia.com/cases/federal/us/326/501/}{Justia}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Opinion of the Court:} Justice Black delivered the opinion of the Court, joined by Justices Douglas, Murphy, and Rutledge; Justice Frankfurter joined except as to its Commerce Clause analogy.\n    \\item \\textbf{Concurring Opinion:} Justice Frankfurter filed a concurring opinion (326 U.S. at 510--11).\n    \\item \\textbf{Dissenting Opinion:} Justice Reed filed a dissenting opinion, joined by Chief Justice Stone and Justice Burton (326 U.S. at 511--17).\n    \\item \\textbf{Not Participating:} Justice Jackson took no part in the consideration or decision of the case.\n\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Opinion of the Court (Justice Black)}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Concurring Opinion (Justice Frankfurter)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Justice Frankfurter joined",
+    "to": "\\subsection{Dissenting"
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Reed)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Justice Reed condemned"
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "new": "\\begin{itemize}"
+   },
+   {
+    "new": "\\item \\textbf{Shopping Centers: Expansion and Overruling (1968--1980):}",
+    "glue": " "
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "For two decades",
+    "to": "\\subsection{The ``Traditionally"
+   },
+   {
+    "new": "\\item \\textbf{The ``Traditionally Exclusively'' Requirement (1974--2001):}",
+    "glue": " "
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "Simultaneously, the Court narrowed",
+    "to": "\\subsection{Modern Digital-Era"
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "  \\item \\textbf{\\href{https://supreme.justia.com/cases/federal/us/587/",
+    "to": "  \\item \\textbf{\\href{https://supreme.justia.com/cases/federal/us/601/"
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (State Action Found): The Corporate ``Tech Town.''}",
+    "glue": " "
+   },
+   {
+    "src": "Apex Robotics constructs ``Apexville,'' a 4,000-acre unincorporated settlement in rural Texas housing 12,000 employees and their families. Apex owns all land, streets, sidewalks, utilities, parks, a central retail plaza containing a U.S. Post Office branch, and a private security force cross-deputized by the county sheriff. Roads into Apexville are ungated and open to highway travelers. When a labor organizer stands on the plaza sidewalk outside the post office distributing leaflets criticizing Apex's workplace safety record, Apex's security orders her off the property and has her arrested under the Texas criminal trespass statute.",
+    "glue": " "
+   },
+   {
+    "src": "This is the closest modern analogue to \\textit{Marsh}. Unlike a standalone shopping mall (\\href{https://supreme.justia.com/cases/federal/us/424/507/}{\\textit{Hudgens}}) or cable channel (\\href{https://supreme.justia.com/cases/federal/us/587/17-1702/}{\\textit{Halleck}}), Apexville possesses ``all the attributes of a town''---residential housing, utilities, open thoroughfares, a business block, a post office, and cross-deputized policing. Under \\textit{Marsh}, Apex performs a traditional, exclusive municipal function, and enforcing state criminal trespass law to suppress peaceful leafletting violates the First and Fourteenth Amendments."
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (State Action Found): A Private Company That Runs the County's Elections.} A county contracts with a private corporation to conduct its municipal elections from start to finish: the company qualifies candidates for the ballot, staffs the polls, counts the votes, and certifies the winners. The company refuses to place on the ballot any candidate who has criticized its parent firm. A disqualified candidate sues under the First and Fourteenth Amendments. Running public elections is one of the very few functions the post-\\textit{Marsh} cases treat as traditionally and exclusively reserved to the State, as the white-primary decision in \\href{https://supreme.justia.com/cases/federal/us/345/461/}{\\textit{Terry v.\\ Adams}, 345 U.S.\\ 461 (1953)}, illustrates. As in \\textit{Marsh}, a State cannot hand a governmental function to a private entity and thereby free it from constitutional limits, so the company is a state actor."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (No State Action): The Dominant Social-Media Platform.}",
+    "glue": " "
+   },
+   {
+    "src": "OmniStream, a privately owned social-media network used by 80\\% of a city's residents to follow local news and debate municipal elections, suspends a local activist's account for violating its content-moderation policies. The activist sues under the First Amendment, invoking \\textit{Marsh} and arguing that OmniStream is the ``modern company town.''",
+    "glue": " "
+   },
+   {
+    "src": "\\textbf{No state action.} Under \\href{https://supreme.justia.com/cases/federal/us/587/17-1702/}{\\textit{Halleck}} (587 U.S. 802), hosting a forum for third-party speech is neither a traditional nor an exclusive prerogative of the State. Moreover, under \\href{https://supreme.justia.com/cases/federal/us/603/22-277/}{\\textit{Moody v. NetChoice}} (603 U.S. 707), OmniStream's curation of its feed is itself protected private expressive activity. (Only if a \\textit{government official} personally blocked the activist on an official-authority account would state action arise under \\href{https://supreme.justia.com/cases/federal/us/601/22-611/}{\\textit{Lindke v. Freed}}, 601 U.S. 187.)"
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (No Federal State Action): The Open-Air Lifestyle Shopping Center.}",
+    "glue": " "
+   },
+   {
+    "src": "Galleria Commons is a massive, privately owned outdoor shopping and dining complex with faux ``Main Street'' sidewalks, benches, and a private fountain plaza open to the general public, but containing no residences, municipal utilities, or governmental services. Management ejects political petitioners under state trespass law.",
+    "glue": " "
+   },
+   {
+    "src": "\\textbf{No federal state action.} Under \\href{https://supreme.justia.com/cases/federal/us/407/551/}{\\textit{Lloyd Corp. v. Tanner}} (407 U.S. 551) and \\href{https://supreme.justia.com/cases/federal/us/424/507/}{\\textit{Hudgens v. NLRB}} (424 U.S. 507), inviting the public onto commercial property to shop does not convert a retail center into a municipality. Unless the applicable \\textit{state constitution} grants an affirmative right of access on private mall property (per \\href{https://supreme.justia.com/cases/federal/us/447/74/}{\\textit{PruneYard}}, 447 U.S. 74), the petitioners lose on federal constitutional grounds."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Uncertain): The Developer-Owned New Town.} A developer builds and continues to own an unincorporated, ungated community of 20,000 residents in which it holds title to every street, sidewalk, park, and the central shopping district, and it employs private security officers who enforce its rules; but the county supplies police, fire protection, water, and public schools. The developer bars petition circulators from its town-center sidewalks. The streets are open to the public and the town looks like the Chickasaw business block, which favors applying \\textit{Marsh}. Yet \\textit{Hudgens} confined \\textit{Marsh} to private property with all the attributes of a town, and here the core municipal services remain public. Because the Court has never said how many municipal attributes are enough, a court could reasonably go either way."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "items": "Pedagogical",
+    "from": "  \\item \\textbf{Ambiguous",
+    "to": "\\end{itemize}"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``Ownership does not always mean absolute dominion. The more an owner, for his advantage, opens up his property for use by the public in general, the more do his rights become circumscribed by the statutory and constitutional rights of those who use it.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/326/501/}{Black, J., 326 U.S. at 506}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``Whether a corporation or a municipality owns or possesses the town, the public in either case has an identical interest in the functioning of the community in such manner that the channels of communication remain free.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/326/501/}{Black, J., 326 U.S. at 507}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``Many people in the United States live in company-owned towns. These people, just as residents of municipalities, are free citizens of their State and country. Just as all other citizens, they must make decisions which affect the welfare of community and nation. To act as good citizens, they must be informed. In order to enable them to be properly informed, their information must be uncensored.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/326/501/}{Black, J., 326 U.S. at 508}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``When we balance the Constitutional rights of owners of property against those of the people to enjoy freedom of press and religion, as we must here, we remain mindful of the fact that the latter occupy a preferred position.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/326/501/}{Black, J., 326 U.S. at 509}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``A company-owned town gives rise to a network of property relations. As to these, the judicial organ of a State has the final say. But a company-owned town is a town. In its community aspects, it does not differ from other towns.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/326/501/}{Frankfurter, J., concurring, 326 U.S. at 510--11}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``The rights of the owner, which the Constitution protects as well as the right of free speech, are not outweighed by the interests of the trespasser, even though he trespasses in behalf of religion or free speech.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/326/501/}{Reed, J., dissenting, 326 U.S. at 516}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: procedural posture line, constitutional provisions line, Chapter/Topic and duplicate URL lines (Justia link kept in Judicial Votes).",
+  "Legacy section: introductory paragraph; subsection headings (replaced by short item labels); digital-era intro paragraph; Lindke v. Freed item (state action by government officials, not an application of Marsh's public-function holding); Moody v. NetChoice item and 'As of 2026' closing (Moody decided editorial rights, not state action; still cited in Example 3). Kept: Logan Valley/Lloyd/Hudgens/PruneYard arc, Jackson/Flagg Bros./Rendell-Baker/Blum tightening, Halleck.",
+  "Key Quotations: lead-in sentence claiming verification; bold topical labels; the '(Frankfurter, J., concurring)' / '(Reed, J., dissenting)' trailing tags in item 5 (the paired quotes now carry their own attribution lines).",
+  "Exam Hypotheticals: headings, the 'Contrast Apexville with two scenarios' lead-in, and 'Analysis:' / 'Opposite-Side Result:' labels (fact patterns and analyses reused in Examples 1, 3, 4)."
+ ],
+ "notes": [
+  "Key Quotations rebuilt from verbatim pieces (manual_quotes list); all six quotations kept (item 5's two quotes split into two blocks), none added."
+ ]
+}

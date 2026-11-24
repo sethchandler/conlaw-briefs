@@ -1,0 +1,149 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "A Missouri judgment on an award arising from a Mississippi cotton-futures contract that was illegal in Mississippi had to be enforced in Mississippi: the Court held 5--4, per Justice Holmes, that full faith and credit bars collateral attack on a sister-state judgment for errors of law, leaving only want of jurisdiction as a defense (\\href{https://supreme.justia.com/cases/federal/us/210/230/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "As Justice White's dissent recounts"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "As Justice White's dissent recounts"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court \\textbf{reversed} the Supreme Court of Mississippi by a \\textbf{5--4} vote. The case was argued on April 27--28, 1908, and decided on May 18, 1908 (\\href{https://supreme.justia.com/cases/federal/us/210/230/}{Justia}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Majority Opinion:} Justice Holmes delivered the opinion of the Court, joined by Chief Justice Fuller and Justices Brewer, Peckham, and Moody.\n    \\item \\textbf{Concurring Opinions:} None.\n    \\item \\textbf{Dissenting Opinion:} Justice White filed a dissenting opinion, joined by Justices Harlan, McKenna, and Day.\n\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Majority Opinion (Justice Holmes)}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice White)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "White argued that the majority"
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "new": "\\begin{itemize}"
+   },
+   {
+    "new": "\\item \\textbf{Extension to Jurisdiction-Denying Statutes:}",
+    "glue": " "
+   },
+   {
+    "src": "In \\href{https://supreme.justia.com/cases/federal/us/252/411/}{\\textit{Kenney v. Supreme Lodge of the World}, 252 U.S. 411 (1920)}, Holmes extended \\textit{Fauntleroy} to hold that a state cannot evade Full Faith and Credit by the simple device of denying jurisdiction to its courts over out-of-state wrongful-death judgments."
+   },
+   {
+    "new": "\\item \\textbf{No Public-Policy Exception Reaffirmed:} In",
+    "glue": " "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/522/222/}{\\textit{Baker v. General Motors Corp.}, 522 U.S. 222 (1998)}, Justice Ginsburg reaffirmed \\textit{Fauntleroy}'s core rule that the Full Faith and Credit obligation for judgments is ``exacting'' and admits no public-policy exception, even while carving out a narrow limit: one state's equitable anti-suit or anti-testimony decree cannot control the evidentiary machinery of a sister state's courts in litigation involving nonparties."
+   },
+   {
+    "new": "\\item \\textbf{Applied to Adoption Decrees:} In",
+    "glue": " "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/577/464/}{\\textit{V.L. v. E.L.}, 577 U.S. 404 (2016)} (per curiam), a unanimous Court summarily reversed the Alabama Supreme Court for refusing to recognize a Georgia second-parent adoption decree, directly quoting Holmes's rule in \\textit{Fauntleroy} that courts must be ``slow to read ambiguous words'' in a sister state's statute as jurisdictional rather than merits-based."
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Judgment Must Be Enforced): An Illegal Sports Wager.}",
+    "glue": " "
+   },
+   {
+    "src": "State A prohibits sports-betting debts as a misdemeanor and declares them ``unenforceable in any court.'' Resident X and Resident Y, both domiciled in State A, enter an illegal wager in State A. While Y attends a trade show in State B, X serves Y and obtains a final civil money judgment in State B's trial court, which mistakenly rejects Y's State A illegality defense. Y does not appeal in State B. When X seeks to enforce the judgment in State A, State A's courts refuse on public-policy grounds.",
+    "glue": " "
+   },
+   {
+    "src": "Under \\textit{Fauntleroy}, State A \\textbf{must} enforce the judgment. State B had valid personal jurisdiction (in-state service) and subject-matter jurisdiction; its mistake of State A law had to be corrected on direct appeal in State B, not collaterally in State A."
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Judgment Must Be Enforced): Damages for Breach of a Non-Compete.} State C's statutes declare employee non-compete agreements void as against public policy. An employer sues a former employee in State D, where the employee worked and where non-competes are enforceable, and obtains a final money judgment for breach of a non-compete covering State C. The employee moves home to State C, and the employer seeks to enforce the judgment there. State C's courts may not refuse on the ground that the underlying agreement offends State C's policy. State D had jurisdiction over the parties and the claim, so under \\textit{Fauntleroy} its judgment is conclusive even if it misjudged which State's law should govern; the employee's remedy was appeal in State D (\\href{https://supreme.justia.com/cases/federal/us/210/230/}{Justia})."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Enforcement May Be Refused): A State Civil Penalty Against an Absent Defendant.}",
+    "glue": " "
+   },
+   {
+    "src": "Now alter the facts so that \\textit{State B's Attorney General} obtains a \\$100,000 statutory civil penalty in State B against Y (a State A resident who never entered State B and never appeared) for mailing regulated goods into State B, and seeks enforcement in State A. Here, State A has two potent \\textit{Fauntleroy}-compatible defenses that flip the outcome: (1) \\textit{lack of personal jurisdiction} in State B (which Holmes expressly preserved as a valid collateral attack, 210 U.S. at 237, and which Y did not waive by defaulting), and (2) the \\textit{penal-judgment exception} (\\href{https://supreme.justia.com/cases/federal/us/146/657/}{\\textit{Huntington v. Attrill}, 146 U.S. 657 (1892)}), arguing that a state-brought punitive fine---unlike Fauntleroy's private contract/arbitration recovery---is a penal obligation that sister states need not execute."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Decree Need Not Be Obeyed): An Injunction Against Testifying.}",
+    "glue": " "
+   },
+   {
+    "src": "A third contrast arises under \\href{https://supreme.justia.com/cases/federal/us/522/222/}{\\textit{Baker v. General Motors Corp.}, 522 U.S. 222 (1998)}: if State B enters an injunction barring Y from testifying in State A on behalf of nonparty strangers, State A may disregard the order because one state's decree cannot hijack another state's evidentiary procedures against nonparties."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Uncertain): A Private Bounty Judgment.} State E authorizes any private person to sue anyone who assists a specified activity and to recover at least \\$10,000 per violation, without proof of personal injury. A State E court, with personal jurisdiction over the defendant, enters such a judgment, and the plaintiff seeks to enforce it in State F, where the activity is lawful. \\textit{Fauntleroy} forbids State F from refusing merely because the judgment offends its public policy. State F's best argument is the penal-judgment exception of \\textit{Huntington v. Attrill}: the award looks like a fine for a public wrong. But the plaintiff is a private party collecting a civil award, which resembles the private recovery enforced in \\textit{Fauntleroy}. Which side of that line a bounty judgment falls on is unsettled."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "items": "Pedagogical",
+    "from": "    \\item \\textbf{Forum-Shopping",
+    "to": "\\end{itemize}"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "sec": "Key Quotations"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: docket number, lower-court citation, provisions line, duplicate source link (Justia link kept in Judicial Votes).",
+  "Concurring and Dissenting: first paragraph ('no concurring opinions'; dissent alignment) - restated in Judicial Votes.",
+  "Legacy section: 'iron law' introductory paragraph; Roche v. McDonald / Milwaukee County sentence; post-Dobbs shield-law paragraph (pending 2025-2026 litigation and commentary, not a decision applying Fauntleroy). Kept: Kenney, Baker, V.L. v. E.L.",
+  "Exam Hypothetical: headings and 'Analysis' / 'Opposite Side Contrast' labels."
+ ],
+ "notes": [
+  "Example 5 is a new hypothetical about private-enforcement statutes; it names no real statute or case beyond Huntington v. Attrill, which the brief already cites."
+ ]
+}

@@ -1,0 +1,60 @@
+"""Fill for 232_united_states_v_pink. See tools/fillkit.py."""
+from fillkit import *
+
+J = "https://supreme.justia.com/cases/federal/us/315/203/"
+FILL = {
+ "sections": {
+  "Memory Jogger": [N(r"The Litvinov Assignment, an executive agreement the President made without the Senate when recognizing the Soviet Union, gave the United States title to a nationalized Russian insurer's New York assets; the Court held 5--2 that the agreement overrode New York's contrary law and policy just as a treaty would (\href{" + J + r"}{Justia}).")],
+  "Detailed Case Facts": [SEC("Facts and Procedural History", to="After an earlier federal suit was remitted")],
+  "Procedural History": [SEC("Facts and Procedural History", frm="After an earlier federal suit was remitted")],
+  "Judicial Votes": [
+    N(r"The Supreme Court \textbf{reversed and remanded} by a \textbf{5--2} vote. The case was argued on December 15, 1941, and decided on February 2, 1942 (\href{" + J + r"}{Justia}; \href{https://www.law.cornell.edu/supremecourt/text/315/203}{Cornell LII}):"),
+    N(r"""\begin{itemize}
+    \item \textbf{Majority Opinion:} Justice Douglas delivered the opinion of the Court, joined by Justices Black, Frankfurter, Murphy, and Byrnes.
+    \item \textbf{Concurring Opinion:} Justice Frankfurter filed a concurring opinion.
+    \item \textbf{Dissenting Opinion:} Chief Justice Stone filed a dissenting opinion, joined by Justice Roberts.
+    \item \textbf{Not Participating:} Justices Reed and Jackson did not participate.
+\end{itemize}"""),
+  ],
+  "Holding": [N(r"\textbf{Questions Presented:}"), SEC("Issue"), N(r"\textbf{Holding:}"), SEC("Holding")],
+  "Analysis of Opinions": [
+    N(r"\subsection{Majority Opinion (Justice Douglas)}"), SEC("Reasoning"),
+    N(r"\subsection{Concurring Opinion (Justice Frankfurter)}"),
+    SEC("Concurring and Dissenting", frm="Joining the Court's opinion", to=r"\textbf{Dissent (Chief Justice Stone"),
+    N(r"\subsection{Dissenting Opinion (Chief Justice Stone)}"),
+    SEC("Concurring and Dissenting", frm="Chief Justice Stone argued"),
+    N(r"\subsection{Subsequent Developments}"),
+    N(r"\begin{itemize}"),
+    N(r"\item \textbf{Applied (\textit{Dames \& Moore}):}", glue=" "),
+    S(r"In \textit{Dames \& Moore v. Regan}, 453 U.S. 654 (1981), the Court upheld President Carter's Algiers Accords suspending private U.S. lawsuits against Iran, relying heavily on historical congressional acquiescence alongside \textit{Belmont} and \textit{Pink}."),
+    N(r"\item \textbf{Applied (\textit{Garamendi}):}", glue=" "),
+    S(r"In \href{https://supreme.justia.com/cases/federal/us/539/396/}{\textit{American Insurance Ass'n v. Garamendi}}, 539 U.S. 396 (2003), a 5--4 Court relied directly on \textit{Belmont} and \textit{Pink} to hold that President Clinton's executive agreements with Germany establishing a voluntary Holocaust-era insurance compensation mechanism preempted California's mandatory disclosure statute, even without an express preemption clause."),
+    N(r"\item \textbf{Narrowed (\textit{Medell\'in}):} In", glue=" "),
+    S(r"\href{https://supreme.justia.com/cases/federal/us/552/491/}{\textit{Medell\'in v. Texas}}, 552 U.S. 491 (2008), the Court sharply distinguished \textit{Belmont}, \textit{Pink}, and \textit{Garamendi} as a ``narrow set of circumstances'' involving longstanding executive practice in settling foreign claims with congressional acquiescence, refusing to let a presidential memorandum enforce a non-self-executing treaty obligation against Texas criminal procedure."),
+    N(r"\end{itemize}"),
+  ],
+  "Examples: Future Applications": [
+    N(r"\begin{enumerate}"),
+    N(r"\item \textbf{Same-Side (Agreement Preempts State Law): Nation Z's Airline Assets.}", glue=" "),
+    S(r"To normalize diplomatic relations with Nation Z after a civil war, the President signs a sole executive agreement---never submitted to the Senate or Congress---that (1) assigns all U.S.-situs assets of Nation Z's nationalized state airline to the United States to compensate American passengers, and (2) requires all U.S. states to waive their state-court statutes of limitations for tort suits brought by Nation Z's diplomats against American citizens. A state court refuses to enforce either provision. How should the Supreme Court rule?", glue=" "),
+    S(r"Provision (1) sits squarely inside \textit{Belmont}, \textit{Pink}, and \textit{Garamendi}: it is a classic claims-settlement agreement incident to formal recognition, carrying preemptive force over conflicting state asset-distribution rules."),
+    N(r"\item \textbf{Same-Side (Agreement Preempts State Law): Ending State-Court Attachments After Recognition.} When the United States recognizes a new government in Nation R, the President agrees by exchange of letters that all claims of American nationals against Nation R will be resolved by a binding international claims commission and that pending attachments of Nation R's property in American courts will be released. A creditor who obtained a state-court attachment of Nation R's bank deposits in Illinois argues that the President cannot, without the Senate, override Illinois attachment law. Under \textit{Pink}, settling claims to remove obstacles to recognition is a modest implied power of the President, and the resulting agreement has the same supremacy over state law and policy that a treaty would. The Illinois court must release the attachment; the creditor's remedy lies before the claims commission."),
+    N(r"\item \textbf{Opposite-Side (Agreement Does Not Preempt): Nation Z's Statute-of-Limitations Waiver.} Return to the Nation Z agreement.", glue=" "),
+    S(r"Provision (2), however, falls on the \textit{Medell\'in} side of the line: altering general state tort limitations rules for private litigation lacks the historical pedigree of claims settlement and congressional acquiescence, impermissibly turning unilateral executive diplomacy into domestic lawmaking."),
+    N(r"\item \textbf{Opposite-Side (Agreement Likely Ineffective): Overriding a Federal Statute.} Congress enacts a statute imposing trade sanctions on companies owned by Nation W and directs the Treasury to enforce them. Seeking better relations, the President signs an executive agreement with Nation W promising that its companies will be exempt, and a company prosecuted for violating the sanctions invokes the agreement as a defense. \textit{Pink} does not help it. \textit{Pink} held that a sole executive agreement incident to recognition prevails over conflicting \textit{state} law because foreign affairs belong to the national government; it did not hold that the President may displace an Act of Congress. Here the President acts against Congress's expressed will, where executive power is at its lowest under Justice Jackson's framework in \textit{Youngstown Sheet \& Tube Co. v. Sawyer}, 343 U.S. 579 (1952), and \textit{Medell\'in} confined \textit{Pink} to a narrow set of circumstances. The statute likely controls."),
+    N(r"\item \textbf{Fence-Sitter (Open Question): A Claims Settlement That Wipes Out American Creditors' Liens.} As part of recognizing a new government in Nation V, the President agrees to accept a lump-sum payment in full settlement of all American claims and to transfer to Nation V the frozen assets that American creditors had already attached in state courts. The creditors, all U.S. nationals, claim a taking of their property without just compensation. \textit{Pink} supports the agreement's power to displace state law, and its due process holding allowed the United States to prefer itself and its nationals over foreign creditors. But \textit{Pink} did not involve extinguishing American creditors' vested state-law liens, and in \textit{Dames \& Moore v. Regan}, 453 U.S. 654 (1981), the Court upheld a similar suspension of claims while declining to decide whether the creditors were entitled to compensation. Whether the agreement effects a compensable taking remains uncertain."),
+    N(r"\end{enumerate}"),
+  ],
+  "Critique": [SEC("Pedagogical", frm=r"\textbf{Pedagogical Critique:}", to=r"\textbf{``Opposite Side''")],
+  "Key Quotations": [SEC("Key Quotations")],
+ },
+ "dropped": [
+  "Case Metadata: parallel reporter citations, court and posture line, Briefing Book placement line, provisions list (Justia and Cornell links kept in Judicial Votes).",
+  "Concurring and Dissenting: the bold labels 'Concurrence (Justice Frankfurter):' and 'Dissent (Chief Justice Stone, joined by Justice Roberts):' (replaced by subsection headings).",
+  "Legacy section: first paragraph (high-water-mark characterization, Bricker Amendment); the opening framing sentence of the second paragraph; Zivotofsky v. Kerry sentence (recognition power generally, with its own brief) and the closing 'Thus, Pink remains binding law' sentence. Kept: Dames & Moore, Garamendi, Medellin.",
+  "Pedagogical section: 'Opposite Side' Contrast with Medellin v. Texas - a comparison of two real cases rather than a hypothetical; Medellin is kept under Subsequent Developments. Exam Hypothetical: 'Analysis:' label; its two provisions are reused as Examples 1 and 3.",
+ ],
+ "notes": ["Examples 1 and 3 both draw on Neon's single Nation Z hypothetical (provision 1 and provision 2 respectively)."],
+}
+
+emit(__file__, FILL)

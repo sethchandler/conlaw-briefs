@@ -1,0 +1,159 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "In \\textit{The Chinese Exclusion Case}, a unanimous Court upheld the Scott Act's bar on the return of Chinese laborers holding reentry certificates, holding that a later statute overrides an earlier conflicting treaty and that Congress's power to exclude noncitizens is an inherent incident of sovereignty whose exercise is conclusive on the courts (\\href{https://supreme.justia.com/cases/federal/us/130/581/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "Chae Chan Ping petitioned the U.S. Circuit Court"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "Chae Chan Ping petitioned the U.S. Circuit Court"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court unanimously \\textbf{affirmed} the Circuit Court's denial of habeas corpus, \\textbf{9--0}. The case was argued on March 28--29, 1889, and decided on May 13, 1889 (\\href{https://supreme.justia.com/cases/federal/us/130/581/}{Justia}; \\href{https://www.law.cornell.edu/supremecourt/text/130/581}{Cornell LII}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Opinion of the Court:} Justice Field delivered the opinion for a unanimous Court.\n    \\item \\textbf{Concurring Opinions:} None.\n    \\item \\textbf{Dissenting Opinions:} None.\n\\end{itemize}"
+   },
+   {
+    "src": "(Four years later, however, Justice Field himself dissented in \\textit{Fong Yue Ting v. United States}, 149 U.S.\\ 698 (1893), arguing that while Congress enjoyed plenary power to \\textit{exclude} noncitizens at the border, resident noncitizens already inside the United States could not be \\textit{deported} without Fifth and Sixth Amendment protections (\\href{https://supreme.justia.com/cases/federal/us/149/698/}{Justia}).)"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Opinion of the Court (Justice Field)}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "new": "\\begin{itemize}"
+   },
+   {
+    "new": "\\item \\textbf{Expansion of the Plenary Power:}",
+    "glue": " "
+   },
+   {
+    "src": "Immediately after 1889, the Court expanded \\textit{Chae Chan Ping} into a sweeping edifice of immigration exceptionalism: \\textit{Nishimura Ekiu v. United States}, 142 U.S.\\ 651 (1892) (\\href{https://supreme.justia.com/cases/federal/us/142/651/}{Justia}) (executive officers' exclusion decisions constitute due process for arriving noncitizens); \\textit{Fong Yue Ting v. United States}, 149 U.S.\\ 698 (1893) (\\href{https://supreme.justia.com/cases/federal/us/149/698/}{Justia}) (extending plenary power from border exclusion to interior deportation); and \\textit{United States ex rel.\\ Knauff v. Shaughnessy}, 338 U.S.\\ 537 (1950), and \\textit{Shaughnessy v. United States ex rel.\\ Mezei}, 345 U.S.\\ 206 (1953) (upholding indefinite exclusion without a hearing on confidential security grounds)."
+   },
+   {
+    "new": "\\item \\textbf{Limits:}",
+    "glue": " "
+   },
+   {
+    "src": "Even when the Court recognized limited boundaries---such as forbidding criminal hard labor without a jury trial in \\textit{Wong Wing v. United States}, 163 U.S.\\ 228 (1896) (\\href{https://supreme.justia.com/cases/federal/us/163/228/}{Justia}), or requiring a ``facially legitimate and bona fide reason'' when visa denials implicate U.S.\\ citizens' First Amendment rights in \\textit{Kleindienst v. Mandel}, 408 U.S.\\ 753 (1972)---the core deference survived."
+   },
+   {
+    "new": "\\item \\textbf{Modern Reaffirmation:}",
+    "glue": " "
+   },
+   {
+    "src": "In \\textit{Trump v. Hawaii}, 585 U.S.\\ 667 (2018), the Court applied deferential \\textit{Mandel}-style rational-basis review to uphold Presidential Proclamation 9645 restricting entry from several predominantly Muslim nations."
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Statute Controls): Revoking a Visa-Waiver Treaty.}",
+    "glue": " "
+   },
+   {
+    "src": "The United States ratifies a bilateral treaty guaranteeing citizens of Country X visa-free entry for business visits. Two years later, citing economic competition and security fears, Congress enacts a statute barring all Country X nationals from entering the United States and voiding all previously issued visas. A Country X national detained at an airport with a valid visa seeks habeas corpus.",
+    "glue": " "
+   },
+   {
+    "src": "Under \\textit{Chae Chan Ping}, the habeas petition fails. Congress's later-in-time statute abrogates the conflicting treaty as domestic law, the visa is a revocable license rather than a vested property right, and Congress's exclusion decision is largely conclusive upon the Judiciary."
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Later Statute Controls): A Tax Statute Overriding a Treaty.} A self-executing tax treaty between the United States and Country Y exempts Y's residents from U.S. tax on certain interest income. Congress later enacts a statute taxing that income for all foreign recipients, without mentioning the treaty. A Y resident sues for a refund, arguing that the treaty guarantees the exemption. Under the later-in-time rule that \\textit{Chae Chan Ping} applied, a treaty and a federal statute stand on equal footing as the supreme law of the land, so ``the last expression of the sovereign will must control.'' The statute governs in U.S. courts; whether the United States has breached its international obligations is a matter for the political branches and diplomacy, not the courts (\\href{https://supreme.justia.com/cases/federal/us/130/581/}{Justia})."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Plenary Power Does Not Shield the Statute): Imprisonment at Hard Labor Without a Jury.} Suppose Congress",
+    "glue": " "
+   },
+   {
+    "src": "enacts a statute authorizing immigration officers, without a jury trial or criminal indictment, to sentence noncitizens found unlawfully present in the interior to two years of imprisonment at hard labor prior to deportation",
+    "glue": ""
+   },
+   {
+    "new": ".",
+    "glue": " "
+   },
+   {
+    "src": "Under \\textit{Wong Wing v. United States}, 163 U.S.\\ 228 (1896), while Congress may detain or deport noncitizens administratively, imposing infamous criminal punishment inside the United States triggers full Fifth and Sixth Amendment criminal-procedure protections."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (No Deference to the Executive): A Proclamation Contrary to Statute.} Suppose",
+    "glue": " "
+   },
+   {
+    "src": "the President issues an executive proclamation barring all asylum applications at the border in direct contradiction of an existing federal statute (8 U.S.C.\\ \\S\\ 1158(a)(1)) granting a right to apply",
+    "glue": ""
+   },
+   {
+    "new": ".",
+    "glue": " "
+   },
+   {
+    "src": "\\textit{Chae Chan Ping} vested plenary exclusion power in \\textit{Congress} (the legislative department); when the President acts contrary to Congress's express statutory scheme, executive power is at its ``lowest ebb'' under \\textit{Youngstown Sheet \\& Tube Co.\\ v. Sawyer}, and courts may enjoin ultra vires executive action without questioning Congress's sovereign authority."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Uncertain): A Statute Excluding Immigrants of One Religion.} Congress enacts a statute barring the admission of any immigrant who belongs to a named religion. A U.S. citizen whose spouse is denied a visa under the statute sues, invoking the Establishment and Equal Protection principles. \\textit{Chae Chan Ping} treated Congress's exclusion judgments, even explicitly racial ones, as ``conclusive upon the judiciary,'' and \\textit{Mandel} and \\textit{Trump v. Hawaii} apply highly deferential review to entry decisions. But \\textit{Trump v. Hawaii} emphasized that the proclamation there was neutral on its face, leaving open whether a facially religious exclusion would receive the same deference. Whether the plenary power tolerates an express religious exclusion has never been decided."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "items": "Pedagogical",
+    "from": "  \\item \\textbf{Extratextual",
+    "to": "\\end{itemize}"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "sec": "Key Quotations"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: alternate name line, docket number, Briefing Book placement line, lower-court citation, duplicate source links (Justia and Cornell links kept in Judicial Votes).",
+  "Concurring and Dissenting: 'None. Justice Field spoke for a unanimous nine-Justice Court.' (restated in Judicial Votes; the Fong Yue Ting note is moved there).",
+  "Legacy section: framing paragraph (Michigan Law Review); 'twenty-first century' lead-in; Thuraissigiam and Munoz sentences (consular nonreviewability / expedited removal - tangential); 'Through 2026' paragraph (lower-court and pending litigation, law-review commentary). Kept: Nishimura Ekiu / Fong Yue Ting / Knauff / Mezei expansion, Wong Wing / Mandel limits, Trump v. Hawaii.",
+  "Exam Hypothetical 2: 'OR' structure and opening 'Unlike Chae Chan Ping, plenary power does not insulate either measure' sentence; its two scenarios are split into Examples 3 and 4."
+ ],
+ "notes": []
+}

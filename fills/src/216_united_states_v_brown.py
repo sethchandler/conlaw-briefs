@@ -1,0 +1,56 @@
+"""Fill for 216_united_states_v_brown. See tools/fillkit.py."""
+from fillkit import *
+
+J = "https://supreme.justia.com/cases/federal/us/381/437/"
+FILL = {
+ "sections": {
+  "Memory Jogger": [N(r"A longtime Communist Party member elected to a longshoremen's union board was prosecuted under a law barring Party members from union office; the Court held 5--4 that the law was a bill of attainder, because Congress itself singled out a named group for punishment instead of enacting a general rule for courts to apply (\href{" + J + r"}{Justia}).")],
+  "Detailed Case Facts": [SEC("Facts and Procedural History", to="On May 24, 1961, a federal grand jury")],
+  "Procedural History": [SEC("Facts and Procedural History", frm="On May 24, 1961, a federal grand jury")],
+  "Judicial Votes": [
+    N(r"The Supreme Court \textbf{affirmed} the Ninth Circuit's judgment dismissing the indictment by a \textbf{5--4} vote. The case was argued on March 29, 1965, and decided on June 7, 1965 (\href{" + J + r"}{Justia}; \href{https://www.law.cornell.edu/supremecourt/text/381/437}{Cornell LII}):"),
+    N(r"""\begin{itemize}
+    \item \textbf{Majority Opinion:} Chief Justice Warren delivered the opinion of the Court, joined by Justices Black, Douglas, Brennan, and Goldberg.
+    \item \textbf{Concurring Opinions:} None.
+    \item \textbf{Dissenting Opinion:} Justice White filed a dissenting opinion, joined by Justices Clark, Harlan, and Stewart.
+\end{itemize}"""),
+  ],
+  "Holding": [N(r"\textbf{Questions Presented:}"), SEC("Issue"), N(r"\textbf{Holding:}", glue=" "), SEC("Holding")],
+  "Analysis of Opinions": [
+    N(r"\subsection{Majority Opinion (Chief Justice Warren)}"), SEC("Reasoning"),
+    N(r"\subsection{Dissenting Opinion (Justice White)}"),
+    SEC("Concurring and Dissenting", frm="Justice White dissented"),
+    N(r"\subsection{Subsequent Developments}"),
+    N(r"\begin{itemize}"),
+    N(r"\item \textbf{Narrowed (\textit{Nixon v. Administrator of General Services}):}", glue=" "),
+    S(r"In \href{https://supreme.justia.com/cases/federal/us/433/425/}{\textit{Nixon v. Administrator of General Services}}, 433 U.S. 425 (1977), the Court upheld the Presidential Recordings and Materials Preservation Act, which named former President Richard Nixon specifically, holding that Nixon constituted a ``legitimate class of one'' and that specificity alone does not create an attainder. \textit{Nixon} established the modern three-part inquiry for ``punishment'': (1) the historical test (whether the burden falls within traditional attainder penalties), (2) the functional test (whether the law reasonably furthers nonpunitive legislative purposes), and (3) the motivational test (whether the legislative record evinces punitive intent)."),
+    N(r"\item \textbf{Applied (\textit{Selective Service System v. MPIRG}):}", glue=" "),
+    S(r"Seven years later, \href{https://supreme.justia.com/cases/federal/us/468/841/}{\textit{Selective Service System v. Minnesota Public Interest Research Group}}, 468 U.S. 841 (1984), reinforced \textit{Nixon} by upholding a law denying federal student aid to non-registrants for the draft, emphasizing both its nonpunitive compliance goal and students' ability to qualify by registering."),
+    N(r"\end{itemize}"),
+  ],
+  "Examples: Future Applications": [
+    N(r"\begin{enumerate}"),
+    N(r"\item \textbf{Same-Side (Attainder): Barring Members of a Named Protest Group From Utility Boards.}", glue=" "),
+    S(r"After congressional hearings link an activist coalition, ``GridLock Now,'' to disruptive energy protests, Congress enacts a federal statute making it a felony for any current member---or anyone who belonged to GridLock Now during the past three years---to serve as an officer or board member of any interstate electric utility. A utility director who joined GridLock Now two years ago to support solar incentives, and never advocated disruption, is indicted.", glue=" "),
+    S(r"Under \textit{Brown}, the statute fails as a bill of attainder: it singles out an ascertainable political group by name, imposes a historical vocational bar backed by criminal punishment and a multi-year lookback, and substitutes legislative factfinding about group propensities for individualized judicial adjudication, regardless of Congress's preventive grid-security rationale."),
+    N(r"\item \textbf{Same-Side (Attainder): A Rider Cutting Off Named Officials' Salaries.} After a committee hearing in which members accuse three named career employees of an executive agency of disloyalty, Congress attaches a rider to an appropriations bill providing that no funds may be used to pay their salaries unless they are reappointed by the President with Senate confirmation. The employees sue for their pay. This is the pattern of \href{https://supreme.justia.com/cases/federal/us/328/303/}{\textit{United States v. Lovett}}, 328 U.S. 303 (1946), on which \textit{Brown} relied: Congress identified specific people, found them blameworthy without a trial, and imposed a permanent bar from government employment, a vocational disqualification that \textit{Brown} recognized as classic attainder punishment. That Congress acted through its spending power, or claimed only to protect the agency in the future, does not help; \textit{Brown} held that preventive aims are still punishment."),
+    N(r"\item \textbf{Opposite-Side (Valid General Rule): Disqualification After an Individualized Hearing.}", glue=" "),
+    S(r"First, a statute barring any person from serving as an electric-utility officer if a federal agency or court finds, after an individualized hearing with judicial review, that the person conspired to sabotage critical infrastructure mirrors the general behavioral rulemaking Warren endorsed in \textit{Brown} (\href{https://supreme.justia.com/cases/federal/us/381/437/}{381 U.S. at 461}) and \textit{Communist Party v. SACB}."),
+    N(r"\item \textbf{Opposite-Side (Likely Valid): A Procurement Ban Naming a Foreign-Controlled Vendor.} A statute", glue=" "),
+    S(r"prohibiting federal procurement of grid-control software from a named foreign-adversary-controlled vendor (or requiring foreign divestiture) would likely be upheld under \href{https://supreme.justia.com/cases/federal/us/433/425/}{\textit{Nixon}}, \href{https://law.justia.com/cases/federal/district-courts/texas/txedce/4:2019cv00159/188186/51/}{\textit{Huawei}}, and \href{https://law.justia.com/cases/federal/appellate-courts/cadc/24-1113/24-1113-2024-12-06.html}{\textit{TikTok}} as nonpunitive, prospective national-security regulation rather than punitive disqualification of natural persons for political association."),
+    N(r"\item \textbf{Fence-Sitter (Close Call): Defunding a Named Domestic Nonprofit.} After news reports that some employees of a national community-organizing nonprofit gave improper advice to clients, Congress enacts a law barring that organization, by name, and its affiliates from receiving any federal grants or contracts. No court or agency has found the organization liable for anything. Under \textit{Brown}, the law looks like an attainder: Congress named a specific group, made its own findings of wrongdoing, and imposed a sanction without a trial, and congressional statements condemning the group may show punitive motive. Under \textit{Nixon} and \textit{Selective Service}, however, denying discretionary federal funding is not a traditional attainder penalty like imprisonment or a bar from a profession, and Congress can point to a nonpunitive purpose of protecting public funds. Which test dominates, and how heavily the legislative record weighs, makes the outcome uncertain."),
+    N(r"\end{enumerate}"),
+  ],
+  "Critique": [ITEMS("Pedagogical", frm=r"\item \textbf{Doctrinal Instability", to=r"\end{itemize}")],
+  "Key Quotations": [SEC("Key Quotations")],
+ },
+ "dropped": [
+  "Case Metadata: parallel reporter citations, Briefing Book placement line, lower-court line (Justia and Cornell links kept in Judicial Votes).",
+  "Concurring and Dissenting: the sentence 'No separate concurring opinions were filed' (covered by Judicial Votes).",
+  "Legacy section: opening paragraph (characterization of Brown as high-water mark; 'last occasion' claim); third paragraph on lower-court national-security cases (Kaspersky, Huawei, D.C. Circuit TikTok, Supreme Court TikTok, Hastings College) - lower-court and state decisions, not Supreme Court applications of Brown's holding. Kept: Nixon v. GSA and Selective Service v. MPIRG sentences.",
+  "Exam Hypothetical: 'Analysis:' label and the 'Opposite Side' Contrast lead-in sentence ('Contrast two statutes that would survive attainder scrutiny') and the word 'Second, a statute' (Example 4 begins with new 'A statute'); both contrast statutes are reused as Examples 3 and 4.",
+ ],
+ "notes": [],
+}
+
+emit(__file__, FILL)

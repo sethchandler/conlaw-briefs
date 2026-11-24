@@ -1,0 +1,240 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "When Tigard conditioned Florence Dolan's store-expansion permit on dedicating a public floodplain greenway and a bike path, the Court held 5--4 that, beyond \\textit{Nollan}'s essential nexus, the city must make an individualized determination of rough proportionality between the dedication and the development's impact, and it had not (\\href{https://supreme.justia.com/cases/federal/us/512/374/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "After the Tigard City Council approved the order"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "After the Tigard City Council approved the order"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court \\textbf{reversed and remanded} by a \\textbf{5--4} vote. The case was argued on March 23, 1994, and decided on June 24, 1994 (\\href{https://supreme.justia.com/cases/federal/us/512/374/}{Justia}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Majority Opinion:} Chief Justice Rehnquist delivered the opinion of the Court, joined by Justices O'Connor, Scalia, Kennedy, and Thomas.\n    \\item \\textbf{Concurring Opinions:} None.\n    \\item \\textbf{Dissenting Opinions:} Justice Stevens filed a dissenting opinion, joined by Justices Blackmun and Ginsburg. Justice Souter filed a dissenting opinion.\n\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Majority Opinion (Chief Justice Rehnquist)}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Stevens)}"
+   },
+   {
+    "new": "Justice Stevens",
+    "glue": " "
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Argued that state-court precedents",
+    "to": "  \\item \\textbf{Justice Souter",
+    "lcfirst": true
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Souter)}"
+   },
+   {
+    "new": "Justice Souter",
+    "glue": " "
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Contended that the majority",
+    "to": "\\end{itemize}",
+    "lcfirst": true
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "\\begin{itemize}",
+    "to": "  \\item \\textbf{Physical Access"
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "  \\item \\textbf{Extension to Legislative",
+    "to": "On June 15, 2026"
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Conditions Invalid): A Boardwalk Easement and an Arts Fee for a Warehouse.}",
+    "glue": " "
+   },
+   {
+    "src": "A coastal city enacts an ordinance requiring any commercial developer seeking a building permit to expand floor space by more than 5,000 square feet to (a) deed a 20-foot public waterfront boardwalk easement across its lot, and (b) pay a flat \\$250,000 ``Downtown Cultural Arts Fee.'' A warehouse owner applies to add 6,000 square feet of storage space (adding only 15 truck trips per week) and challenges both conditions under the Fifth Amendment.",
+    "glue": " "
+   },
+   {
+    "src": "Under \\href{https://supreme.justia.com/cases/federal/us/601/22-1074/}{\\emph{Sheetz}} and \\href{https://supreme.justia.com/cases/federal/us/570/595/}{\\emph{Koontz}}, neither condition escapes heightened scrutiny merely because it is legislatively enacted or demands money. The \\$250,000 Cultural Arts Fee fails \\href{https://supreme.justia.com/cases/federal/us/483/825/}{\\emph{Nollan}}'s Step~1 ``essential nexus'' test because warehouse storage has no logical connection to funding municipal arts. Even if the city argues the waterfront easement offsets coastal congestion, it fails \\href{https://supreme.justia.com/cases/federal/us/512/374/}{\\emph{Dolan}}'s Step~2 ``rough proportionality'' test: the city has made no individualized showing that 15 weekly truck trips justify stripping the owner of her right to exclude the public from a permanent 20-foot boardwalk."
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Fee Invalid): A Traffic Fee Far Exceeding the Project's Impact.} A county requires every applicant for a permit to build a backyard cottage to pay a \\$60{,}000 traffic-mitigation fee, although the county's own engineering study estimates that a cottage adds about \\$3{,}000 worth of traffic burden to county roads. An owner pays under protest and sues. After \\textit{Koontz}, a demand for money is an exaction subject to \\textit{Nollan} and \\textit{Dolan}, and after \\textit{Sheetz}, the fee is not exempt because the legislature set it. Traffic mitigation has an essential nexus to new housing, but a fee twenty times the projected impact is not roughly proportional in extent, and the county cannot carry its burden of justifying it (\\href{https://supreme.justia.com/cases/federal/us/512/374/}{Justia})."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Conditions Valid): Denial, or a Private Buffer and a Calibrated Fee.}",
+    "glue": " "
+   },
+   {
+    "src": "Now alter the conditions: suppose the city instead (1) denies the expansion permit outright under a neutral zoning cap limiting warehouse height and impervious coverage, or (2) conditions the permit on the owner retaining a \\emph{private} vegetated stormwater buffer (with no public access) and paying a \\$12,000 road-maintenance fee calculated from an engineering study of pavement wear caused by 15 heavy trucks per week. In scenario (1), no exaction is demanded, so \\emph{Nollan/Dolan} does not apply and the zoning cap is evaluated under deferential \\emph{Penn Central} balancing. In scenario (2), the private stormwater buffer preserves the owner's right to exclude (\\href{https://supreme.justia.com/cases/federal/us/512/374/}{\\emph{Dolan}, 512 U.S. at 393}), and the calibrated \\$12,000 road fee satisfies both \\emph{Nollan}'s essential nexus and \\emph{Dolan}'s rough proportionality."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Dedication Valid): A Turn Lane Supported by a Traffic Study.} A developer seeks approval for a 300-home subdivision whose only entrance will be on a two-lane county road. A traffic study commissioned by the county shows that the subdivision will generate most of the peak-hour traffic at the entrance, and the county conditions approval on dedicating a 12-foot strip along the frontage for a turn lane. The condition serves the legitimate goal of traffic safety (\\textit{Nollan}'s nexus), and the county has made the individualized, quantified determination \\textit{Dolan} requires: the strip is related in nature and extent to the traffic the project will create. No precise calculation is required, so the dedication stands."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Unresolved): A Citywide School-Impact Fee Schedule.} A city adopts an ordinance charging every new home a school-impact fee of \\$4 per square foot, based on a study of the average number of students generated by new housing citywide. A builder of a retirement community restricted to residents aged 55 and older argues that its homes will add almost no students. After \\textit{Sheetz}, the legislative fee is subject to \\textit{Nollan/Dolan}, but the Court left open whether a fee schedule based on averages for a class of developments must be tailored as specifically as a parcel-by-parcel exaction. The city will rely on its study and the impracticality of individualized fees; the builder will invoke \\textit{Dolan}'s demand for an individualized determination. The outcome is uncertain."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "items": "Pedagogical",
+    "from": "  \\item \\textbf{Burden Inversion",
+    "to": "\\end{itemize}"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``We think a term such as `rough proportionality' best encapsulates what we hold to be the requirement of the Fifth Amendment. No precise mathematical calculation is required, but the city must make some sort of individualized determination that the required dedication is related both in nature and extent to the impact of the proposed development.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Chief Justice Rehnquist",
+    "glue": ", "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/512/374/}{512 U.S. at 391}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``Under the well-settled doctrine of `unconstitutional conditions,' the government may not require a person to give up a constitutional right---here the right to receive just compensation when property is taken for a public use---in exchange for a discretionary benefit conferred by the government where the benefit sought has little or no relationship to the property.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Chief Justice Rehnquist",
+    "glue": ", "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/512/374/}{512 U.S. at 385}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``We see no reason why the Takings Clause of the Fifth Amendment, as much a part of the Bill of Rights as the First Amendment or Fourth Amendment, should be relegated to the status of a poor relation in these comparable circumstances.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Chief Justice Rehnquist",
+    "glue": ", "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/512/374/}{512 U.S. at 392}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``The Court has made a serious error by abandoning the traditional presumption of constitutionality and imposing a novel burden of proof on a city implementing an admittedly valid comprehensive land use plan. Even more consequential than its incorrect disposition of this case, however, is the Court's resurrection of a species of substantive due process analysis that it firmly rejected decades ago.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Justice Stevens (Dissenting)",
+    "glue": ", "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/512/374/}{512 U.S. at 405}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: court line, provisions and chapter lines (Justia link kept in Judicial Votes).",
+  "Separate-opinions intro ('No separate concurring opinions were filed. Two dissents challenged...') - stated in Judicial Votes.",
+  "Legacy section: introductory paragraph (Nollan/Dolan exactions framing, Cornell LII); Cedar Point Nursery item (per se access-regulation taking, not an application of Dolan); final Sheetz sentence on a June 15, 2026 certiorari denial (unverifiable). Kept: Lingle, Koontz, and Sheetz items.",
+  "Key Quotations: the bold topical labels (only the speaker and pin cite are moved).",
+  "Exam Hypothetical: subsection heading and 'Hypothetical:' / 'Analysis:' / 'Opposite Side Contrast' labels (fact patterns and analyses reused in Examples 1 and 3)."
+ ],
+ "notes": [
+  "Key Quotations rebuilt from verbatim pieces (manual_quotes list); all four kept, none added."
+ ]
+}

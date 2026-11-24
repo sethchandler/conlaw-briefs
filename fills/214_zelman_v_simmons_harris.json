@@ -1,0 +1,273 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "Upholding Cleveland's school-voucher program 5--4, the Court held that a religion-neutral aid program that gives assistance to a broad class of families, who then direct it to religious schools through their own genuine and independent private choice, does not violate the Establishment Clause (\\href{https://supreme.justia.com/cases/federal/us/536/639/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "After the Ohio Supreme Court rejected"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "After the Ohio Supreme Court rejected"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court \\textbf{reversed} the Sixth Circuit by a \\textbf{5--4} vote. The case was argued on February 20, 2002, and decided on June 27, 2002 (\\href{https://supreme.justia.com/cases/federal/us/536/639/}{Justia}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Majority Opinion:} Chief Justice Rehnquist delivered the opinion of the Court, joined by Justices O'Connor, Scalia, Kennedy, and Thomas.\n    \\item \\textbf{Concurring Opinions:} Justice O'Connor and Justice Thomas each filed a concurring opinion.\n    \\item \\textbf{Dissenting Opinions:} Justice Stevens filed a dissenting opinion. Justice Souter filed a dissenting opinion, joined by Justices Stevens, Ginsburg, and Breyer. Justice Breyer filed a dissenting opinion, joined by Justices Stevens and Souter.\n\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Majority Opinion (Chief Justice Rehnquist)}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Concurring Opinion (Justice O'Connor)}"
+   },
+   {
+    "new": "Justice O'Connor",
+    "glue": " "
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Emphasized that the decision",
+    "to": "  \\item \\textbf{Justice Thomas",
+    "lcfirst": true
+   },
+   {
+    "new": "\\subsection{Concurring Opinion (Justice Thomas)}"
+   },
+   {
+    "new": "Justice Thomas",
+    "glue": " "
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Questioned whether the Establishment",
+    "to": "  \\item \\textbf{Justice Stevens",
+    "lcfirst": true
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Stevens)}"
+   },
+   {
+    "new": "Justice Stevens",
+    "glue": " "
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Argued that Cleveland's",
+    "to": "  \\item \\textbf{Justice Souter",
+    "lcfirst": true
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Souter)}"
+   },
+   {
+    "new": "Justice Souter",
+    "glue": " "
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Charged the majority",
+    "to": "  \\item \\textbf{Justice Breyer",
+    "lcfirst": true
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Breyer)}"
+   },
+   {
+    "new": "Justice Breyer",
+    "glue": " "
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Focused on the Establishment",
+    "to": "\\end{itemize}",
+    "lcfirst": true
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "\\begin{itemize}",
+    "to": "That same Term,"
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Aid Upheld): An Education Savings Account in a County With Only Religious Schools.}",
+    "glue": " "
+   },
+   {
+    "src": "A State establishes an ``Education Savings Account'' (ESA) program granting \\$7,000 per child to any family in low-performing districts to spend on private-school tuition, tutoring, or homeschooling. In one rural county, the only accredited private schools are three evangelical Christian academies, so 100\\% of county ESA tuition funds flow to religious schools. Taxpayers sue under the Establishment Clause.",
+    "glue": " "
+   },
+   {
+    "src": "Under \\href{https://supreme.justia.com/cases/federal/us/536/639/}{\\emph{Zelman}}, the ESA program survives. It is facially neutral, aids a broad class defined without reference to religion, and routes funds solely via independent parental choice. As Chief Justice Rehnquist held, constitutionality does not turn on local market demographics or annual tallies (\\href{https://supreme.justia.com/cases/federal/us/536/639/}{536 U.S. at 657--658}), and families retain secular options (public schools, tutoring, secular homeschooling)."
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (No Establishment Clause Excuse): Excluding Religious Schools From the ESA.}",
+    "glue": " "
+   },
+   {
+    "src": "Now flip the challenge: suppose the State, fearing Establishment Clause liability in that rural county, amends the ESA statute to exclude any school that ``integrates religious doctrine into its curriculum,'' while still funding secular private schools and tutoring. Under \\href{https://supreme.justia.com/cases/federal/us/591/18-1195/}{\\emph{Espinoza}} and \\href{https://supreme.justia.com/cases/federal/us/596/20-1088/}{\\emph{Carson v. Makin}}, that exclusion violates the Free Exercise Clause. Because \\emph{Zelman} establishes that neutral private-choice aid does not offend the Establishment Clause, the State has no compelling anti-establishment interest to justify discriminating against religious schools based on either religious status or religious use. By contrast, if the State instead funds \\emph{only} traditional public schools and declines to offer any private-school aid program at all, the Free Exercise Clause is not violated (\\href{https://supreme.justia.com/cases/federal/us/596/20-1088/}{\\emph{Carson}, 596 U.S. \\_\\_\\_ (2022)})."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Aid Invalid): Vouchers Redeemable Only at One Denomination's Schools.} A State offers tuition vouchers to low-income families but allows them to be redeemed only at schools affiliated with a single named church, on the theory that its schools have the best record in the district. Parents still choose whether to use the voucher, but the program is not neutral with respect to religion: the State itself, not independent private choice, has selected which religion's schools may receive the money. \\textit{Zelman} protected Ohio's program because it was neutral and open to religious and secular schools alike; a program that prefers one faith fails that threshold requirement and violates the Establishment Clause (\\href{https://supreme.justia.com/cases/federal/us/536/639/}{Justia})."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (No Private Choice): Direct Grants Earmarked for Religious Instruction.} A State appropriates funds paid directly to religious schools, in amounts set by the State, to pay for daily religion classes and chapel services, without any family deciding where the money goes. \\textit{Zelman} drew a sharp line between such direct aid and programs of true private choice. Here the circuit between government and religion is never broken: the State itself sends tax money to finance religious teaching and worship, so the advancement of religion is attributable to the government rather than to parents, and the program cannot claim \\textit{Zelman}'s protection."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Uncertain): A Choice of Rehabilitation Programs With a Long Secular Waitlist.} A State lets nonviolent offenders avoid jail by completing a funded residential rehabilitation program of their choice. Most participating providers are faith-based programs that include worship, while the only secular provider has a six-month waitlist. The program is neutral on its face and the money follows each participant's choice, which points toward \\textit{Zelman}. But \\textit{Zelman} stressed that the choice must be genuine and that adequate secular options must be available, and an offender facing jail in the meantime may have what Justice Souter called a Hobson's choice. Whether a court counts the waitlisted secular option as a real alternative, and whether the coercive criminal setting matters, could decide the case."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "items": "Pedagogical",
+    "from": "  \\item \\textbf{The Denominator",
+    "to": "\\end{itemize}"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``[W]here a government aid program is neutral with respect to religion, and provides assistance directly to a broad class of citizens who, in turn, direct government aid to religious schools wholly as a result of their own genuine and independent private choice, the program is not readily subject to challenge under the Establishment Clause.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Chief Justice Rehnquist",
+    "glue": ", "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/536/639/}{536 U.S. at 652}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``The constitutionality of a neutral educational aid program simply does not turn on whether and why, in a particular area, at a particular time, most private schools are run by religious organizations, or most recipients choose to use the aid at a religious school.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Chief Justice Rehnquist",
+    "glue": ", "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/536/639/}{536 U.S. at 658}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``There would be a tragic irony in converting the Fourteenth Amendment's guarantee of individual liberty into a prohibition on the exercise of educational choice.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Justice Thomas (Concurring)",
+    "glue": ", "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/536/639/}{536 U.S. at 680}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``The criterion is one of genuinely free choice on the part of the private individuals who choose, and a Hobson's choice is not a choice, whatever the reason for being Hobsonian.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Justice Souter (Dissenting)",
+    "glue": ", "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/536/639/}{536 U.S. at 707}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: consolidated-case names, court line, provisions and chapter lines (Justia link kept in Judicial Votes).",
+  "Legacy section: introductory sentence; Kennedy v. Bremerton sentence at the end of the Carson item (abandoning Lemon is not a development of Zelman's holding); 'Public-Charter Frontier (2025--2026)' item (Drummond 4--4 affirmance without precedential opinion). Kept: Locke v. Davey and Trinity Lutheran/Espinoza/Carson items.",
+  "Key Quotations: the bold topical labels (only the speaker name and pin cite are moved).",
+  "Exam Hypothetical: subsection headings and 'Hypothetical:' / 'Analysis:' / 'Opposite Side Contrast' labels (fact patterns and analyses reused in Examples 1 and 2)."
+ ],
+ "notes": [
+  "Key Quotations rebuilt from verbatim pieces (manual_quotes list); all four kept, none added. The speaker is moved from each label (e.g., 'Justice Souter (Dissenting)') and the pin cite from its parenthetical; they are joined with a comma."
+ ]
+}

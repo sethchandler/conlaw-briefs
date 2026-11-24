@@ -1,0 +1,64 @@
+"""Fill for 253_penn_central_transportation_co_v_nyc. See tools/fillkit.py."""
+from fillkit import *
+
+J = "https://supreme.justia.com/cases/federal/us/438/104/"
+
+def Q(quote, who):
+    # Attribution placed inside the quote block; tools/normalize_quotes.py then moves it to a
+    # Group A "\noindent ---" line (check_brief.py does not match manual_quotes.txt's ".tex" names).
+    return [N(r"\begin{quote}", glue="\n"), S(quote, glue="\n"), N(r"---", glue=" "),
+            S(who, glue="\n"), N(r"\end{quote}")]
+
+FILL = {
+ "sections": {
+  "Memory Jogger": [N(r"Upholding New York City's refusal to allow an office tower above Grand Central Terminal, the Court held 6--3 that no taking occurred and set the default test for regulatory takings: an ad hoc weighing of economic impact, interference with investment-backed expectations, and the character of the government action, measured against the parcel as a whole (\href{" + J + r"}{Justia}).")],
+  "Detailed Case Facts": [SEC("Facts and Procedural History", to="Without seeking judicial review of the denials")],
+  "Procedural History": [SEC("Facts and Procedural History", frm="Without seeking judicial review of the denials")],
+  "Judicial Votes": [
+    N(r"The Supreme Court \textbf{affirmed} the New York Court of Appeals by a \textbf{6--3} vote. The case was argued on April 17, 1978, and decided on June 26, 1978 (\href{" + J + r"}{Justia}):"),
+    N(r"""\begin{itemize}
+    \item \textbf{Majority Opinion:} Justice Brennan delivered the opinion of the Court, joined by Justices Stewart, White, Marshall, Blackmun, and Powell.
+    \item \textbf{Concurring Opinions:} None.
+    \item \textbf{Dissenting Opinion:} Justice Rehnquist filed a dissenting opinion, joined by Chief Justice Burger and Justice Stevens.
+\end{itemize}"""),
+  ],
+  "Holding": [N(r"\textbf{Questions Presented:}"), SEC("Issue"), N(r"\textbf{Holding:}", glue=" "), SEC("Holding")],
+  "Analysis of Opinions": [
+    N(r"\subsection{Majority Opinion (Justice Brennan)}"), SEC("Reasoning"),
+    N(r"\subsection{Dissenting Opinion (Justice Rehnquist)}"),
+    SEC("Concurring and Dissenting", frm="Justice Rehnquist argued"),
+    N(r"\subsection{Subsequent Developments}"),
+    N(r"\begin{itemize}"),
+    SEC("Doctrinal Significance", frm=r"  \item \textbf{Categorical Per Se Exceptions", to=r"  \item \textbf{Unconstitutional Conditions"),
+    N(r"\end{itemize}"),
+  ],
+  "Examples: Future Applications": [
+    N(r"\begin{enumerate}"),
+    N(r"\item \textbf{Same-Side (No Taking): Denial of a Tower Atop a Landmark Warehouse.}", glue=" "),
+    S(r"The City of Harborview enacts a comprehensive Historic Waterfront Ordinance designating 180 Victorian warehouses, including Bayside Lofts (owned by Harbor Corp.\ since 1995), as architectural landmarks. Harbor Corp.\ wants to demolish the upper two floors and build a 30-story luxury condominium tower, which would triple the building's value. The Preservation Board denies the permit, though Bayside Lofts remains fully leased as commercial offices generating a steady 7\% annual return, and the ordinance allows Harbor Corp.\ to transfer unused floor-area ratios to three adjacent commercial lots it owns.", glue=" "),
+    S(r"This falls squarely under \textit{Penn Central}, not \textit{Lucas} or \textit{Cedar Point}, because there is no physical invasion and no total loss of value. Measuring the parcel as a whole (the entire Bayside Lofts lot), Harbor Corp.\ cannot sever its air rights. All three \textit{Penn Central} factors favor Harborview: (1) economic impact is non-fatal given the 7\% return and mitigating TDRs; (2) the ordinance preserves Harbor Corp.'s primary investment-backed expectation (commercial leasing since 1995); and (3) the character of the action is a comprehensive land-use program rather than a physical occupation. No taking occurred."),
+    N(r"\item \textbf{Same-Side (No Taking): A Wetlands Buffer Covering Half a Lot.} An owner holds a two-acre residential lot with a house on the front acre. A county wetlands ordinance, part of a countywide program protecting watersheds, forbids any construction on the rear acre, which borders a protected marsh. The owner claims that the county has taken the rear acre outright because it can no longer be built on. Under \textit{Penn Central}, the owner cannot sever the rear acre and treat it as a separate parcel that has lost all value; the court measures the burden against the parcel as a whole. Viewed that way, the owner keeps the house and the full residential use of the property, the regulation is part of a general program adjusting benefits and burdens, and the economic impact, though real, is partial. No taking occurred."),
+    N(r"\item \textbf{Opposite-Side (Per Se Taking): A Public Easement and an Unconnected Permit Fee.} Modify the Harborview example:", glue=" "),
+    S(r"Harborview amends its ordinance to require every designated waterfront landmark owner (a) to grant the general public a permanent daytime easement along a 15-foot-wide strip of its private dock for sightseeing, and (b) if the owner applies for a routine interior renovation permit, to pay a flat \$250,000 statutory ``Harborwide Public Art Fee'' set by the City Council with no connection to the renovation's impact.", glue=" "),
+    S(r"Neither requirement is shielded by \textit{Penn Central} balancing. First, mandating a public sightseeing easement appropriates the owner's right to exclude and constitutes a \textit{per se} physical taking under \textit{Cedar Point Nursery v.\ Hassid}, 594 U.S.\ 139 (2021) (and \textit{Loretto}), regardless of how profitable the rest of the building remains. Second, under \textit{Sheetz v.\ County of El Dorado}, 601 U.S.\ 267 (2024), the City Council's legislatively enacted \$250,000 permit fee is not immune from \textit{Nollan}/\textit{Dolan} review; because a flat public-art fee bears no essential nexus or rough proportionality to an interior renovation's impacts, it is an unconstitutional exaction."),
+    N(r"\item \textbf{Opposite-Side (Per Se Taking): A Total Ban on Building on Beachfront Lots.} An owner buys two vacant beachfront lots zoned for single-family homes. Two years later, the State enacts a coastal setback law that forbids any permanent habitable structure on either lot, leaving them with no economically beneficial use. The State argues that \textit{Penn Central} balancing applies and that protecting the shoreline is a weighty public purpose. Under \textit{Lucas v.\ South Carolina Coastal Council}, 505 U.S.\ 1003 (1992), however, a regulation that deprives land of all economically beneficial use is a categorical taking, and \textit{Penn Central}'s ad hoc factors do not apply. The State can avoid paying compensation only by showing that background principles of its property or nuisance law already prohibited building homes on the lots."),
+    N(r"\item \textbf{Fence-Sitter (Close Call): Individual Landmarking of a Small Building Without TDRs.} A developer buys a modest commercial building planning to replace it with a mid-rise apartment complex permitted by existing zoning. Shortly after the purchase, the city designates the building alone as a landmark and bars demolition. The building can still be leased, but its value falls by about 75 percent, and the city's program offers no transferable development rights at the site. The owner has strong arguments on economic impact and on frustrated investment-backed expectations, and Justice Rehnquist's concern about singling out a few owners resonates. The city answers that the building retains an economically viable use, that the designation belongs to a comprehensive preservation program like the one upheld in \textit{Penn Central}, and that diminution in value alone does not establish a taking. With the factors pulling in opposite directions and no fixed weights, the outcome is unpredictable."),
+    N(r"\end{enumerate}"),
+  ],
+  "Critique": [SEC("Pedagogical", frm=r"\begin{enumerate}", to=r"\paragraph{Exam Hypothetical 1")],
+  "Key Quotations":
+    Q(r"``In engaging in these essentially ad hoc, factual inquiries, the Court's decisions have identified several factors that have particular significance. The economic impact of the regulation on the claimant and, particularly, the extent to which the regulation has interfered with distinct investment-backed expectations are, of course, relevant considerations. \dots\ So, too, is the character of the governmental action. A `taking' may more readily be found when the interference with property can be characterized as a physical invasion by government \dots\ than when interference arises from some public program adjusting the benefits and burdens of economic life to promote the common good.''", r"Brennan, J., 438 U.S.\ at 124")
+    + Q(r"```Taking' jurisprudence does not divide a single parcel into discrete segments and attempt to determine whether rights in a particular segment have been entirely abrogated. In deciding whether a particular governmental action has effected a taking, this Court focuses rather both on the character of the action and on the nature and extent of the interference with rights in the parcel as a whole---here, the city tax block designated as the `landmark site.'''", r"Brennan, J., 438 U.S.\ at 130--31")
+    + Q(r"``Appellees have imposed a substantial cost on less than one one-tenth of one percent of the buildings in New York City for the general benefit of all its people. It is exactly this imposition of general costs on a few individuals at which the `taking' protection is directed.''", r"Rehnquist, J., dissenting, 438 U.S.\ at 147")
+    + Q(r"``Penn Central is prevented from further developing its property basically because too good a job was done in designing and building it. The city of New York, because of its unadorned admiration for the design, has decided that the owners of the building must preserve it unchanged for the benefit of sightseeing New Yorkers and tourists.''", r"Rehnquist, J., dissenting, 438 U.S.\ at 146"),
+ },
+ "dropped": [
+  "Case Metadata: docket number, Chapter/Topic line, Cornell Wex link.",
+  "Legacy section: introductory sentence; 'Unconstitutional Conditions and Legislative Exactions --- Sheetz' item (an exactions case, tangential to Penn Central's holding, plus 'Through 2026' commentary; Sheetz is still cited in Example 3's moved analysis). Kept: Loretto/Lucas, Murr, and Cedar Point/Tyler items.",
+  "Exam Hypotheticals: paragraph headings, 'Analysis:' labels, and the lead-in 'Modify Hypothetical 1 on the opposite side of the doctrinal line:' (text reused in Examples 1 and 3).",
+  "Key Quotations: the bold topic labels on each list item (the attribution part of each label is kept).",
+ ],
+ "notes": ["Key Quotations rebuilt from verbatim pieces (manual_quotes list); all four quotations kept, none added. Attributions are emitted inside each quote block and converted by normalize_quotes.py because check_brief.py compares stems against manual_quotes.txt entries that end in .tex."],
+}
+
+emit(__file__, FILL)

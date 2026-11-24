@@ -16,7 +16,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 A_SECTIONS = ["Memory Jogger", "Detailed Case Facts", "Procedural History", "Judicial Votes",
               "Holding", "Analysis of Opinions", "Examples: Future Applications", "Critique",
               "Key Quotations"]
-MANUAL = set(open(os.path.join(ROOT, "tools", "manual_quotes.txt")).read().split())
+MANUAL = {s.removesuffix(".tex") for s in open(os.path.join(ROOT, "tools", "manual_quotes.txt")).read().split()}  # informational
 NEW_WORD_LIMIT = 1100
 
 
@@ -40,10 +40,11 @@ def check(stem):
         return {**info, "pass": False, "problems": ["assemble failed: " + (r.stderr or r.stdout).strip()[-400:]]}
     rep = json.loads(r.stdout)
     info.update(moved_words=rep["moved_words"], new_words=rep["new_words"])
-    if stem not in MANUAL:
-        q = run([sys.executable, os.path.join(ROOT, "tools", "normalize_quotes.py"), out_tex])
-        if "converted: 1" not in q.stdout:
-            probs.append("quotation conversion failed: " + q.stdout.strip()[:200])
+    # Convert attributions to Group A style. A fill may already build them in
+    # Group A style (required for briefs in manual_quotes.txt); that is fine too.
+    q = run([sys.executable, os.path.join(ROOT, "tools", "normalize_quotes.py"), out_tex])
+    if "converted: 1" not in q.stdout and "already Group A style" not in q.stdout:
+        probs.append("quotation conversion failed: " + q.stdout.strip()[:200])
     tex = open(out_tex, encoding="utf-8").read()
 
     secs = re.findall(r"^\\section\{(.+?)\}", tex, re.M)
@@ -80,7 +81,7 @@ def check(stem):
         warn = re.findall(r"LaTeX Warning: .*", log)
         if warn:
             probs.append("LaTeX warnings: " + "; ".join(warn[:2]))
-        m = re.search(r"\((\d+) pages", log)
+        m = re.search(r"\((\d+)\s+pages?", log)
         info["pages"] = int(m.group(1)) if m else 0
     return {**info, "pass": not probs, "problems": probs}
 

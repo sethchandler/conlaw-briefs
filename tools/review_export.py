@@ -36,7 +36,7 @@ def main():
             new = [x["new"] for x in parts if "new" in x and not SCAFFOLD.match(x["new"])]
             if not new:
                 continue
-            text = " ".join(new).strip()
+            text = "\n\n".join(n.strip() for n in new).strip()
             total += len(text.split())
             out.append(f"\n### {sec}\n\n```latex\n{text}\n```\n")
         if d.get("dropped"):

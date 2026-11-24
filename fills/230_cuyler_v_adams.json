@@ -1,0 +1,148 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "When Congress consents (even in advance) to an interstate compact on a subject appropriate for federal legislation, the compact becomes federal law; the Court held 6--3 that the Interstate Agreement on Detainers is federal law and that its Article IV(d) preserves a prisoner's extradition-hearing rights (\\href{https://supreme.justia.com/cases/federal/us/449/433/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "Seeking to block his involuntary transfer"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "Seeking to block his involuntary transfer"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court \\textbf{affirmed} the Third Circuit by a \\textbf{6--3} vote. The case was argued on October 7, 1980, and decided on January 21, 1981 (\\href{https://supreme.justia.com/cases/federal/us/449/433/}{Justia}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Majority Opinion:} Justice Brennan delivered the opinion of the Court, joined by Justices White, Marshall, Blackmun, Powell, and Stevens.\n    \\item \\textbf{Concurring Opinions:} None.\n    \\item \\textbf{Dissenting Opinion:} Justice Rehnquist filed a dissenting opinion, joined by Chief Justice Burger and Justice Stewart.\n\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Majority Opinion (Justice Brennan)}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Rehnquist)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Justice Rehnquist blasted",
+    "to": "\\end{itemize}"
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "new": "\\begin{itemize}"
+   },
+   {
+    "new": "\\item \\textbf{Compact Disputes:}",
+    "glue": " "
+   },
+   {
+    "src": "The Supreme Court has repeatedly reaffirmed \\textit{Cuyler} in original-jurisdiction water and boundary compact disputes---including \\textit{Texas v. New Mexico}, 462 U.S.\\ 554, 564 (1983) (\\href{https://supreme.justia.com/cases/federal/us/462/554/}{Justia}), \\textit{Alabama v. North Carolina}, 560 U.S.\\ 330, 351 (2010), \\textit{Tarrant Regional Water Dist.\\ v. Herrmann}, 569 U.S.\\ 614, 628 n.8 (2013), and \\textit{Kansas v. Nebraska}, 574 U.S.\\ 445, 456 n.5 (2015) (\\href{https://supreme.justia.com/cases/federal/us/574/445/}{Justia})---holding that once Congress consents, a compact is both a contract among States and federal statutory law that no court may alter contrary to its express terms."
+   },
+   {
+    "new": "\\item \\textbf{Later IAD Decisions:}",
+    "glue": " "
+   },
+   {
+    "src": "In criminal procedure, \\textit{Cuyler} anchored subsequent IAD decisions such as \\textit{Carchman v. Nash}, 473 U.S.\\ 716 (1985) (\\href{https://supreme.justia.com/cases/federal/us/473/716/}{Justia}) (excluding probation-violation detainers) and \\textit{Reed v. Farley}, 512 U.S.\\ 339 (1994) (\\href{https://supreme.justia.com/cases/federal/us/512/339/}{Justia}) (limiting federal habeas relief for technical IAD 120-day violations despite the IAD's federal-law status)."
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Federal Law): An Advance-Consented Disaster Compact.}",
+    "glue": " "
+   },
+   {
+    "sec": "Pedagogical",
+    "from": "Relying on a 1996 federal statute",
+    "to": "\\textit{Analysis:} Under \\textit{Cuyler}, because",
+    "glue": " "
+   },
+   {
+    "sec": "Pedagogical",
+    "from": "Under \\textit{Cuyler}, because Congress granted",
+    "to": "  \\item \\textbf{Hypothetical 2"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Federal Law): One State Tries to Rewrite a Bistate Bridge Commission's Duties.} Two States create a bistate bridge commission by a compact to which Congress has consented. One State later enacts a statute requiring the commission to follow that State's public-bidding rules, which the compact does not mention, and its courts enforce the statute against the commission. Under \\textit{Cuyler}, congressional consent to a compact on a proper federal subject---here, interstate transportation and commerce---makes the compact federal law. Its meaning is therefore a federal question for the Supreme Court, not a matter settled by one State's courts, and a single State may not impose new obligations on the commission that the compact's terms do not authorize (\\href{https://supreme.justia.com/cases/federal/us/449/433/}{Justia})."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Not Federal Law): An Unconsented Occupational Licensing Compact.}",
+    "glue": " "
+   },
+   {
+    "sec": "Pedagogical",
+    "from": "Ten States enact the",
+    "to": "\\textit{Analysis:} Under \\textit{U.S.\\ Steel}",
+    "glue": " "
+   },
+   {
+    "sec": "Pedagogical",
+    "from": "Under \\textit{U.S.\\ Steel} and \\textit{Cuyler}, both claims fail.",
+    "to": "\\end{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (No Federal Habeas Relief): A Technical Violation of the 120-Day Trial Deadline.} A prisoner transferred under IAD Article IV is tried 130 days after arrival in the receiving State. He did not object to the trial date until after it had passed and shows no prejudice from the delay. After losing in the state courts, he seeks federal habeas corpus. \\textit{Cuyler} makes the IAD federal law, but federal-law status does not mean that every violation supports collateral relief. In \\href{https://supreme.justia.com/cases/federal/us/512/339/}{\\textit{Reed v.\\ Farley}, 512 U.S.\\ 339 (1994)}, the Court held that this kind of unobjected-to, harmless violation of the 120-day rule is not cognizable in federal habeas, so the petition fails."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Unresolved): Is a Uniform Witness Act Federal Law?} Two States have each adopted the Uniform Act to Secure the Attendance of Witnesses, a reciprocal statute governing out-of-state subpoenas in criminal cases. A defendant argues that, like the IAD, the Uniform Act is a crime-control compact covered by Congress's 1934 advance consent, so its construction is a federal question. \\textit{Cuyler}'s reasoning supports him: advance consent counted for the IAD, and cooperation in criminal law enforcement is a proper federal subject. But footnote 10 of \\textit{Cuyler} expressly left this question open, and the Uniform Act may be ordinary reciprocal legislation rather than an agreement among States. Because the line between a compact and parallel state statutes is unsettled, the outcome is uncertain."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "items": "Pedagogical",
+    "from": "  \\item \\textbf{Consent vs.",
+    "to": "\\end{itemize}"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "sec": "Key Quotations"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: full party caption, docket number, Briefing Book placement, Cornell Constitution Annotated link (Justia link kept in Judicial Votes).",
+  "Separate opinions: 'Concurrences: None.' item (stated in Judicial Votes).",
+  "Legacy section: opening paragraph (260 compacts, ABA Urban Lawyer citation, consent asymmetry framing); 'Through 2026' paragraph (State v. Torkelson, George Harms Constr., ABA 2025, Columbia HRLR scholarship) - lower-court applications and scholarship, not Supreme Court decisions applying or limiting Cuyler. Kept: compact-dispute reaffirmations and Carchman / Reed v. Farley.",
+  "Exam Hypotheticals: subsection heading and hypothetical labels (both fact patterns and analyses reused in Examples 1 and 3)."
+ ]
+}

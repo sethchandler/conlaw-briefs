@@ -1,0 +1,179 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "A Sri Lankan asylum seeker caught 25 yards inside the border could not use habeas to challenge his negative credible-fear finding: the Court held 7--2 that the Suspension Clause protects release from unlawful custody, not further review of a claim to stay, and that an alien at the threshold of entry has only the procedural rights Congress grants (\\href{https://supreme.justia.com/cases/federal/us/591/19-161/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "Thuraissigiam filed a federal habeas petition"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "Thuraissigiam filed a federal habeas petition"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court \\textbf{reversed and remanded with instructions to dismiss} by a \\textbf{7--2} vote. The case was argued on March 2, 2020, and decided on June 25, 2020 (\\href{https://supreme.justia.com/cases/federal/us/591/19-161/}{Justia}; \\href{https://www.law.cornell.edu/supremecourt/text/19-161}{Cornell LII}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Majority Opinion:} Justice Alito delivered the opinion of the Court, joined by Chief Justice Roberts and Justices Thomas, Gorsuch, and Kavanaugh.\n    \\item \\textbf{Concurring Opinions:} Justice Thomas filed a concurring opinion. Justice Breyer filed an opinion concurring in the judgment, joined by Justice Ginsburg.\n    \\item \\textbf{Dissenting Opinion:} Justice Sotomayor filed a dissenting opinion, joined by Justice Kagan.\n\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Majority Opinion (Justice Alito)}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Concurring Opinion (Justice Thomas)}"
+   },
+   {
+    "new": "Justice Thomas",
+    "glue": " "
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Joined the majority and explored",
+    "to": "  \\item \\textbf{Justice Breyer",
+    "lcfirst": true
+   },
+   {
+    "new": "\\subsection{Concurring in the Judgment (Justice Breyer)}"
+   },
+   {
+    "new": "Justice Breyer",
+    "glue": " "
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Criticized the majority for sweeping",
+    "to": "  \\item \\textbf{Justice Sotomayor",
+    "lcfirst": true
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Sotomayor)}"
+   },
+   {
+    "new": "Justice Sotomayor",
+    "glue": " "
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Charged the majority",
+    "to": "\\end{itemize}",
+    "lcfirst": true
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "\\begin{itemize}",
+    "to": "  \\item \\textbf{Preserving Core Habeas"
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (No Habeas Review): A Border-Adjacent Credible-Fear Denial.}",
+    "glue": " "
+   },
+   {
+    "sec": "Pedagogical",
+    "from": "A Guatemalan migrant crosses",
+    "to": "\\textit{Analysis:} Under \\textit{Thuraissigiam}, the district",
+    "glue": " "
+   },
+   {
+    "sec": "Pedagogical",
+    "from": "Under \\textit{Thuraissigiam}, the district court must dismiss",
+    "to": "\\textbf{Hypothetical 2"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (No Habeas Review): An Asylum Seeker at a Port of Entry.} A noncitizen without valid documents presents herself at a land port of entry and asks for asylum. She is placed in expedited removal, and an asylum officer and an immigration judge find no credible fear. In a habeas petition she argues that her interview was conducted through an interpreter who spoke a different dialect, and she asks for a new interview. Like Thuraissigiam, she seeks another chance at admission rather than simple release, so the Suspension Clause does not require review. And because she has never entered the United States, she has only the procedural rights Congress has provided by statute; the Court stressed that a clandestine entrant should not receive more process than such a port-of-entry applicant (\\href{https://supreme.justia.com/cases/federal/us/591/19-161/}{Justia})."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Habeas Available): Core Release From Interior Detention.}",
+    "glue": " "
+   },
+   {
+    "sec": "Pedagogical",
+    "from": "Suppose instead DHS arrests a noncitizen",
+    "to": "\\textit{Contrast:}",
+    "glue": " "
+   },
+   {
+    "src": "Unlike \\textit{Thuraissigiam}, this statute violates both the Suspension Clause and the Due Process Clause. The petitioner seeks \\textit{simple release from unlawful executive detention}---the indisputable 1789 core of the Great Writ recognized in \\textit{Thuraissigiam}, \\textit{St. Cyr}, and \\href{https://supreme.justia.com/cases/federal/us/553/723/}{\\textit{Boumediene}}",
+    "glue": ""
+   },
+   {
+    "new": "; and",
+    "glue": " "
+   },
+   {
+    "src": "an established U.S. resident (or citizen) inside the country holds full Fifth Amendment due process protections against arbitrary detention and summary removal",
+    "glue": ""
+   },
+   {
+    "new": "."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Habeas Available): A Claim of Citizenship.} A man apprehended near the border is placed in expedited removal and ordered removed after a negative credible-fear finding. In a habeas petition he asserts that he is a United States citizen, born in Texas, and offers a birth certificate. Section 1252(e)(2) itself permits habeas review of whether the petitioner is an alien and whether he is a lawful permanent resident, refugee, or asylee, so the district court has jurisdiction to decide his citizenship claim. Nothing in \\textit{Thuraissigiam} forecloses that inquiry: a citizen wrongly subjected to expedited removal is not an alien seeking initial admission, and his challenge is to the Executive's power to hold and remove him at all."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Unresolved): Expedited Removal Deep in the Interior.} DHS arrests a noncitizen in Chicago who entered without inspection and has lived there for eighteen months, places him in expedited removal under the statute's two-year presence limit, and denies his credible-fear claim. He files a habeas petition arguing that the asylum officer applied the wrong legal standard and that he is entitled to full due process. The Suspension Clause holding cuts against him because he seeks further review rather than release. But the due process holding rested on Thuraissigiam's status at the threshold of initial entry, and the Court did not say when presence inside the country matures into an entry carrying fuller constitutional protection (see \\textit{Zadvydas v.\\ Davis}, 533 U.S.\\ 678 (2001)). Whether eighteen months of residence is enough remains open."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "items": "Pedagogical",
+    "from": "  \\item \\textbf{Anachronistic",
+    "to": "\\end{itemize}"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "sec": "Key Quotations"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: lower-court citations, SupremeCourt.gov slip-opinion link, constitutional-provisions line (Justia and Cornell links kept in Judicial Votes).",
+  "Legacy section: introductory sentence; Trump v. J.G.G. / A.A.R.P. v. Trump item (Alien Enemies Act notice rulings - not applications of Thuraissigiam's holding); 'Through 2026' item (Mullin v. Al Otro Lado and the Ninth Circuit's Padilla decision - unverifiable 2026 decisions, the latter a lower-court ruling). Kept: Jones v. Hendrix.",
+  "Exam Hypothetical 2: its closing citations to Trump v. J.G.G. (2025) and Padilla v. ICE (9th Cir. 2026); the fact pattern and the rest of the contrast analysis are reused in Example 3. Hypothetical headings and 'Analysis:'/'Contrast:' labels dropped."
+ ],
+ "notes": [
+  "Example 3 joins two verbatim pieces of Neon's contrast analysis with a new '; and' and closing period, omitting the parenthetical J.G.G./Padilla citations."
+ ]
+}
