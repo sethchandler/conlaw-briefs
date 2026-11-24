@@ -11,7 +11,7 @@ FILL = {
     N(r"The Supreme Court unanimously \textbf{affirmed} the Eighth Circuit, 9--0, announcing its judgment in a per curiam order on September 12, 1958, and filing its full opinion on September 29, 1958 (\href{" + J + r"}{Justia}):"),
     N(r"\begin{itemize}"), N(r"\item \textbf{Opinion of the Court:}", glue=" "),
     S(r"Jointly signed by all nine Justices --- Chief Justice Earl Warren, and Justices Hugo L. Black, Felix Frankfurter, William O. Douglas, Harold H. Burton, Tom C. Clark, John M. Harlan II, William J. Brennan, Jr., and Charles E. Whittaker (the only time in Supreme Court history that every Justice personally signed the opinion of the Court)."),
-    N(r"""\item \textbf{Concurring Opinion:} Justice Frankfurter filed a concurring opinion (358 U.S. at 20--26).
+    N(r"""\item \textbf{Concurring Opinion:} Justice Frankfurter filed a concurring opinion on October 6, 1958 (358 U.S. at 20--26).
     \item \textbf{Dissenting Opinions:} None.
 \end{itemize}"""),
   ],

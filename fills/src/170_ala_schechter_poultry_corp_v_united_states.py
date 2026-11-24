@@ -6,7 +6,7 @@ FS = "Facts and Procedural History"
 LG = "Doctrinal Significance"
 FILL = {
  "sections": {
-  "Memory Jogger": [N(r"In the ``sick chicken case,'' a unanimous Court reversed a Brooklyn kosher slaughterhouse's convictions under a New Deal poultry code, holding that NIRA \S\,3 unconstitutionally delegated legislative power to the President and trade groups and that the code's reach to purely local slaughtering and sales exceeded the commerce power (\href{" + J + r"}{Justia}).")],
+  "Memory Jogger": [N(r"In the ``sick chicken case,'' a unanimous Court reversed a Brooklyn kosher slaughterhouse's convictions under a New Deal poultry code, holding that NIRA \S\,3 unconstitutionally delegated legislative power to the President to adopt binding codes, including codes proposed by trade groups and that the code's reach to purely local slaughtering and sales exceeded the commerce power (\href{" + J + r"}{Justia}).")],
   "Detailed Case Facts": [SEC(FS, to="A federal grand jury in the Eastern District")],
   "Procedural History": [SEC(FS, frm="A federal grand jury in the Eastern District")],
   "Judicial Votes": [

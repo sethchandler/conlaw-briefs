@@ -12,7 +12,7 @@ def Q(quote, who, pin):
 SOUTER = "Justice Souter, Majority Opinion"
 FILL = {
  "sections": {
-  "Memory Jogger": [N(r"A unanimous Court held that Massachusetts's law barring state purchases from companies doing business with Burma was preempted under the Supremacy Clause because it obstructed the Federal Burma Act's grant of flexible presidential discretion, its calibrated sanctions, and its call for multilateral diplomacy (\href{" + J + r"}{Justia}).")],
+  "Memory Jogger": [N(r"A unanimous Court held that Massachusetts's law generally restricting state purchases from companies doing business with Burma was preempted under the Supremacy Clause because it obstructed the Federal Burma Act's grant of flexible presidential discretion, its calibrated sanctions, and its call for multilateral diplomacy (\href{" + J + r"}{Justia}).")],
   "Detailed Case Facts": [SEC("Facts and Procedural History", to=r"\subsection{Litigation History}")],
   "Procedural History": [SEC("Facts and Procedural History", frm=r"\subsection{Litigation History}", strip=r"\subsection{Litigation History}")],
   "Judicial Votes": [

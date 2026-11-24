@@ -2,7 +2,7 @@
  "sections": {
   "Memory Jogger": [
    {
-    "new": "Alaska sold state timber on condition that buyers process it in Alaska before export; the Court held that a parallel federal-lands policy was not ``unmistakably clear'' congressional authorization, and a plurality held that the market-participant exception does not let a State impose conditions that regulate a downstream market it does not participate in (\\href{https://supreme.justia.com/cases/federal/us/467/82/}{Justia})."
+    "new": "Alaska offered state timber for sale on condition that buyers process it in Alaska before export; the Court held that a parallel federal-lands policy was not ``unmistakably clear'' congressional authorization, and a plurality held that the market-participant exception does not let a State impose conditions that regulate a downstream market it does not participate in (\\href{https://supreme.justia.com/cases/federal/us/467/82/}{Justia})."
    }
   ],
   "Detailed Case Facts": [
@@ -161,7 +161,7 @@
     "glue": ""
    },
    {
-    "new": ". Nevada is now acting as a seller in the very market it has entered and is simply choosing its customers, the conduct \\textit{Reeves} protected when South Dakota sold cement from its own plant to residents first. No condition follows the lithium after sale into a market Nevada does not participate in, so the market-participant exception applies and the Dormant Commerce Clause does not bar the preference."
+    "new": ". Nevada is now acting as a seller in the very market it has entered and is simply choosing its customers, the conduct \\textit{Reeves} protected when South Dakota sold cement from its own plant to residents first. No condition follows the refined lithium after sale. If Nevada buys raw lithium on the open market and preferentially sells only its manufactured output, the preference likely falls within the market-participant exception. A preference that effectively reserves access to state-owned raw lithium would raise the natural-resources issue \\textit{Reeves} reserved."
    },
    {
     "new": "\\item \\textbf{Opposite-Side (Valid Market Participation): Cash Subsidies Instead of Export Conditions.} Alternatively, suppose Nevada",

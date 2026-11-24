@@ -2,7 +2,7 @@
  "sections": {
   "Memory Jogger": [
    {
-    "new": "The Court held 6--3 that the President alone holds the power to recognize foreign sovereigns and their territorial bounds, and struck down \\S~214(d), which directed the Secretary of State to list ``Israel'' as the birthplace on passports of Jerusalem-born citizens---a rare presidential victory in \\textit{Youngstown}'s lowest-ebb category (\\href{https://supreme.justia.com/cases/federal/us/576/1/}{Justia})."
+    "new": "A five-Justice majority held that the President alone holds the power to recognize foreign sovereigns and their territorial bounds. The Court invalidated \\S~214(d)'s requirement that the Secretary of State list Israel on the passports of Jerusalem-born citizens upon request, with Justice Thomas supplying a sixth vote on different grounds---a presidential victory in \\textit{Youngstown}'s lowest-ebb category (\\href{https://supreme.justia.com/cases/federal/us/576/1/}{Justia})."
    }
   ],
   "Detailed Case Facts": [
@@ -19,7 +19,7 @@
   ],
   "Judicial Votes": [
    {
-    "new": "The Supreme Court \\textbf{affirmed} the D.C. Circuit by a \\textbf{6--3} vote (5--4 as to the Court's Reception Clause rationale). The case was argued on November 3, 2014, and decided on June 8, 2015 (\\href{https://supreme.justia.com/cases/federal/us/576/1/}{Justia}):"
+    "new": "The Supreme Court \\textbf{affirmed} the D.C. Circuit with five Justices joining the Court's recognition-power rationale and Justice Thomas separately concurring in the judgment as to passports (6--3 on passports) but dissenting as to consular reports of birth abroad. The case was argued on November 3, 2014, and decided on June 8, 2015 (\\href{https://supreme.justia.com/cases/federal/us/576/1/}{Justia}):"
    },
    {
     "new": "\\begin{itemize}\n    \\item \\textbf{Majority Opinion:} Justice Kennedy delivered the opinion of the Court, joined by Justices Ginsburg, Breyer, Sotomayor, and Kagan.\n    \\item \\textbf{Concurring Opinions:} Justice Breyer filed a concurring opinion. Justice Thomas filed an opinion concurring in the judgment in part and dissenting in part.\n    \\item \\textbf{Dissenting Opinions:} Chief Justice Roberts filed a dissenting opinion, joined by Justice Alito. Justice Scalia filed a dissenting opinion, joined by Chief Justice Roberts and Justice Alito.\n\\end{itemize}"
@@ -125,7 +125,7 @@
     "new": "\\item \\textbf{Same-Side (Statute Invalid): Ordering the Executive to Receive a Breakaway Government's Envoy.} A province of a recognized state declares independence. The President declines to recognize it. Congress enacts a statute directing the Secretary of State to accredit the breakaway government's representative as an ambassador and to exchange formal diplomatic notes acknowledging the new state. Receiving an ambassador was, for the founding-era jurists the Court relied on, the paradigm act of recognition, and the statute would force the Executive to perform that act against the President's judgment. Because the President's recognition power is ``conclusive and preclusive,'' this is \\textit{Youngstown} Category Three in which the President prevails even more clearly than in \\textit{Zivotofsky} itself."
    },
    {
-    "new": "\\item \\textbf{Opposite-Side (Congress Prevails): Defunding an Embassy.}",
+    "new": "\\item \\textbf{Opposite-Side (Appropriations Power Distinguished): Defunding an Embassy.}",
     "glue": " "
    },
    {

@@ -41,7 +41,7 @@ FILL = {
     S(r"Because the EPA's civil penalties are punitive, non-compensatory, and immediately enforceable without a \textit{de novo} jury trial (distinguishing \textit{FCC v. AT\&T}), the remedy is ``all but dispositive.'' Moreover, air-pollution enforcement is closely analogous to common-law public and private nuisance, and environmental regulation under the Commerce Clause is not one of \textit{Jarkesy}'s historic public-rights categories (revenue, customs, immigration, public lands, Indian affairs, or public benefits).", glue=" "),
     N(r"The EPA responds:", glue=" "),
     S(r"The EPA will argue that, unlike the SEC's antifraud provisions (which explicitly borrowed common-law ``fraud'' terms of art), numerical parts-per-million emission thresholds resemble the technical trench-sloping ``building code'' standards upheld in \textit{Atlas Roofing}---prophylactic statutory obligations ``unknown to the common law'' that require no proof of private injury or nuisance.", glue=" "),
-    N(r"The outcome is uncertain because \textit{Jarkesy} treated the punitive remedy as nearly decisive yet preserved \textit{Atlas Roofing} for novel regulatory codes without saying how close a common-law analogue must be."),
+    N(r"The outcome is uncertain because \textit{Jarkesy} treated the punitive remedy as nearly decisive yet distinguished \textit{Atlas Roofing} on the ground that it concerned statutory claims unknown to the common law, while leaving its continuing validity unresolved."),
     N(r"\end{enumerate}"),
   ],
   "Critique": [SEC("Pedagogical", to=r"\textbf{Exam Hypothetical:}", strip=r"\textbf{Critiques:} ")],

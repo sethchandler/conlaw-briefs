@@ -6,7 +6,7 @@ C = "https://www.law.cornell.edu/supremecourt/text/272/52"
 PS = "Pedagogical Critiques"
 FILL = {
  "sections": {
-  "Memory Jogger": [N(r"When President Wilson fired Portland postmaster Frank Myers without the Senate consent an 1876 statute required, Chief Justice Taft's 6--3 opinion held that Article II gives the President an exclusive, illimitable power to remove executive officers he appoints with Senate consent, and that Congress may not reserve a share of removal to the Senate (\href{" + J + r"}{Justia}).")],
+  "Memory Jogger": [N(r"When President Wilson fired Portland postmaster Frank Myers without the Senate consent an 1876 statute required, Chief Justice Taft's 6--3 opinion held that Article II gives the President exclusive power to remove executive officers he appoints with Senate consent---here, a first-class postmaster---so Congress could not require the Senate's consent to the removal (\href{" + J + r"}{Justia}).")],
   "Detailed Case Facts": [SEC("Facts and Procedural History", to="On April 21, 1921, Myers sued")],
   "Procedural History": [SEC("Facts and Procedural History", frm="On April 21, 1921, Myers sued")],
   "Judicial Votes": [
