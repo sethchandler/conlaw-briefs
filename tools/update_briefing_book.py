@@ -92,6 +92,8 @@ def transform_brief_body(raw_tex: str, filename: str = "") -> str:
     m = re.search(r"\\begin\{document\}(.*)\\end\{document\}", raw_tex, re.DOTALL)
     body = m.group(1) if m else raw_tex
     body = re.sub(r"\\maketitle\b", "", body)
+    # Drop the brief's own centered title block; the book prints the title as the case's \section heading
+    body = re.sub(r"^\s*\\begin\{center\}.*?\\end\{center\}\s*(?:\\vspace\{[^}]*\}\s*)?", "", body, count=1, flags=re.S)
     # Demote top-level headings so each case sits cleanly under \section[...]
     body = re.sub(r"\\subsubsection\*?\{", r"\\paragraph{", body)
     body = re.sub(r"\\subsection\*?\{", r"\\subsubsection*{", body)

@@ -3,36 +3,18 @@
 \usepackage[T1]{fontenc}
 \usepackage[margin=1in]{geometry}
 \usepackage{setspace}
+\usepackage{xcolor}
+\usepackage[colorlinks=true, urlcolor=blue!60!black, linkcolor=blue!60!black]{hyperref}
 \setlength{\parindent}{2em}
 \setlength{\parskip}{1.25em}
 \renewcommand{\baselinestretch}{1.0}
-\makeatletter
-\newcommand{\@subtitle}{}
-\newcommand{\subtitle}[1]{\renewcommand{\@subtitle}{#1}}
-\renewcommand{\@maketitle}{%
-  \newpage
-  \null
-  \vskip 1em%
-  \begin{center}%
-    {\LARGE \@title \par}%
-    \ifx\@subtitle\@empty\else
-      \vskip 0.5em%
-      {\large \@subtitle \par}%
-    \fi
-  \end{center}%
-  \par
-  \vskip 1em}
-\makeatother
-\usepackage{xcolor}
-\usepackage[colorlinks=true,urlcolor=blue!55!black,linkcolor=black]{hyperref}
-
-\title{\textit{303 Creative LLC v.\ Elenis}, 600 U.S.\ 570 (2023)}
-\subtitle{Case Brief}
-\author{}
-\date{}
-
 \begin{document}
-\maketitle
+\begin{center}
+{\LARGE \textit{303 Creative LLC v.\ Elenis}, 600 U.S.\ 570 (2023)\par}
+\vspace{0.8em}
+{\large Case Brief\par}
+\end{center}
+\vspace{1em}
 
 \section{Memory Jogger}
 The First Amendment's Free Speech Clause prohibits a state from using its public accommodations law to compel a commercial website designer to create customized, expressive wedding websites conveying messages that conflict with her beliefs (\href{https://supreme.justia.com/cases/federal/us/600/21-476/}{Justia}; \href{https://www.supremecourt.gov/opinions/22pdf/21-476_c185.pdf}{Official Slip Opinion}).

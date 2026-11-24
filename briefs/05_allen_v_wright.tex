@@ -3,36 +3,18 @@
 \usepackage[T1]{fontenc}
 \usepackage[margin=1in]{geometry}
 \usepackage{setspace}
+\usepackage{xcolor}
+\usepackage[colorlinks=true, urlcolor=blue!60!black, linkcolor=blue!60!black]{hyperref}
 \setlength{\parindent}{2em}
 \setlength{\parskip}{1.25em}
 \renewcommand{\baselinestretch}{1.0}
-\makeatletter
-\newcommand{\@subtitle}{}
-\newcommand{\subtitle}[1]{\renewcommand{\@subtitle}{#1}}
-\renewcommand{\@maketitle}{%
-  \newpage
-  \null
-  \vskip 1em%
-  \begin{center}%
-    {\LARGE \@title \par}%
-    \ifx\@subtitle\@empty\else
-      \vskip 0.5em%
-      {\large \@subtitle \par}%
-    \fi
-  \end{center}%
-  \par
-  \vskip 1em}
-\makeatother
-\usepackage{xcolor}
-\usepackage[colorlinks=true,urlcolor=blue!55!black,linkcolor=black]{hyperref}
-
-\title{\textit{Allen v.\ Wright}, 468 U.S.\ 737 (1984)}
-\subtitle{Case Brief}
-\author{}
-\date{}
-
 \begin{document}
-\maketitle
+\begin{center}
+{\LARGE \textit{Allen v.\ Wright}, 468 U.S.\ 737 (1984)\par}
+\vspace{0.8em}
+{\large Case Brief\par}
+\end{center}
+\vspace{1em}
 
 \section{Memory Jogger}
 Parents of Black public-school children lacked Article~III standing to sue the IRS over its lax enforcement of rules denying tax-exempt status to racially discriminatory private schools because abstract stigmatic harm without personal denial of equal treatment is not cognizable and any impairment of public-school desegregation is not ``fairly traceable'' to the IRS, grounded in separation-of-powers limits on judicial oversight of the Executive (\href{https://supreme.justia.com/cases/federal/us/468/737/}{Justia}; \href{https://www.oyez.org/cases/1983/81-757}{Oyez}).

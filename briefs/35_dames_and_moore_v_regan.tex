@@ -3,36 +3,18 @@
 \usepackage[T1]{fontenc}
 \usepackage[margin=1in]{geometry}
 \usepackage{setspace}
+\usepackage{xcolor}
+\usepackage[colorlinks=true, urlcolor=blue!60!black, linkcolor=blue!60!black]{hyperref}
 \setlength{\parindent}{2em}
 \setlength{\parskip}{1.25em}
 \renewcommand{\baselinestretch}{1.0}
-\makeatletter
-\newcommand{\@subtitle}{}
-\newcommand{\subtitle}[1]{\renewcommand{\@subtitle}{#1}}
-\renewcommand{\@maketitle}{%
-  \newpage
-  \null
-  \vskip 1em%
-  \begin{center}%
-    {\LARGE \@title \par}%
-    \ifx\@subtitle\@empty\else
-      \vskip 0.5em%
-      {\large \@subtitle \par}%
-    \fi
-  \end{center}%
-  \par
-  \vskip 1em}
-\makeatother
-\usepackage{xcolor}
-\usepackage[colorlinks=true,urlcolor=blue!55!black,linkcolor=black]{hyperref}
-
-\title{\textit{Dames \& Moore v. Regan}, 453 U.S. 654 (1981)}
-\subtitle{Case Brief}
-\author{}
-\date{}
-
 \begin{document}
-\maketitle
+\begin{center}
+{\LARGE \textit{Dames \& Moore v. Regan}, 453 U.S. 654 (1981)\par}
+\vspace{0.8em}
+{\large Case Brief\par}
+\end{center}
+\vspace{1em}
 
 \section{Memory Jogger}
 During the Iran Hostage Crisis, the Supreme Court upheld President Carter's and President Reagan's executive orders nullifying attachments on frozen Iranian assets under the International Emergency Economic Powers Act (IEEPA) and suspending private U.S. lawsuits in favor of an international claims tribunal based on congressional acquiescence and related statutory tenor.
