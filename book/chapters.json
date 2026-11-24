@@ -1,0 +1,152 @@
+{
+  "parts": [
+    {
+      "number": 1,
+      "title": "Structure of Government",
+      "chapters": [1, 2, 3, 4]
+    },
+    {
+      "number": 2,
+      "title": "Individual Rights and Liberties",
+      "chapters": [5, 6, 7, 8, 9, 10]
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "part": 1,
+      "title": "Judicial Review and the Federal Courts",
+      "topics": [
+        "Judicial review",
+        "Congress and the federal courts",
+        "Federal Jurisdiction, Political Questions & Separation of Powers",
+        "Constitutional Remedies (Bivens)",
+        "Advisory Opinions / Finality",
+        "Taxpayer Standing",
+        "Standing & Mootness",
+        "Federal Equity / Universal Injunctions"
+      ]
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "title": "Separation of Powers and the Executive",
+      "topics": [
+        "Separation of Powers",
+        "Executive Immunity, Executive Privilege and Who Can Fire Whom?",
+        "Non-Delegation Doctrine, Major Questions Doctrine, Legislative Veto and Line Item Veto",
+        "Executive Agreements & Foreign Affairs",
+        "Executive Authority & Immigration",
+        "Executive Power / Treaties",
+        "Recess Appointments",
+        "Administrative State / Judicial Review"
+      ]
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "title": "Federal Legislative Power",
+      "topics": [
+        "Commerce Clause",
+        "Commerce Clause (Pre-1937)",
+        "Commerce Clause (cont.): The Roberts Court",
+        "Necessary & Proper Clause",
+        "Bill of Attainder & Legislative Power",
+        "Contracts Clause",
+        "Ex Post Facto Laws",
+        "Taxing Power & Sixteenth Amendment",
+        "Territories Clause (Insular Cases)",
+        "Territories Clause",
+        "Suspension of Habeas Corpus",
+        "Immigration Plenary Power"
+      ]
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "title": "Federalism and State Sovereignty",
+      "topics": [
+        "Eleventh Amendment (State Sovereign Immunity)",
+        "Tenth Amendment (Anti-Commandeering Doctrine)",
+        "Dormant Commerce Clause & Supremacy Clause (Preemption)",
+        "Dormant Commerce Clause & Twenty-First Amendment",
+        "State Bills of Credit",
+        "State Bills of Credit & Eleventh Amendment",
+        "Full Faith and Credit",
+        "Extradition Clause",
+        "Interstate Compacts",
+        "State-Federal Structural Relations",
+        "State-Federal Structural Relations / Elections"
+      ]
+    },
+    {
+      "number": 5,
+      "part": 2,
+      "title": "Reconstruction, Citizenship, and State Action",
+      "topics": [
+        "State Action",
+        "State Action / No Affirmative Duty",
+        "Section 5 of the 14th Amendment",
+        "Citizenship and Reconstruction"
+      ]
+    },
+    {
+      "number": 6,
+      "part": 2,
+      "title": "Substantive Due Process",
+      "topics": [
+        "Substantive Due Process: Overview and Economic Liberty",
+        "Substantive Due Process: Privacy and Fundamental Rights",
+        "Regulatory Takings",
+        "Land-Use Exactions (Rough Proportionality)",
+        "Public Use Clause",
+        "Per Se Physical Takings"
+      ]
+    },
+    {
+      "number": 7,
+      "part": 2,
+      "title": "Equal Protection",
+      "topics": [
+        "Equal Protection Through 1954",
+        "Equal Protection: Race and Affirmative Action",
+        "Equal Protection: Gender, Poverty and Disability",
+        "Rational Basis with Bite / Animus",
+        "Racial Gerrymandering"
+      ]
+    },
+    {
+      "number": 8,
+      "part": 2,
+      "title": "Freedom of Speech",
+      "topics": [
+        "Introduction to the First Amendment",
+        "Expressive Conduct, Unprotected Speech and Corporate Speech",
+        "Government speech, compelled speech",
+        "Fighting Words / Low-Value Speech",
+        "Freedom of Association",
+        "Student Speech",
+        "Government Speech vs. Public Forum"
+      ]
+    },
+    {
+      "number": 9,
+      "part": 2,
+      "title": "Religious Liberty",
+      "topics": [
+        "Establishment of Religion",
+        "Free Exercise of Religion",
+        "Parental rights, school policies, and free exercise"
+      ]
+    },
+    {
+      "number": 10,
+      "part": 2,
+      "title": "The Second Amendment",
+      "topics": [
+        "The Second Amendment",
+        "Second Amendment"
+      ]
+    }
+  ]
+}
