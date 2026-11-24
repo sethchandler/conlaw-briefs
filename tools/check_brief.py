@@ -45,6 +45,7 @@ def check(stem):
     q = run([sys.executable, os.path.join(ROOT, "tools", "normalize_quotes.py"), out_tex])
     if "converted: 1" not in q.stdout and "already Group A style" not in q.stdout:
         probs.append("quotation conversion failed: " + q.stdout.strip()[:200])
+    run([sys.executable, os.path.join(ROOT, "tools", "add_speakers.py"), out_tex])
     tex = open(out_tex, encoding="utf-8").read()
 
     secs = re.findall(r"^\\section\{(.+?)\}", tex, re.M)
