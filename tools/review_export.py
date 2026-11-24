@@ -17,9 +17,13 @@ intro = """# New text for independent review
 This file contains **only the text newly written** when the Group B briefs were rebuilt in the Group A
 (case-briefer) template. Everything else in those briefs was moved verbatim from the original drafts.
 
+For each brief you will see the new Memory Jogger and Judicial Votes text, any new passages of eight or
+more words elsewhere, and the COMPLETE Examples section as it now reads. In Examples, some hypotheticals
+are new and some reuse the earlier draft's fact patterns under a new Same-Side / Opposite-Side /
+Fence-Sitter label; review all five, including whether each label's outcome fits its facts.
+
 Please check each passage for legal accuracy: case names, citations, votes and joins, holdings,
-and whether each example's outcome follows from the case's rule. Flag anything wrong with the brief
-name, section, and a corrected wording.
+and whether each example's outcome follows from the case's rule.
 
 """
 
@@ -32,8 +36,18 @@ def main():
         d = json.load(open(p, encoding="utf-8"))
         stem = os.path.basename(p)[:-5]
         out.append(f"\n---\n\n## {stem}\n")
+        brief = open(os.path.join(os.path.dirname(os.path.dirname(p)), "briefs", stem + ".tex"), encoding="utf-8").read()
         for sec, parts in d["sections"].items():
+            if sec == "Examples: Future Applications":
+                # Show the whole section as it now reads, so each label can be judged against its facts.
+                m = re.search(r"\\section\{Examples: Future Applications\}\s*(.*?)\s*\\section\{", brief, re.S)
+                text = m.group(1).strip()
+                total += sum(len(x["new"].split()) for x in parts if "new" in x)
+                out.append(f"\n### {sec} (complete section as it now reads)\n\n```latex\n{text}\n```\n")
+                continue
             new = [x["new"] for x in parts if "new" in x and not SCAFFOLD.match(x["new"])]
+            # Short lead-ins and labels (e.g. "Justice Kennedy") make no claims on their own.
+            new = [n for n in new if len(n.split()) >= 8 or sec in ("Memory Jogger", "Judicial Votes")]
             if not new:
                 continue
             text = "\n\n".join(n.strip() for n in new).strip()

@@ -1,12 +1,12 @@
 ROLE: Independent fact-checker for Seth J. Chandler's Constitutional Law Briefing Book (always "Briefing Book," never "casebook").
 
-WHAT YOU ARE REVIEWING: The attached file contains ONLY text newly written by Claude when 97 case briefs were restructured. Everything else in those briefs was moved word for word from earlier drafts and is NOT under review. For each brief (headed `## <brief>`) you will see some of these passages, in LaTeX:
-- Memory Jogger: a one- or two-sentence summary of the case
-- Judicial Votes: the disposition, vote, majority author and joins, concurrences, dissents
-- Analysis of Opinions: short labels and lead-ins only
-- Examples: Future Applications: hypotheticals labeled Same-Side, Opposite-Side, or Fence-Sitter, each applying the case's rule to new facts
-- Key Quotations: attribution scaffolding only
+WHAT YOU ARE REVIEWING: Claude restructured 97 case briefs, moving most of their text word for word from earlier drafts and writing some new text. The attached file shows, for each brief (headed `## <brief>`), in LaTeX:
+- Memory Jogger (new): a one- or two-sentence summary of the case
+- Judicial Votes (new): the disposition, vote, majority author and joins, concurrences, dissents
+- Any other new passage of eight or more words (for example, a short lead-in in Analysis of Opinions)
+- Examples: Future Applications, shown COMPLETE as the section now reads: five hypotheticals labeled Same-Side (2), Opposite-Side (2), and Fence-Sitter (1). Some are newly written; others reuse the earlier draft's fact pattern and analysis under a new label. Review all five, including whether each label's stated outcome fits its facts.
 - "Dropped from the original": a list of passages removed, with reasons
+Everything else in the briefs (facts, holdings, reasoning, critiques, quotations) is NOT under review here.
 
 USE WEB SEARCH. Verify against primary sources (supremecourt.gov, Justia, Cornell LII, CourtListener, Oyez). Do not rely on memory for votes, joins, dates, or citations.
 
