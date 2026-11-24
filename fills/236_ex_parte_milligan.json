@@ -1,0 +1,141 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "An Indiana civilian sentenced to hang by a Civil War military commission won his release: the Court held unanimously that the commission lacked jurisdiction, and 5--4 that neither the President nor Congress may subject civilians to military trial where the civil courts are open, even while habeas corpus is suspended (\\href{https://supreme.justia.com/cases/federal/us/71/2/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "On May 10, 1865, Milligan petitioned"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "On May 10, 1865, Milligan petitioned"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court answered the certified questions in Milligan's favor, \\textbf{9--0} on the judgment that the military commission lacked jurisdiction and Milligan was entitled to discharge, and \\textbf{5--4} on whether Congress could have authorized such a commission. The case was argued March 5--9 and 12--13, 1866, and decided April 3, 1866, with full opinions delivered in December 1866 (\\href{https://supreme.justia.com/cases/federal/us/71/2/}{Justia}; \\href{https://www.law.cornell.edu/supremecourt/text/71/2}{Cornell LII}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Majority Opinion:} Justice Davis delivered the opinion of the Court, joined by Justices Nelson, Grier, Clifford, and Field.\n    \\item \\textbf{Concurring Opinion:} Chief Justice Chase filed an opinion concurring in the judgment, joined by Justices Wayne, Swayne, and Miller.\n    \\item \\textbf{Dissenting Opinions:} None.\n\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Question Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Majority Opinion (Justice Davis)}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Concurring in the Judgment (Chief Justice Chase)}"
+   },
+   {
+    "sec": "Concurring and Dissenting"
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "new": "\\begin{itemize}"
+   },
+   {
+    "new": "\\item \\textbf{Unlawful Belligerents (\\textit{Ex parte Quirin}):}",
+    "glue": " "
+   },
+   {
+    "src": "During World War II, in \\href{https://supreme.justia.com/cases/federal/us/317/1/}{\\textit{Ex parte Quirin}}, 317 U.S. 1 (1942), the Court unanimously upheld military-commission trials of eight German saboteurs (including one U.S. citizen) who covertly landed on U.S. shores out of uniform. Distinguishing \\textit{Milligan}, \\textit{Quirin} held that unlawful enemy belligerents charged with congressionally sanctioned law-of-war offenses are subject to military trial even when civilian courts are open, characterizing Milligan as a non-belligerent civilian never associated with enemy armed forces."
+   },
+   {
+    "new": "\\item \\textbf{Military Detention of Citizens (\\textit{Hamdi v. Rumsfeld}):}",
+    "glue": " "
+   },
+   {
+    "src": "In \\href{https://supreme.justia.com/cases/federal/us/542/507/}{\\textit{Hamdi v. Rumsfeld}}, 542 U.S. 507 (2004), a plurality held that Congress's 2001 Authorization for Use of Military Force permitted military \\textit{detention} (with due process review) of a U.S. citizen captured on a foreign battlefield, invoking \\textit{Quirin} to distinguish \\textit{Milligan}; Justice Scalia's celebrated dissent (joined by Justice Stevens) relied squarely on \\textit{Milligan} to argue that absent a Suspension Clause suspension, a citizen must be prosecuted for treason in Article III courts or released."
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Military Trial Invalid): Congress Authorizes Commissions for Domestic Saboteurs.}",
+    "glue": " "
+   },
+   {
+    "sec": "Pedagogical",
+    "from": "During a declared international conflict",
+    "to": "\\textit{Analysis:} Under Justice Davis",
+    "glue": " "
+   },
+   {
+    "sec": "Pedagogical",
+    "from": "Under Justice Davis's 5--4 majority",
+    "to": "\\textbf{``Opposite Side'' Contrast"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Military Trial Invalid): Presidential Martial Law After Riots.} After several nights of rioting in a major city, the President, acting without any statute, declares martial law in the city and orders that persons arrested for arson be tried by military tribunals. A college student who has no connection to any armed force is arrested for setting a police car on fire and convicted by a tribunal, although the federal and state courts in the city never closed. The conviction cannot stand. Under Justice Davis's majority, martial rule ``can never exist where the courts are open,'' and the student is a civilian entitled to indictment and jury trial. Even Chief Justice Chase's concurrence would not save the tribunal, because Chase located the power to authorize military commissions in Congress, not the President acting alone (\\href{https://supreme.justia.com/cases/federal/us/71/2/}{Justia})."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Military Jurisdiction Permitted): A Citizen Saboteur Enlisted With the Enemy.}",
+    "glue": " "
+   },
+   {
+    "src": "First, if a U.S. citizen secretly enlists in a hostile foreign military, slips across U.S. coastal defenses out of uniform during wartime to blow up a naval shipyard, and is charged with a recognized law-of-war violation under a statute authorizing military commissions, \\href{https://supreme.justia.com/cases/federal/us/317/1/}{\\textit{Ex parte Quirin}} permits trial by military commission despite open civil courts."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Military Detention Permitted): A Citizen Captured on a Foreign Battlefield.}",
+    "glue": " "
+   },
+   {
+    "src": "Second, if a U.S. citizen is captured bearing arms for enemy forces on an active foreign battlefield and Congress has authorized military force, \\href{https://supreme.justia.com/cases/federal/us/542/507/}{\\textit{Hamdi v. Rumsfeld}} permits preventive military \\textit{detention} for the duration of hostilities (subject to due process review) rather than immediate civilian prosecution."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Open but Compromised Courts): A Militia Supporter in an Insurrection.} During an armed insurrection in one State, a militia seizes several county seats, and its members threaten jurors and witnesses in the federal courthouse, which stays open but cannot seat a jury in militia cases. Congress authorizes military commissions in that State for persons who knowingly supply the militia with weapons. A citizen who sold rifles to the militia, but never joined it, is tried by a commission. Under Davis's bright line, the courts are open, so the trial is invalid; but Chase warned that courts may be technically open yet ``wholly incompetent,'' and here Congress has acted. \\textit{Quirin} also complicates matters, since the defendant's knowing support for an armed force may or may not make him a belligerent rather than a \\textit{Milligan}-type civilian. The outcome is uncertain."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "items": "Pedagogical",
+    "from": "  \\item \\textbf{Post-War Courage",
+    "to": "\\end{itemize}"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "sec": "Key Quotations"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: Briefing Book placement, lower-court line (covered in Procedural History).",
+  "Legacy section: intro paragraph; Hamdan v. Rumsfeld and Boumediene v. Bush sentences (they rest on statutory authorization and the Suspension Clause, not Milligan's holding); 'Through 2026' summary paragraph (CONAN, Vladeck). Kept: Quirin paragraph and Hamdi sentence.",
+  "Exam hypothetical heading/'Analysis:' label and the 'Opposite Side' Contrast lead-in sentence; the contrast's two fact patterns are reused as Examples 3 and 4."
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "A Ku Klux Klan leader convicted under Ohio's criminal syndicalism law for a filmed rally speech hinting at ``revengeance'' won reversal: a unanimous per curiam Court held that the State may punish advocacy of force or law violation only when it is directed to inciting imminent lawless action and is likely to produce it, and overruled \\textit{Whitney v.\\ California} (\\href{https://supreme.justia.com/cases/federal/us/395/444/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "Ohio convicted Brandenburg under"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "Ohio convicted Brandenburg under"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court unanimously \\textbf{reversed} the Supreme Court of Ohio, \\textbf{8--0}, in a \\emph{per curiam} opinion. The case was argued on February 27, 1969, and decided on June 9, 1969 (\\href{https://supreme.justia.com/cases/federal/us/395/444/}{Justia}; \\href{https://www.oyez.org/cases/1968/492}{Oyez}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Per Curiam Opinion:} Joined by Chief Justice Warren and Justices Black, Douglas, Harlan, Brennan, Stewart, White, and Marshall (one seat vacant following Justice Fortas's resignation).\n    \\item \\textbf{Concurring Opinions:} Justice Black filed a concurring opinion. Justice Douglas filed a concurring opinion.\n    \\item \\textbf{Dissenting Opinions:} None.\n\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Per Curiam Opinion}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Concurring Opinion (Justice Black)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "In a brief concurrence",
+    "to": "  \\item \\textbf{Justice Douglas"
+   },
+   {
+    "new": "\\subsection{Concurring Opinion (Justice Douglas)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Joining the Court's opinion",
+    "to": "  \\item \\textbf{Dissents:}"
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "new": "\\begin{itemize}"
+   },
+   {
+    "new": "\\item \\textbf{\\textit{Hess v.\\ Indiana} (1973):}",
+    "glue": " "
+   },
+   {
+    "src": "In \\href{https://supreme.justia.com/cases/federal/us/414/105/}{\\emph{Hess v.\\ Indiana}}, 414 U.S.\\ 105, 108--09 (1973) (per curiam), the Court reversed the disorderly conduct conviction of an antiwar demonstrator who shouted, ``We'll take the fucking street later (or again),'' holding that advocacy of illegal action at ``some indefinite future time'' fails \\emph{Brandenburg}'s imminence prong."
+   },
+   {
+    "new": "\\item \\textbf{\\textit{NAACP v.\\ Claiborne Hardware Co.} (1982):}",
+    "glue": " "
+   },
+   {
+    "src": "In \\href{https://supreme.justia.com/cases/federal/us/458/886/}{\\emph{NAACP v.\\ Claiborne Hardware Co.}}, 458 U.S.\\ 886, 927--29 (1982), the Court extended \\emph{Brandenburg} to civil tort liability, holding that a civil rights organizer's fiery boycott speeches---warning that violators would have their necks broken---could not support damages absent authorization, ratification, or incitement of imminent violence."
+   },
+   {
+    "new": "\\item \\textbf{\\textit{Counterman v.\\ Colorado} (2023):}",
+    "glue": " "
+   },
+   {
+    "src": "In \\href{https://www.law.cornell.edu/supremecourt/text/22-138}{\\emph{Counterman v.\\ Colorado}}, 600 U.S.\\ \\_\\_\\_ (2023), the Court held that true-threats prosecutions require at least subjective recklessness, expressly contrasting true threats with \\emph{Brandenburg} incitement: because incitement lies ``a hair's-breadth away from political `advocacy,''' the First Amendment continues to demand specific intent (purpose or knowledge) for incitement, whereas recklessness suffices for true threats."
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Protected Advocacy): A Pamphlet Calling Revolution Morally Necessary.} A small political group distributes a pamphlet arguing that the federal government is illegitimate and that armed revolution will someday be a moral necessity. The pamphlet names no target or date and urges readers to study and organize. The State prosecutes the authors under a statute punishing anyone who advocates the propriety of violence as a means of political reform. Under \\textit{Brandenburg}, this is the ``mere abstract teaching'' of the moral necessity of force that the Constitution protects: the speech is not directed to producing imminent lawless action and is not likely to do so. A statute that punishes such advocacy without an imminence requirement is invalid on its face, as Ohio's was (\\href{https://supreme.justia.com/cases/federal/us/395/444/}{Justia})."
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (No Civil Liability): A Boycott Leader's Heated Warning.} At a rally supporting a consumer boycott of local stores, an organizer warns that anyone caught shopping at the boycotted stores will be disciplined by the community and will regret it. Weeks later, unidentified persons vandalize the car of a shopper. The store owners sue the organizer for their lost profits and the damage. Because the speech was not directed to, and did not produce, imminent lawless action, and the organizer did not authorize or ratify the later vandalism, \\textit{Brandenburg} bars liability. \\href{https://supreme.justia.com/cases/federal/us/458/886/}{\\emph{NAACP v.\\ Claiborne Hardware Co.}, 458 U.S.\\ 886 (1982)}, applied exactly this reasoning to bar civil damages for emotionally charged boycott speeches."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Unprotected Incitement): A Bullhorn Command to an Armed Crowd.}",
+    "glue": " "
+   },
+   {
+    "src": "Contrast Clarence Brandenburg's filmed speech on a secluded farm (attended only by twelve Klan members and a TV crew, gesturing vaguely to future ``revengeance'') with a rally leader standing outside a besieged municipal building facing an angry, armed crowd of 200 protesters who shouts through a bullhorn, ``The doors are unlocked right now---rush the building and drag the councilmembers out!'' Here, \\emph{Brandenburg} flips to the \\textbf{opposite side}: the speaker uses explicit words of incitement \\emph{directed to} immediate unlawful entry and assault, and given the armed, agitated crowd at the exact target location, lawless action is both \\emph{imminent} and objectively \\emph{likely}. The First Amendment affords no shield."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Outside \\textit{Brandenburg}'s Protection): A Private Solicitation to Commit Arson.} In a direct message to one acquaintance, a defendant offers \\$5,000 if the acquaintance will set fire to a rival's warehouse that night, supplying the address and the location of an unlocked side door. The defendant is charged with criminal solicitation and argues that, under \\textit{Brandenburg}, he engaged only in advocacy. \\textit{Brandenburg} protects advocacy of ideas, not speech that is itself the means of committing a crime: a targeted request to a particular person to commit a specific offense is solicitation, a category the First Amendment has never protected, as the Court recognized in \\href{https://supreme.justia.com/cases/federal/us/553/285/}{\\emph{United States v.\\ Williams}, 553 U.S.\\ 285 (2008)}. Even under \\textit{Brandenburg} itself, the request is directed to imminent lawless action."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Imminence Unclear): The Scheduled Livestream Raid.}",
+    "glue": " "
+   },
+   {
+    "src": "An online political influencer with 500,000 followers livestreams a furious denunciation of a county courthouse and tells viewers, ``Bring crowbars to the courthouse steps at noon tomorrow and smash the doors in so they can't certify the vote.'' No violence occurs during the stream. Under \\href{https://supreme.justia.com/cases/federal/us/395/444/}{\\emph{Brandenburg}} and \\href{https://supreme.justia.com/cases/federal/us/414/105/}{\\emph{Hess}}, the prosecution faces a steep imminence hurdle because a 24-hour gap leaves time for counterspeech and police intervention---though courts may scrutinize whether providing a definite time, place, and tools edges toward unprotected solicitation or conspiracy rather than abstract advocacy (\\href{https://www.law.cornell.edu/wex/imminent_lawless_action}{Cornell LII Wex})."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "items": "Pedagogical Critiques",
+    "from": "  \\item \\textbf{Doctrinal Revisionism",
+    "to": "\\end{itemize}"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "sec": "Key Quotations"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: docket number, statute line, National Constitution Center link, Cornell Wex link (Justia and Oyez links kept in Judicial Votes).",
+  "Concurring/Dissenting section: 'Dissents: None.' item (restated in Judicial Votes).",
+  "Legacy section: introductory paragraph; 'In the 2020s' framing sentence and Justice Sotomayor's Counterman concurrence; 'Through 2026' paragraph (Mckesson v. Doe cert. denial, Ford v. Mckesson Fifth Circuit litigation, digital-speech debate). Kept: Hess, Claiborne Hardware, Counterman holding sentence."
+ ],
+ "notes": [
+  "Neon's 'Opposite Side' Contrast is a genuine fact pattern (bullhorn command to an armed crowd) and is reused as Example 3; the Scheduled Livestream Raid is reused as the Fence-Sitter."
+ ]
+}

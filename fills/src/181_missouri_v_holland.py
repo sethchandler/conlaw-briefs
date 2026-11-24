@@ -1,0 +1,68 @@
+"""Fill for 181_missouri_v_holland. See tools/fillkit.py."""
+from fillkit import *
+
+J = "https://supreme.justia.com/cases/federal/us/252/416/"
+JL = r" (\href{https://supreme.justia.com/cases/federal/us/252/416/}{Justia})."
+
+def Q(quote, attrib):
+    # Attribution placed inside the quote block; tools/normalize_quotes.py then moves it to a
+    # Group A "\noindent ---" line (check_brief.py does not match manual_quotes.txt's ".tex" names).
+    return [N(r"\begin{quote}", glue="\n"), S(quote, glue="\n"), N(r"---", glue=" "), S(attrib, glue="\n"),
+            N(r"\end{quote}")]
+
+FILL = {
+ "sections": {
+  "Memory Jogger": [N(r"Upholding the Migratory Bird Treaty Act 7--2, Justice Holmes held that Congress may enact legislation necessary and proper to execute a valid treaty even on a subject an unaided Act of Congress could not reach, and that the Tenth Amendment does not bar it (\href{" + J + r"}{Justia}).")],
+  "Detailed Case Facts": [SEC("Facts and Procedural History", to="The State of Missouri filed a bill in equity")],
+  "Procedural History": [SEC("Facts and Procedural History", frm="The State of Missouri filed a bill in equity")],
+  "Judicial Votes": [
+    N(r"The Supreme Court \textbf{affirmed} the District Court's decree by a \textbf{7--2} vote. The case was argued on March 2, 1920, and decided on April 19, 1920 (\href{" + J + r"}{Justia}; \href{https://www.law.cornell.edu/supremecourt/text/252/416}{Cornell LII}):"),
+    N(r"""\begin{itemize}
+    \item \textbf{Majority Opinion:} Justice Holmes delivered the opinion of the Court, joined by Chief Justice White and Justices McKenna, Day, McReynolds, Brandeis, and Clarke.
+    \item \textbf{Concurring Opinions:} None.
+    \item \textbf{Dissenting Opinions:} Justices Van Devanter and Pitney dissented without opinion.
+\end{itemize}"""),
+  ],
+  "Holding": [N(r"\textbf{Questions Presented:}"), SEC("Issue"), N(r"\textbf{Holding:}", glue=" "), SEC("Holding")],
+  "Analysis of Opinions": [
+    N(r"\subsection{Majority Opinion (Justice Holmes)}"), SEC("Reasoning"),
+    N(r"\subsection{Dissenting Opinions (Justices Van Devanter and Pitney)}"),
+    SEC("Separate Opinions", frm="Justices Willis Van Devanter"),
+    N(r"\subsection{Subsequent Developments}"),
+    N(r"\begin{itemize}"),
+    SEC("Doctrinal Significance", frm=r"  \item \textbf{Individual-Rights", to=r"  \item \textbf{Non-Self-Execution"),
+    SEC("Doctrinal Significance", frm=r"  \item \textbf{The \textit{Bond", to=r"  \item \textbf{Status Through 2026"),
+    N(r"\end{itemize}"),
+  ],
+  "Examples: Future Applications": [
+    N(r"\begin{enumerate}"),
+    N(r"\item \textbf{Same-Side (Statute Valid): Implementing a Treaty to Protect a Migrating Butterfly.} The United States, Canada, and Mexico conclude a treaty obligating each nation to protect the breeding habitat of a butterfly species that migrates every year across all three countries and is in danger of extinction. Congress implements the treaty with a statute forbidding destruction of designated breeding habitat, including on private land within the States. A landowner argues that habitat regulation is reserved to the States. Under \textit{Holland}, if the treaty is valid, the statute is valid as a necessary and proper means of executing it, whatever Congress could do on its own. The facts mirror the migratory birds themselves: creatures in international transit, a resource no single State can protect, and a problem that requires national action in concert with other sovereigns."),
+    N(r"\item \textbf{Same-Side (Statute Applies): A Nerve-Agent Attack on a Subway.} A defendant releases a homemade nerve agent in a crowded city subway station, and federal prosecutors charge him under the statute implementing the Chemical Weapons Convention. He argues that, as in \textit{Bond II}, the statute must be read narrowly to avoid federalizing local crime. The argument fails. Releasing a toxic chemical to cause mass casualties is the core conduct the Convention addresses, so no clear statement is needed to bring it within the statute, and applying the law raises none of the federalism concerns that led the Court to read \S~229 narrowly in \textit{Bond II}. Because the statute reaches him, \textit{Holland} supplies the constitutional authority: Congress may execute a valid treaty through necessary and proper legislation."),
+    N(r"\item \textbf{Opposite-Side (Statute Invalid): A Treaty Requiring Criminal Bans on Protected Speech.} The United States ratifies a treaty obligating member nations to criminalize speech that insults any religion. Congress enacts implementing legislation making such speech a federal crime, and a newspaper columnist is prosecuted for an essay mocking religious belief. \textit{Holland} does not help the government. Holmes rejected a Tenth Amendment objection because the treaty contravened no ``prohibitory words'' in the Constitution; the First Amendment is exactly such a prohibition. Under \textit{Reid v.\ Covert}, no agreement with a foreign nation can free Congress from the restraints of the Constitution, so the statute is unconstitutional as applied to protected speech even though it executes a valid treaty obligation."),
+    N(r"\item \textbf{Opposite-Side (Statute Read Narrowly): Poisoning a Neighbor's Fish Pond.} After a dispute over a fence, a homeowner pours a household pesticide into his neighbor's backyard pond, killing the fish. Federal prosecutors charge him under the Chemical Weapons Convention implementing statute, whose broad definition of chemical weapons literally covers the pesticide. As in \textit{Bond II}, the conduct is a purely local offense of the kind traditionally left to state law, and nothing in the statute clearly shows that Congress meant to reach it. The court would construe the statute not to cover the conduct, and so would never reach the constitutional question \textit{Holland} answered. The prosecution fails on statutory grounds, and the State remains free to prosecute under its own law."),
+    N(r"\item \textbf{Fence-Sitter (Unresolved): A Treaty-Based Ban on School Corporal Punishment.}", glue=" "),
+    S(r"Congress previously enacted a federal statute banning corporal punishment in all public and private K--12 schools, which a federal court invalidated under \textit{United States v.\ Lopez} as regulating noneconomic local conduct. The President subsequently negotiates, and two-thirds of the Senate ratifies, the ``International Convention on the Rights of the Child,'' which obligates signatory nations to enact domestic laws banning corporal punishment in all schools. Congress then reenacts the identical school-discipline ban, expressly stating that it applies to every local public and private school nationwide and citing the treaty as its constitutional authority. A private school in Texas challenges the statute.", glue=" "),
+    N(r"\textit{For the government:}", glue=" "),
+    S(r"Under \textit{Holland}, Congress's power to enact legislation necessary and proper to execute a valid treaty is not limited by what an unaided Act of Congress could accomplish under the Commerce Clause. Because Congress included an unmistakable clear statement reaching local schools, \textit{Bond II}'s statutory-avoidance canon cannot defeat the statute. Furthermore, the statute violates no affirmative Bill of Rights prohibition (\textit{Reid v.\ Covert}), and international human-rights norms protecting children are a well-established subject of multilateral diplomacy.", glue=" "),
+    N(r"\textit{For the challenger:}", glue=" "),
+    S(r"Because Congress's explicit text forecloses \textit{Bond II}'s avoidance path, the Court must confront the constitutional questions left open in \textit{Bond II}. First, under Justice Thomas's and Justice Alito's \textit{Bond II} framework, the Treaty Power is originally limited to ``matters of international intercourse'' or ``legitimate international concern.'' Unlike migratory birds physically crossing international borders in \textit{Holland}, intrastate school discipline involves no cross-border transit or genuine international collective-action failure; upholding it would allow the President and Senate to overturn \textit{Lopez} at will. Second, under Justice Scalia's textualist reading of the Necessary and Proper Clause, Congress may assist the \textit{making} of treaties, not bootstrap a non-self-executing treaty into a freestanding domestic police power beyond Article~I, \S~8.", glue=" "),
+    N(r"The outcome is uncertain because \textit{Holland} remains good law on its face, while the Court has never decided whether the \textit{Bond II} concurrences' limits on the treaty power are correct."),
+    N(r"\end{enumerate}"),
+  ],
+  "Critique": [ITEMS("Pedagogical", frm=r"  \item \textbf{Textual Slippage", to=r"\end{itemize}")],
+  "Key Quotations":
+    Q(r"``If the treaty is valid, there can be no dispute about the validity of the statute under Article~I, \S~8, as a necessary and proper means to execute the powers of the Government.''", r"Justice Holmes, 252 U.S.\ at 432" + JL)
+    + Q(r"``Acts of Congress are the supreme law of the land only when made in pursuance of the Constitution, while treaties are declared to be so when made under the authority of the United States.''", r"Justice Holmes, 252 U.S.\ at 433" + JL)
+    + Q(r"``It was enough for them to realize or to hope that they had created an organism; it has taken a century and has cost their successors much sweat and blood to prove that they created a nation. The case before us must be considered in the light of our whole experience, and not merely in that of what was said a hundred years ago.''", r"Justice Holmes, 252 U.S.\ at 433" + JL)
+    + Q(r"``The treaty in question does not contravene any prohibitory words to be found in the Constitution. The only question is whether it is forbidden by some invisible radiation from the general terms of the Tenth Amendment.''", r"Justice Holmes, 252 U.S.\ at 433--434" + JL)
+    + Q(r"``To put the claim of the State upon title is to lean upon a slender reed. Wild birds are not in the possession of anyone, and possession is the beginning of ownership. The whole foundation of the State's rights is the presence within their jurisdiction of birds that yesterday had not arrived, tomorrow may be in another State, and, in a week, a thousand miles away.''", r"Justice Holmes, 252 U.S.\ at 434" + JL),
+ },
+ "dropped": [
+  "Case Metadata: parallel reporter citations, Chapter/Topic line (Justia and Cornell links kept in Judicial Votes).",
+  "Legacy section: introductory sentence; Medellin v. Texas item (non-self-execution, not an application of Holland's holding); 'Status Through 2026' item (forecast commentary, Haaland v. Brackeen comparison). Kept: Reid v. Covert and Bond I / Bond II items.",
+  "Exam Hypothetical: the 'Government's Best Argument' and 'Challenger's Best Argument' labels (their text is reused in the Fence-Sitter example).",
+ ],
+ "notes": ["Key Quotations rebuilt from verbatim pieces (manual_quotes list); all five quotations kept, none added. Attributions are emitted inside each quote block and converted to Group A lines by normalize_quotes.py, because check_brief.py compares stems against manual_quotes.txt entries that end in .tex and so never treats this brief as manual."],
+}
+
+emit(__file__, FILL)

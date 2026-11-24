@@ -1,0 +1,137 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "Colorado's Supreme Court removed Donald Trump from the 2024 presidential primary ballot under Section~3 of the Fourteenth Amendment; the Court unanimously reversed, holding that States may disqualify state officers and candidates but have no power to enforce Section~3 against federal offices, which a five-Justice majority assigned to Congress (\\href{https://supreme.justia.com/cases/federal/us/601/23-719/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "Following a five-day trial"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "Following a five-day trial"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court unanimously \\textbf{reversed} the Colorado Supreme Court, \\textbf{9--0} in the judgment, dividing \\textbf{5--4} on whether congressional legislation under Section~5 is the exclusive federal mechanism for enforcing Section~3. The case was argued on February 8, 2024, and decided on March 4, 2024 (\\href{https://supreme.justia.com/cases/federal/us/601/23-719/}{Justia}; \\href{https://www.law.cornell.edu/supremecourt/text/23-719}{Cornell LII}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Per Curiam Opinion:} Joined in full by Chief Justice Roberts and Justices Thomas, Alito, Gorsuch, and Kavanaugh.\n    \\item \\textbf{Concurring Opinions:} Justice Barrett filed an opinion concurring in part (joining Parts I and II--B) and concurring in the judgment. Justices Sotomayor, Kagan, and Jackson filed a joint opinion concurring in the judgment.\n    \\item \\textbf{Dissenting Opinions:} None.\n\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Per Curiam Opinion}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Opinion Concurring in Part and in the Judgment (Justice Barrett)}"
+   },
+   {
+    "new": "Justice Barrett",
+    "glue": " "
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Joined Parts I and II--B",
+    "to": "\\textbf{Justices Sotomayor",
+    "lcfirst": true
+   },
+   {
+    "new": "\\subsection{Joint Opinion Concurring in the Judgment (Justices Sotomayor, Kagan, and Jackson)}"
+   },
+   {
+    "new": "Justices Sotomayor, Kagan, and Jackson",
+    "glue": " "
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Agreed unanimously on federalism",
+    "lcfirst": true
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (State Lacks Power): Excluding a U.S.\\ Senate Candidate.}",
+    "glue": " "
+   },
+   {
+    "src": "Suppose in 2028 a State Secretary of State excludes a former U.S.\\ Senator from the U.S.\\ Senate primary ballot after a state administrative hearing finds the candidate ``gave aid or comfort'' to a domestic rebellion, while simultaneously barring a former county sheriff from running for Governor on the exact same factual record.",
+    "glue": " "
+   },
+   {
+    "new": "Consider first the Senate candidate.",
+    "glue": " "
+   },
+   {
+    "src": "Under \\emph{Trump v. Anderson}, the exclusion from the \\emph{U.S.\\ Senate} ballot is unconstitutional because States lack authority to enforce Section~3 against federal candidates; enforcement belongs exclusively to Congress (via Section~5 legislation or the Senate's Article~I, \\S 5 judging power)."
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (State Lacks Power): A Voter Challenge to a Sitting Representative.} Voters in a congressional district petition a state court under the state election code to remove their incumbent U.S.\\ Representative from the general-election ballot, presenting evidence that he helped plan an armed attack on a federal building. The state court finds that he engaged in insurrection and orders him off the ballot. Under \\textit{Anderson}, the finding does not matter: a seat in the House is a federal office, and States have no power to enforce Section~3 with respect to federal offices. Any disqualification must come through legislation enacted by Congress or the House's own power to judge its Members' qualifications, so the order must be reversed."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (State Power Preserved): Barring a Former Sheriff From the Governor's Race.} In the same hypothetical, the State also acts against the former sheriff.",
+    "glue": " "
+   },
+   {
+    "src": "By contrast, barring the former sheriff from the \\emph{gubernatorial} ballot is constitutionally permissible under the Court's explicit carve-out preserving state power over state offices---subject, of course, to Fourteenth Amendment due-process constraints."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Likely Permissible): Excluding an Underage Presidential Candidate.} A 29-year-old files to appear on a State's presidential primary ballot, and the Secretary of State refuses because Article~II requires the President to be at least 35. The candidate invokes \\textit{Anderson}'s holding that States may not enforce Section~3 against presidential candidates. \\textit{Anderson} addressed only Section~3, a disability that requires fact-intensive findings and that Congress may remove by a two-thirds vote; an age requirement is objective, categorical, and cannot be waived by Congress, so state enforcement creates no risk of a conflicting state-by-state patchwork. Lower courts have allowed States to keep constitutionally ineligible candidates off the ballot, as in \\textit{Hassan v.\\ Colorado} (a naturalized citizen), so the exclusion is likely valid."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Close Call): Enforcing the Two-Term Limit.} A former President who has already been elected twice files to run again, and a State keeps him off its presidential ballot under the Twenty-Second Amendment. Like the age requirement, the two-term limit is objective and turns on public records rather than disputed findings about conduct, and Congress has no power to waive it, which suggests that \\textit{Anderson}'s concerns do not apply. On the other hand, \\textit{Anderson} stressed the uniquely important national interest in presidential elections and the chaos of state-by-state ballot decisions, reasoning that could be read to bar any single State from deciding a presidential candidate's eligibility. Because the Court has never addressed the question, the outcome is uncertain."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "sec": "Pedagogical Critiques",
+    "to": "\\textbf{``Opposite Side''",
+    "strip": "\\textbf{Key Critiques:} "
+   }
+  ],
+  "Key Quotations": [
+   {
+    "sec": "Key Quotations"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: docket number, court line, Briefing Book placement, slip-opinion link.",
+  "Entire Legacy section (state-office enforcement example, Maine/Illinois aftermath, Trump v. United States and 2024 election backdrop, absence of new Section 5 legislation, Baude/Paulsen and Somin scholarship, pending certiorari petition): no later decision overruling, narrowing, extending, or applying the holding, so no Subsequent Developments subsection.",
+  "'Opposite Side' Contrast (Chiafalo v. Washington and Hassan v. Colorado) - an exam tip comparing real cases; its themes inform new Examples 4 and 5.",
+  "Exam Hypothetical was split into its Senate-candidate and sheriff halves (Examples 1 and 3); its fact pattern is moved verbatim once, in Example 1."
+ ],
+ "notes": [
+  "Example 4 cites Hassan v. Colorado (10th Cir. 2012) only as a lower-court decision already discussed in the brief."
+ ]
+}

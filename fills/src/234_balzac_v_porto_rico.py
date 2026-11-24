@@ -1,0 +1,53 @@
+"""Fill for 234_balzac_v_porto_rico. See tools/fillkit.py."""
+from fillkit import *
+
+J = "https://supreme.justia.com/cases/federal/us/258/298/"
+FS = "Facts and Procedural History"
+DS = "Doctrinal Significance"
+PS = "Pedagogical Critiques"
+FILL = {
+ "sections": {
+  "Memory Jogger": [N(r"A Puerto Rican newspaper editor convicted of criminal libel without a jury argued that the 1917 grant of U.S. citizenship carried the Sixth Amendment with it; a unanimous Court held that Puerto Rico remained an unincorporated territory, where only fundamental rights apply of their own force and the jury right does not, because locality rather than citizenship controls (\href{" + J + r"}{Justia}).")],
+  "Detailed Case Facts": [SEC(FS, to="The district attorney filed two informations")],
+  "Procedural History": [SEC(FS, frm="The district attorney filed two informations")],
+  "Judicial Votes": [
+    N(r"The Supreme Court unanimously \textbf{affirmed} the Supreme Court of Porto Rico, \textbf{9--0}. The case was argued on March 20, 1922, and decided on April 10, 1922 (\href{" + J + r"}{Justia}):"),
+    N(r"""\begin{itemize}
+    \item \textbf{Majority Opinion:} Chief Justice Taft delivered the opinion of the Court, joined by Justices McKenna, Day, Van Devanter, Pitney, McReynolds, Brandeis, and Clarke.
+    \item \textbf{Concurring Opinion:} Justice Holmes concurred in the result without a separate opinion.
+    \item \textbf{Dissenting Opinions:} None.
+\end{itemize}"""),
+  ],
+  "Holding": [N(r"\textbf{Questions Presented:}"), SEC("Issue"), N(r"\textbf{Holding:}", glue=" "), SEC("Holding")],
+  "Analysis of Opinions": [
+    N(r"\subsection{Majority Opinion (Chief Justice Taft)}"), SEC("Reasoning"),
+    N(r"\subsection{Concurrence in the Result (Justice Holmes)}"), SEC("Concurring and Dissenting"),
+    N(r"\subsection{Subsequent Developments}"),
+    SEC(DS, frm=r"\begin{itemize}", to=r"  \item \textbf{Status Through 2026"),
+    N(r"\end{itemize}"),
+  ],
+  "Examples: Future Applications": [
+    N(r"\begin{enumerate}"),
+    N(r"\item \textbf{Same-Side (No Right Applies): Citizenship Without Grand-Jury Indictment.}", glue=" "),
+    S(r"Congress enacts an organic statute for a newly acquired, unincorporated Pacific territory that grants U.S. citizenship to all residents and includes a statutory Bill of Rights omitting grand-jury indictment. A resident citizen is prosecuted for a felony without a grand jury and challenges the conviction under the Fifth Amendment. \textit{Analysis:} Under \textit{Balzac}, unless Congress expressly declared incorporation (or manifested an implication ``so strong as to exclude any other view''), citizenship alone does not incorporate the territory, and non-fundamental procedural guarantees like grand-jury indictment do not apply \textit{ex proprio vigore}."),
+    N(r"\item \textbf{Same-Side (Locality Controls): A Mainland-Born Citizen Tried in Porto Rico.} In 1920 a citizen born and raised in Ohio moves to San Juan to run a business. Charged under the insular penal code with a misdemeanor, he demands a jury, pointing out that he was a citizen of the United States long before the Jones Act and would have had a jury in Ohio. Under \textit{Balzac}, his birthplace makes no difference: it is the locality, not the status of the person, that determines whether the Constitution's jury guarantees apply in matters of judicial procedure. Because Porto Rico is unincorporated and the jury right is not among the fundamental rights that apply there of their own force, he may be tried without a jury, as Taft expressly noted (\href{" + J + r"}{Justia})."),
+    N(r"\item \textbf{Opposite-Side (Rights Apply): An Incorporated Territory, or a Fundamental Right.}", glue=" "),
+    S(r"Suppose instead that Congress enacts a statute expressly declaring a territory ``incorporated into the United States as a future State,'' or suppose the local government of an unincorporated territory authorizes warrantless, suspicionless searches of residents' homes or punishes political speech without due process. \textit{Contrast:} In the first scenario, express incorporation triggers the full Constitution---including Article~III and Sixth Amendment jury guarantees---just as in \textit{Rasmussen v. United States}. In the second scenario, even inside an unincorporated territory under \textit{Balzac}, ``fundamental personal rights'' such as due process and Fourth Amendment protections against unreasonable searches (\href{https://supreme.justia.com/cases/federal/us/442/465/}{\textit{Torres v. Puerto Rico}, 442 U.S. 465 (1979)}) apply directly to constrain territorial and federal action."),
+    N(r"\item \textbf{Opposite-Side (\textit{Balzac} Not Extended): A Civilian Tried by Court-Martial Abroad.} During peacetime, the civilian wife of a U.S. soldier stationed overseas is charged with killing her husband on a military base and is tried by court-martial, without a jury or grand-jury indictment, under military law. The government invokes the \textit{Insular Cases} to argue that the jury guarantees do not follow citizens abroad. In \href{https://supreme.justia.com/cases/federal/us/354/1/}{\textit{Reid v.\ Covert}, 354 U.S.\ 1 (1957)}, the Court rejected that argument on these facts and held that the civilian was entitled to the protections of Article~III and the Fifth and Sixth Amendments. The plurality declined to extend the \textit{Insular Cases}' territorial reasoning beyond its context of governing unincorporated territories."),
+    N(r"\item \textbf{Fence-Sitter (Is \textit{Balzac} Still Good Law?): A Felony Bench Trial in an Unincorporated Territory Today.} A U.S. national living in an unincorporated Pacific territory is tried for a serious felony by a territorial court without a jury, as local law permits. She argues that the jury right is now recognized as fundamental. \textit{Balzac} squarely held that the jury right does not apply of its own force in unincorporated territories, and the Court has never overruled it. But \textit{Duncan v.\ Louisiana} later described the jury right as fundamental to the American scheme of justice, Justice Gorsuch in \textit{Vaello Madero} urged overruling the \textit{Insular Cases}, and the Court in \textit{Reid v.\ Covert} refused to extend them. A lower court would likely follow \textit{Balzac}, but the Supreme Court's answer is genuinely uncertain."),
+    N(r"\end{enumerate}"),
+  ],
+  "Critique": [SEC(PS, frm=r"\textbf{Pedagogical Critique:}", to=r"\textbf{Exam Hypothetical", strip=r"\textbf{Pedagogical Critique:} ")],
+  "Key Quotations": [SEC("Key Quotations")],
+ },
+ "dropped": [
+  "Case Metadata: Chapter line, lower-court citation, provisions line, Wikisource link.",
+  "Legacy section: introductory paragraph; 'Status Through 2026' item (2024 Civil Rights Commission memorandum, Fitisemanu cert. denial). Kept: 'Piecemeal Rights Extension' item (Reid, Flores de Otero, Torres, Harris v. Rosario) and 'Aurelius and Vaello Madero' item.",
+ ],
+ "notes": [
+  "Neon's 'Opposite Side' Contrast contains two genuine fact patterns (express incorporation; warrantless searches in an unincorporated territory) and is reused whole as Example 3.",
+  "Key Quotations retains Neon's fourth quotation, which is from Justice Gorsuch's Vaello Madero concurrence rather than from Balzac itself.",
+ ],
+}
+
+emit(__file__, FILL)

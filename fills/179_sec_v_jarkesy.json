@@ -1,0 +1,156 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "When the SEC seeks civil penalties for securities fraud, the defendant is entitled to a jury trial in an Article~III court: such penalties are a legal remedy for a claim rooted in common-law fraud, and the public rights exception does not let Congress route them to in-house agency adjudication (\\href{https://supreme.justia.com/cases/federal/us/603/22-859/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "In 2013, relying on its Dodd-Frank authority"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "In 2013, relying on its Dodd-Frank authority"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court \\textbf{affirmed and remanded} by a \\textbf{6--3} vote. The case was argued on November~29, 2023, and decided on June~27, 2024 (\\href{https://supreme.justia.com/cases/federal/us/603/22-859/}{Justia}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Majority Opinion:} Chief Justice Roberts delivered the opinion of the Court, joined by Justices Thomas, Alito, Gorsuch, Kavanaugh, and Barrett.\n    \\item \\textbf{Concurring Opinion:} Justice Gorsuch filed a concurring opinion, joined by Justice Thomas.\n    \\item \\textbf{Dissenting Opinion:} Justice Sotomayor filed a dissenting opinion, joined by Justices Kagan and Jackson.\n\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Majority Opinion (Chief Justice Roberts)}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Concurring Opinion (Justice Gorsuch)}"
+   },
+   {
+    "new": "Justice Gorsuch",
+    "glue": " "
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Emphasized that the Seventh",
+    "to": "  \\item \\textbf{Justice Sotomayor",
+    "lcfirst": true
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Sotomayor)}"
+   },
+   {
+    "new": "Justice Sotomayor",
+    "glue": " "
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Condemned the decision",
+    "to": "\\end{itemize}",
+    "lcfirst": true
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "new": "\\begin{itemize}"
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "  \\item \\textbf{Clarifying the Outer Boundary",
+    "to": "  \\item \\textbf{Unresolved Article~II"
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Jury Required): In-House Penalties for Commodities Fraud.} A federal commodities regulator brings an administrative proceeding before its own ALJ against a trader accused of lying to customers about the risks of a futures fund, and seeks a large civil penalty calibrated to the trader's culpability and the need for deterrence, none of which goes to the defrauded customers. As in \\textit{Jarkesy}, the remedy is punitive rather than compensatory, which is all but dispositive, and the antifraud claim closely resembles common-law fraud. Regulating commodity markets is not one of the historic public-rights categories, so the trader is entitled to have the penalty claim tried to a jury in an Article~III court."
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Jury Required): Relabeling a Fraud Penalty as a Licensing Matter.} Responding to \\textit{Jarkesy}, Congress creates a new Investor Protection Board, calls its penalty proceedings administrative licensing reviews, and authorizes it to impose fines on advisers who make material misrepresentations to clients. The government argues that because a federal agency brings the claim under a new statute, it involves public rights. That argument fails: the majority held that what matters is the substance of the suit, not where it is brought, who brings it, or how it is labeled, and \\textit{Granfinanciera} forbids Congress from conjuring away the Seventh Amendment by sending traditional legal claims to an administrative tribunal. A punitive fine for misrepresentation remains a common-law-like claim requiring a jury."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (No Jury Required): Fines on Carriers Under the Immigration Laws.} A federal immigration statute authorizes an executive official, after an administrative hearing, to fine a shipping line for each noncitizen passenger it brings to the United States with a contagious disease that a medical examination at the port of departure would have detected, and bars the vessel's clearance until the fine is paid. The carrier demands a jury. Immigration and control over entry to the country are among the historic sovereign prerogatives that \\textit{Jarkesy} recognized as public rights, and the Court long ago upheld administratively imposed fines of this kind in \\textit{Oceanic Steam Navigation Co.\\ v.\\ Stranahan}, 214 U.S.\\ 320 (1909). Because the public rights exception applies, Congress may assign the matter to the agency without a jury."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (No Jury Required): Recovering Overpaid Federal Benefits.} A federal agency administratively determines that a retiree received benefit overpayments because of an error in calculating her eligibility, and orders repayment of the excess amount through reductions in future benefit checks, with no penalty added. The retiree argues that a demand for money from the government entitles her to a jury. Under \\textit{Jarkesy}, two features defeat the claim. The granting of public benefits is one of the historic public-rights categories, and the relief merely restores the status quo by recovering what was mistakenly paid rather than punishing or deterring wrongdoing. Neither step of the \\textit{Jarkesy} analysis points toward an Article~III jury."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Close Call): Immediately Enforceable EPA Emission Penalties.}",
+    "glue": " "
+   },
+   {
+    "src": "Congress amends the Clean Air Act to empower the Environmental Protection Agency (EPA) to impose up to \\$500,000 per violation in immediately enforceable civil penalties---collectible via Treasury offset without a federal-court collection suit---against factories that emit pollutants exceeding complex numerical parts-per-million thresholds. An ALJ adjudicates liability, and judicial review is limited to substantial-evidence review in the court of appeals. A penalized factory challenges the order under the Seventh Amendment.",
+    "glue": " "
+   },
+   {
+    "new": "The factory argues:",
+    "glue": " "
+   },
+   {
+    "src": "Because the EPA's civil penalties are punitive, non-compensatory, and immediately enforceable without a \\textit{de novo} jury trial (distinguishing \\textit{FCC v. AT\\&T}), the remedy is ``all but dispositive.'' Moreover, air-pollution enforcement is closely analogous to common-law public and private nuisance, and environmental regulation under the Commerce Clause is not one of \\textit{Jarkesy}'s historic public-rights categories (revenue, customs, immigration, public lands, Indian affairs, or public benefits).",
+    "glue": " "
+   },
+   {
+    "new": "The EPA responds:",
+    "glue": " "
+   },
+   {
+    "src": "The EPA will argue that, unlike the SEC's antifraud provisions (which explicitly borrowed common-law ``fraud'' terms of art), numerical parts-per-million emission thresholds resemble the technical trench-sloping ``building code'' standards upheld in \\textit{Atlas Roofing}---prophylactic statutory obligations ``unknown to the common law'' that require no proof of private injury or nuisance.",
+    "glue": " "
+   },
+   {
+    "new": "The outcome is uncertain because \\textit{Jarkesy} treated the punitive remedy as nearly decisive yet preserved \\textit{Atlas Roofing} for novel regulatory codes without saying how close a common-law analogue must be."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "sec": "Pedagogical",
+    "to": "\\textbf{Exam Hypothetical:}",
+    "strip": "\\textbf{Critiques:} "
+   }
+  ],
+  "Key Quotations": [
+   {
+    "sec": "Key Quotations"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: docket number, Chapter/Topic line, SupremeCourt.gov page-proof and slip-opinion links (Justia link kept in Judicial Votes).",
+  "Legacy section: introductory paragraph (Loper Bright; post-Jarkesy challenges; 2025 USDA study with Wikipedia link) and 'Unresolved Article II Removal Issues' item (SpaceX v. NLRB, Trump v. Slaughter, Trump v. Cook) - tangential to Jarkesy's Seventh Amendment holding. Kept: FCC v. AT&T (2026) item.",
+  "Exam Hypothetical 'Opposite Side Contrast': second sentence (de novo DOJ jury-trial variant under FCC v. AT&T) dropped; first sentence reused as the EPA's argument in Example 5."
+ ],
+ "notes": [
+  "Example 5 (fence-sitter) reuses Neon's EPA hypothetical with both sides' arguments; short new connectors 'The factory argues:' / 'The EPA responds:' were added.",
+  "Kept FCC v. AT&T, Inc., 608 U.S. ___ (June 4, 2026) item is post-2025 and could not be independently verified by the drafter; verify in audit."
+ ]
+}

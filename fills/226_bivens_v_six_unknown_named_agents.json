@@ -1,0 +1,171 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "Federal narcotics agents raided Webster Bivens's apartment without a warrant, manacled him before his family, and strip-searched him; a 6--3 Court held that a victim of a Fourth Amendment violation by federal officers may sue them for money damages directly under the Constitution, absent special factors counseling hesitation or an equally effective congressional remedy (\\href{https://supreme.justia.com/cases/federal/us/403/388/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "On July 7, 1967, Bivens filed suit"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "On July 7, 1967, Bivens filed suit"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court \\textbf{reversed and remanded} the Second Circuit by a \\textbf{6--3} vote. The case was argued on January 12, 1971, and decided on June 21, 1971 (\\href{https://supreme.justia.com/cases/federal/us/403/388/}{Justia}; \\href{https://www.law.cornell.edu/supremecourt/text/403/388}{Cornell LII}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Majority Opinion:} Justice Brennan delivered the opinion of the Court, joined by Justices Douglas, Stewart, White, and Marshall.\n    \\item \\textbf{Concurring Opinion:} Justice Harlan filed an opinion concurring in the judgment.\n    \\item \\textbf{Dissenting Opinions:} Chief Justice Burger, Justice Black, and Justice Blackmun each filed a dissenting opinion.\n\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Majority Opinion (Justice Brennan)}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Concurring in the Judgment (Justice Harlan)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Harlan supplied",
+    "to": "  \\item \\textbf{Chief Justice Burger"
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Chief Justice Burger)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Burger objected",
+    "to": "  \\item \\textbf{Justice Black"
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Black)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Black argued",
+    "to": "  \\item \\textbf{Justice Blackmun"
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Blackmun)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Adopting the Second Circuit's",
+    "to": "\\end{itemize}"
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "new": "\\begin{itemize}"
+   },
+   {
+    "new": "\\item \\textbf{Extensions (\\textit{Davis} and \\textit{Carlson}):}",
+    "glue": " "
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "In the decade after",
+    "to": "Since 1980, however"
+   },
+   {
+    "new": "\\item \\textbf{Retrenchment (\\textit{Abbasi} and \\textit{Egbert}):}",
+    "glue": " "
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "In \\href{https://supreme.justia.com/cases/federal/us/582/15-1358/}",
+    "to": "Through 2026, the Supreme Court"
+   },
+   {
+    "new": "\\item \\textbf{\\textit{Goldey v.\\ Fields} (2025):}",
+    "glue": " "
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "In \\href{https://supreme.justia.com/cases/federal/us/606/24-809/}",
+    "to": "Thus, while the Court"
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (\\textit{Bivens} Available): A DEA Home Raid.}",
+    "glue": " "
+   },
+   {
+    "src": "First, if Drug Enforcement Administration (DEA) line agents---the direct institutional successors to the Federal Bureau of Narcotics---execute a warrantless dawn raid on a private home without probable cause, handcuff the homeowner before his family, and conduct an abusive search in a routine domestic drug investigation, the facts align squarely with \\textit{Bivens} itself, avoiding a ``new context'' under \\textit{Abbasi} (though qualified immunity remains a separate hurdle)."
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (\\textit{Bivens} Available): A Federal Prisoner Denied Emergency Medical Care.} A federal inmate suffering a severe asthma attack repeatedly asks Bureau of Prisons medical staff for help; they ignore him for hours, give him a medication they know is contraindicated, and he dies. His estate sues the officials for damages under the Eighth Amendment. The claim fits one of the three contexts in which the Court has recognized an implied damages remedy: \\href{https://supreme.justia.com/cases/federal/us/446/14/}{\\textit{Carlson v.\\ Green}, 446 U.S.\\ 14 (1980)}, extended \\textit{Bivens} to exactly this kind of deliberate indifference to a federal prisoner's serious medical needs and held that the Federal Tort Claims Act did not displace the remedy. Because the claim arises in an existing context, no new-context or special-factors analysis is needed."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (\\textit{Bivens} Barred): A TSA Checkpoint Detention.}",
+    "glue": " "
+   },
+   {
+    "src": "A Transportation Security Administration (TSA) agent detains a domestic air traveler at an airport checkpoint, uses excessive force in violation of the Fourth Amendment, and confiscates the traveler's phone after the traveler records the encounter. The traveler sues the agent individually for Fourth Amendment excessive-force and First Amendment retaliation damages under \\textit{Bivens}. \\textit{Analysis:} Under \\href{https://supreme.justia.com/cases/federal/us/582/15-1358/}{\\textit{Abbasi}}, \\href{https://supreme.justia.com/cases/federal/us/596/21-147/}{\\textit{Egbert}}, and \\href{https://supreme.justia.com/cases/federal/us/606/24-809/}{\\textit{Goldey}}, both claims fail. Even though the Fourth Amendment claim involves an unlawful seizure, it arises in a ``new context'' (a new category of federal defendant---TSA aviation-security officers---and a national-security airport setting distinct from narcotics agents raiding a private home). Aviation security concerns and the availability of DHS/TSA administrative complaint mechanisms and potential FTCA remedies provide more than enough reason to defer to Congress."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (\\textit{Bivens} Barred): A Federal Employee Demoted for Public Criticism.} A federal agency engineer publicly criticizes his agency's safety program, and his supervisor demotes him in retaliation. The engineer sues the supervisor for damages under the First Amendment. Unlike the \\textit{Bivens} plaintiff, he has access to an elaborate remedial scheme Congress created for federal personnel actions, including administrative appeals and back pay. In \\href{https://supreme.justia.com/cases/federal/us/462/367/}{\\textit{Bush v.\\ Lucas}, 462 U.S.\\ 367 (1983)}, the Court refused to extend \\textit{Bivens} on materially identical facts, deferring to Congress's comprehensive civil-service remedies; after \\textit{Egbert}, the existence of such an alternative process forecloses a damages remedy even if it is less effective than damages."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (New Context?): An FBI Home Raid in a Fraud Investigation.} FBI agents investigating a bank-fraud scheme enter a suspect's home without a warrant or probable cause, handcuff him in front of his children, and strip-search him at the field office. He sues the agents for damages under the Fourth Amendment. The conduct mirrors \\textit{Bivens} almost exactly, which favors the plaintiff. But \\textit{Abbasi} treats differences in the agency involved and the legal mandate under which officers act as potentially meaningful, and \\textit{Egbert} asks only whether there is any reason to think Congress better suited to create a remedy. Whether a different agency enforcing different statutes is a ``new context'' is unsettled, so the claim could survive or fail."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "items": "Pedagogical Critiques",
+    "from": "  \\item \\textbf{Separation of Powers",
+    "to": "\\end{itemize}"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "sec": "Key Quotations"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: parallel citations, Briefing Book placement line, lower-court citations.",
+  "Legacy section: introductory paragraph; 'Since 1980' paragraph listing refusals to extend (Bush v. Lucas, Malesko, Wilkie, Minneci) - Bush v. Lucas reused in Example 4; concluding 'Thus, while the Court...' sentence. Kept: Davis/Carlson, Abbasi/Egbert, Goldey v. Fields.",
+  "'Opposite Side' Contrast: second scenario (state officers and 42 U.S.C. 1983) - an exam tip about a different statute, not a Bivens application; the first scenario (DEA raid) is reused as Example 1."
+ ],
+ "notes": [
+  "Kept Goldey v. Fields (2025) item and Example 3 cite Goldey as described by Neon (606 U.S. 942); citation should be verified."
+ ]
+}

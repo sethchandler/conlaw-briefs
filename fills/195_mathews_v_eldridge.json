@@ -1,0 +1,251 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "The Social Security Administration may cut off disability benefits before holding an evidentiary hearing: procedural due process is flexible, and courts weigh (1) the private interest, (2) the risk of error and value of added safeguards, and (3) the government's interest, here favoring written pre-termination procedures plus a full post-termination hearing (\\href{https://supreme.justia.com/cases/federal/us/424/319/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "\\subsection{Procedural Posture}"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "\\subsection{Procedural Posture}",
+    "strip": "\\subsection{Procedural Posture}"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court \\textbf{reversed} the Fourth Circuit by a \\textbf{6--2} vote. The case was argued on October 6, 1975, and decided on February 24, 1976 (\\href{https://supreme.justia.com/cases/federal/us/424/319/}{Justia}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Majority Opinion:} Justice Powell delivered the opinion of the Court, joined by Chief Justice Burger and Justices Stewart, White, Blackmun, and Rehnquist.\n    \\item \\textbf{Concurring Opinions:} None.\n    \\item \\textbf{Dissenting Opinion:} Justice Brennan filed a dissenting opinion, joined by Justice Marshall.\n    \\item \\textbf{Not Participating:}",
+    "glue": " "
+   },
+   {
+    "src": "(Justice John Paul Stevens, who took his seat in December 1975 after oral argument, did not participate in the consideration or decision of the case.)"
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}"
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Majority Opinion (Justice Powell)}"
+   },
+   {
+    "new": "\\subsubsection{Threshold Property Interest and the Flexible Nature of Due Process}"
+   },
+   {
+    "sec": "Reasoning",
+    "from": "Justice Powell began",
+    "to": "\\subsection{Factor One"
+   },
+   {
+    "new": "\\subsubsection{Factor One: The Private Interest Affected (SSDI vs. \\emph{Goldberg} Welfare)}"
+   },
+   {
+    "sec": "Reasoning",
+    "from": "Because a wrongfully terminated",
+    "to": "\\subsection{Factor Two"
+   },
+   {
+    "new": "\\subsubsection{Factor Two: Risk of Erroneous Deprivation and Probable Value of Additional Safeguards}"
+   },
+   {
+    "sec": "Reasoning",
+    "from": "Turning to the reliability",
+    "to": "\\subsection{Factor Three"
+   },
+   {
+    "new": "\\subsubsection{Factor Three: The Government's Interest and Institutional Deference}"
+   },
+   {
+    "sec": "Reasoning",
+    "from": "Finally, Powell evaluated"
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Brennan)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "In a brief, pointed dissent"
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "\\begin{itemize}",
+    "to": "    \\item \\textbf{2025--2026 Frontiers"
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Post-Deprivation Hearing Suffices): Reducing a Veteran's Disability Rating.} A federal agency reviews a veteran's service-connected disability rating, obtains new reports from his physicians and an agency-ordered examination, and sends him a notice summarizing the medical evidence, giving him sixty days to submit contrary evidence in writing. It then reduces his monthly payment, with a later evidentiary hearing and full retroactive relief if he wins. As in \\textit{Eldridge}, the payments are not means-tested, the dispute turns on documented medical findings rather than credibility, and the written notice lets him respond to the agency's reasons. Under the three factors, written pre-reduction procedures plus a prompt post-reduction hearing satisfy due process."
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (No Pre-Suspension Hearing): Suspending an Officer Charged With a Felony.} A state university suspends a campus police officer without pay immediately after he is arrested and formally charged with a drug felony, and gives him a hearing on his status only afterward. The officer's interest in his paycheck is real but temporary. The independent arrest and formal charge by third parties sharply reduce the risk that the suspension is baseless, and the State has a strong interest in not keeping a charged officer in a position of public trust. Applying \\textit{Mathews}, the Court held on these facts in \\textit{Gilbert v.\\ Homar}, 520 U.S.\\ 924 (1997), that no pre-suspension hearing was required, leaving for remand whether the later hearing was sufficiently prompt."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Pre-Termination Hearing Required): Cutting Off Subsistence Welfare on a Caseworker's Suspicion.} A state agency terminates a family's means-tested cash assistance after a caseworker concludes, based on a neighbor's report, that an unreported adult is living in the home and contributing income. The family denies it, and the issue turns on whom to believe. This is the \\textit{Goldberg} pole that \\textit{Eldridge} distinguished: the recipients are at the margin of subsistence, the question turns on lay facts and credibility that written submissions handle poorly, and wrongful interruption may leave them unable to survive while they wait. \\textit{Goldberg v.\\ Kelly} requires an oral pre-termination evidentiary hearing before benefits stop."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Pre-Termination Opportunity Required): Firing a Tenured Employee Without Notice.} A school board fires a tenured security guard on the day it discovers that he did not disclose a prior conviction on his job application, without telling him the charge or letting him explain. Applying the \\textit{Mathews} factors, the Court held in \\textit{Cleveland Board of Education v.\\ Loudermill}, 470 U.S.\\ 532 (1985), that a tenured public employee is entitled before termination to notice of the charges, an explanation of the employer's evidence, and an opportunity to respond. The interest in continued employment is weighty, a short pre-termination exchange may prevent a mistaken firing, and the burden on the employer is slight. A full evidentiary hearing may come afterward."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Close Call): Algorithmic Medicaid Cuts.}",
+    "glue": " "
+   },
+   {
+    "src": "A state agency deploys a proprietary AI model to cut 75\\% of in-home Medicaid nursing hours for low-income disabled adults after sending a generic notice citing ``updated clinical-risk scoring,'' offering a live ALJ hearing within 90 days. \\textbf{Claimants' Case:} Means-tested medical care implicates \\emph{Goldberg}-level subsistence risks, and ``black-box'' scoring destroys the transparent written contestability that saved the SSA process in \\emph{Eldridge}. \\textbf{``Opposite Side'' (State's Case):} Objective clinical data fits \\emph{Eldridge}'s ``generality of cases,'' a 90-day hearing is far faster than \\emph{Eldridge}'s one-year delay, and pre-termination hearings would drain scarce Medicaid funds.",
+    "glue": " "
+   },
+   {
+    "new": "The case is close because the first factor points toward \\textit{Goldberg} while the second and third can be argued either way: whether a generic notice of an algorithmic score lets claimants respond meaningfully before the cut is exactly the question \\textit{Eldridge}'s reliance on detailed written notice leaves open."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "sec": "Pedagogical Critiques",
+    "from": "In \\href{https://chicagounbound",
+    "to": "Doctrinally,"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``More precisely, our prior decisions indicate that identification of the specific dictates of due process generally requires consideration of three distinct factors: first, the private interest that will be affected by the official action; second, the risk of an erroneous deprivation of such interest through the procedures used, and the probable value, if any, of additional or substitute procedural safeguards; and, finally, the Government's interest, including the function involved and the fiscal and administrative burdens that the additional or substitute procedural requirement would entail.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/424/319/}{424 U.S. at 334--35}, Powell, J.",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``To be sure, credibility and veracity may be a factor in the ultimate disability assessment in some cases. But procedural due process rules are shaped by the risk of error inherent in the truthfinding process as applied to the generality of cases, not the rare exceptions.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/424/319/}{424 U.S. at 344}, Powell, J.",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``Financial cost alone is not a controlling weight in determining whether due process requires a particular procedural safeguard prior to some administrative decision. But the Government's interest, and hence that of the public, in conserving scarce fiscal and administrative resources is a factor that must be weighed. At some point, the benefit of an additional safeguard to the individual affected by the administrative action and to society in terms of increased assurance that the action is just may be outweighed by the cost. Significantly, the cost of protecting those whom the preliminary administrative process has identified as likely to be found undeserving may, in the end, come out of the pockets of the deserving, since resources available for any particular program of social welfare are not unlimited.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/424/319/}{424 U.S. at 348}, Powell, J.",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``The judicial model of an evidentiary hearing is neither a required, nor even the most effective, method of decisionmaking in all circumstances.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/424/319/}{424 U.S. at 348}, Powell, J.",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``Indeed, in the present case, it is indicated that, because disability benefits were terminated, there was a foreclosure upon the Eldridge home and the family's furniture was repossessed, forcing Eldridge, his wife, and their children to sleep in one bed.''",
+    "glue": "\n"
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "\\href{https://supreme.justia.com/cases/federal/us/424/319/}{424 U.S. at 350}, Brennan, J., dissenting",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata table: citation, Briefing Book chapter, lower-court citations, constitutional provision, Cornell Constitution Annotated links (vote and opinion assignments restated in Judicial Votes).",
+  "Reasoning subsection headings re-created as \\subsubsection headings (new text) so they nest under the majority subsection.",
+  "Concurring Opinions subsection 'None.' (restated in Judicial Votes; its Stevens parenthetical moved there verbatim).",
+  "Legacy section: introductory sentence and '2025--2026 Frontiers' item (Trump v. J.G.G., A.A.R.P. v. Trump, No. 25-886 bond-hearing litigation, algorithmic-state scholarship) - emergency-docket and pending matters, tangential. Kept: Core Applications and Historical Carve-Outs items.",
+  "Critique paragraph's final sentence ('Doctrinally, Goldberg v. Kelly represents the Opposite Side pole...') - an exam tip; its contrast is now Example 3.",
+  "Key Quotations: the five bold quotation labels dropped; every quote and its pin cite/author kept."
+ ],
+ "notes": [
+  "tools/manual_quotes.txt entries carry a .tex suffix, so check_brief.py still runs normalize_quotes.py; each quote is rebuilt with its attribution (moved verbatim from the label parenthetical) inside the quote block so the normalizer produces the Group A form."
+ ]
+}

@@ -1,0 +1,50 @@
+"""Fill for 218_sveen_v_melin. See tools/fillkit.py."""
+from fillkit import *
+
+J = "https://supreme.justia.com/cases/federal/us/584/16-1432/"
+FS = "Facts and Procedural History"
+SO = "Concurring and Dissenting"
+PS = "Pedagogical Critiques"
+FILL = {
+ "sections": {
+  "Memory Jogger": [N(r"Minnesota's revocation-on-divorce statute, applied retroactively, cut an ex-wife out as beneficiary of a life-insurance policy bought before the law passed; an 8--1 Court held there was no Contracts Clause violation because the law did not substantially impair the contract---it tracks likely intent, does what a divorce court could do, and can be undone with a simple form (\href{" + J + r"}{Justia}).")],
+  "Detailed Case Facts": [SEC(FS, to="MetLife filed a federal interpleader")],
+  "Procedural History": [SEC(FS, frm="MetLife filed a federal interpleader")],
+  "Judicial Votes": [
+    N(r"The Supreme Court \textbf{reversed and remanded} the Eighth Circuit by an \textbf{8--1} vote. The case was argued on March 19, 2018, and decided on June 11, 2018 (\href{" + J + r"}{Justia}; \href{https://www.law.cornell.edu/supremecourt/text/16-1432}{Cornell LII}):"),
+    N(r"""\begin{itemize}
+    \item \textbf{Majority Opinion:} Justice Kagan delivered the opinion of the Court, joined by Chief Justice Roberts and Justices Kennedy, Thomas, Ginsburg, Breyer, Alito, and Sotomayor.
+    \item \textbf{Concurring Opinions:} None.
+    \item \textbf{Dissenting Opinion:} Justice Gorsuch filed a dissenting opinion.
+\end{itemize}"""),
+  ],
+  "Holding": [N(r"\textbf{Questions Presented:}"), SEC("Issue"), N(r"\textbf{Holding:}", glue=" "), SEC("Holding")],
+  "Analysis of Opinions": [
+    N(r"\subsection{Majority Opinion (Justice Kagan)}"), SEC("Reasoning"),
+    N(r"\subsection{Dissenting Opinion (Justice Gorsuch)}"),
+    SEC(SO, strip=r"\textbf{Justice Gorsuch (Dissenting):} "),
+  ],
+  "Examples: Future Applications": [
+    N(r"\begin{enumerate}"),
+    N(r"\item \textbf{Same-Side (No Substantial Impairment): Revocation on Divorce for a Payable-on-Death Account.} In 2010 a depositor opens a bank account payable on his death to his then-wife. In 2015 the State extends its revocation-on-divorce statute to payable-on-death accounts, applying it to existing accounts. The couple divorces in 2018, the depositor never changes the designation, and on his death in 2023 his children and his ex-wife both claim the funds. All three of \textit{Sveen}'s factors favor the State: the statute approximates what most divorced depositors would want, a divorce court could always have reallocated the account, and the depositor could have restored his ex-wife as beneficiary with a simple form. The law does not substantially impair the contract, so the inquiry ends at step one (\href{" + J + r"}{Justia})."),
+    N(r"\item \textbf{Same-Side (No Substantial Impairment): A Filing Requirement for Old Mineral Interests.} A State enacts a law providing that a severed mineral interest unused for twenty years lapses and reverts to the surface owner unless the owner files a short statement of claim in the county records within two years after the law's enactment. A mineral owner whose interest predates the statute misses the deadline and loses the interest. \textit{Sveen} relied on a long line of decisions upholding retroactive recording and filing requirements, including \textit{Texaco, Inc.\ v.\ Short}, 454 U.S.\ 516 (1982), which sustained a law of this kind. Because the owner could have preserved the right with minimal paperwork, the law does not substantially impair the contract."),
+    N(r"\item \textbf{Opposite-Side (Substantial Impairment): Retroactively Voiding Non-Competes and Guaranties.}", glue=" "),
+    S(r"Suppose a State enacts a statute retroactively voiding all pre-existing non-compete clauses and personal loan guaranties in commercial leases executed before 2026, with no opt-out or reaffirmation mechanism. \textit{Analysis:} Unlike \textit{Sveen}, this law fails all three step-one factors---it contradicts party intent, shatters core reliance expectations, and permanently bars parties from safeguarding or reinstating their rights. The court must proceed to step two (\textit{Energy Reserves} / \textit{Melendez}) to determine whether the permanent abrogation is reasonable and appropriate to a significant public purpose."),
+    N(r"\item \textbf{Opposite-Side (Law Invalid): A State Repeals Its Own Bond Covenant.} To raise money for mass transit, a State repeals a statutory covenant, made to purchasers of its bonds, that limited the use of pledged toll revenues to protect bondholders' security. Bondholders sue. Unlike Minnesota's neutral default rule for private beneficiary designations, the repeal destroys a core term of the bargain, defeats bondholders' reasonable expectations, and cannot be undone by any action of theirs, so it substantially impairs the contract. And because the State is impairing its own financial obligation, the step-two inquiry is not deferential: under \textit{United States Trust Co.\ v.\ New Jersey}, 431 U.S.\ 1 (1977), which struck down a repeal of this kind, the impairment must be reasonable and necessary, and less drastic alternatives were available."),
+    N(r"\item \textbf{Fence-Sitter (Uncertain): A Revocation Rule That Is Hard to Undo.} A State's revocation-on-divorce statute applies retroactively to existing life-insurance policies but provides that a policyholder may re-designate a former spouse only by petitioning a court, paying a filing fee, and appearing at a hearing. The first two \textit{Sveen} factors still favor the State: the law reflects probable intent and does what a divorce court could have done. The third factor, however, now cuts the other way, because the policyholder can no longer undo the default ``with the stroke of a pen.'' \textit{Sveen} relied on the three features together and did not say whether the first two suffice alone, so whether this law substantially impairs the contract---and must face step-two review---is genuinely unclear."),
+    N(r"\end{enumerate}"),
+  ],
+  "Critique": [ITEMS(PS, frm=r"  \item \textbf{Notice and Trap", to=r"\end{itemize}")],
+  "Key Quotations": [SEC("Key Quotations")],
+ },
+ "dropped": [
+  "Case Metadata: parallel S. Ct. citation, docket number, Eighth Circuit citation, constitutional-provision line, SupremeCourt.gov link.",
+  "Legacy section in full (no Subsequent Developments subsection): introductory paragraphs; 'Pandemic Eviction Moratoria and Guaranty Laws' item and 'Post-Pandemic Deference Through 2026' item (lower-court and state-court decisions and scholarship, not Supreme Court decisions applying or narrowing Sveen).",
+  "Exam Hypothetical 2 ('Opposite Side' Contrast with U.S. Trust and Spannaus) - a doctrinal contrast rather than a fact pattern; Example 4 now gives a U.S. Trust fact pattern.",
+ ],
+ "notes": [
+  "Example 3 (Neon's Hypothetical 1) cites Melendez, a Second Circuit decision, as Neon wrote it.",
+ ],
+}
+
+emit(__file__, FILL)

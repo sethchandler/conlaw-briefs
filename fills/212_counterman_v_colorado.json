@@ -1,0 +1,227 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "A man convicted of stalking a singer through hundreds of Facebook messages won a new trial: the Court held 7--2 that a true-threats prosecution requires proof that the speaker was at least reckless---that he consciously disregarded a substantial risk his words would be viewed as threatening violence---not merely that a reasonable person would see a threat (\\href{https://supreme.justia.com/cases/federal/us/600/22-138/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "Colorado charged Counterman under"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "Colorado charged Counterman under"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court \\textbf{vacated and remanded} by a \\textbf{7--2} vote. The case was argued April 19, 2023, and decided June 27, 2023 (\\href{https://supreme.justia.com/cases/federal/us/600/22-138/}{Justia}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Majority Opinion:} Justice Kagan delivered the opinion of the Court, joined by Chief Justice Roberts and Justices Alito, Kavanaugh, and Jackson.\n    \\item \\textbf{Concurring Opinion:} Justice Sotomayor filed an opinion concurring in part and concurring in the judgment, joined by Justice Gorsuch as to Parts I, II, III-A, and III-B.\n    \\item \\textbf{Dissenting Opinions:} Justice Thomas filed a dissenting opinion. Justice Barrett filed a dissenting opinion, joined by Justice Thomas.\n\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issue"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Majority Opinion (Justice Kagan)}"
+   },
+   {
+    "new": "\\subsubsection{Why a Subjective Mental State Is Required: ``Strategic Protection'' Against Chill}"
+   },
+   {
+    "sec": "Reasoning",
+    "from": "Justice Kagan began from",
+    "to": "\\subsection{Why Recklessness"
+   },
+   {
+    "new": "\\subsubsection{Why Recklessness---Not Purpose or Knowledge---Strikes the Right Balance}"
+   },
+   {
+    "sec": "Reasoning",
+    "from": "Descending the"
+   },
+   {
+    "new": "\\subsection{Concurring Opinion (Justice Sotomayor)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Sotomayor agreed",
+    "to": "\\item \\textbf{Justice Thomas"
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Thomas)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Joining Justice Barrett's dissent in full",
+    "to": "\\item \\textbf{Justice Barrett"
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice Barrett)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "from": "Barrett argued",
+    "to": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Objective Instruction Invalid): A Heated Zoning Comment.}",
+    "glue": " "
+   },
+   {
+    "sec": "Pedagogical",
+    "from": "During a heated livestreamed debate",
+    "to": "\\textbf{Analysis:} The conviction",
+    "glue": " "
+   },
+   {
+    "sec": "Pedagogical",
+    "from": "The conviction violates",
+    "to": "\\subsubsection{Hypothetical 2"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (No Subjective Recklessness): A Delusional Reader's Single Email.}",
+    "glue": " "
+   },
+   {
+    "src": "After a single encounter at a book signing, an author receives one rambling email from a reader experiencing paranoid delusions: ``The universe requires your silence; your final chapter ends Friday.'' Medical experts establish the reader genuinely believed he was transmitting a harmless spiritual prophecy and never perceived any risk of causing fear. Under \\textit{Counterman}, a criminal true-threats conviction fails for lack of subjective recklessness."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Recklessness Provable): Persistent Messages After Explicit Notice.}",
+    "glue": " "
+   },
+   {
+    "src": "Same reader sends 150 messages over six months despite the author blocking ten accounts and sending a cease-and-desist letter warning, ``Your messages terrify me; stop contacting me.'' Even if the reader claims he meant no harm, continuing to send ominous messages after explicit notice easily supports a jury finding of \\textbf{recklessness} under \\textit{Counterman}---and if prosecuted purely for repeated, unwanted post-notice contact rather than message content, \\href{https://law.justia.com/cases/colorado/supreme-court/2025/24sa226.html}{\\textit{Crawford}} indicates \\textit{Counterman}'s true-threats test may not even be triggered."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Higher Mental State Satisfies the Floor): A Threat Statute Requiring Intent.} After a dispute with his former business partner, a man texts her a photo of her house with the message that she will not live to see the lawsuit through. He is prosecuted under a statute requiring proof that he sent the message with the purpose of placing the recipient in fear of death, and the jury, so instructed, convicts. He argues on appeal that the message was a joke. \\textit{Counterman} does not help him. It sets recklessness as the constitutional \\emph{minimum}; a State may require more, and a jury finding of purpose necessarily includes conscious disregard of the risk that the message would be seen as threatening. Whether the message was a jest or a true threat was a question for the jury, decided in context under \\textit{Watts} and \\textit{Virginia v. Black}, and the conviction stands."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Civil Protective Orders): An Objective Standard Outside Criminal Law.} A woman seeks a civil protective order against a former coworker who has sent her a series of hostile messages, including one saying she would regret reporting him. The state statute authorizes an order on a finding that a reasonable person would regard the messages as threatening; it requires no proof of the respondent's state of mind. The coworker argues that, after \\textit{Counterman}, the order punishes his speech without proof of recklessness. \\textit{Counterman}'s rationale---that an objective standard chills protected speech---applies to any state-imposed sanction for speech. But the Court decided a criminal case, the order carries no criminal penalty and only restricts future contact, and Justice Barrett's dissent flagged exactly this civil setting as unresolved. Whether the recklessness floor applies to civil protective orders remains open."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "items": "Pedagogical",
+    "from": "  \\item \\textbf{The Delusional",
+    "to": "\\end{itemize}"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``We hold that it does, but that a mental state of recklessness is sufficient. The State must show that the defendant consciously disregarded a substantial risk that his communications would be viewed as threatening violence. The State need not prove any more demanding form of subjective intent to threaten another.''",
+    "glue": " "
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Kagan, J., \\href{https://www.supremecourt.gov/opinions/22pdf/600us1r51_g3bi.pdf}{600 U.S. at 69}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``Yet the First Amendment may still demand a subjective mental-state requirement shielding some true threats from liability. The reason relates to what is often called a chilling effect. Prohibitions on speech have the potential to chill, or deter, speech outside their boundaries.''",
+    "glue": " "
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Kagan, J., \\href{https://www.supremecourt.gov/opinions/22pdf/600us1r51_g3bi.pdf}{600 U.S. at 75}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``There is simply no need to reach out in this stalking case to determine whether anything more than recklessness is needed for punishing true threats generally.''",
+    "glue": " "
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Sotomayor, J., concurring in part and in the judgment, \\href{https://supreme.justia.com/cases/federal/us/600/22-138/}{600 U.S. at 85}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   },
+   {
+    "new": "\\begin{quote}",
+    "glue": "\n"
+   },
+   {
+    "src": "``The reality is that recklessness is not grounded in law, but in a Goldilocks judgment: Recklessness is not too much, not too little, but instead `just right.'''",
+    "glue": " "
+   },
+   {
+    "new": "---",
+    "glue": " "
+   },
+   {
+    "src": "Barrett, J., dissenting, \\href{https://supreme.justia.com/cases/federal/us/600/22-138/}{600 U.S. at 119}",
+    "glue": "\n"
+   },
+   {
+    "new": "\\end{quote}"
+   }
+  ]
+ },
+ "dropped": [
+  "LaTeX comment lines (case/chapter/'Prepared for' comments) after \\maketitle.",
+  "Case Metadata: party caption, cert-grant date, court-below line, provisions line (Justia link kept in Judicial Votes).",
+  "Legacy section in full (no Subsequent Developments subsection): intro paragraph and four 2023--2026 items (People v. Crawford (Colo. 2025), Mckesson v. Doe cert denial, State v. Calloway / United States v. Woollacott, civil protective-order scholarship). None is a Supreme Court decision overruling, narrowing, extending, or squarely applying Counterman, and several are post-2023 lower-court or scholarly developments.",
+  "Key Quotations: bold quotation labels; every quote and its pin cite kept.",
+  "Exam hypothetical headings, 'Analysis:' label, and 'Scenario A/B' labels; their text is reused in Examples 1--3."
+ ],
+ "notes": [
+  "Example 3 (moved verbatim from Neon's Scenario B) still cites People v. Crawford (Colo. 2025), whose legacy item was dropped; the citation should be verified.",
+  "Reasoning subsection headings re-created as \\subsubsection headings (new text) so they nest under the majority subsection."
+ ]
+}

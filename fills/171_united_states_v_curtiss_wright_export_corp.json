@@ -1,0 +1,143 @@
+{
+ "sections": {
+  "Memory Jogger": [
+   {
+    "new": "A company indicted for selling machine guns to Bolivia in violation of a presidentially activated Chaco War arms embargo lost its nondelegation challenge: the Court held 7--1 that Congress may give the President far broader discretion in foreign affairs than in domestic matters, in an opinion famous for calling the President the ``sole organ'' of the nation's external relations (\\href{https://supreme.justia.com/cases/federal/us/299/304/}{Justia})."
+   }
+  ],
+  "Detailed Case Facts": [
+   {
+    "sec": "Facts and Procedural History",
+    "to": "On January 27, 1936"
+   }
+  ],
+  "Procedural History": [
+   {
+    "sec": "Facts and Procedural History",
+    "from": "On January 27, 1936"
+   }
+  ],
+  "Judicial Votes": [
+   {
+    "new": "The Supreme Court \\textbf{reversed and remanded} by a \\textbf{7--1} vote. The case was argued November 19--20, 1936, and decided December 21, 1936 (\\href{https://supreme.justia.com/cases/federal/us/299/304/}{Justia}; \\href{https://www.law.cornell.edu/supremecourt/text/299/304}{Cornell LII}):"
+   },
+   {
+    "new": "\\begin{itemize}\n    \\item \\textbf{Majority Opinion:} Justice Sutherland delivered the opinion of the Court, joined by Chief Justice Hughes and Justices Van Devanter, Brandeis, Butler, Roberts, and Cardozo.\n    \\item \\textbf{Concurring Opinions:} None.\n    \\item \\textbf{Dissenting Opinion:} Justice McReynolds noted his dissent without a written opinion.\n    \\item \\textbf{Not Participating:} Justice Stone.\n\\end{itemize}"
+   }
+  ],
+  "Holding": [
+   {
+    "new": "\\textbf{Questions Presented:}"
+   },
+   {
+    "sec": "Issues Presented"
+   },
+   {
+    "new": "\\textbf{Holding:}",
+    "glue": " "
+   },
+   {
+    "sec": "Holding"
+   }
+  ],
+  "Analysis of Opinions": [
+   {
+    "new": "\\subsection{Majority Opinion (Justice Sutherland)}"
+   },
+   {
+    "sec": "Reasoning"
+   },
+   {
+    "new": "\\subsection{Dissenting Opinion (Justice McReynolds)}"
+   },
+   {
+    "sec": "Concurring and Dissenting",
+    "strip": "\\textbf{Justice McReynolds, dissenting:} "
+   },
+   {
+    "new": "\\subsection{Subsequent Developments}"
+   },
+   {
+    "new": "\\begin{itemize}"
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "  \\item \\textbf{\\textit{Youngstown",
+    "to": "  \\item \\textbf{\\textit{Dames"
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "  \\item \\textbf{\\textit{Zivotofsky",
+    "to": "  \\item \\textbf{\\textit{Trump v. Hawaii"
+   },
+   {
+    "sec": "Doctrinal Significance",
+    "from": "  \\item \\textbf{\\textit{Learning Resources",
+    "to": "\\end{itemize}"
+   },
+   {
+    "new": "\\end{itemize}"
+   }
+  ],
+  "Examples: Future Applications": [
+   {
+    "new": "\\begin{enumerate}"
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Delegation Upheld): A Presidential Ban on Advanced-Chip Exports.}",
+    "glue": " "
+   },
+   {
+    "src": "Suppose Congress passes the ``Global Semiconductor Security Act,'' authorizing the President, upon declaring a ``geopolitical supply-chain threat,'' to ``prohibit, license, or impose financial conditions on the export of advanced chips to any foreign nation if the President determines such action will advance U.S.\\ strategic stability.'' Invoking the Act, the President issues a proclamation banning chip exports to Country~X and imposing a 20\\% export fee on chips shipped to Country~Y, without consulting Congress or holding hearings. A U.S.\\ chipmaker indicted for exporting to Country~X and assessed the fee on shipments to Country~Y challenges both measures.",
+    "glue": " "
+   },
+   {
+    "new": "As to the export ban:",
+    "glue": " "
+   },
+   {
+    "src": "Strong \\textit{Curtiss-Wright} Zone~1 territory. Like the 1934 Chaco arms embargo, the statute targets a defined class of strategic goods in external relations, requires a presidential finding tied to foreign strategic stability, and implicates confidential national-security assessments. Under \\textit{Curtiss-Wright} and Justice Kavanaugh's concurrence in \\textit{Consumers' Research} (2025), a nondelegation challenge to the export ban will almost certainly fail."
+   },
+   {
+    "new": "\\item \\textbf{Same-Side (Delegation Upheld): Sanctions on a Foreign Regime That Attacks Its Neighbor.} Congress authorizes the President, upon finding that a foreign government has invaded a neighboring state, to prohibit U.S.\\ persons from selling aircraft parts to that government, subject to such exceptions as the President prescribes, and to lift the ban when he finds hostilities have ended. The President activates the ban, and an exporter prosecuted for a later shipment argues that Congress gave the President unbounded discretion. The statute is a near copy of the 1934 Joint Resolution: it addresses a situation ``entirely external to the United States,'' turns on diplomatic judgments best made by the Executive, and follows a long tradition of embargo statutes. Under \\textit{Curtiss-Wright}, the breadth of the President's discretion is no constitutional defect, and the prosecution proceeds."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (Delegation Does Not Save the Measure): An Export Fee Barred by the Constitution.} Same statute, but the chipmaker challenges the 20\\% fee on its shipments to Country~Y.",
+    "glue": " "
+   },
+   {
+    "src": "Dramatically weaker for the President. First, even under \\textit{Curtiss-Wright}, Sutherland expressly stated that executive foreign-affairs power ``must be exercised in subordination to the applicable provisions of the Constitution'' (299 U.S.\\ at 320)---and the Export Clause (Art.\\ I, \\S\\,9, cl.\\ 5) flatly forbids taxes or duties on exports (a constitutional defect Chief Justice Roberts highlighted in \\textit{Learning Resources} (2026)). Second, even if characterized as a regulatory condition rather than a tax, the chipmaker will invoke \\textit{Learning Resources} (2026) and \\textit{Zivotofsky} (2015) to argue that ``financial conditions'' does not clearly authorize revenue-raising exactions and that \\textit{Curtiss-Wright} cannot override explicit Article~I limits."
+   },
+   {
+    "new": "\\item \\textbf{Opposite-Side (No Statute, No ``Sole Organ'' Power): A Presidential Order Binding State Courts.} After an international tribunal rules that the United States violated a treaty in a state criminal prosecution, the President, acting without any statute, issues a memorandum directing state courts to reopen the affected convictions. The treaty is not self-executing, and Congress has passed no implementing law. The Executive cites \\textit{Curtiss-Wright}'s description of the President as ``sole organ'' in foreign affairs. That argument fails: \\textit{Curtiss-Wright} upheld presidential action taken \\emph{under} an Act of Congress, and Justice Jackson's \\textit{Youngstown} concurrence treats it as a case of maximum, congressionally authorized power. On materially similar facts, \\href{https://supreme.justia.com/cases/federal/us/552/491/}{\\textit{Medell\\'in v. Texas}, 552 U.S. 491 (2008)}, held that the President could not unilaterally convert a non-self-executing treaty obligation into domestic law binding state courts."
+   },
+   {
+    "new": "\\item \\textbf{Fence-Sitter (Foreign Threat, Domestic Effects): Banning a Foreign-Owned App.} Congress authorizes the President, upon finding that a foreign-controlled software application poses a national-security threat, to prohibit its distribution in the United States on such terms as the President deems appropriate. The President bans a popular foreign-owned messaging app used daily by millions of Americans. The case for \\textit{Curtiss-Wright} deference is real: the finding rests on confidential intelligence about a foreign government, a matter in which the Executive has the confidential information, secrecy, and dispatch that Sutherland stressed. But the ban operates almost entirely on domestic commerce and domestic speech, which pushes it toward the internal sphere where \\textit{Panama Refining} and \\textit{Schechter} demand meaningful statutory standards, and Sutherland himself said foreign-affairs power remains subject to the Constitution's other provisions, including the First Amendment. Whether a court treats the delegation as external or internal---and how much weight it gives the speech interests---could decide the case."
+   },
+   {
+    "new": "\\end{enumerate}"
+   }
+  ],
+  "Critique": [
+   {
+    "sec": "Pedagogical",
+    "from": "\\begin{itemize}",
+    "to": "\\textbf{``Opposite Side'' Contrast"
+   }
+  ],
+  "Key Quotations": [
+   {
+    "sec": "Key Quotations"
+   }
+  ]
+ },
+ "dropped": [
+  "Case Metadata: docket number, Chapter/Topic line, duplicate \\url{} printouts (Justia and Cornell links kept in Judicial Votes).",
+  "Legacy section: introductory paragraph; Dames & Moore v. Regan, Trump v. Hawaii, and FCC v. Consumers' Research items (applications/citations that neither narrow nor extend the holding). Kept: Youngstown (Jackson's Zone 1 classification), Zivotofsky v. Kerry (repudiating sole-organ dicta), Learning Resources v. Trump (cabining Curtiss-Wright).",
+  "'Opposite Side' Contrast (Curtiss-Wright vs. Schechter/Learning Resources): an exam tip rather than a fact pattern; its point is covered by the Learning Resources item and Example 3.",
+  "Exam Hypothetical bullet labels ('Analysis of the Export Ban', 'Analysis of the 20% Export Fee'); their text is reused in Examples 1 and 3."
+ ],
+ "notes": [
+  "Kept Learning Resources, Inc. v. Trump (2026) item (citation 607 U.S. 229, vote and opinion line-up) is from Neon's original and should be verified against the official report."
+ ]
+}

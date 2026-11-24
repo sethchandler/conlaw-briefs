@@ -1,0 +1,56 @@
+"""Fill for 259_chaplinsky_v_new_hampshire. See tools/fillkit.py."""
+from fillkit import *
+
+J = "https://supreme.justia.com/cases/federal/us/315/568/"
+FS = "Facts and Procedural History"
+LG = "Doctrinal Significance"
+EXP = "Exam Hypothetical"
+FILL = {
+ "sections": {
+  "Memory Jogger": [N(r"A Jehovah's Witness called a city marshal a ``damned racketeer'' and ``damned Fascist'' on a public street; a unanimous Court upheld his conviction, holding that ``fighting words,'' face-to-face epithets likely to provoke an average person to immediate violence, belong to narrow classes of speech the First Amendment does not protect (\href{" + J + r"}{Justia}).")],
+  "Detailed Case Facts": [SEC(FS, to="Chaplinsky was charged and convicted")],
+  "Procedural History": [SEC(FS, frm="Chaplinsky was charged and convicted")],
+  "Judicial Votes": [
+    N(r"The Supreme Court unanimously \textbf{affirmed} the Supreme Court of New Hampshire, \textbf{9--0}. The case was argued on February~5, 1942, and decided on March~9, 1942 (\href{" + J + r"}{Justia}):"),
+    N(r"\begin{itemize}"),
+    N(r"\item \textbf{Majority Opinion:} Justice Murphy delivered the opinion of the Court", glue=" "),
+    S(r"(unanimous opinion joined by Chief Justice Stone and Justices Roberts, Black, Reed, Frankfurter, Douglas, Byrnes, and Jackson)", glue=""),
+    N("."),
+    N(r"""\item \textbf{Concurring Opinions:} None.
+    \item \textbf{Dissenting Opinions:} None.
+\end{itemize}"""),
+  ],
+  "Holding": [N(r"\textbf{Questions Presented:}"), SEC("Issue"), N(r"\textbf{Holding:}", glue=" "), SEC("Holding")],
+  "Analysis of Opinions": [
+    N(r"\subsection{Majority Opinion (Justice Murphy)}"), SEC("Reasoning"),
+    N(r"\subsection{Subsequent Developments}"),
+    SEC(LG, frm=r"\begin{itemize}", to=r"  \item \textbf{Mens Rea and Historical-Categories"),
+    N(r"\end{itemize}"),
+  ],
+  "Examples: Future Applications": [
+    N(r"\begin{enumerate}"),
+    N(r"\item \textbf{Same-Side (Fighting Words; Conviction Upheld): A Face-to-Face Challenge at a Protest.}", glue=" "),
+    S(r"During a heated sidewalk protest outside a city council meeting, an activist steps within two feet of a private counter-protester, clenches his fists, and screams a string of face-to-face personal profanities and a challenge to ``settle this right here in the street.'' The activist is arrested under a state statute---authoritatively construed by the state supreme court to reach only ``face-to-face words directly tending to provoke an immediate violent breach of the peace by the person addressed.'' He challenges his conviction under the First Amendment.", glue=" "),
+    S(r"Unlike the general political jacket in \textit{Cohen} or the un-narrowed statute in \textit{Gooding}, this statute carries an authoritative narrowing construction matching \textit{Chaplinsky}'s breach-of-the-peace prong, is content-neutral across all topics (avoiding \textit{R.A.V.}), and was applied to a direct, face-to-face personal provocation directed at a private citizen---not a trained police officer---in a manner likely to trigger immediate physical retaliation."),
+    N(r"\item \textbf{Same-Side (Fighting Words; Conviction Upheld): Slurs Hurled at a Neighbor's Door.} After a dispute over a property line, a man walks onto his neighbor's porch, stands inches from her husband when he opens the door, calls him a string of personal slurs, and shoves a finger in his face while daring him to step outside and fight. He is convicted under the same narrowly construed breach-of-the-peace statute. The words are aimed at one listener, delivered face to face, and accompanied by an invitation to brawl, so they are the kind of personally abusive epithets that an average addressee would be likely to answer with violence. Because the statute reaches only such words and applies regardless of their subject, \textit{Chaplinsky} supports the conviction."),
+    N(r"\item \textbf{Opposite-Side (Protected Speech): Insults Through a Bullhorn and Online.} Suppose", glue=" "),
+    S(r"the activist instead shouted ``Fascist pigs!'' from across the street through a bullhorn at uniformed police officers---or posted the identical personal insults on social media", glue=""),
+    N(r".", glue=" "),
+    S(r"Without a direct, face-to-face personal confrontation creating an imminent risk of retaliation (\textit{Cohen}; \textit{Gooding}), and especially when directed at police officers expected to exercise restraint (\textit{Lewis}) or online where immediate physical brawls cannot occur, the speech falls outside fighting words and can be punished only if it satisfies the stringent requirements of \textit{Brandenburg} incitement or \textit{Counterman} true threats (requiring subjective recklessness)."),
+    N(r"\item \textbf{Opposite-Side (Ordinance Invalid): Banning Only Bias-Motivated Fighting Words.} A city makes it a crime to use fighting words that insult or provoke others on the basis of race, religion, or gender, but leaves untouched fighting words based on other topics, such as political affiliation or union membership. A defendant who directed a racial epithet at a neighbor in a face-to-face confrontation challenges the ordinance. Even if his words fit \textit{Chaplinsky}'s category, the city may not pick out a subset of fighting words for punishment because of the ideas they express. Under \textit{R.A.V.\ v.\ City of St.\ Paul}, the ordinance is unconstitutional content and viewpoint discrimination, although the city could instead ban all fighting words evenhandedly."),
+    N(r"\item \textbf{Fence-Sitter (Close Call): Chaplinsky's Own Words Spoken Today.} During an arrest on a public street, a man faces the arresting officer and calls him a damned racketeer and a fascist, but makes no threat and takes no step toward him. He is convicted under a narrowly construed fighting-words statute. The words are personal, face to face, and identical to those \textit{Chaplinsky} said were plainly likely to provoke retaliation. Yet they are also political criticism of a public official, and Justice Powell's concurrence in \textit{Lewis} suggested that police officers are expected to show more restraint than ordinary citizens. Because \textit{Chaplinsky} has never been overruled but the Court has not upheld a fighting-words conviction since, the result is uncertain."),
+    N(r"\end{enumerate}"),
+  ],
+  "Critique": [SEC("Pedagogical", to=r"\textbf{Exam Hypothetical:}", strip=r"\textbf{Critiques:} ")],
+  "Key Quotations": [SEC("Key Quotations")],
+ },
+ "dropped": [
+  "Case Metadata: docket number, Chapter/Topic line, Cornell Constitution Annotated link.",
+  "Concurring and Dissenting Opinions section ('None ... reflecting broad wartime consensus'): restated in Judicial Votes.",
+  "Legacy section: introductory paragraph and 'Mens Rea and Historical-Categories Enforcement (2023--2026)' item (Counterman - true threats; Chiles v. Salazar - professional speech), tangential to the fighting-words holding. Kept: Cohen/Gooding/Lewis, R.A.V., and Stevens items.",
+  "Exam Hypothetical labels 'State's Argument' and 'Opposite Side Contrast' (their fact patterns and analysis are moved verbatim into Examples 1 and 3).",
+ ],
+ "notes": [],
+}
+
+emit(__file__, FILL)
