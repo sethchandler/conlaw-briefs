@@ -18,5 +18,29 @@
   "reason": "Federal Medicaid rules require specific reasons and generally protect continuation if a beneficiary requests a hearing before the date of action, subject to exceptions. The original treats generic notice and a later hearing as a realistic legal baseline.",
   "source": "https://supreme.justia.com/cases/federal/us/424/319/ at 335, 343–349; https://www.law.cornell.edu/cfr/text/42/431.210; https://www.law.cornell.edu/cfr/text/42/431.230",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "195_mathews_v_eldridge",
+  "id": "audit.1",
+  "category": "fact",
+  "severity": "MINOR",
+  "find": "As Justice Brennan later emphasized in dissent from the oral argument record,",
+  "replace": "As Justice Brennan noted in dissent, citing the oral argument transcript,",
+  "reason": "Garbled phrasing; Brennan's dissent recites these facts citing 'Tr. of Oral Arg. 39, 47-48'.",
+  "source": "official opinion text, U.S. page 350",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "195_mathews_v_eldridge",
+  "id": "audit.2",
+  "category": "fact",
+  "severity": "MODERATE",
+  "find": "a 6--3 majority refused to apply \\emph{Mathews} to civil vehicle forfeitures, holding that",
+  "replace": "a 6--3 majority declined to make \\emph{Mathews} the governing test for civil vehicle forfeitures, relying instead on its forfeiture precedents (while noting that \\emph{Mathews} would not yield a different result), and held that",
+  "reason": "Culley did not flatly refuse to apply Mathews: it rested on $8,850 and Von Neumann and added that 'there is no good reason to think that the Mathews balancing test would yield a different result here.'",
+  "source": "https://www.courtlistener.com/opinion/9967315/culley-v-marshall/ (601 U.S. 377 (2024))",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

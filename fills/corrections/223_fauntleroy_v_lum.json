@@ -18,5 +18,17 @@
   "reason": "Default leaves personal jurisdiction open to challenge, but never physically entering the forum does not itself establish the defense. Huntington classifies penalties by their purpose.",
   "source": "https://supreme.justia.com/cases/federal/us/210/230/ at 237; https://supreme.justia.com/cases/federal/us/146/657/ at 668–674; https://supreme.justia.com/cases/federal/us/471/462/ at 475–476",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "223_fauntleroy_v_lum",
+  "id": "audit.1",
+  "category": "other",
+  "severity": "MINOR",
+  "find": "\\href{https://supreme.justia.com/cases/federal/us/577/464/}{\\textit{V.L. v. E.L.}",
+  "replace": "\\href{https://www.law.cornell.edu/supremecourt/text/15-648}{\\textit{V.L. v. E.L.}",
+  "reason": "The link pointed to 577 U.S. 464, a different case. V.L. v. E.L. is 577 U.S. 404 (No. 15-648), so the link now goes to the Cornell LII page for No. 15-648 (title confirmed).",
+  "source": "https://www.law.cornell.edu/supremecourt/text/15-648; CourtListener cluster 3183099 (577 U.S. 404)",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

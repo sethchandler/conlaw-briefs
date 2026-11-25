@@ -8,5 +8,17 @@
   "reason": "A physician need not enter the forum physically to be subject to specific jurisdiction. A jurisdictional determination already fully and fairly litigated and finally decided receives preclusive effect.",
   "source": "https://supreme.justia.com/cases/federal/us/471/462/ at 472–476; https://supreme.justia.com/cases/federal/us/375/106/ at 111–115",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "224_baker_v_general_motors_corp",
+  "id": "audit.1",
+  "category": "fact",
+  "severity": "MINOR",
+  "find": "\\href{https://supreme.justia.com/cases/federal/us/577/464/}{\\textit{V.L. v. E.L.}, 577 U.S. 464 (2016) (per curiam)}",
+  "replace": "\\href{https://supreme.justia.com/cases/federal/us/577/404/}{\\textit{V.L. v. E.L.}, 577 U.S. 404 (2016) (per curiam)}",
+  "reason": "V.L. v. E.L. is reported at 577 U.S. 404, not 464. It does quote Baker's 'the full faith and credit obligation is exacting' (522 U.S. at 233).",
+  "source": "https://www.courtlistener.com/opinion/3183081/vl-v-el/ (CourtListener cluster 3183099, citation 577 U.S. 404)",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

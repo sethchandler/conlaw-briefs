@@ -28,5 +28,17 @@
   "reason": "McCullen tests the government's showing of inadequate alternatives. A prior trial of every less intrusive tool is not a separate constitutional prerequisite.",
   "source": "https://supreme.justia.com/cases/federal/us/573/464/ at 490–496",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "207_ward_v_rock_against_racism",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "conveys. The government's purpose is the controlling consideration.''",
+  "replace": "conveys. \\dots{} The government's purpose is the controlling consideration.''",
+  "reason": "Quotation silently omits the Court's citation 'Community for Creative Non-Violence, supra, at 295.' between the two sentences; mark the omission. (The U.S. Reports also print 'content neutrality' without a hyphen.)",
+  "source": "official opinion text, U.S. page 791",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

@@ -18,5 +18,17 @@
   "reason": "Kotch upheld a particular pilot-selection practice under rational-basis review and did not purport to abandon a broader Yick Wo rule.",
   "source": "https://supreme.justia.com/cases/federal/us/330/552/ at 556–564; https://supreme.justia.com/cases/federal/us/118/356/ at 366–374",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "196_yick_wo_v_hopkins",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MODERATE",
+  "find": "did not confer ``discretion in the legal sense of that term''---exercised upon objective fire-safety conditions---but instead",
+  "replace": "did not confer ``a discretion to be exercised upon a consideration of the circumstances of each case''---such as objective fire-safety conditions---but instead",
+  "reason": "The quoted phrase is not in Justice Matthews's opinion; the closest wording ('discretion in the legal sense of the term') is in the reporter's syllabus/headnote at p. 356. The opinion itself says the ordinances confer 'not a discretion to be exercised upon a consideration of the circumstances of each case, but a naked and arbitrary power to give or withhold consent, not only as to places, but as to persons.'",
+  "source": "official opinion text, U.S. page 366",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

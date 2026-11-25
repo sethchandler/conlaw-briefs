@@ -18,5 +18,17 @@
   "reason": "The quoted phrase is a paraphrase. Tinker used materially and substantially disrupt and material and substantial interference.",
   "source": "https://supreme.justia.com/cases/federal/us/393/503/ at 509, 511, 513",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "261_tinker_v_des_moines",
+  "id": "audit.1",
+  "category": "fact",
+  "severity": "MINOR",
+  "find": "joined by Chief Justice Warren and Justices Douglas, Brennan, White, and Marshall.",
+  "replace": "joined by Chief Justice Warren and Justices Douglas, Brennan, Stewart, White, and Marshall.",
+  "reason": "In a 7--2 decision with only Black and Harlan dissenting, the majority had six joiners plus Fortas. Stewart filed an opinion styled 'concurring' (not 'concurring in the result'), as White did, and the brief already counts White as a joiner. The official report prints no join list, so this follows the standard alignment and the vote count.",
+  "source": "official opinion text, U.S. pages 514--515 (Stewart, J., concurring; White, J., concurring); U.S. page 515 onward (dissents of Black and Harlan)",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

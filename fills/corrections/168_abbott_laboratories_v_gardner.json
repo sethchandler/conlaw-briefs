@@ -1,0 +1,26 @@
+[
+ {
+  "brief": "168_abbott_laboratories_v_gardner",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "The problem is best seen in a two-fold aspect",
+  "replace": "The problem is best seen in a twofold aspect",
+  "reason": "The official text reads 'twofold'.",
+  "source": "official opinion text, U.S. page 149",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "168_abbott_laboratories_v_gardner",
+  "id": "audit.2",
+  "category": "attribution",
+  "severity": "MODERATE",
+  "find": "--- 387 U.S.\\ at 187, Fortas, J., dissenting.",
+  "replace": "--- Justice Fortas, concurring in No.\\ 336 and dissenting in Nos.\\ 39 and 438, \\textit{Gardner v.\\ Toilet Goods Ass'n}, 387 U.S.\\ 167, 186 (1967) (opinion applicable to \\textit{Abbott Laboratories}).",
+  "reason": "Fortas's opinion is printed in Gardner v. Toilet Goods Ass'n, 387 U.S. 167, at 174 ff., not in Abbott (which ends at 387 U.S. 156). The quoted sentence falls just before the *187 page break, so the pin is 186.",
+  "source": "https://www.courtlistener.com/opinion/107453/gardner-v-toilet-goods-assn-inc/ (Fortas, J., *186-187)",
+  "decision": "APPLIED",
+  "stage": "post"
+ }
+]

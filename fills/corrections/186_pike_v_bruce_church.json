@@ -1,0 +1,14 @@
+[
+ {
+  "brief": "186_pike_v_bruce_church",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "362 U. S. 440, 362 U. S. 443",
+  "replace": "362 U. S. 440, 443",
+  "reason": "The official U.S. Reports text inside the quotation reads '362 U. S. 440, 443'. The doubled cite is Justia's hyperlink formatting.",
+  "source": "official opinion text, U.S. page 142",
+  "decision": "APPLIED",
+  "stage": "post"
+ }
+]

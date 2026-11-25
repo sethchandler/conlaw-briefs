@@ -1,0 +1,26 @@
+[
+ {
+  "brief": "189_crosby_v_nftc",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "multilateral strategy towards Burma.''",
+  "replace": "multilateral strategy toward Burma.''",
+  "reason": "The opinion reads 'developing a comprehensive, multilateral strategy toward Burma' (530 U.S. at 374).",
+  "source": "official opinion text, U.S. page 374",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "189_crosby_v_nftc",
+  "id": "audit.2",
+  "category": "fact",
+  "severity": "MODERATE",
+  "find": "the Court invoked \\textit{Crosby}'s ``calibration of force'' principle to preempt state immigration sanctions obstructing federal enforcement discretion.",
+  "replace": "the Court relied on \\textit{Crosby}'s obstacle-preemption framework (530 U.S.\\ at 372--373) in holding three of the four challenged provisions of Arizona's S.B.~1070 preempted by federal immigration law.",
+  "reason": "Arizona v. United States never uses the phrase 'calibration of force' (CourtListener full-text search of the majority returns no hit for 'calibrat'). It cites Crosby only for general preemption principles (530 U.S. at 372, 373). It held sections 3, 5(C) and 6 preempted and declined to enjoin section 2(B).",
+  "source": "https://www.courtlistener.com/opinion/802971/arizona-v-united-states/ (majority opinion, cites to Crosby at 372-373)",
+  "decision": "APPLIED",
+  "stage": "post"
+ }
+]

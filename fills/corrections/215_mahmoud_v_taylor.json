@@ -28,5 +28,41 @@
   "reason": "Mahmoud directed consideration of the specific burden, student age, and instructional content and context. It did not hold that any normative instruction is constitutionally forbidden.",
   "source": "https://www.supremecourt.gov/opinions/24pdf/24-297_4f14.pdf at 20–27, 41",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "215_mahmoud_v_taylor",
+  "id": "audit.1",
+  "category": "attribution",
+  "severity": "MINOR",
+  "find": "\\noindent --- \\href{https://www.law.cornell.edu/supremecourt/text/24-297}{slip op. at 36}",
+  "replace": "\\noindent --- Justice Alito, Opinion of the Court, \\href{https://www.law.cornell.edu/supremecourt/text/24-297}{slip op. at 36}",
+  "reason": "The Key Quotation names no author. It is from the majority opinion by Justice Alito.",
+  "source": "https://www.supremecourt.gov/opinions/24pdf/606us2r63_n648.pdf (606 U.S. 522, majority opinion, PDF p. 44)",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "215_mahmoud_v_taylor",
+  "id": "audit.2",
+  "category": "attribution",
+  "severity": "MINOR",
+  "find": "\\noindent --- \\href{https://www.law.cornell.edu/supremecourt/text/24-297}{slip op. at 39}",
+  "replace": "\\noindent --- Justice Alito, Opinion of the Court, \\href{https://www.law.cornell.edu/supremecourt/text/24-297}{slip op. at 39}",
+  "reason": "The Key Quotation names no author. It is from the majority opinion by Justice Alito.",
+  "source": "https://www.supremecourt.gov/opinions/24pdf/606us2r63_n648.pdf (606 U.S. 522, majority opinion, PDF p. 47)",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "215_mahmoud_v_taylor",
+  "id": "audit.3",
+  "category": "recent_case",
+  "severity": "MODERATE",
+  "find": "the Court vacated a Ninth Circuit stay and reinstated an injunction blocking California school policies that barred staff from disclosing a student's social gender transition to parents without student consent. Relying squarely on \\textit{Mahmoud}, the Court held that concealing a child's gender transition imposes an even ``greater'' intrusion on parents' Free Exercise and Fourteenth Amendment substantive due process rights and likely fails \\textit{Mahmoud}'s strict scrutiny.",
+  "replace": "the Court vacated, as to the parent plaintiffs, a Ninth Circuit stay of a permanent injunction against California school policies that barred staff from disclosing a student's social gender transition to parents without student consent. Relying squarely on \\textit{Mahmoud}, the Court concluded that the parents were likely to succeed: unconsented facilitation of a child's gender transition is a ``greater'' intrusion on parents' free exercise rights than the storybooks in \\textit{Mahmoud}, the policies will likely not survive \\textit{Mahmoud}'s strict scrutiny, and parents objecting on due process grounds were also likely to succeed (607 U.S. at 496--497).",
+  "reason": "Mirabelli is verified (607 U.S. 492, per curiam, Mar. 2, 2026). Three fixes: the stay was vacated only as to the parents; the 'greater' comparison concerns free exercise rights only; and in this interim posture the Court found a likelihood of success rather than a holding.",
+  "source": "https://www.supremecourt.gov/opinions/25pdf/607us2r17_bqmc.pdf, 607 U.S. 492, 496--497",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

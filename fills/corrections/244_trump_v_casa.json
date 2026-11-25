@@ -28,5 +28,17 @@
   "reason": "Restore the directly relevant portions of the dropped discussion. In Barbara, the Supreme Court affirmed a nationwide class's preliminary injunction on the citizenship merits, illustrating the class-action route after CASA. In Washington v. Trump, the Ninth Circuit upheld broad relief as necessary to redress the plaintiff States' own injuries, illustrating the issue in Example 5. The Supreme Court denied review of Washington without deciding that remedial issue.",
   "source": "https://www.supremecourt.gov/opinions/25pdf/25-365_4hdj.pdf at slip op. 3–4, 26; https://cdn.ca9.uscourts.gov/datastore/opinions/2025/07/23/25-807.pdf at 63–70; https://www.supremecourt.gov/docket/docketfiles/html/public/25-364.html",
   "decision": "Handled differently: Supreme Court's Trump v. Barbara (June 30, 2026) verified on CourtListener and added as one new Subsequent Developments sentence; the Ninth Circuit's Washington v. Trump (lower court) not added."
+ },
+ {
+  "brief": "244_trump_v_casa",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "````Complete relief'' is not synonymous with ``universal relief.'' It is a narrower concept: The equitable tradition has long embraced the rule that courts generally ``may administer complete relief between the parties.''''",
+  "replace": "``\\,`Complete relief' is not synonymous with `universal relief.' It is a narrower concept: The equitable tradition has long embraced the rule that courts generally `may administer complete relief between the parties.'\\,''",
+  "reason": "The nested double-double quotation marks render as four quote marks. The fix uses single inner quotes; the wording is unchanged and verbatim.",
+  "source": "https://www.supremecourt.gov/opinions/24pdf/606us2r66_j426.pdf (606 U.S. 831, majority, PDF p. 22)",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

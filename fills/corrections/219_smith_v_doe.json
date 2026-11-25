@@ -28,5 +28,17 @@
   "reason": "Restore the dropped discussion of the November 2026 Tennessee decision. On remand from the 2024 decision cited in Example 3, the Sixth Circuit held the retroactive classification provisions nonpunitive and dismissed the geographical-restriction claims against the bureau director for lack of standing. The different treatment of classifications and geographic restrictions matters to the current application of Smith.",
   "source": "https://www.opn.ca6.uscourts.gov/opinions.pdf/26a0302p-06.pdf at 5, 7–13, 17–18",
   "decision": "Declined: asks to restore a November 2026 Sixth Circuit decision. Lower-court legacy material is kept out unless directly on point; flagged for the audit instead."
+ },
+ {
+  "brief": "219_smith_v_doe",
+  "id": "audit.1",
+  "category": "recent_case",
+  "severity": "MINOR",
+  "find": "607 U.S. \\_\\_\\_ (2026), applied",
+  "replace": "607 U.S. 163 (2026), applied",
+  "reason": "Ellingburg v. United States is now reported at 607 U.S. 163.",
+  "source": "https://www.supremecourt.gov/opinions/25pdf/607us1r09_4fb4.pdf (preliminary print; OT2025 slip-opinion list)",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

@@ -1,0 +1,14 @@
+[
+ {
+  "brief": "171_united_states_v_curtiss_wright_export_corp",
+  "id": "audit.1",
+  "category": "recent_case",
+  "severity": "MINOR",
+  "find": "\\textit{Learning Resources, Inc. v. Trump}, 607 U.S.\\ 229 (2026)",
+  "replace": "\\textit{Learning Resources, Inc. v. Trump}, 607 U.S.\\ \\_\\_\\_ (2026)",
+  "reason": "Slip opinion is cited '607 U.S. ___ (2026)'; the page 229 could not be verified.",
+  "source": "https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf",
+  "decision": "APPLIED",
+  "stage": "post"
+ }
+]

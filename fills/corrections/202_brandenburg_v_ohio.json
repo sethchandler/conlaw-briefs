@@ -18,5 +18,29 @@
   "reason": "The hypothetical supplies no start time establishing a full twenty-four-hour gap and no agreement supporting conspiracy. A specifically scheduled act could raise a distinct solicitation issue under the applicable statute.",
   "source": "https://supreme.justia.com/cases/federal/us/414/105/ at 108–109; https://supreme.justia.com/cases/federal/us/553/285/ at 297–298; https://www.law.cornell.edu/uscode/text/18/371",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "202_brandenburg_v_ohio",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "who shouted, ``We'll take the fucking street later (or again),'' holding",
+  "replace": "who shouted, ``We'll take the fucking street later'' (or ``again''), holding",
+  "reason": "The parenthetical '(or again)' is not part of the quoted words. Hess reports the stipulation that he said 'We'll take the fucking street later,' or 'We'll take the fucking street again.' Move the alternative outside the main quotation.",
+  "source": "Hess v. Indiana, 414 U.S. 105, 107 (1973), https://www.courtlistener.com/opinion/108885/hess-v-indiana/",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "202_brandenburg_v_ohio",
+  "id": "audit.2",
+  "category": "fact",
+  "severity": "MINOR",
+  "find": "\\emph{Counterman v.\\ Colorado}}, 600 U.S.\\ \\_\\_\\_ (2023)",
+  "replace": "\\emph{Counterman v.\\ Colorado}}, 600 U.S.\\ 66 (2023)",
+  "reason": "Counterman now has its reporter page: 600 U.S. 66 (2023).",
+  "source": "https://www.courtlistener.com/?q=Counterman+v.+Colorado (citation 600 U.S. 66)",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

@@ -18,5 +18,29 @@
   "reason": "The zoning controversy existed independently of the article. The defendant cannot turn the owner into a public figure by giving her notoriety through the allegedly defamatory publication.",
   "source": "https://supreme.justia.com/cases/federal/us/418/323/ at 345, 351–352; https://supreme.justia.com/cases/federal/us/443/111/ at 134–136",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "201_new_york_times_co_v_sullivan",
+  "id": "audit.1",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "{376 U.S. at 293 (Justia)}",
+  "replace": "{376 U.S. at 295 (Justia)}",
+  "reason": "Black's 'Malice, even as defined by the Court, is an elusive, abstract concept...' passage is on page 295.",
+  "source": "official opinion text, U.S. page 295",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "201_new_york_times_co_v_sullivan",
+  "id": "audit.2",
+  "category": "attribution",
+  "severity": "MINOR",
+  "find": "Under \\textit{Gertz}, the State may allow recovery",
+  "replace": "Under \\textit{Gertz}, as limited by \\textit{Dun \\& Bradstreet, Inc. v. Greenmoss Builders, Inc.}, 472 U.S.\\ 749 (1985), the State may allow recovery",
+  "reason": "Gertz barred presumed and punitive damages absent actual malice for all private-figure plaintiffs. The restriction of that rule to speech on matters of public concern comes from Dun & Bradstreet (plurality). The sentence blends the two decisions.",
+  "source": "Gertz v. Robert Welch, Inc., 418 U.S. 323, 349 (1974); Dun & Bradstreet, Inc. v. Greenmoss Builders, Inc., 472 U.S. 749, 761 (1985) (CourtListener)",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

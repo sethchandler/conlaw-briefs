@@ -1,0 +1,38 @@
+[
+ {
+  "brief": "185_chisholm_v_georgia",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "``a matter of grace, and not on compulsion''",
+  "replace": "``a matter of grace, though not upon compulsion''",
+  "reason": "Iredell (quoting Blackstone) writes that the Chancellor will 'administer right, as a matter of grace, though not upon compulsion.' The brief altered the wording inside quotation marks.",
+  "source": "official opinion text, U.S. page 442",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "185_chisholm_v_georgia",
+  "id": "audit.2",
+  "category": "fact",
+  "severity": "MINOR",
+  "find": "Georgia likewise sued South Carolina citizens in the Supreme Court",
+  "replace": "Georgia likewise sued Samuel Brailsford (a British subject) and his South Carolina partners in the Supreme Court",
+  "reason": "In Georgia v. Brailsford the defendants were Brailsford, a British subject, and Powell and Hopton, who were citizens of South Carolina; 'South Carolina citizens' is only partly accurate (reviewer concern).",
+  "source": "https://www.courtlistener.com/opinion/84683/georgia-v-brailsford/ (3 U.S. (3 Dall.) 1 (1794): 'Hopton & Powell (who were citizens of South-Carolina)'; debts of 'Brailsford, Powell & Hopton')",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "185_chisholm_v_georgia",
+  "id": "audit.3",
+  "category": "fact",
+  "severity": "MINOR",
+  "find": "Georgia was simultaneously suing South Carolina citizens as a plaintiff",
+  "replace": "Georgia was simultaneously suing a British creditor and his South Carolina partners as a plaintiff",
+  "reason": "Same issue in the Reasoning section: the Brailsford defendants were a British subject (Brailsford) and two South Carolina citizens (Powell and Hopton).",
+  "source": "https://www.courtlistener.com/opinion/84683/georgia-v-brailsford/",
+  "decision": "APPLIED",
+  "stage": "post"
+ }
+]

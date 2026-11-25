@@ -18,5 +18,17 @@
   "reason": "Drummond's equally divided affirmance had no precedential opinion. Peltier supplies a pertinent application based on the State's delegation and the challenged student-facing action.",
   "source": "https://www.supremecourt.gov/opinions/24pdf/24-394_9p6b.pdf; https://www.justice.gov/d9/case-documents/attachments/2022/06/14/peltier_v._charter_day_sch._no._20-1001_4th_cir._06-16-22.pdf at 15–38",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "192_jackson_v_metropolitan_edison",
+  "id": "audit.1",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "(419 U.S. at 368 n.3/1)",
+  "replace": "(419 U.S. at 368 n.1)",
+  "reason": "Garbled footnote reference (reviewer concern). The passage on the certificate of public convenience conferring eminent domain and property-entry rights is footnote 1 of Marshall's dissent, at 419 U.S. 368 (footnote 2 begins on p. 369).",
+  "source": "official opinion text, U.S. page 368",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

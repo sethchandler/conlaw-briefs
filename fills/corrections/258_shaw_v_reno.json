@@ -28,5 +28,29 @@
   "reason": "Callais requires a strong inference, not an actual finding of discriminatory intent.",
   "source": "https://www.supremecourt.gov/opinions/25pdf/24-109_new_jifl.pdf at slip op. 2–3, 19–26, 32–35",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "258_shaw_v_reno",
+  "id": "audit.1",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "Justice White, dissenting, 509 U.S. at 660",
+  "replace": "Justice White, dissenting, 509 U.S. at 661",
+  "reason": "The 'Nonetheless, the notion ... is both a fiction and a departure' passage is on page 661; pages 659-660 are the map appendix (CourtListener star pagination jumps *659 [image] to *661, and the passage follows *661).",
+  "source": "official opinion text, U.S. page 661; https://www.courtlistener.com/opinion/112905/shaw-v-reno/",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "258_shaw_v_reno",
+  "id": "audit.2",
+  "category": "fact",
+  "severity": "MINOR",
+  "find": "Five white residents of Durham County, led by Ruth Shaw",
+  "replace": "Five residents of Durham County, led by Ruth Shaw",
+  "reason": "Reviewer concern confirmed. The opinion describes appellants as 'five residents of Durham County' and stresses that 'They did not even claim to be white.'",
+  "source": "official opinion text, U.S. pages 636-637, 641",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

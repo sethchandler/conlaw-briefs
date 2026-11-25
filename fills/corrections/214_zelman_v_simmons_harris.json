@@ -18,5 +18,17 @@
   "reason": "Zelman assessed private choice in context. A threatened custodial consequence raises a distinct coercion issue. Kerr found unconstitutional coercion where an inmate was required to attend a religiously oriented program or suffer adverse consequences.",
   "source": "https://supreme.justia.com/cases/federal/us/536/639/ at 655–663, 715–717; https://law.justia.com/cases/federal/appellate-courts/F3/95/472/547412/",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "214_zelman_v_simmons_harris",
+  "id": "audit.1",
+  "category": "fact",
+  "severity": "MINOR",
+  "find": "Carson v. Makin}, 596 U.S. \\_\\_\\_ (2022)}",
+  "replace": "Carson v. Makin}, 596 U.S. 767 (2022)}",
+  "reason": "Carson v. Makin has a reporter page: 596 U.S. 767 (2022).",
+  "source": "https://www.courtlistener.com/?q=%22Carson+v.+Makin%22 (596 U.S. 767)",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

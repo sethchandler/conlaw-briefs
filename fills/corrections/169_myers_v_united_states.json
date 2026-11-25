@@ -1,0 +1,97 @@
+[
+ {
+  "id": "audit-restore",
+  "stage": "post",
+  "decision": "APPLIED",
+  "category": "restore",
+  "severity": "MODERATE",
+  "find": "\\end{itemize}\n\n\\section{Examples: Future Applications}",
+  "replace": "\\item \\textbf{4. A Federal Reserve Exception: \\textit{Trump v.\\ Cook}, 609 U.S.\\ \\_\\_\\_ (2026).} Denying the government's application for a stay in Governor Lisa Cook's challenge to her removal, the Court held 5--4 (June 29, 2026) that the protection from removal enjoyed by Governors of the Federal Reserve is consistent with the Constitution, grounding that conclusion in the founding-era independence of the First Bank of the United States, and that Cook was entitled to notice of the charges and an opportunity to respond before any for-cause removal. Chief Justice Roberts wrote for the Court; Justices Thomas, Alito, Gorsuch, and Barrett dissented.\n\\end{itemize}\n\n\\section{Examples: Future Applications}",
+  "reason": "Restored after the audit: a 2026 Supreme Court decision that squarely applies or limits this case's holding (dropped during conversion as unverifiable). Written fresh from the verified opinion rather than restoring the original passage, which had unverified details.",
+  "source": "Trump v. Cook, No. 25A312 (June 29, 2026), CourtListener opinion 11349204 (syllabus and vote line)"
+ },
+ {
+  "brief": "169_myers_v_united_states",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MODERATE",
+  "find": "``means no more than that the President must enforce the acts of Congress''---including",
+  "replace": "is ``a duty that does not go beyond the laws or require him to achieve more than Congress sees fit to leave within his power''---including",
+  "reason": "The quoted words do not appear in Holmes's dissent. His actual sentence is 'The duty of the President to see that the laws be executed is a duty that does not go beyond the laws or require him to achieve more than Congress sees fit to leave within his power.' The surrounding sentence needs a small grammatical adjustment ('is') to take the real quotation. The applier should check that the sentence reads correctly.",
+  "source": "official opinion text, U.S. page 177",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "169_myers_v_united_states",
+  "id": "audit.2",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "\\noindent --- 272 U.S.\\ at 184, McReynolds",
+  "replace": "\\noindent --- 272 U.S.\\ at 186, McReynolds",
+  "reason": "The 'act of hanging a criminal' passage is on page 186 of McReynolds's dissent, not 184.",
+  "source": "official opinion text, U.S. page 186",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "169_myers_v_united_states",
+  "id": "audit.3",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "subordinates ``for whom he cannot continue",
+  "replace": "subordinates ``for whom he can not continue",
+  "reason": "U.S. Reports text reads 'can not' (two words).",
+  "source": "official opinion text, U.S. page 117",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "169_myers_v_united_states",
+  "id": "audit.4",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "his power of removing those for whom he cannot continue",
+  "replace": "his power of removing those for whom he can not continue",
+  "reason": "U.S. Reports text reads 'can not' (two words).",
+  "source": "official opinion text, U.S. page 117",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "169_myers_v_united_states",
+  "id": "audit.5",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "which the President cannot in a particular case",
+  "replace": "which the President can not in a particular case",
+  "reason": "U.S. Reports text reads 'can not' (two words).",
+  "source": "official opinion text, U.S. page 135",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "169_myers_v_united_states",
+  "id": "audit.6",
+  "category": "recent_case",
+  "severity": "MINOR",
+  "find": "Slaughter}, 609 U.S.\\ \\_\\_\\_ (2026).}",
+  "replace": "Slaughter}, 609 U.S.\\ 422 (2026).}",
+  "reason": "Trump v. Slaughter now has its U.S. Reports page: 609 U.S. 422.",
+  "source": "https://www.supremecourt.gov/opinions/25pdf/609us2r62_g314.pdf (Trump v. Slaughter, 609 U.S. 422, preliminary print; Court's slip-opinion list for OT2025)",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "169_myers_v_united_states",
+  "id": "audit.7",
+  "category": "recent_case",
+  "severity": "MINOR",
+  "find": "609 U.S.\\ \\_\\_\\_ (No.\\ 25--332",
+  "replace": "609 U.S.\\ 422 (No.\\ 25--332",
+  "reason": "Trump v. Slaughter is reported at 609 U.S. 422.",
+  "source": "https://www.supremecourt.gov/opinions/25pdf/609us2r62_g314.pdf (Trump v. Slaughter, 609 U.S. 422, preliminary print; Court's slip-opinion list for OT2025)",
+  "decision": "APPLIED",
+  "stage": "post"
+ }
+]

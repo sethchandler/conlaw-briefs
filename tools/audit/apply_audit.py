@@ -34,7 +34,7 @@ def problems(c, tex):
         return "changes an example label's Same/Opposite/Fence prefix"
     if re.search(r"Spring 2027|\bcasebook\b", r, re.I):
         return "introduces a banned phrase"
-    if r.count("{") != r.count("}") or f.count("{") - f.count("}") != r.count("{") - r.count("}"):
+    if f.count("{") - f.count("}") != r.count("{") - r.count("}"):   # same brace imbalance as the text it replaces
         return "unbalanced braces in replacement"
     return None
 

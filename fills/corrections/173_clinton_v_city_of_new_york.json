@@ -1,0 +1,14 @@
+[
+ {
+  "brief": "173_clinton_v_city_of_new_york",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "appropriate ``up to \\$10 billion, in the President's discretion'' for a list of projects (which Stevens concedes at 524 U.S. at 446--447 is permissible)",
+  "replace": "appropriate ``sum[s] not exceeding'' a specified amount (say, \\$10 billion) for a list of projects, leaving allocation to the President's discretion (a practice Stevens acknowledges at 524 U.S. at 446--447)",
+  "reason": "'up to $10 billion, in the President's discretion' appears nowhere in Clinton. At 446--447 Stevens describes First Congress appropriations of 'sum[s] not exceeding' specified amounts with wide presidential discretion. The revision keeps the hypothetical and quotes only the Court's words.",
+  "source": "official opinion text, U.S. page 446",
+  "decision": "APPLIED",
+  "stage": "post"
+ }
+]

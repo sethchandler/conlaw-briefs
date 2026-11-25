@@ -1,0 +1,14 @@
+[
+ {
+  "brief": "170_ala_schechter_poultry_corp_v_united_states",
+  "id": "audit.1",
+  "category": "fact",
+  "severity": "MODERATE",
+  "find": "\\textit{Schechter Poultry} remains the \\textit{only} Supreme Court decision ever to strike down a federal statute under the Article~I nondelegation doctrine.",
+  "replace": "\\textit{Schechter Poultry} remains the \\textit{only} Supreme Court decision ever to strike down a federal statute for delegating legislative power to public officials. (A year later, \\textit{Carter v. Carter Coal Co.}, 298 U.S.\\ 238 (1936), struck down a delegation to private parties.)",
+  "reason": "Overstatement. Carter v. Carter Coal also invalidated a federal statute as an unconstitutional delegation, to private producers and miners, and the brief itself relies on Carter Coal in Example 2 and the Private-Delegation paragraph. FCC v. Consumers' Research (2025) likewise says only two statutes have failed the intelligible-principle test, which is consistent with limiting the claim to public delegations.",
+  "source": "https://www.courtlistener.com/opinion/102662/carter-v-carter-coal-co/ ; FCC v. Consumers' Research, 606 U.S. 656 (2025), slip op. at 21-22 (only two)",
+  "decision": "APPLIED",
+  "stage": "post"
+ }
+]

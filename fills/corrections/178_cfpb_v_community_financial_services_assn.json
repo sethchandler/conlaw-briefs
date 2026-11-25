@@ -1,0 +1,14 @@
+[
+ {
+  "brief": "178_cfpb_v_community_financial_services_assn",
+  "id": "audit.1",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "statutory cap,'' 601~U.S.~at~438)",
+  "replace": "statutory cap,'' 601~U.S.~at~436)",
+  "reason": "The sentence 'Congress determined the amount of the Bureau's annual funding by imposing a statutory cap' appears at 601 U.S. 436 (preliminary print), not 438.",
+  "source": "official opinion text, U.S. page 436 (https://www.supremecourt.gov/opinions/23pdf/601us2r21_7648.pdf)",
+  "decision": "APPLIED",
+  "stage": "post"
+ }
+]

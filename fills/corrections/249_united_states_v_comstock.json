@@ -8,5 +8,17 @@
   "reason": "The quoted formulation is not the language used by either concurrence. Alito wrote of a substantial link, and Kennedy separately emphasized the strength of the chain to an enumerated power.",
   "source": "https://supreme.justia.com/cases/federal/us/560/126/ at 150–154, 157–158 (Kennedy and Alito, JJ., concurring in the judgment); https://supreme.justia.com/cases/federal/us/567/519/ at 559–561 (opinion of Roberts, C.J.)",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "249_united_states_v_comstock",
+  "id": "audit.1",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "{560 U.S. at 167 n.5}",
+  "replace": "{560 U.S. at 164 n.5}",
+  "reason": "Thomas's footnote 5 ('For the reasons explained in Part III--A--2, infra ...') is on page 164, not 167.",
+  "source": "official opinion text, U.S. page 164",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

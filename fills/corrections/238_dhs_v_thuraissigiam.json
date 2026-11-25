@@ -38,5 +38,16 @@
   "reason": "In the dropped Through 2026 item, restore Padilla v. U.S. Immigration & Customs Enforcement, 192 F.4th 894 (9th Cir. 2026), with its limited holding. It verifies that Thuraissigiam does not foreclose due process challenges to prolonged detention by noncitizens apprehended in the interior well after entry. That distinction directly supports Example 3 and does not imply a right to a new asylum interview.",
   "source": "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/09/21/24-2801.pdf at 23–34; https://www.govinfo.gov/app/details/USCOURTS-ca9-24-2801/USCOURTS-ca9-24-2801-0",
   "decision": "Declined: asks to restore a 2026 Ninth Circuit decision (Padilla v. ICE). Lower-court legacy material is kept out; flagged for the audit."
+ },
+ {
+  "id": "audit-manual.1",
+  "stage": "post",
+  "decision": "APPLIED",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "Justice Sotomayor, dissenting, \\href{https://www.law.cornell.edu/supremecourt/text/19-161}{591 U.S. at 161}",
+  "replace": "Justice Sotomayor, dissenting, \\href{https://www.law.cornell.edu/supremecourt/text/19-161}{591 U.S. at 159}",
+  "reason": "The quotation is the opening of the dissent, printed at page 159.",
+  "source": "official preliminary print, 591 U.S. at 159"
  }
 ]

@@ -104,11 +104,15 @@ def check_one(text, hay, idx, page_of):
             diffs += char_diffs(s, hay[p:p + len(s) + 3])
         positions.append((p, p + len(s) - 1))
     start, end = positions[0][0], positions[-1][1]
+    alt = []
+    if len(segs) == 1 and not diffs:
+        key = tuple(segs[0][:3])
+        alt = sorted({page_of[p] for p in idx.get(key, []) if hay[p:p + len(segs[0])] == segs[0]})
     # OCR noise (split/joined words, a stray character) vs. real wording differences (words added/dropped/changed)
     real = [d for d in diffs if d[2] > 3]
     status = "EXACT" if not diffs else ("OCR_NOISE" if not real else "WORDING")
     out = {"status": status, "similarity": round(worst, 2),
-           "pdf_pages": [page_of[start], page_of[min(end, len(page_of) - 1)]]}
+           "pdf_pages": [page_of[start], page_of[min(end, len(page_of) - 1)]], "all_pdf_pages": alt}
     if real:
         out["differences"] = [f"{op}: brief '{a}' / opinion '{b}'" for op, a, n, b in real][:6]
     return out
@@ -182,6 +186,11 @@ def main():
             if kind == "key":
                 rec["attribution"] = latex_to_text(a).strip()[:200]
                 rec["pin"], rec["pin_cited"] = pin_status(a, rec.get("us_pages"))
+                if rec["pin"] in ("WRONG", "OFF_BY_1") and first and r.get("all_pdf_pages"):
+                    for pg in r["all_pdf_pages"]:          # the passage also appears elsewhere (e.g. syllabus)
+                        st, _ = pin_status(a, [first + pg, first + pg + 1])
+                        if st == "OK":
+                            rec["pin"], rec["us_pages"] = "OK", [first + pg, first + pg + 1]; break
             results.append(rec)
     json.dump(results, open(out_p, "w"), indent=1, ensure_ascii=False)
 

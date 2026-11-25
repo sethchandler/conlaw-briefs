@@ -8,5 +8,29 @@
   "reason": "Kavanaugh dealt with interlocking changes to mortgage-like enforcement remedies for improvement-district assessments. The existing-mortgage holding in Bronson is the more direct analogy.",
   "source": "https://supreme.justia.com/cases/federal/us/295/56/ at 58–62; https://supreme.justia.com/cases/federal/us/290/398/ at 429–435",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "194_home_building_v_blaisdell",
+  "id": "audit.1",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "Chief Justice Hughes, 290 U.S.\\ at 442--44 (",
+  "replace": "Chief Justice Hughes, 290 U.S.\\ at 442--43 (",
+  "reason": "The quoted passage runs from page 442 ('If by the statement...') to page 443 ('...protect their fundamental interests'). It does not reach 444.",
+  "source": "official opinion text, U.S. pages 442--443",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "194_home_building_v_blaisdell",
+  "id": "audit.2",
+  "category": "other",
+  "severity": "MINOR",
+  "find": "rests on four interlocking analytical pillars",
+  "replace": "rests on five interlocking analytical pillars",
+  "reason": "The intro says four pillars but five subsubsections follow, the fifth being 'Due Process and Equal Protection'.",
+  "source": "internal consistency of the brief (subsubsection headings at the lines that follow)",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

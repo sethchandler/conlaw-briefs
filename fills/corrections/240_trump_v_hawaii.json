@@ -18,5 +18,29 @@
   "reason": "The rational-basis analysis considered the substance of the review and the availability of waivers. The Court did not establish that facial neutrality and the mere existence of an agency process ordinarily suffice.",
   "source": "https://supreme.justia.com/cases/federal/us/585/17-965/ at slip op. 32–38, 1–7 (Breyer, J., dissenting)",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "240_trump_v_hawaii",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MODERATE",
+  "find": "``Plaintiffs challenge the entry suspension based on their perception of its effectiveness and wisdom, but the Court cannot substitute its own assessment for the Executive's predictive judgments on such matters.''",
+  "replace": "``More fundamentally, plaintiffs and the dissent challenge the entry suspension based on their perception of its effectiveness and wisdom. They suggest that the policy is overbroad and does little to serve national security interests. But we cannot substitute our own assessment for the Executive's predictive judgments on such matters, all of which `are delicate, complex, and involve large elements of prophecy.' ''",
+  "reason": "The quoted sentence is the Reporter's syllabus (585 U.S. at 671), not the Chief Justice's opinion. It is replaced with the corresponding passage of the opinion, copied exactly from pages 707--708. The internal quotation from Chicago & Southern Air Lines is shown with single quotes.",
+  "source": "official opinion text, U.S. pages 707--708",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "240_trump_v_hawaii",
+  "id": "audit.2",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "\\href{https://www.law.cornell.edu/supremecourt/text/17-965}{585 U.S. at 708}.",
+  "replace": "\\href{https://www.law.cornell.edu/supremecourt/text/17-965}{585 U.S. at 707--708}.",
+  "reason": "The replacement passage begins at the foot of page 707 ('More fundamentally...') and ends on page 708.",
+  "source": "official opinion text, U.S. pages 707--708",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

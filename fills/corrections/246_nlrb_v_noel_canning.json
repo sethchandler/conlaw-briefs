@@ -8,5 +8,17 @@
   "reason": "The majority distinguished recesses of three days or less from four-to-nine-day recesses and expressly conditioned deference to the Senate's label on its capacity to act.",
   "source": "https://supreme.justia.com/cases/federal/us/573/513/ at 537–538, 550–556",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "246_nlrb_v_noel_canning",
+  "id": "audit.1",
+  "category": "other",
+  "severity": "MINOR",
+  "find": "even if arose before the recess began",
+  "replace": "even if it arose before the recess began",
+  "reason": "Typo: missing 'it'.",
+  "source": "grammar fix only; wording of the brief's own prose (no quotation involved)",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

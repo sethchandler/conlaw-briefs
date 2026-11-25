@@ -1,0 +1,14 @@
+[
+ {
+  "brief": "174_zivotofsky_v_kerry",
+  "id": "audit.1",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "\\noindent --- Justice Scalia, dissenting, 576 U.S. at 75.",
+  "replace": "\\noindent --- Justice Scalia, dissenting, 576 U.S. at 77.",
+  "reason": "The Mad Hatter passage appears at 576 U.S. at 77.",
+  "source": "official opinion text, U.S. page 77 (https://www.govinfo.gov/content/pkg/USREPORTS-576/pdf/USREPORTS-576-1.pdf)",
+  "decision": "APPLIED",
+  "stage": "post"
+ }
+]

@@ -18,5 +18,53 @@
   "reason": "The analysis describes the insults as identical to Chaplinsky's. Chaplinsky used damned with both epithets as described by the Court.",
   "source": "https://supreme.justia.com/cases/federal/us/315/568/ at 569, 574",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "259_chaplinsky_v_new_hampshire",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "There are certain well defined and narrowly limited classes",
+  "replace": "There are certain well-defined and narrowly limited classes",
+  "reason": "The official text hyphenates 'well-defined'.",
+  "source": "official opinion text, U.S. page 571",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "259_chaplinsky_v_new_hampshire",
+  "id": "audit.2",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "those which, by their very utterance, inflict injury",
+  "replace": "those which by their very utterance inflict injury",
+  "reason": "The official text has no commas around 'by their very utterance'.",
+  "source": "official opinion text, U.S. page 572",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "259_chaplinsky_v_new_hampshire",
+  "id": "audit.3",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "Certain ``well defined and narrowly limited classes of speech''",
+  "replace": "Certain ``well-defined and narrowly limited classes of speech''",
+  "reason": "The official text hyphenates 'well-defined'.",
+  "source": "official opinion text, U.S. page 571",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "259_chaplinsky_v_new_hampshire",
+  "id": "audit.4",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "that ``by their very utterance, inflict injury",
+  "replace": "that ``by their very utterance inflict injury",
+  "reason": "The official text has no comma after 'utterance'.",
+  "source": "official opinion text, U.S. page 572",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

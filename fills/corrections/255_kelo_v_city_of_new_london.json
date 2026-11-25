@@ -8,5 +8,17 @@
   "reason": "Kennedy treated an identified beneficiary as a potential indicator of favoritism, but did not equate that single fact with the possible heightened-review category. He also discussed suspicious procedures and so-called transfers whose benefits are especially trivial or implausible.",
   "source": "https://supreme.justia.com/cases/federal/us/545/469/ at 491–493 (Kennedy, J., concurring)",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "255_kelo_v_city_of_new_london",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "economic benefits ``effectively delete[s] the words `for public use' from the Takings Clause.''",
+  "replace": "economic benefits is ``to wash out any distinction between private and public use of property---and thereby effectively to delete the words `for public use' from the Takings Clause of the Fifth Amendment.''",
+  "reason": "O'Connor wrote 'effectively to delete the words \"for public use\" from the Takings Clause of the Fifth Amendment'. The brief dropped 'to' and 'of the Fifth Amendment' without marking them. The replacement quotes the full clause verbatim and keeps the sentence grammatical.",
+  "source": "official opinion text, U.S. page 494",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

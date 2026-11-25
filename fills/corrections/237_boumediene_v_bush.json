@@ -28,5 +28,17 @@
   "reason": "Boumediene adopted a functional inquiry. A combat-zone location and practical obstacles strongly disfavor the writ but are not a categorical rule.",
   "source": "https://supreme.justia.com/cases/federal/us/553/723/ at 766–771",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "237_boumediene_v_bush",
+  "id": "audit.1",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "553 U.S. at 827, 849--850",
+  "replace": "553 U.S. at 826--27, 850",
+  "reason": "Scalia's dissent opens at the foot of 553 U.S. 826 ('Today, for the first time in our Nation's history...') and runs onto 827. 'The Nation will live to regret what the Court has done today' is on 850.",
+  "source": "official opinion text, U.S. pages 826, 827, 850",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

@@ -18,5 +18,17 @@
   "reason": "Commerce Clause power resolves the federalism objection. Monopoly power in a relevant market and willful acquisition or maintenance of that power are separate requirements of a Sherman Act § 2 claim.",
   "source": "https://supreme.justia.com/cases/federal/us/545/1/ at 17–22; https://supreme.justia.com/cases/federal/us/384/563/ at 570–571",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "248_united_states_v_ec_knight_co",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MODERATE",
+  "find": "distinguishing \\textit{E.C. Knight} as ``accidental, secondary, or remote.''",
+  "replace": "reasoning that the combination's effect on interstate commerce was ``not accidental, secondary, remote or merely probable'' and distinguishing \\textit{E.C. Knight}, where monopoly of interstate commerce ``was not a necessary consequence nor a primary end.''",
+  "reason": "Reviewer concern confirmed. Swift does not describe E.C. Knight as 'accidental, secondary, or remote.' Holmes wrote that the meatpackers' combination's 'effect upon commerce among the States is not accidental, secondary, remote or merely probable,' and separately distinguished E.C. Knight because there monopoly of interstate commerce 'was not a necessary consequence nor a primary end.' The brief misquoted the phrase and misattributed it.",
+  "source": "https://www.courtlistener.com/opinion/96205/swift-co-v-united-states/ (196 U.S. 375, 396-97 (1905))",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

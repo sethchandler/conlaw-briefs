@@ -18,5 +18,17 @@
   "reason": "Permanent donated monuments or plaques on government property raise the distinct Summum government-speech issue. A temporary display open to private applicants supports the stated Shurtleff analogy.",
   "source": "https://supreme.justia.com/cases/federal/us/555/460/ at 470–474, 478–480; https://supreme.justia.com/cases/federal/us/596/20-1800/ at slip op. 5–6, 10–12",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "262_shurtleff_v_city_of_boston",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "was that Boston ``neither actively controlled these flag raisings nor shaped the messages the flags sent.''",
+  "replace": "was the answer to ``the extent to which Boston actively controlled these flag raisings and shaped the messages the flags sent'': ``not at all.''",
+  "reason": "The opinion does not say Boston 'neither actively controlled ... nor shaped'. It asks 'the extent to which Boston actively controlled these flag raisings and shaped the messages the flags sent' and answers 'The answer, it seems, is not at all. And that is the most salient feature of this case.' The replacement quotes the actual words.",
+  "source": "https://www.supremecourt.gov/opinions/21pdf/596us1r29_j3ko.pdf (preliminary print, PDF p. 15)",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

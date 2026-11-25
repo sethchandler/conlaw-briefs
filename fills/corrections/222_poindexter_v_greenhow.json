@@ -8,5 +8,53 @@
   "reason": "Poindexter distinguished a suit against an officer who wrongfully seized property from a suit to compel the State to pay its obligations.",
   "source": "https://supreme.justia.com/cases/federal/us/114/270/ at 285–290, 299–304; https://supreme.justia.com/cases/federal/us/107/711/ at 720–728",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "222_poindexter_v_greenhow",
+  "id": "audit.1",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "on the Bills of Credit Clause (\\href{https://supreme.justia.com/cases/federal/us/114/270/}{114 U.S. at 284})",
+  "replace": "on the Bills of Credit Clause (\\href{https://supreme.justia.com/cases/federal/us/114/270/}{114 U.S. at 285})",
+  "reason": "The 'They do not become receivable in payment of taxes till they are due...' passage is on page 285. Page 284 discusses the Craig/Briscoe definitions.",
+  "source": "official opinion text, U.S. page 285",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "222_poindexter_v_greenhow",
+  "id": "audit.2",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "``Unless the state chooses to allow itself to be sued, it cannot be sued. It has this prerogative if no other. ... In our judgment, none of these suits can be maintained, for the reason that they are, in substance and effect, suits against the State of Virginia.''",
+  "replace": "``Unless the State chooses to allow itself to be sued, it cannot be sued; it has this prerogative if no other. \\dots{} In our judgment none of these suits can be maintained, for the reason that they are in substance and effect suits against the State of Virginia.''",
+  "reason": "Bradley's dissent (printed with Marye v. Parsons) reads 'Unless the State chooses to allow itself to be sued, it cannot be sued; it has this prerogative if no other.' and 'In our judgment none of these suits can be maintained, for the reason that they are in substance and effect suits against the State of Virginia.' The brief altered capitalization and punctuation and inserted commas. It is now conformed to the text, and the ellipsis is changed to \\dots{} per house style.",
+  "source": "CourtListener, Marye v. Parsons, 114 U.S. 325, opinion 91374 (Bradley, J., dissenting), star page *338",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "222_poindexter_v_greenhow",
+  "id": "audit.3",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "Justice Bradley, dissenting (\\href{https://supreme.justia.com/cases/federal/us/114/325/}{114 U.S. at 335--36})",
+  "replace": "Justice Bradley, dissenting (\\href{https://supreme.justia.com/cases/federal/us/114/325/}{114 U.S. at 338})",
+  "reason": "Both quoted sentences of Bradley's dissent appear on page 338 (after star page *338 in CourtListener's text of Marye v. Parsons, 114 U.S. 325).",
+  "source": "CourtListener, Marye v. Parsons, opinion 91374, star page *338",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "222_poindexter_v_greenhow",
+  "id": "audit.4",
+  "category": "attribution",
+  "severity": "MINOR",
+  "find": "tax-receivability pledge was ``of the essence of the right'' (\\href{https://supreme.justia.com/cases/federal/us/114/270/}{114 U.S. at 271})",
+  "replace": "tax-receivability pledge was of the essence of the coupon-holder's contract right (\\href{https://supreme.justia.com/cases/federal/us/114/270/}{114 U.S. at 270} (syllabus))",
+  "reason": "The phrase 'The faculty of being receivable in payment of taxes was of the essence of the right' is the Reporter's syllabus (headnote 2) on page 270. It does not appear in Justice Matthews's opinion. The quotation marks are removed and the pin now points to the syllabus.",
+  "source": "official opinion text, U.S. page 270 (syllabus); full-text search of 114 U.S. 270--306 finds the phrase only there",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

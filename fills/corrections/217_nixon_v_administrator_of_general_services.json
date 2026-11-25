@@ -8,5 +8,29 @@
   "reason": "The Act assigned custody and screening to the Executive Branch. That allocation was central to the separation-of-powers holding.",
   "source": "https://supreme.justia.com/cases/federal/us/433/425/ at 429–433, 441–445",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "217_nixon_v_administrator_of_general_services",
+  "id": "audit.1",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "(\\textit{id.} at 545, quoted at 494)",
+  "replace": "(433 U.S. at 545 (Rehnquist, J., dissenting); see also \\textit{id.} at 494 (Stevens, J., concurring) (quoting this passage))",
+  "reason": "The pin was unclear. The phrase is in Rehnquist's dissent at 545, and Stevens quotes it in his concurrence at 494.",
+  "source": "official opinion text, U.S. pages 494 and 545",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "217_nixon_v_administrator_of_general_services",
+  "id": "audit.2",
+  "category": "other",
+  "severity": "MINOR",
+  "find": "\\textbf{Bill of Attainder Test Reaffirmed:} Reaffirmed in \\href{https://supreme.justia.com/cases/federal/us/468/841/}",
+  "replace": "\\textbf{Bill of Attainder Test Reaffirmed:} The Court applied \\textit{Nixon}'s three bill-of-attainder inquiries (historical, functional, and motivational) in \\href{https://supreme.justia.com/cases/federal/us/468/841/}",
+  "reason": "The item was a sentence fragment. Selective Service lists the 'three necessary inquiries' and cites Nixon for them, so the new wording is accurate.",
+  "source": "CourtListener, Selective Service System v. Minnesota PIRG, 468 U.S. 841, 852 (1984), https://www.courtlistener.com/opinion/111260/",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

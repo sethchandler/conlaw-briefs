@@ -28,5 +28,17 @@
   "reason": "Doran specified four inquiries on habeas review of a grant of extradition.",
   "source": "https://supreme.justia.com/cases/federal/us/439/282/ at 288–290",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "225_puerto_rico_v_branstad",
+  "id": "audit.1",
+  "category": "fact",
+  "severity": "MINOR",
+  "find": "overruling \\emph{Dennison} as an interpretation of the 1793 statute's predecessor",
+  "replace": "overruling \\emph{Dennison} insofar as it interpreted the 1793 Act, the predecessor of \\S~3182",
+  "reason": "Garbled (reviewer concern): Scalia joined the portions 'overruling Kentucky v. Dennison ... insofar as it interpreted the predecessor of that statute' (i.e., of 18 U.S.C. 3182). The 1793 Act is itself the predecessor; it has no predecessor at issue.",
+  "source": "official opinion text, U.S. page 231",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

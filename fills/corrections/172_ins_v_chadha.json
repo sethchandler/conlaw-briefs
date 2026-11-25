@@ -1,0 +1,14 @@
+[
+ {
+  "brief": "172_ins_v_chadha",
+  "id": "audit.1",
+  "category": "fact",
+  "severity": "MINOR",
+  "find": "the Court summarily affirmed D.C. Circuit rulings invalidating a two-House veto over independent agency rulemaking in \\textit{Process Gas Consumers Group v. Consumer Energy Council of America}, 463 U.S. 1216 (1983), confirming that \\textit{Chadha} bars one-House, two-House, and committee vetoes alike.",
+  "replace": "the Court summarily affirmed D.C. Circuit rulings invalidating a one-House veto over FERC rulemaking under the Natural Gas Policy Act and a two-House veto over FTC trade regulation rules in \\textit{Process Gas Consumers Group v. Consumer Energy Council of America}, 463 U.S. 1216 (1983), confirming that \\textit{Chadha} reaches two-House as well as one-House vetoes of independent agency rules.",
+  "reason": "Process Gas consolidated two cases: a one-House veto under NGPA sec. 202(c) (FERC) and a two-House veto under sec. 21(a) of the FTC Improvements Act of 1980. No committee veto was at issue. White, J., dissenting, describes both provisions.",
+  "source": "CourtListener, Process Gas Consumers Group v. Consumer Energy Council of America, 463 U.S. 1216 (1983) (White, J., dissenting), https://www.courtlistener.com/opinion/111024/",
+  "decision": "APPLIED",
+  "stage": "post"
+ }
+]

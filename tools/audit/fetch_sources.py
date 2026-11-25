@@ -97,7 +97,10 @@ def fetch(e, cache):
     if os.path.exists(path):
         return e["num"], "cached"
     tried = []
+    cm = re.match(r"(\d+)\s+U\.\s?S\.\s+(?:\([^)]*\)\s+)?(\d+)", e["citation"])
     for url, kind, first in candidates(e):
+        if "#page=" in url and cm:      # preliminary prints carry official U.S. Reports pages
+            first = int(cm.group(2))
         try:
             if "#page=" in url:   # a preliminary print (whole volume part): keep this case's pages only
                 pages = print_pages(url, e["title"])

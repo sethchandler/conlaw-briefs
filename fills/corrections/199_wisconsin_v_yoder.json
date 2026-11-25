@@ -28,5 +28,17 @@
   "reason": "Medical exemptions do not automatically require religious exemptions. General applicability turns on the nature of the exemption and whether the permitted conduct poses comparable risks to the asserted government interest.",
   "source": "https://www.law.cornell.edu/supremecourt/text/19-123 (Part II–B); https://www.supremecourt.gov/opinions/20pdf/20a151_4g15.pdf at 1–2",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "199_wisconsin_v_yoder",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MODERATE",
+  "find": "and holding instead that it ``embodies a robust principle of general applicability.''",
+  "replace": "and holding instead that ``[w]e have never confined \\emph{Yoder} to its facts.''",
+  "reason": "'Yoder embodies a robust principle of general applicability' appears only in the Mahmoud syllabus (606 U.S. at 525), which is not part of the opinion. The replacement is the Court's own sentence.",
+  "source": "official opinion text (Mahmoud v. Taylor, source 215), U.S. page 558",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

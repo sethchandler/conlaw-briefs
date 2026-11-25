@@ -8,5 +8,53 @@
   "reason": "Moody reserved non-feed applications and did not decide which compulsory-disclosure standard applies to a payment notice. FAIR provides an incidental-speech analogy, while Zauderer's scope and requirements require separate analysis.",
   "source": "https://supreme.justia.com/cases/federal/us/603/22-277/ (Part II); https://supreme.justia.com/cases/federal/us/547/47/ at 60–62; https://www.law.cornell.edu/supremecourt/text/16-1140 (Part II–B)",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "213_moody_v_netchoice",
+  "id": "audit.1",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "are involved.''\n\\end{quote}\n\\noindent --- Kagan, J. (",
+  "replace": "are involved.''\n\\end{quote}\n\\noindent --- Kagan, J., 603 U.S.\\ at 719 (",
+  "reason": "Key Quotation attribution had no page pin (flagged in packet concerns); quotation verified verbatim in the preliminary print and the page added.",
+  "source": "official opinion text (preliminary print, 603 U.S. 707), U.S. page 719",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "213_moody_v_netchoice",
+  "id": "audit.2",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "expressive product.''\n\\end{quote}\n\\noindent --- Kagan, J. (",
+  "replace": "expressive product.''\n\\end{quote}\n\\noindent --- Kagan, J., 603 U.S.\\ at 731 (",
+  "reason": "Key Quotation attribution had no page pin (flagged in packet concerns); quotation verified verbatim in the preliminary print and the page added.",
+  "source": "official opinion text (preliminary print, 603 U.S. 707), U.S. page 731",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "213_moody_v_netchoice",
+  "id": "audit.3",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "speech nirvana.''\n\\end{quote}\n\\noindent --- Kagan, J. (",
+  "replace": "speech nirvana.''\n\\end{quote}\n\\noindent --- Kagan, J., 603 U.S.\\ at 741--742 (",
+  "reason": "Key Quotation attribution had no page pin (flagged in packet concerns); quotation verified verbatim in the preliminary print and the page added.",
+  "source": "official opinion text (preliminary print, 603 U.S. 707), U.S. page 741-742",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "213_moody_v_netchoice",
+  "id": "audit.4",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "nonbinding dicta.''\n\\end{quote}\n\\noindent --- Alito, J., concurring in the judgment (",
+  "replace": "nonbinding dicta.''\n\\end{quote}\n\\noindent --- Alito, J., concurring in the judgment, 603 U.S.\\ at 766 (",
+  "reason": "Key Quotation attribution had no page pin (flagged in packet concerns); quotation verified verbatim in the preliminary print and the page added.",
+  "source": "official opinion text (preliminary print, 603 U.S. 707), U.S. page 766",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

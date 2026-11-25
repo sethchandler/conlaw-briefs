@@ -8,5 +8,17 @@
   "reason": "Trump v. Hawaii applied a deferential standard in the context of a presidential entry policy and quoted Romer. Its application does not establish a general threshold for every municipal equal protection case.",
   "source": "https://supreme.justia.com/cases/federal/us/517/620/ at 632–635; https://www.govinfo.gov/content/pkg/USREPORTS-585/pdf/USREPORTS-585-667.pdf at 702–707",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "257_usda_v_moreno",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "flags a ``bare desire to harm a politically unpopular group.''",
+  "replace": "flags a ``bare \\dots{} desire to harm a politically unpopular group.''",
+  "reason": "Moreno says 'a bare congressional desire to harm a politically unpopular group cannot constitute a legitimate governmental interest.' The brief dropped 'congressional' inside the quotation marks without an ellipsis.",
+  "source": "official opinion text, U.S. page 534",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

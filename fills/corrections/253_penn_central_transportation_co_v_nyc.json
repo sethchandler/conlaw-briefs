@@ -8,5 +8,17 @@
   "reason": "Sheetz did not hold that every legislative permit fee is an exaction subject to heightened review. Koontz distinguished qualifying parcel-linked demands from ordinary taxes and user fees.",
   "source": "https://supreme.justia.com/cases/federal/us/601/22-1074/ at slip op. 10–11 and 1–2 (Sotomayor, J., concurring); https://supreme.justia.com/cases/federal/us/570/595/ at 612–615",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "253_penn_central_transportation_co_v_nyc",
+  "id": "audit.1",
+  "category": "fact",
+  "severity": "MINOR",
+  "find": "as a classic physical confiscation rather than a regulatory taking",
+  "replace": "as a ``classic taking in which the government directly appropriates private property for its own use'' rather than a regulatory taking",
+  "reason": "Reviewer concern confirmed: Tyler did not call the retention of surplus equity a 'physical confiscation'; the Court held it 'effected a \"classic taking in which the government directly appropriates private property for its own use\"' (quoting Tahoe-Sierra). Replaced the loose paraphrase with the Court's verified words.",
+  "source": "https://www.courtlistener.com/opinion/9397380/tyler-v-hennepin-county/ (598 U.S. 631, 639 (2023))",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

@@ -8,5 +8,17 @@
   "reason": "Everson and Zelman upheld inclusion against Establishment Clause challenges. Carson supplies the Free Exercise holding governing the exclusion.",
   "source": "https://supreme.justia.com/cases/federal/us/330/1/ at 16–18; https://supreme.justia.com/cases/federal/us/536/639/ at 652–654; https://supreme.justia.com/cases/federal/us/596/20-1088/ (Parts II–III)",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "198_everson_v_board_of_education",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "``is this \\ldots{} school identified with the Catholic Church?''",
+  "replace": "``[i]s this man or building identified with the Catholic Church?''",
+  "reason": "Jackson's dissent reads: 'Neither the fireman nor the policeman has to ask before he renders aid \"Is this man or building identified with the Catholic Church?\" But before these school authorities draw a check ... they must ask just that question.' The brief replaced 'man or building' with 'school' behind an ellipsis, putting a word in the quotation that Jackson did not write.",
+  "source": "official opinion text, U.S. page 25",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

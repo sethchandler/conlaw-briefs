@@ -1,0 +1,13 @@
+[
+ {
+  "id": "audit-restore",
+  "stage": "post",
+  "decision": "APPLIED",
+  "category": "restore",
+  "severity": "MODERATE",
+  "find": "\\end{itemize}\n\n\\section{Examples: Future Applications}",
+  "replace": "\\item \\textbf{Consent as a Further Limit (\\textit{Landor}, 2026):} In \\textit{Landor v.\\ Louisiana Department of Corrections and Public Safety}, No.~23-1197 (June 23, 2026), the Court held that individuals may not be held personally liable for damages under RLUIPA, a Spending Clause statute. Rejecting the argument that \\textit{Dole}'s four requirements are the whole test, Justice Gorsuch's opinion for the Court explained that they ``apply in addition to---not instead of---the rule that Congress may not use the Spending Clause to bind entities and individuals without their knowing and voluntary consent.''\n\\end{itemize}\n\n\\section{Examples: Future Applications}",
+  "reason": "Restored after the audit: a 2026 Supreme Court decision that squarely applies or limits this case's holding (dropped during conversion as unverifiable). Written fresh from the verified opinion rather than restoring the original passage, which had unverified details.",
+  "source": "Landor v. Louisiana Dept. of Corrections and Public Safety, No. 23-1197 (June 23, 2026), CourtListener opinion 11346052 (quotation verified in the opinion text)"
+ }
+]

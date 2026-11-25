@@ -18,5 +18,77 @@
   "reason": "The hypothetical does not say the tokens are receivable for taxes. Tax receivability was a distinct feature of the certificates in Craig.",
   "source": "https://supreme.justia.com/cases/federal/us/29/410/ at 432–433",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "221_craig_v_missouri",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "this is the sense in which it has been always understood.''",
+  "replace": "this is the sense in which the terms have been always understood.''",
+  "reason": "Craig's text at 29 U.S. 432 reads 'This is the sense in which the terms have been always understood'. The brief copied Justice Story's paraphrase in Briscoe ('in which it has been always understood').",
+  "source": "official opinion text, U.S. page 432; Briscoe Story dissent on CourtListener (cluster 86022)",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "221_craig_v_missouri",
+  "id": "audit.2",
+  "category": "attribution",
+  "severity": "MINOR",
+  "find": "{29 U.S. at 432} (quoted verbatim in",
+  "replace": "{29 U.S. at 432} (quoted in",
+  "reason": "Story's quotation in Briscoe is not verbatim: it reads 'it has been' for 'the terms have been'.",
+  "source": "https://www.courtlistener.com/opinion/86022/briscoe-v-president-of-the-bank-of-the-commonwealth/",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "221_craig_v_missouri",
+  "id": "audit.3",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "if they be not a tender of debts",
+  "replace": "if they be not made a tender in payment of debts",
+  "reason": "Craig at 29 U.S. 434 reads 'if they be not made a tender in payment of debts'. The shorter 'a tender of debts' is Briscoe's (Story's) rendering.",
+  "source": "official opinion text, U.S. page 434",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "221_craig_v_missouri",
+  "id": "audit.4",
+  "category": "attribution",
+  "severity": "MINOR",
+  "find": "{29 U.S. at 434} (quoted verbatim in",
+  "replace": "{29 U.S. at 434} (quoted in",
+  "reason": "Briscoe's version of this passage differs from Craig's ('a tender of debts'), so 'verbatim' is inaccurate.",
+  "source": "https://www.courtlistener.com/opinion/86022/briscoe-v-president-of-the-bank-of-the-commonwealth/",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "221_craig_v_missouri",
+  "id": "audit.5",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "{29 U.S. at 453} (quoted verbatim in",
+  "replace": "{29 U.S. at 454} (quoted verbatim in",
+  "reason": "Justice McLean's 'To constitute a bill of credit within the meaning of the constitution' passage begins at 29 U.S. 454, not 453. Briscoe's quotation of it at 36 U.S. 314 is verbatim (CourtListener).",
+  "source": "official opinion text, U.S. page 454",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "221_craig_v_missouri",
+  "id": "audit.6",
+  "category": "fact",
+  "severity": "MINOR",
+  "find": "Justice Story, the sole surviving member of the \\textit{Craig} majority who dissented,",
+  "replace": "Justice Story, the only member of the \\textit{Craig} majority to dissent in \\textit{Briscoe},",
+  "reason": "Justice Baldwin was also in the Craig majority (the brief's own vote list: Marshall, Duvall, Story, Baldwin) and was still on the Court in 1837, where he joined the 6-1 Briscoe majority. Story was not the 'sole surviving' member of that majority; he was the only one to dissent.",
+  "source": "official opinion text (Craig vote line), Briscoe on CourtListener",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

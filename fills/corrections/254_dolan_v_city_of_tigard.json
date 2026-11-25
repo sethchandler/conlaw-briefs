@@ -38,5 +38,17 @@
   "reason": "Sheetz resolved the legislative versus administrative question. It did not decide whether a particular fee meets the threshold for exactions scrutiny or how a classwide schedule must be tailored.",
   "source": "https://supreme.justia.com/cases/federal/us/601/22-1074/ at slip op. 10–11 and 1–2 (Sotomayor, J., concurring)",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "254_dolan_v_city_of_tigard",
+  "id": "audit.1",
+  "category": "recent_case",
+  "severity": "MINOR",
+  "find": "\\emph{Sheetz v.\\ County of El Dorado}, 601 U.S. \\_\\_\\_ (2024)}",
+  "replace": "\\emph{Sheetz v.\\ County of El Dorado}, 601 U.S. 267 (2024)}",
+  "reason": "Sheetz is now reported at 601 U.S. 267. The quotation 'does not distinguish between legislative and administrative permit conditions' is verified in Barrett's opinion for a unanimous Court.",
+  "source": "https://www.courtlistener.com/opinion/9959691/sheetz-v-el-dorado-county/ (citation 601 U.S. 267)",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

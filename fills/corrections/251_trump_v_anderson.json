@@ -18,5 +18,65 @@
   "reason": "The five-Justice opinion relied on Section 5 for federal enforcement and cited the House's historical role. The case did not adjudicate an exercise of the House's own constitutional authority.",
   "source": "https://supreme.justia.com/cases/federal/us/601/23-719/ at slip op. 5–8 & n.3",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "251_trump_v_anderson",
+  "id": "audit.1",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "``Because the Constitution makes Congress, rather than the States, responsible for enforcing Section 3 against federal officeholders and candidates, we reverse.''\n\\end{quote}\n\\noindent --- Per Curiam, \\href{https://www.law.cornell.edu/supremecourt/text/23-719}{\\emph{Trump v. Anderson}, 601 U.S. 100 (2024)}.",
+  "replace": "``Because the Constitution makes Congress, rather than the States, responsible for enforcing Section 3 against federal officeholders and candidates, we reverse.''\n\\end{quote}\n\\noindent --- Per Curiam, \\href{https://www.law.cornell.edu/supremecourt/text/23-719}{\\emph{Trump v. Anderson}, 601 U.S. 100, 106 (2024)}.",
+  "reason": "The Key Quotation had no pin cite. The quoted sentence is on page 106 of 601 U.S. (verified in the slip opinion with U.S. pagination). This adds a pin; it addresses the packet concern about missing pins.",
+  "source": "official opinion text, U.S. page 106",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "251_trump_v_anderson",
+  "id": "audit.2",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "``We conclude that States may disqualify persons holding or attempting to hold state office. But States have no power under the Constitution to enforce Section 3 with respect to federal offices, especially the Presidency.''\n\\end{quote}\n\\noindent --- Per Curiam, \\href{https://www.law.cornell.edu/supremecourt/text/23-719}{\\emph{Trump v. Anderson}, 601 U.S. 100 (2024)}.",
+  "replace": "``We conclude that States may disqualify persons holding or attempting to hold state office. But States have no power under the Constitution to enforce Section 3 with respect to federal offices, especially the Presidency.''\n\\end{quote}\n\\noindent --- Per Curiam, \\href{https://www.law.cornell.edu/supremecourt/text/23-719}{\\emph{Trump v. Anderson}, 601 U.S. 100, 110 (2024)}.",
+  "reason": "The Key Quotation had no pin cite. The quoted sentence is on page 110 of 601 U.S. (verified in the slip opinion with U.S. pagination). This adds a pin; it addresses the packet concern about missing pins.",
+  "source": "official opinion text, U.S. page 110",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "251_trump_v_anderson",
+  "id": "audit.3",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "``Nothing in the Constitution requires that we endure such chaos---arriving at any time or different times, up to and perhaps beyond the Inauguration.''\n\\end{quote}\n\\noindent --- Per Curiam, \\href{https://www.law.cornell.edu/supremecourt/text/23-719}{\\emph{Trump v. Anderson}, 601 U.S. 100 (2024)}.",
+  "replace": "``Nothing in the Constitution requires that we endure such chaos---arriving at any time or different times, up to and perhaps beyond the Inauguration.''\n\\end{quote}\n\\noindent --- Per Curiam, \\href{https://www.law.cornell.edu/supremecourt/text/23-719}{\\emph{Trump v. Anderson}, 601 U.S. 100, 117 (2024)}.",
+  "reason": "The Key Quotation had no pin cite. The quoted sentence is on page 117 of 601 U.S. (verified in the slip opinion with U.S. pagination). This adds a pin; it addresses the packet concern about missing pins.",
+  "source": "official opinion text, U.S. page 117",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "251_trump_v_anderson",
+  "id": "audit.4",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "All nine Justices agree on the outcome of this case. That is the message Americans should take home.''\n\\end{quote}\n\\noindent --- Barrett, J., concurring in part and concurring in the judgment, \\href{https://www.law.cornell.edu/supremecourt/text/23-719}{Cornell LII}.",
+  "replace": "All nine Justices agree on the outcome of this case. That is the message Americans should take home.''\n\\end{quote}\n\\noindent --- Barrett, J., concurring in part and concurring in the judgment, 601 U.S. at 118 (\\href{https://www.law.cornell.edu/supremecourt/text/23-719}{Cornell LII}).",
+  "reason": "Adds the missing pin. Barrett's 'turn the national temperature down' passage is on page 118.",
+  "source": "official opinion text, U.S. page 118",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "251_trump_v_anderson",
+  "id": "audit.5",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "The majority resolves much more than the case before us.''\n\\end{quote}\n\\noindent --- Sotomayor, Kagan, and Jackson, JJ., concurring in the judgment, \\href{https://www.law.cornell.edu/supremecourt/text/23-719}{Cornell LII}.",
+  "replace": "The majority resolves much more than the case before us.''\n\\end{quote}\n\\noindent --- Sotomayor, Kagan, and Jackson, JJ., concurring in the judgment, 601 U.S. at 123 (\\href{https://www.law.cornell.edu/supremecourt/text/23-719}{Cornell LII}).",
+  "reason": "Adds the missing pin. The joint concurrence's 'needed to resolve only a single question' passage is on page 123.",
+  "source": "official opinion text, U.S. page 123",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

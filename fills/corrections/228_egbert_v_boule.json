@@ -38,5 +38,17 @@
   "reason": "Egbert's reference to parallel circumstances addresses extension to a new context. The original example stated no meaningful factual difference from Bivens and treated modern limits on extensions as though they displaced the original holding.",
   "source": "https://supreme.justia.com/cases/federal/us/403/388/ at 389; https://supreme.justia.com/cases/federal/us/582/15-1358/ at slip op. 16; https://supreme.justia.com/cases/federal/us/596/21-147/ at slip op. 6–12, 16",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "228_egbert_v_boule",
+  "id": "audit.1",
+  "category": "recent_case",
+  "severity": "MINOR",
+  "find": "\\textit{Goldey v. Fields}, 606 U.S. \\_\\_\\_ (June 30, 2025) (per curiam)",
+  "replace": "\\textit{Goldey v. Fields}, 606 U.S. 942 (June 30, 2025) (per curiam)",
+  "reason": "The official report citation is now available: 606 U.S. 942.",
+  "source": "https://www.supremecourt.gov/opinions/24pdf/606us2r67_8nka.pdf",
+  "decision": "APPLIED",
+  "stage": "post"
  }
 ]

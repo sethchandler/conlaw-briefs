@@ -1,0 +1,14 @@
+[
+ {
+  "brief": "182_united_states_v_butler",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "``signifies an exaction for the support of Government''",
+  "replace": "``signifies an exaction for the support of the Government''",
+  "reason": "The opinion reads 'signifies an exaction for the support of the Government' (297 U.S. at 61); the brief dropped 'the'.",
+  "source": "official opinion text, U.S. page 61",
+  "decision": "APPLIED",
+  "stage": "post"
+ }
+]

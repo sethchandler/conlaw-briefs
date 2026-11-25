@@ -18,5 +18,16 @@
   "reason": "Gilbert's rule turned on message-based classifications. City of Austin rejected a rule under which merely having to read a sign establishes content discrimination.",
   "source": "https://supreme.justia.com/cases/federal/us/576/155/ at 163–171; https://www.law.cornell.edu/supremecourt/text/20-1029 (Part II)",
   "decision": "APPLIED"
+ },
+ {
+  "id": "audit-restore",
+  "stage": "post",
+  "decision": "APPLIED",
+  "category": "restore",
+  "severity": "MODERATE",
+  "find": "\\end{itemize}\n\n\\section{Examples: Future Applications}",
+  "replace": "\\item \\textbf{Viewpoint-Based Professional Speech (\\textit{Chiles}, 2026):} In \\textit{Chiles v.\\ Salazar}, No.~24-539 (Mar.~31, 2026), the Court relied on \\textit{Reed}'s rule that laws regulating speech based on its communicative content are presumptively unconstitutional and held that Colorado's ban on conversion therapy, as applied to a licensed counselor's talk therapy, regulates speech by viewpoint and cannot be reviewed as a mere regulation of professional conduct. Justice Gorsuch wrote for eight Justices; Justice Jackson dissented.\n\\end{itemize}\n\n\\section{Examples: Future Applications}",
+  "reason": "Restored after the audit: a 2026 Supreme Court decision that squarely applies or limits this case's holding (dropped during conversion as unverifiable). Written fresh from the verified opinion rather than restoring the original passage, which had unverified details.",
+  "source": "Chiles v. Salazar, No. 24-539 (Mar. 31, 2026), CourtListener opinion 11297434"
  }
 ]

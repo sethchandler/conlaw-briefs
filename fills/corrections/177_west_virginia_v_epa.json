@@ -1,0 +1,74 @@
+[
+ {
+  "brief": "177_west_virginia_v_epa",
+  "id": "audit.1",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "the delegation claimed to be lurking there. To convince us otherwise",
+  "replace": "the delegation claimed to be lurking there. \\dots{} To convince us otherwise",
+  "reason": "Quote silently omits citation 'Utility Air, 573 U.S., at 324.'; ellipsis added.",
+  "source": "official opinion text (preliminary print), U.S. page 723",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "177_west_virginia_v_epa",
+  "id": "audit.2",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "\\noindent --- Chief Justice Roberts, \\textit{West Virginia v. EPA}, 597 U.S. 697 (2022) (",
+  "replace": "\\noindent --- Chief Justice Roberts, \\textit{West Virginia v. EPA}, 597 U.S. 697, 723 (2022) (",
+  "reason": "Adds pin cite; passage is at 723.",
+  "source": "official opinion text (preliminary print), U.S. page 723",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "177_west_virginia_v_epa",
+  "id": "audit.3",
+  "category": "quote",
+  "severity": "MINOR",
+  "find": "sensible `solution to the crisis of the day.' But it is not plausible",
+  "replace": "sensible `solution to the crisis of the day.' \\dots{} But it is not plausible",
+  "reason": "Quote silently omits citation 'New York v. United States, 505 U.S. 144, 187 (1992).'; ellipsis added.",
+  "source": "official opinion text (preliminary print), U.S. page 735",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "177_west_virginia_v_epa",
+  "id": "audit.4",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "from that representative body.''\n\\end{quote}\n\\noindent --- Chief Justice Roberts (",
+  "replace": "from that representative body.''\n\\end{quote}\n\\noindent --- Chief Justice Roberts, 597 U.S. at 735 (",
+  "reason": "Adds missing pin cite; passage is at 735.",
+  "source": "official opinion text (preliminary print), U.S. page 735",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "177_west_virginia_v_epa",
+  "id": "audit.5",
+  "category": "pin",
+  "severity": "MINOR",
+  "find": "\\noindent --- Justice Gorsuch, concurring (\\href{https://supreme.justia.com/cases/federal/us/597/20-1530/}{Justia})",
+  "replace": "\\noindent --- Justice Gorsuch, concurring, 597 U.S. at 752--53 (\\href{https://supreme.justia.com/cases/federal/us/597/20-1530/}{Justia})",
+  "reason": "Adds missing pin cite; 'pen-and-phone' passage verified verbatim at 752--53 (NOTFOUND was due to a footnote at the page break).",
+  "source": "official opinion text (preliminary print), U.S. pages 752--53",
+  "decision": "APPLIED",
+  "stage": "post"
+ },
+ {
+  "brief": "177_west_virginia_v_epa",
+  "id": "audit.6",
+  "category": "recent_case",
+  "severity": "MINOR",
+  "find": "{\\textit{Learning Resources, Inc. v. Trump}, 607 U.S. 229 (2026)}",
+  "replace": "{\\textit{Learning Resources, Inc. v. Trump}, 607 U.S. \\_\\_\\_ (2026)}",
+  "reason": "Slip opinion is cited '607 U.S. ___ (2026)'; page 229 could not be verified.",
+  "source": "https://www.supremecourt.gov/opinions/25pdf/24-1287_4gcj.pdf",
+  "decision": "APPLIED",
+  "stage": "post"
+ }
+]
