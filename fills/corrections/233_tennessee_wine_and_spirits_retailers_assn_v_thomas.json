@@ -18,5 +18,17 @@
   "reason": "The panel withdrew the linked March 4 opinion and replaced it with an amended opinion on September 5, 2025.",
   "source": "https://cdn.ca9.uscourts.gov/datastore/opinions/2025/09/05/23-16148.pdf at 6",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "233_tennessee_wine_and_spirits_retailers_assn_v_thomas",
+  "id": "user-directed",
+  "decision": "APPLIED",
+  "category": "unverified",
+  "severity": "MINOR",
+  "find": "\\href{https://law.justia.com/cases/federal/appellate-courts/ca9/23-16148/23-16148-2025-03-04.html}{\\textit{Day v. Henry}, 152 F.4th 961 (9th Cir. 2025)}",
+  "replace": "\\href{https://cdn.ca9.uscourts.gov/datastore/opinions/2025/09/05/23-16148.pdf}{\\textit{Day v. Henry} (9th Cir. 2025)}",
+  "reason": "Removed unconfirmed reporter cite; linked the amended opinion. (per Seth Chandler's instruction)",
+  "source": "n/a",
+  "stage": "post"
  }
 ]

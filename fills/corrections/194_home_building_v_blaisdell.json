@@ -32,5 +32,17 @@
   "source": "internal consistency of the brief (subsubsection headings at the lines that follow)",
   "decision": "APPLIED",
   "stage": "post"
+ },
+ {
+  "brief": "194_home_building_v_blaisdell",
+  "id": "user-directed",
+  "decision": "APPLIED",
+  "category": "unverified",
+  "severity": "MINOR",
+  "find": "(\\href{https://www.scotusblog.com/2026/02/scotustoday-for-thursday-february-12/}{SCOTUSblog})",
+  "replace": "(290 U.S.\\ at 448--483 (Sutherland, J., dissenting))",
+  "reason": "Replaced off-point SCOTUSblog link with a cite to the dissent itself. (per Seth Chandler's instruction)",
+  "source": "n/a",
+  "stage": "post"
  }
 ]

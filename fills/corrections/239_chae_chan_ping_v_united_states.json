@@ -28,5 +28,17 @@
   "reason": "The later-in-time rule requires a clear conflict. A later statute that speaks generally and says nothing about the treaty can often be read alongside a specific treaty exemption.",
   "source": "https://supreme.justia.com/cases/federal/us/130/581/ at 600–603; https://supreme.justia.com/cases/federal/us/124/190/ at 194; https://supreme.justia.com/cases/federal/us/288/102/ at 118–120",
   "decision": "APPLIED"
+ },
+ {
+  "brief": "239_chae_chan_ping_v_united_states",
+  "id": "user-directed",
+  "decision": "APPLIED",
+  "category": "unverified",
+  "severity": "MINOR",
+  "find": "what critics call ``a domain where ordinary constitutional rules have never applied''",
+  "replace": "what critics call a domain where ordinary constitutional rules have never applied",
+  "reason": "Removed quotation marks from unsourced phrase. (per Seth Chandler's instruction)",
+  "source": "n/a",
+  "stage": "post"
  }
 ]

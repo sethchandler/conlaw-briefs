@@ -56,5 +56,17 @@
   "source": "official opinion text (preliminary print, 603 U.S. 707), U.S. page 766",
   "decision": "APPLIED",
   "stage": "post"
+ },
+ {
+  "brief": "213_moody_v_netchoice",
+  "id": "user-directed",
+  "decision": "APPLIED",
+  "category": "unverified",
+  "severity": "MINOR",
+  "find": "denied Florida's motion to dismiss in May 2025 and denied cross-motions for summary judgment on June 19, 2026, advancing the case toward trial",
+  "replace": "denied Florida's motion to dismiss in May 2025",
+  "reason": "Deleted unverified June 19, 2026 summary-judgment ruling. (per Seth Chandler's instruction)",
+  "source": "n/a",
+  "stage": "post"
  }
 ]

@@ -34,21 +34,14 @@ The remaining flags were each reviewed: they are quotations correctly drawn from
 - Overstatements: *Schechter* (not the only nondelegation invalidations — *Carter Coal*), *Emilee Carpenter* in *303 Creative*, *Culley v. Marshall* in *Mathews*, *New York v. United States* in *Luther v. Borden*.
 - Pin cites corrected against the official pages (e.g., *McDonald*, *Boumediene*, *Bakke*, *Comstock*, *Thuraissigiam*) and missing pins added (*Moody*, *Trump v. Anderson*, *West Virginia v. EPA*, *Rucho*).
 
-## Still open (for your judgment)
+## Formerly open items: resolved by instruction (Nov. 25, 2026)
 
-- **51_gonzales_v_raich**: Inline Ilya Somin quotation ('represents the broadest assertion of congressional power ...') is a scholarly quotation not checked against the article.
-- **76_lujan_v_defenders_of_wildlife**: Inline Sunstein quotation 'a prominent contemporary version of early twentieth-century substantive due process' (91 Mich. L. Rev. 163) is scholarly; the source PDF could not be downloaded, so it is unverified.
-- **239_chae_chan_ping_v_united_states**: Inline 'a domain where ordinary constitutional rules have never applied' is presented as what 'critics call', with no source. The scholarly origin was not found. Consider removing the quotation marks or adding a citation.
-- **17_brown_v_board_of_education_ii**: Inline 'put the proverbial fox in charge of desegregating the plaintiffs' schoolhouse', attributed to unnamed scholars (Oyez; Cardozo J. Equal Rts. & Soc. Just. article): scholarly language. The Cardozo PDF could not be fetched from this environment, so it is unverified. It is not attributed to Brown II itself.
-- **107_prigg_v_pennsylvania**: Inline '[n]one of Story's three arguments will bear close scrutiny' is attributed to David Currie (scholarship). The Chicago Unbound PDF was not checked.
-- **59_heart_of_atlanta_motel_v_united_states**: Inline scholarly quotation attributed to Charles L. Black Jr. (The Civil Rights Cases are cut off the same bolt of historical cloth as Plessy v. Ferguson): could not locate in an available primary source; probably from Black, Foreword: State Action, Equal Protection, and California's Proposition 14, 81 Harv. L. Rev. 69 (1967), but wording unverified.
-- **129_the_civil_rights_cases**: Inline scholarly quotation attributed to Charles L. Black Jr. (The Civil Rights Cases are cut off the same bolt of historical cloth as Plessy v. Ferguson): could not locate in an available primary source; probably from Black, Foreword: State Action, Equal Protection, and California's Proposition 14, 81 Harv. L. Rev. 69 (1967), but wording unverified.
-- **213_moody_v_netchoice**: Concern: NetChoice v. Uthmeier (N.D. Fla. No. 4:21-cv-220-RH) summary-judgment denial on June 19, 2026. CourtListener RECAP confirms that cross-motions for summary judgment were filed in March-April 2026 before Judge Hinkle, but I could not confirm the date or content of the ruling (or the May 2025 motion-to-dismiss denial). The sentence in Subsequent Developments should be checked against the docket or softened.
-- **104_pierce_v_society_of_sisters**: Local source sources/104.json is truncated at U.S. page 535; page 536 checked through CourtListener instead.
-- **127_tennessee_v_lane**: Inline 'the right result---even though for the wrong reason,' attributed to Robert A. Levy (scholarly/commentary) not verified; not attributed to the Court.
-- **233_tennessee_wine_and_spirits_retailers_assn_v_thomas**: Reporter cite '152 F.4th 961' for the amended Day v. Henry opinion could not be confirmed on CourtListener (no reporter cite listed); the amended opinion itself is real (Sept. 5, 2025).
-- **135_trump_v_cook**: Inline Tarullo quote '[h]istorians will be struck by the superficial nature of the Chief Justice's account' (Brookings): scholarly commentary; brookings.edu is blocked by the proxy, so it could not be checked.
-- **194_home_building_v_blaisdell**: Concern 4: the Sutherland 'slippery slope' dissent bullet cites a 2026 SCOTUSblog 'SCOTUStoday for Thursday, February 12' post, which is an unlikely source for a point about the 1934 dissent. scotusblog.com is blocked by the proxy, so it could not be checked. Consider replacing the link with the official dissent pages (290 U.S. at 448--483).
+At Seth Chandler's direction, every unverified item was removed or revised:
+
+- Unverified scholarly quotations deleted: Ilya Somin (*Raich*), Cass Sunstein (*Lujan*, quoted clause only), the "proverbial fox" (*Brown II*; the verified Brown II phrase "primary responsibility" kept), David Currie (*Prigg*), Charles L. Black Jr. (*Heart of Atlanta*; *The Civil Rights Cases*, quoted clause only), Robert A. Levy (*Tennessee v. Lane*), Daniel Tarullo (*Trump v. Cook*).
+- *Chae Chan Ping*: quotation marks removed from the unsourced phrase "a domain where ordinary constitutional rules have never applied."
+- Unverified non-quotations: the June 19, 2026 summary-judgment ruling in *NetChoice v. Uthmeier* deleted (*Moody*); the unconfirmed reporter cite "152 F.4th 961" for *Day v. Henry* removed and the link pointed to the amended opinion (*Tennessee Wine*); an off-point SCOTUSblog link replaced with a cite to Sutherland's dissent, 290 U.S. at 448–483 (*Blaisdell*).
+- *Pierce v. Society of Sisters*: no change needed (the note concerned the downloaded source file, not the brief).
 
 ## Files
 
