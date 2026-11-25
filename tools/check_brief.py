@@ -46,6 +46,9 @@ def check(stem):
     if "converted: 1" not in q.stdout and "already Group A style" not in q.stdout:
         probs.append("quotation conversion failed: " + q.stdout.strip()[:200])
     run([sys.executable, os.path.join(ROOT, "tools", "add_speakers.py"), out_tex])
+    pc = run([sys.executable, os.path.join(ROOT, "tools", "apply_post_corrections.py"), out_tex])
+    if pc.returncode:
+        probs.append("post correction failed: " + (pc.stderr or pc.stdout).strip()[-300:])
     tex = open(out_tex, encoding="utf-8").read()
 
     secs = re.findall(r"^\\section\{(.+?)\}", tex, re.M)

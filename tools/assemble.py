@@ -137,7 +137,8 @@ def main():
     fills = json.load(open(fills_p, encoding="utf-8"))
     corr_p = os.path.join(os.path.dirname(os.path.abspath(fills_p)), "corrections", os.path.basename(fills_p))
     if os.path.exists(corr_p):
-        fills["_corrections"] = [c for c in json.load(open(corr_p, encoding="utf-8")) if c.get("decision", "").startswith("APPLIED")]
+        fills["_corrections"] = [c for c in json.load(open(corr_p, encoding="utf-8"))
+                                 if c.get("decision", "").startswith("APPLIED") and c.get("stage") != "post"]
     tex, stats, new_chunks, b_secs = build(src_text, fills)
     # sanity: balanced braces / environments, banned strings
     assert tex.count("{") == tex.count("}"), "unbalanced braces"
