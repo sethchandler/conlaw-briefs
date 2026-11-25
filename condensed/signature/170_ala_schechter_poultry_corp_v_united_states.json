@@ -1,0 +1,66 @@
+{
+ "brief": "170_ala_schechter_poultry_corp_v_united_states",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "The delegated power of legislation which has found expression in this code is not canalized within banks",
+   "speaker": "Cardozo, concurring",
+   "phrases": [
+    "delegation running riot"
+   ],
+   "counts": [
+    41
+   ],
+   "score": 41,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Extraordinary conditions may call for extraordinary remedies. But the argument necessarily stops short",
+   "speaker": "Hughes",
+   "phrases": [
+    "Extraordinary conditions do not create or enlarge constitutional power"
+   ],
+   "counts": [
+    23
+   ],
+   "score": 23,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Congress cannot delegate legislative power to the President to exercise an unfettered discretion",
+   "speaker": "Hughes",
+   "phrases": [
+    "unfettered discretion to make whatever laws he thinks may be needed"
+   ],
+   "counts": [
+    9
+   ],
+   "score": 9,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "The Congress is not permitted to abdicate or to transfer to others the essential legislative functions",
+   "speaker": "Hughes",
+   "source": "brief",
+   "reason": "Language repeated from Panama Refining Co. v. Ryan (1935); not scored."
+  },
+  {
+   "rank": 5,
+   "text": "Section 3 of the Recovery Act is without precedent. It supplies no standards for any trade",
+   "speaker": "Hughes",
+   "phrases": [
+    "Section 3 of the Recovery Act is without precedent"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief"
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026. The 'abdicate or to transfer' sentence (69 hits) repeats language from Panama Refining (Jan. 1935), so it was treated as predating stock language and not scored; placed fourth by judgment."
+}

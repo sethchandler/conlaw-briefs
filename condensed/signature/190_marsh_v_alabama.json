@@ -1,0 +1,10 @@
+{"brief": "190_marsh_v_alabama", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Ownership does not always mean absolute dominion. The more an owner, for his advantage, opens up his property", "speaker": "Black", "phrases": ["Ownership does not always mean absolute dominion"], "counts": [55], "score": 55, "source": "brief"},
+  {"rank": 2, "text": "Whether a corporation or a municipality owns or possesses the town, the public in either case has an identical interest", "speaker": "Black", "phrases": ["channels of communication remain free"], "counts": [17], "score": 17, "source": "brief"},
+  {"rank": 3, "text": "When we balance the Constitutional rights of owners of property against those of the people to enjoy freedom", "speaker": "Black", "phrases": ["we remain mindful of the fact that the latter occupy a preferred position"], "counts": [15], "score": 15, "source": "brief"},
+  {"rank": 4, "text": "Many people in the United States live in company-owned towns. These people, just as residents of municipalities", "speaker": "Black", "phrases": ["Many people in the United States live in company-owned towns"], "counts": [6], "score": 6, "source": "brief"},
+  {"rank": 5, "text": "A company-owned town gives rise to a network of property relations", "speaker": "Frankfurter", "phrases": ["a company-owned town is a town"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 6, "text": "The rights of the owner, which the Constitution protects as well as the right of free speech", "speaker": "Reed", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "One search timed out and succeeded on retry after a wait. Reed dissent not searched."}

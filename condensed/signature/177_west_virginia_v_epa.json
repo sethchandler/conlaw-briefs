@@ -1,0 +1,9 @@
+{"brief": "177_west_virginia_v_epa", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "To convince us otherwise, something more than a merely plausible textual basis for the agency action is necessary", "speaker": "Roberts", "phrases": ["something more than a merely plausible textual basis for the agency action is necessary", "practical understanding of legislative intent make us"], "counts": [6, 5], "score": 0, "source": "brief", "reason": "States the major questions doctrine's governing rule: clear congressional authorization required."},
+  {"rank": 2, "text": "But of course almost anything could constitute such a system; shorn of all context, the word is an empty vessel", "speaker": "Roberts", "phrases": ["shorn of all context, the word is an empty vessel"], "counts": [3], "source": "brief", "reason": "Applies the rule to Section 111(d)'s text, the decisive step on the merits."},
+  {"rank": 3, "text": "The current Court is textualist only when being so suits it", "speaker": "Kagan", "phrases": ["get-out-of-text-free cards"], "counts": [9], "source": "brief", "reason": "The dissent's charge that frames the Critique's substantive-canon versus textualism debate."},
+  {"rank": 4, "text": "Capping carbon dioxide emissions at a level that will force a nationwide transition away from the use of coal", "speaker": "Roberts", "phrases": ["A decision of such magnitude and consequence rests with Congress itself"], "counts": [1], "source": "brief", "reason": "Conclusion restating the holding."},
+  {"rank": 5, "text": "When Congress seems slow to solve problems, it may be only natural that those in the Executive Branch", "speaker": "Gorsuch", "phrases": ["pen-and-phone regulations as substitutes for laws"], "counts": [0], "source": "brief", "reason": "Concurrence's rhetorical summary."}
+ ],
+ "notes": "Top count 9 (below 10), so ranked by judgment."}

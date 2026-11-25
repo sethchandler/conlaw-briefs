@@ -1,0 +1,55 @@
+{
+ "brief": "261_tinker_v_des_moines",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "It can hardly be argued that either students or teachers shed their constitutional rights to freedom of speech or expression at the schoolhouse gate",
+   "speaker": "Fortas",
+   "phrases": [
+    "shed their constitutional rights to freedom of speech or expression at the schoolhouse gate"
+   ],
+   "counts": [
+    450
+   ],
+   "score": 450,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "But, in our system, undifferentiated fear or apprehension of disturbance is not enough to overcome the right to freedom of expression",
+   "speaker": "Fortas",
+   "phrases": [
+    "undifferentiated fear or apprehension of disturbance is not enough"
+   ],
+   "counts": [
+    198
+   ],
+   "score": 198,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "In our system, state-operated schools may not be enclaves of totalitarianism. School officials do not possess absolute authority over their students",
+   "speaker": "Fortas",
+   "phrases": [
+    "state-operated schools may not be enclaves of totalitarianism"
+   ],
+   "counts": [
+    50
+   ],
+   "score": 50,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "This case, therefore, wholly without constitutional reasons, in my judgment, subjects all the public schools in the country",
+   "speaker": "Black, dissenting",
+   "phrases": [],
+   "counts": [],
+   "score": 0,
+   "source": "brief"
+  }
+ ],
+ "notes": ""
+}

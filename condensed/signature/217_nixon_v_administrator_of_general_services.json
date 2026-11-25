@@ -1,0 +1,59 @@
+{
+ "brief": "217_nixon_v_administrator_of_general_services",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "The Court, therefore, often has looked beyond mere historical experience and has applied a functional test of the existence of punishment",
+   "speaker": "Brennan",
+   "source": "brief",
+   "phrases": [
+    "viewed in terms of the type and severity of burdens imposed"
+   ],
+   "counts": [
+    144
+   ],
+   "score": 144
+  },
+  {
+   "rank": 2,
+   "text": "Rather, in determining whether the Act disrupts the proper balance between the coordinate branches, the proper inquiry focuses",
+   "speaker": "Brennan",
+   "source": "brief",
+   "phrases": [
+    "prevents the Executive Branch from accomplishing its constitutionally assigned functions"
+   ],
+   "counts": [
+    51
+   ],
+   "score": 51
+  },
+  {
+   "rank": 3,
+   "text": "In short, while the Bill of Attainder Clause serves as an important `bulwark against tyranny,'",
+   "speaker": "Brennan",
+   "source": "brief",
+   "phrases": [
+    "legislating for the universe, or legislating only benefits"
+   ],
+   "counts": [
+    12
+   ],
+   "score": 12
+  },
+  {
+   "rank": 4,
+   "text": "In short, appellant constituted a legitimate class of one, and this provides a basis for Congress' decision",
+   "speaker": "Brennan",
+   "source": "brief",
+   "phrases": [
+    "appellant constituted a legitimate class of one"
+   ],
+   "counts": [
+    5
+   ],
+   "score": 5
+  }
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026."
+}

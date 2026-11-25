@@ -1,0 +1,9 @@
+{"brief": "117_saenz_v_roe", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The right to travel discussed in our cases embraces at least three different components. It protects the right of a citizen of one State to enter and to leave another State", "speaker": "Stevens, for the Court", "phrases": ["right to be treated as a welcome visitor rather than an unfriendly alien"], "counts": [110], "score": 110, "source": "brief"},
+  {"rank": 2, "text": "Congress has no affirmative power to authorize the States to violate the Fourteenth Amendment and is implicitly prohibited from passing legislation", "speaker": "Stevens, for the Court", "phrases": ["Congress has no affirmative power to authorize the States to violate the Fourteenth Amendment"], "counts": [5], "score": 5, "source": "brief"},
+  {"rank": 3, "text": "Citizens of the United States, whether rich or poor, have the right to choose to be citizens of the State wherein they reside.", "speaker": "Stevens, for the Court", "phrases": ["The States, however, do not have any right to select their citizens"], "counts": [4], "score": 4, "source": "brief"},
+  {"rank": 4, "text": "A person is no longer traveling in any sense of the word when he finishes his journey to a State", "speaker": "Rehnquist, dissenting", "phrases": ["no longer traveling in any sense of the word"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 5, "text": "We should also consider whether the Clause should displace, rather than augment, portions of our equal protection", "speaker": "Thomas, dissenting", "source": "brief", "notes": "not searched; rank 1 already led by more than 3x"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026."}

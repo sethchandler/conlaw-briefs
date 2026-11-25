@@ -1,0 +1,66 @@
+{
+ "brief": "144_united_states_v_morrison",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "We accordingly reject the argument that Congress may regulate noneconomic, violent criminal conduct based solely on that conduct's aggregate effect",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "noneconomic, violent criminal conduct based solely on that conduct's aggregate effect"
+   ],
+   "counts": [
+    39
+   ],
+   "score": 39,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Until this Court replaces its existing Commerce Clause jurisprudence with a standard more consistent with the original understanding",
+   "speaker": "Thomas",
+   "phrases": [
+    "appropriating state police powers under the guise of regulating commerce"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "One obvious difference from United States v. Lopez, 514 U.S. 549 (1995), is the mountain of data assembled by Congress",
+   "speaker": "Souter",
+   "phrases": [
+    "mountain of data assembled by Congress"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "If the allegations here are true, no civilized system of justice could fail to provide her a remedy",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "no civilized system of justice could fail to provide her a remedy"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "Since judges cannot change the world, the defect means that, within the bounds of the rational",
+   "speaker": "Breyer",
+   "source": "brief",
+   "reason": "Not searched: rank 1 led every other candidate by more than three to one."
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. 'truly national and what is truly local' comes from Lopez and was not used to score."
+}

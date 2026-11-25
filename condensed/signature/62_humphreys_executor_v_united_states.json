@@ -1,0 +1,9 @@
+{"brief": "62_humphreys_executor_v_united_states", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "[O]ne who holds his office only during the pleasure of another cannot be depended upon to maintain an attitude of independence against the latter's will", "speaker": "Sutherland", "phrases": ["cannot be depended upon to maintain an attitude of independence"], "counts": [43], "score": 43, "source": "brief"},
+  {"rank": 2, "text": "Such a body cannot in any proper sense be characterized as an arm or an eye of the executive", "speaker": "Sutherland", "phrases": ["cannot in any proper sense be characterized as an arm or an eye of the executive"], "counts": [27], "score": 27, "source": "brief"},
+  {"rank": 3, "text": "Whether the power of the President to remove an officer shall prevail over the authority of Congress", "speaker": "Sutherland", "phrases": ["will depend upon the character of the office"], "counts": [22], "score": 22, "source": "brief"},
+  {"rank": 4, "text": "The fundamental necessity of maintaining each of the three general departments of government entirely free", "speaker": "Sutherland", "phrases": ["master in his own house precludes him from imposing his control"], "counts": [20], "score": 20, "source": "brief"},
+  {"rank": 5, "text": "Putting aside dicta, which may be followed if sufficiently persuasive but which are not controlling", "speaker": "Sutherland", "phrases": ["goes far enough to include all purely executive officers"], "counts": [3], "score": 3, "source": "brief"}
+ ],
+ "notes": "All five searched; rank 1 is the second sentence of the brief's 'authority of Congress' quotation, which is the part the 1- and 2-page editions quote."}

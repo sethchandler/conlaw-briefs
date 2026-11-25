@@ -1,0 +1,12 @@
+{
+ "brief": "172_ins_v_chadha",
+ "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "It emerges clearly that the prescription for legislative action in Art. I, §§ 1, 7, represents the Framers' decision", "speaker": "Burger", "phrases": ["single, finely wrought and exhaustively considered, procedure"], "counts": [59], "score": 59, "source": "brief"},
+  {"rank": 2, "text": "In purporting to exercise power defined in Art. I, § 8, cl. 4, to `establish an uniform Rule of Naturalization,'", "speaker": "Burger", "phrases": ["purpose and effect of altering the legal rights, duties, and relations of persons"], "counts": [34], "score": 34, "source": "brief"},
+  {"rank": 3, "text": "Convenience and efficiency are not the primary objectives---or the hallmarks---of democratic government", "speaker": "Burger", "phrases": ["Convenience and efficiency are not the primary objectives"], "counts": [26], "score": 26, "source": "brief"},
+  {"rank": 4, "text": "With all the obvious flaws of delay, untidiness, and potential for abuse", "speaker": "Burger", "phrases": ["we have not yet found a better way to preserve freedom"], "counts": [13], "score": 13, "source": "brief"},
+  {"rank": 5, "text": "Today's decision strikes down in one fell swoop provisions in more laws enacted by Congress", "speaker": "White", "phrases": ["strikes down in one fell swoop provisions in more laws"], "counts": [2], "score": 2, "source": "brief"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026."
+}

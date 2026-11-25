@@ -1,0 +1,53 @@
+{
+ "brief": "204_new_york_times_co_v_united_states",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "I am convinced that the Executive is correct with respect to some of the documents involved",
+   "speaker": "Stewart",
+   "source": "brief",
+   "phrases": [
+    "surely result in direct, immediate, and irreparable damage"
+   ],
+   "counts": [
+    30
+   ],
+   "score": 30
+  },
+  {
+   "rank": 2,
+   "text": "The press was to serve the governed, not the governors",
+   "speaker": "Black",
+   "source": "brief",
+   "phrases": [
+    "bare the secrets of government and inform the people"
+   ],
+   "counts": [
+    23
+   ],
+   "score": 23
+  },
+  {
+   "rank": 3,
+   "text": "Great cases, like hard cases, make bad law. ... With all respect, I consider that the Court has been almost irresponsibly feverish",
+   "speaker": "Harlan",
+   "source": "brief",
+   "phrases": [
+    "almost irresponsibly feverish"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4
+  },
+  {
+   "rank": 4,
+   "text": "Any system of prior restraints of expression comes to this Court bearing a heavy presumption against its constitutional validity",
+   "speaker": "Per curiam (quoting Bantam Books)",
+   "source": "brief",
+   "reason": "Quotes Bantam Books and Keefe; excluded from scoring as pre-existing language."
+  }
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. The per curiam's 'heavy presumption' and 'heavy burden' language quotes Bantam Books (1963) and Keefe (1971), so it was not scored as pre-existing language; Harlan scored by 'almost irresponsibly feverish' (his 'Great cases' line quotes Holmes)."
+}

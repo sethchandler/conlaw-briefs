@@ -1,0 +1,72 @@
+{
+ "brief": "81_mcdonald_v_city_of_chicago",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "In Heller, we held that the Second Amendment protects the right to possess a handgun in the home for the purpose of self-defense",
+   "speaker": "Alito, plurality",
+   "phrases": [
+    "Due Process Clause of the Fourteenth Amendment incorporates the Second Amendment right recognized in Heller"
+   ],
+   "counts": [
+    48
+   ],
+   "score": 48,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "The notion that a constitutional provision that guarantees only `process' before a person is deprived of life",
+   "speaker": "Thomas, concurring",
+   "phrases": [
+    "strains credulity for even the most casual user of words"
+   ],
+   "counts": [
+    15
+   ],
+   "score": 15,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Self-defense is a basic right, recognized by many legal systems from ancient times to the present day",
+   "speaker": "Alito",
+   "phrases": [
+    "Self-defense is a basic right, recognized by many legal systems"
+   ],
+   "counts": [
+    14
+   ],
+   "score": 14,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "The notion that the absence of a coherent theory of the Due Process Clause will somehow curtail judicial caprice",
+   "speaker": "Scalia, concurring",
+   "phrases": [
+    "Indeterminacy means opportunity for courts to impose whatever rule they like"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "In sum, the Framers did not write the Second Amendment in order to protect a private right of armed self-defense",
+   "speaker": "Breyer, dissenting",
+   "phrases": [
+    "Framers did not write the Second Amendment in order to protect a private right of armed self-defense"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026."
+}

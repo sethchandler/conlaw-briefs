@@ -1,0 +1,11 @@
+{
+ "brief": "238_dhs_v_thuraissigiam",
+ "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "For these reasons, an alien in respondent's position has only those rights regarding admission that Congress has provided by statute.", "speaker": "Alito", "phrases": ["only those rights regarding admission that Congress has provided by statute"], "counts": [16], "score": 16, "source": "brief"},
+  {"rank": 2, "text": "Habeas has traditionally been a means to secure release from unlawful detention, but respondent invokes the writ", "speaker": "Alito", "phrases": ["Habeas has traditionally been a means to secure release from unlawful detention", "obtain additional administrative review of his asylum claim"], "counts": [2, 4], "score": 4, "source": "brief"},
+  {"rank": 3, "text": "Today's decision handcuffs the Judiciary's ability to perform its constitutional duty to safeguard individual liberty", "speaker": "Sotomayor", "source": "brief", "reason": "Not searched (rank 1 led by more than 3x); principal dissent, echoed in the Critique, placed ahead of the low-count rank-4 line by judgment."},
+  {"rank": 4, "text": "The relief that a habeas court may order and the collateral consequences of that relief are two entirely different things.", "speaker": "Alito", "phrases": ["the collateral consequences of that relief are two entirely different things"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026."
+}

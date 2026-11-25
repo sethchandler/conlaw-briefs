@@ -1,0 +1,64 @@
+{
+ "brief": "124_students_for_fair_admissions_v_harvard",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Eliminating racial discrimination means eliminating all of it. And the Equal Protection Clause, we have accordingly held, applies `without regard to any differences of race, of color, or of nationality'---it is `universal in [its] application.'",
+   "speaker": "Roberts",
+   "phrases": [
+    "Eliminating racial discrimination means eliminating all of it"
+   ],
+   "counts": [
+    5
+   ],
+   "score": 5,
+   "source": "nominated",
+   "verified_in": "600 U.S. at 206 (PDF page 27 of the preliminary print)",
+   "reason": "The Court's statement of its universal anti-classification principle; the brief quotes only its first sentence, extended here to a full verified passage of 12+ words."
+  },
+  {
+   "rank": 2,
+   "text": "College admissions are zero-sum. A benefit provided to some applicants but not to others necessarily advantages the former group",
+   "speaker": "Roberts",
+   "phrases": [
+    "College admissions are zero-sum"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief",
+   "reason": "States the race-as-a-negative defect central to the holding."
+  },
+  {
+   "rank": 3,
+   "text": "At the same time, nothing prohibits universities from considering an applicant's discussion of how race affected the applicant's life",
+   "speaker": "Roberts",
+   "phrases": [
+    "concretely tied to a quality of character or unique ability"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief",
+   "reason": "The essay safe harbor that defines the holding's scope."
+  },
+  {
+   "rank": 4,
+   "text": "[T]he Court cements a superficial rule of colorblindness as a constitutional principle in an endemically segregated society",
+   "speaker": "Sotomayor",
+   "source": "brief",
+   "reason": "Principal dissent."
+  },
+  {
+   "rank": 5,
+   "text": "With let-them-eat-cake obliviousness, today, the majority pulls the ripcord and announces `colorblindness for all' by legal fiat",
+   "speaker": "Jackson",
+   "source": "brief",
+   "reason": "Second dissent."
+  }
+ ],
+ "notes": "2023 decision: top count 5, below 10; ranked by judgment. Rank 1 extends the brief's one-sentence quotation with the next sentence, verified in the official text."
+}

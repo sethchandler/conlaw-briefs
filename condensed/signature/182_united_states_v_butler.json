@@ -1,0 +1,76 @@
+{
+ "brief": "182_united_states_v_butler",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "One is that courts are concerned only with the power to enact statutes, not with their wisdom. The other is that, while unconstitutional exercise of power by the executive and legislative branches of the government is subject to judicial restraint, the only check upon our own exercise of power is our own sense of self-restraint",
+   "speaker": "Stone, dissenting",
+   "phrases": [
+    "the only check upon our own exercise of power is our own sense of self-restraint",
+    "courts are concerned only with the power to enact statutes, not with their wisdom"
+   ],
+   "counts": [
+    33,
+    6
+   ],
+   "score": 33,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "While, therefore, the power to tax is not unlimited, its confines are set in the clause which confers it",
+   "speaker": "Roberts",
+   "phrases": [
+    "is not limited by the direct grants of legislative power found in the Constitution"
+   ],
+   "counts": [
+    32
+   ],
+   "score": 32,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "When an act of Congress is appropriately challenged in the courts as not conforming to the constitutional mandate",
+   "speaker": "Roberts",
+   "phrases": [
+    "whether the latter squares with the former",
+    "lay the article of the Constitution which is invoked beside the statute"
+   ],
+   "counts": [
+    24,
+    16
+   ],
+   "score": 24,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "The power to confer or withhold unlimited benefits is the power to coerce or destroy",
+   "speaker": "Roberts",
+   "phrases": [
+    "power to confer or withhold unlimited benefits is the power to coerce or destroy"
+   ],
+   "counts": [
+    8
+   ],
+   "score": 8,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "Threat of loss, not hope of gain, is the essence of economic coercion",
+   "speaker": "Stone, dissenting",
+   "phrases": [
+    "Threat of loss, not hope of gain, is the essence of economic coercion"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief"
+  }
+ ],
+ "notes": "Near tie between ranks 1 and 2."
+}

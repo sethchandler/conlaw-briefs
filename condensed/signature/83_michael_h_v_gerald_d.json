@@ -1,0 +1,12 @@
+{
+ "brief": "83_michael_h_v_gerald_d",
+ "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "As we view them, they rest not upon such isolated factors but upon the historic respect", "speaker": "Scalia (plurality)", "phrases": ["traditionally accorded to the relationships that develop within the unitary family"], "counts": [16], "score": 16, "source": "brief"},
+  {"rank": 2, "text": "We refer to the most specific level at which a relevant tradition protecting, or denying protection to, the asserted right can be identified.", "speaker": "Scalia (Footnote 6)", "phrases": ["most specific level at which a relevant tradition", "binds neither by text nor by any particular, identifiable tradition"], "counts": [14, 3], "score": 14, "source": "brief"},
+  {"rank": 3, "text": "The document that the plurality construes today is unfamiliar to me.", "speaker": "Brennan", "phrases": ["stagnant, archaic, hidebound document"], "counts": [5], "score": 5, "source": "brief"},
+  {"rank": 4, "text": "On occasion, the Court has characterized relevant traditions protecting asserted rights at levels of generality", "speaker": "O'Connor", "phrases": ["foreclose the unanticipated by the prior imposition of a single mode of historical analysis"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 5, "text": "Michael eagerly grasped the opportunity to have a relationship with his daughter", "speaker": "White", "source": "brief", "reason": "Not searched; dissent ranked last by judgment."}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. Ranks 1 and 2 nearly tied (16 vs. 14)."
+}

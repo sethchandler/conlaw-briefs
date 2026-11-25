@@ -1,0 +1,70 @@
+{
+ "brief": "99_nixon_v_united_states",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "The conclusion that the use of the word try in the first sentence of the Impeachment Trial Clause lacks sufficient precision to afford any judicially manageable standard",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "lacks sufficient precision to afford any judicially manageable standard"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4,
+   "source": "brief",
+   "reason": "States the holding's core rule: 'try' supplies no judicially manageable standard, fortified by the Clause's three express requirements."
+  },
+  {
+   "rank": 2,
+   "text": "But we conclude, after exercising that delicate responsibility, that the word try in the Impeachment Trial Clause does not provide an identifiable textual limit",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "does not provide an identifiable textual limit on the authority"
+   ],
+   "counts": [
+    8
+   ],
+   "score": 8,
+   "source": "brief",
+   "reason": "The 'identifiable textual limits' line distinguishing Powell v. McCormack, central to the scholarship on when the doctrine applies."
+  },
+  {
+   "rank": 3,
+   "text": "Judicial involvement in impeachment proceedings, even if only for purposes of judicial review, is counterintuitive",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "would eviscerate the important constitutional check"
+   ],
+   "counts": [
+    8
+   ],
+   "score": 8,
+   "source": "brief",
+   "reason": "The separation-of-powers rationale: courts should not police the check on themselves."
+  },
+  {
+   "rank": 4,
+   "text": "If the Senate were to act in a manner seriously threatening the integrity of its results",
+   "speaker": "Souter",
+   "phrases": [
+    "seriously threatening the integrity of its results"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4,
+   "source": "brief",
+   "reason": "The coin-toss reservation the Critique discusses."
+  },
+  {
+   "rank": 5,
+   "text": "Petitioner has not asked the Court to conduct his impeachment trial",
+   "speaker": "White",
+   "source": "brief",
+   "reason": "Leading separate opinion, but not the rule."
+  }
+ ],
+ "notes": "All counts below 10 on CourtListener (Nov. 25, 2026), so ranked by judgment; counts recorded for reference."
+}

@@ -1,0 +1,9 @@
+{"brief": "44_florida_prepaid_v_college_savings_bank", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "We thus held that for Congress to invoke § 5, it must identify conduct transgressing the Fourteenth Amendment's substantive provisions", "speaker": "Rehnquist", "phrases": ["must identify conduct transgressing the Fourteenth Amendment's substantive provisions"], "counts": [22], "score": 22, "source": "brief"},
+  {"rank": 2, "text": "Thus, under the plain terms of the Clause and the clear import of our precedent, a State's infringement of a patent", "speaker": "Rehnquist", "phrases": ["only where the State provides no remedy, or only inadequate remedies", "a State's infringement of a patent, though interfering with a patent owner's right to exclude"], "counts": [4, 2], "score": 4, "source": "brief"},
+  {"rank": 3, "text": "The need for uniformity in the construction of patent law is undoubtedly important, but that is a factor", "speaker": "Rehnquist", "phrases": ["belongs to the Article I patent-power calculus"], "counts": [3], "score": 3, "source": "brief"},
+  {"rank": 4, "text": "The Court's opinion today threatens to read Congress' power to pass prophylactic legislation out of", "speaker": "Stevens", "phrases": ["read Congress' power to pass prophylactic legislation out of"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 5, "text": "Because of this lack, the provisions of the Patent Remedy Act are", "speaker": "Rehnquist", "phrases": [], "counts": [], "score": 0, "source": "brief", "reason": "Not searched: quotes City of Boerne's pre-existing language."}
+ ],
+ "notes": "Top count 22, more than three times every other candidate; ranked by citation count."}

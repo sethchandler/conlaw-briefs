@@ -1,0 +1,9 @@
+{"brief": "134_trump_v_barbara", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "The Citizenship Clause uses jurisdiction in its ordinary sense---referring to the power of the United States to govern those within its territory.", "speaker": "Roberts", "phrases": ["uses jurisdiction in its ordinary sense"], "counts": [1], "score": 1, "source": "brief", "reason": "States the case's rule: 'subject to the jurisdiction' means territorial sovereignty."},
+  {"rank": 2, "text": "Words appearing frequently in the Executive Order---`mother,' `father,' `lawful,' `temporary'---are absent from the Clause.", "speaker": "Roberts", "source": "brief", "reason": "The majority's textual rebuttal of the Order."},
+  {"rank": 3, "text": "The Reconstruction Amendments were an anticaste, antisubordination reset for the Nation", "speaker": "Jackson, concurring", "source": "brief", "reason": "The concurrence that Frost and Rosenbloom, in the Critique's scholarship, urge defenders to build on."},
+  {"rank": 4, "text": "Citizenship, then and now, was the right to have rights", "speaker": "Roberts", "source": "brief", "reason": "Closing line; 'right to have rights' is pre-existing language."},
+  {"rank": 5, "text": "In my view, the Executive Order does not violate the Fourteenth Amendment.", "speaker": "Kavanaugh", "source": "brief", "reason": "Statutory concurrence."}
+ ],
+ "notes": "2026 decision: too recent for citation counts; ranked by judgment."}

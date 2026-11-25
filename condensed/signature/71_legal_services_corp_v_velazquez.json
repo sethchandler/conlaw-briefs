@@ -1,0 +1,9 @@
+{"brief": "71_legal_services_corp_v_velazquez", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Although the LSC program differs from the program at issue in Rosenberger in that its purpose is not to encourage a diversity of views, the salient point is that, like the program in Rosenberger, the LSC program was designed to facilitate private speech, not to promote a governmental message.", "speaker": "Kennedy, for the Court", "phrases": ["designed to facilitate private speech, not to promote a governmental message"], "counts": [17], "score": 17, "source": "brief"},
+  {"rank": 2, "text": "Congress cannot recast a condition on funding as a mere definition of its program in every case, lest the First Amendment be reduced to a simple semantic exercise.", "speaker": "Kennedy, for the Court", "phrases": ["First Amendment be reduced to a simple semantic exercise"], "counts": [14], "score": 14, "source": "brief"},
+  {"rank": 3, "text": "An informed, independent judiciary presumes an informed, independent bar.", "speaker": "Kennedy, for the Court", "phrases": ["informed, independent judiciary presumes an informed, independent bar"], "counts": [11], "score": 11, "source": "brief"},
+  {"rank": 4, "text": "We must be vigilant when Congress imposes rules and conditions which in effect insulate its own laws from legitimate judicial challenge.", "speaker": "Kennedy, for the Court", "phrases": ["insulate its own laws from legitimate judicial challenge"], "counts": [6], "score": 6, "source": "brief"},
+  {"rank": 5, "text": "This has been a very long discussion to make a point that is embarrassingly simple", "speaker": "Scalia, dissenting", "source": "brief", "notes": "not searched"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. Top three are close; ranked by count."}

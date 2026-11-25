@@ -1,0 +1,9 @@
+{"brief": "168_abbott_laboratories_v_gardner", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The problem is best seen in a twofold aspect, requiring us to evaluate both the fitness of the issues for judicial decision", "speaker": "Harlan", "phrases": ["the hardship to the parties of withholding court consideration"], "counts": [1778], "score": 1778, "source": "brief"},
+  {"rank": 2, "text": "judicial review of a final agency action by an aggrieved person will not be cut off unless there is persuasive reason", "speaker": "Harlan", "phrases": ["will not be cut off unless there is persuasive reason to believe that such was the purpose of Congress"], "counts": [204], "score": 204, "source": "brief"},
+  {"rank": 3, "text": "Where the legal issue presented is fit for judicial resolution, and where a regulation requires an immediate and significant change", "speaker": "Harlan", "phrases": ["requires an immediate and significant change in the plaintiffs' conduct of their affairs"], "counts": [92], "score": 92, "source": "brief"},
+  {"rank": 4, "text": "Either they must comply with the every time requirement and incur the costs", "speaker": "Harlan", "source": "brief", "reason": "Not searched: rank 1 led by more than three to one."},
+  {"rank": 5, "text": "Congress did not intend that the regulations at issue in this case might be challenged in gross", "speaker": "Fortas", "source": "brief", "reason": "Not searched."}
+ ],
+ "notes": "Fitness/hardship test leads decisively (1778)."}

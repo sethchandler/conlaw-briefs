@@ -1,0 +1,8 @@
+{"brief": "18_buck_v_bell", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The principle that sustains compulsory vaccination is broad enough to cover cutting the Fallopian tubes. Jacobson v. Massachusetts, 197 U. S. 11. Three generations of imbeciles are enough.", "speaker": "Holmes", "phrases": ["Three generations of imbeciles are enough", "broad enough to cover cutting the Fallopian tubes"], "counts": [35, 16], "score": 35, "source": "brief"},
+  {"rank": 2, "text": "We have seen more than once that the public welfare may call upon the best citizens for their lives.", "speaker": "Holmes", "phrases": ["swamped with incompetence"], "counts": [23], "score": 23, "source": "brief"},
+  {"rank": 3, "text": "It is the usual last resort of constitutional arguments to point out shortcomings of this sort.", "speaker": "Holmes", "phrases": ["usual last resort of constitutional arguments", "does all that is needed when it does all that it can"], "counts": [22, 19], "score": 22, "source": "brief"},
+  {"rank": 4, "text": "There can be no doubt that, so far as procedure is concerned, the rights of the patient are most carefully considered", "speaker": "Holmes", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "No candidate reached three times the others; searching stopped after the main phrases. Rank 1 text is the closing excerpt of the vaccination passage, used in all editions."}

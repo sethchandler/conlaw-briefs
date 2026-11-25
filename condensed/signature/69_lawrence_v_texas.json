@@ -1,0 +1,76 @@
+{
+ "brief": "69_lawrence_v_texas",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "They knew times can blind us to certain truths and later generations can see that laws once thought necessary and proper in fact serve only to oppress",
+   "speaker": "Kennedy",
+   "phrases": [
+    "later generations can see that laws once thought necessary and proper"
+   ],
+   "counts": [
+    36
+   ],
+   "score": 36,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Liberty protects the person from unwarranted government intrusions into a dwelling or other private places",
+   "speaker": "Kennedy",
+   "phrases": [
+    "Liberty presumes an autonomy of self",
+    "both in its spatial and more transcendent dimensions"
+   ],
+   "counts": [
+    20,
+    5
+   ],
+   "score": 20,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Moral disapproval of this group, like a bare desire to harm the group, is an interest that is insufficient",
+   "speaker": "O'Connor",
+   "phrases": [
+    "Moral disapproval of this group, like a bare desire to harm the group",
+    "is an interest that is insufficient to satisfy rational basis review"
+   ],
+   "counts": [
+    5,
+    13
+   ],
+   "score": 13,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "I write separately to note that the law before the Court today is uncommonly silly",
+   "speaker": "Thomas",
+   "phrases": [
+    "If I were a member of the Texas Legislature"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "Today's opinion is the product of a Court, which is the product of a law-profession culture",
+   "speaker": "Scalia",
+   "phrases": [
+    "so-called homosexual agenda"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. 'uncommonly silly' is Justice Stewart's Griswold phrase and was not used to score Thomas's passage."
+}

@@ -1,0 +1,9 @@
+{"brief": "78_marbury_v_madison", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "It is emphatically the province and duty of the Judicial Department to say what the law is", "speaker": "Marshall", "phrases": ["province and duty of the judicial department to say what the law is"], "counts": [946], "score": 946, "source": "brief"},
+  {"rank": 2, "text": "The very essence of civil liberty certainly consists in the right of every individual to claim the protection of the laws", "speaker": "Marshall", "phrases": ["very essence of civil liberty certainly consists in the right of every individual to claim the protection of the laws"], "counts": [171], "score": 171, "source": "brief"},
+  {"rank": 3, "text": "The province of the Court is solely to decide on the rights of individuals, not to enquire how the Executive", "speaker": "Marshall", "phrases": ["Questions, in their nature political"], "counts": [85], "score": 85, "source": "brief"},
+  {"rank": 4, "text": "The Constitution is either a superior, paramount law, unchangeable by ordinary means", "speaker": "Marshall", "phrases": ["superior, paramount law, unchangeable by ordinary means"], "counts": [76], "score": 76, "source": "brief"},
+  {"rank": 5, "text": "The Government of the United States has been emphatically termed a government of laws, and not of men", "speaker": "Marshall", "phrases": ["government of laws, and not of men"], "counts": [751], "score": 0, "source": "brief", "reason": "Excluded: stock phrase predating Marbury (count 751 from Nov. 25, 2026 validation)."}
+ ],
+ "notes": "Rank-1 count from the Nov. 25, 2026 validation; others searched Nov. 25, 2026."}

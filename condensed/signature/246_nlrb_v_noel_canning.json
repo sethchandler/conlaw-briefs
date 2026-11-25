@@ -1,0 +1,8 @@
+{"brief": "246_nlrb_v_noel_canning", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "We hold that, for purposes of the Recess Appointments Clause, the Senate is in session when it says it is", "speaker": "Breyer", "phrases": ["the Senate is in session when it says it is"], "counts": [2], "score": 2, "source": "brief", "reason": "States the dispositive rule that unanimously decided the case."},
+  {"rank": 2, "text": "In sum, we conclude that the phrase `the recess' applies to both intra-session and inter-session recesses", "speaker": "Breyer", "phrases": ["a recess lasting less than 10 days is presumptively too short"], "counts": [2], "score": 2, "source": "brief", "reason": "States the recess-length rule (3-day and 10-day lines)."},
+  {"rank": 3, "text": "We have not previously interpreted the Clause, and, when doing so for the first time in more than 200 years", "speaker": "Breyer", "phrases": ["upset the compromises and working arrangements that the elected branches of Government themselves have reached"], "counts": [3], "score": 3, "source": "brief", "reason": "The historical-practice method that the Critique and Scalia's concurrence treat as central."},
+  {"rank": 4, "text": "The majority justifies those atextual results on an adverse-possession theory of executive authority", "speaker": "Scalia", "source": "brief", "reason": "Principal concurrence in the judgment."}
+ ],
+ "notes": "Top CourtListener count 3 (below 10); ranked by judgment."}

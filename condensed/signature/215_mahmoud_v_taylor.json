@@ -1,0 +1,8 @@
+{"brief": "215_mahmoud_v_taylor", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "When the burden imposed is of the same character as that imposed in Yoder, we need not ask whether the law at issue is neutral or generally applicable before proceeding to strict scrutiny.", "speaker": "Alito", "phrases": ["we need not ask whether the law at issue is neutral or generally applicable before proceeding to strict scrutiny"], "counts": [3], "score": 3, "source": "brief", "reason": "States the case's rule bypassing Smith, the Critique's central concern."},
+  {"rank": 2, "text": "A government burdens the religious exercise of parents when it requires them to submit their children to instruction that poses `a very real threat of undermining'", "speaker": "Alito", "source": "brief", "reason": "States the substantial-burden standard and unconstitutional-condition principle."},
+  {"rank": 3, "text": "When it comes to instruction that would burden the religious exercise of parents, the Board cannot escape its obligations", "speaker": "Alito", "source": "brief", "reason": "Narrow-tailoring holding; 'no de maximis exception'."},
+  {"rank": 4, "text": "Casting aside longstanding precedent, the Court invents a constitutional right to avoid exposure", "speaker": "Sotomayor, dissenting", "source": "brief", "reason": "Principal dissent."}
+ ],
+ "notes": "2025 decision: too recent for citation counts; ranked by judgment."}

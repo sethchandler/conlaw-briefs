@@ -1,0 +1,70 @@
+{
+ "brief": "169_myers_v_united_states",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "The doctrine of the separation of powers was adopted by the convention of 1787, not to promote efficiency but to preclude the exercise of arbitrary power",
+   "speaker": "Brandeis, dissenting",
+   "phrases": [
+    "not to promote efficiency but to preclude the exercise of arbitrary power"
+   ],
+   "counts": [
+    63
+   ],
+   "score": 63,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "The vesting of the executive power in the President was essentially a grant of the power to execute the laws",
+   "speaker": "Taft",
+   "phrases": [
+    "those for whom he can not continue to be responsible",
+    "those for whom he cannot continue to be responsible"
+   ],
+   "counts": [
+    9,
+    14
+   ],
+   "score": 14,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Then there may be duties of a quasi judicial character imposed on executive officers and members of executive tribunals",
+   "speaker": "Taft",
+   "phrases": [
+    "duties of a quasi judicial character imposed on executive officers"
+   ],
+   "counts": [
+    6
+   ],
+   "score": 6,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "Generally, the actual ouster of an officer is executive action; but to prescribe the conditions under which this may be done is legislative",
+   "speaker": "McReynolds, dissenting",
+   "phrases": [
+    "The act of hanging a criminal is executive"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "Our conclusion on the merits, sustained by the arguments before stated, is that article 2 grants to the President the executive power",
+   "speaker": "Taft",
+   "phrases": [],
+   "counts": [],
+   "score": 0,
+   "source": "brief"
+  }
+ ],
+ "notes": ""
+}

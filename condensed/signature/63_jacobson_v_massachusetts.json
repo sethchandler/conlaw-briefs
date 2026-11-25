@@ -1,0 +1,53 @@
+{
+ "brief": "63_jacobson_v_massachusetts",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "But the liberty secured by the Constitution of the United States to every person within its jurisdiction does not import an absolute right",
+   "speaker": "Harlan",
+   "source": "brief",
+   "phrases": [
+    "manifold restraints to which every person is necessarily subject"
+   ],
+   "counts": [
+    43
+   ],
+   "score": 43
+  },
+  {
+   "rank": 2,
+   "text": "Upon the principle of self-defense, of paramount necessity, a community has the right to protect itself against an epidemic",
+   "speaker": "Harlan",
+   "source": "brief",
+   "phrases": [
+    "right to protect itself against an epidemic of disease"
+   ],
+   "counts": [
+    21
+   ],
+   "score": 21
+  },
+  {
+   "rank": 3,
+   "text": "[T]he police power of a State, whether exercised by the legislature or by a local body acting under its authority",
+   "speaker": "Harlan",
+   "source": "brief",
+   "phrases": [
+    "so arbitrary and oppressive in particular cases as to justify the interference of the courts"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4
+  },
+  {
+   "rank": 4,
+   "text": "[I]f a statute purporting to have been enacted to protect the public health, the public morals, or the public safety",
+   "speaker": "Harlan (quoting Mugler)",
+   "source": "brief",
+   "reason": "Quotes Mugler v. Kansas (1887); excluded from scoring as pre-existing language."
+  }
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. The real-or-substantial-relation passage quotes Mugler v. Kansas (1887), so it was not scored (pre-existing stock language) and is ranked last."
+}

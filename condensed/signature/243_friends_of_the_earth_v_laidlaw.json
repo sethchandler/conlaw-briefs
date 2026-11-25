@@ -1,0 +1,8 @@
+{"brief": "243_friends_of_the_earth_v_laidlaw", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "[A] defendant claiming that its voluntary compliance moots a case bears the formidable burden of showing", "speaker": "Ginsburg", "phrases": ["voluntary compliance moots a case bears the formidable burden"], "counts": [97], "score": 97, "source": "brief"},
+  {"rank": 2, "text": "The relevant showing for purposes of Article III standing is not injury to the environment but injury to the plaintiff", "speaker": "Ginsburg", "phrases": ["is not injury to the environment but injury to the plaintiff"], "counts": [69], "score": 69, "source": "brief"},
+  {"rank": 3, "text": "To the extent that they encourage defendants to discontinue current violations and deter them from committing future ones", "speaker": "Ginsburg", "phrases": ["encourage defendants to discontinue current violations and deter them from committing future ones"], "counts": [26], "score": 26, "source": "brief"},
+  {"rank": 4, "text": "By uncritically accepting vague claims of injury, the Court has turned the Article III requirement of injury in fact", "speaker": "Scalia", "phrases": ["place the immense power of suing to enforce the public laws in private hands"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "Rank 1 scored by Laidlaw's own 'formidable burden' wording, not the older 'absolutely clear' standard it quotes."}

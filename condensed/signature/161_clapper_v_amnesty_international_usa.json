@@ -1,0 +1,9 @@
+{"brief": "161_clapper_v_amnesty_international_usa", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "In other words, respondents cannot manufacture standing merely by inflicting harm on themselves based on their fears", "speaker": "Alito", "phrases": ["cannot manufacture standing merely by inflicting harm on themselves"], "counts": [99], "score": 99, "source": "brief"},
+  {"rank": 2, "text": "We decline to abandon our usual reluctance to endorse standing theories that rest on speculation about the decisions of independent actors", "speaker": "Alito", "phrases": ["usual reluctance to endorse standing theories that rest on speculation about the decisions of independent actors", "rest on speculation about the decisions of independent actors"], "counts": [25, 60], "score": 60, "source": "brief"},
+  {"rank": 3, "text": "Our cases do not uniformly require plaintiffs to demonstrate that it is literally certain that the harms they identify", "speaker": "Alito", "phrases": ["literally certain that the harms they identify will come about"], "counts": [34], "score": 34, "source": "brief"},
+  {"rank": 4, "text": "In my view, this harm is not `speculative.' Indeed it is as likely to take place", "speaker": "Breyer", "phrases": ["commonsense inference and ordinary knowledge of human nature"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 5, "text": "Thus, we have repeatedly reiterated that `threatened injury must be", "speaker": "Alito", "phrases": [], "counts": [], "score": 0, "source": "brief", "reason": "Not scored: quotes Whitmore v. Arkansas (1990), stock language that predates the case."}
+ ],
+ "notes": "Ranked by citation count."}

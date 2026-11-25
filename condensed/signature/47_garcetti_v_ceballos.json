@@ -1,0 +1,9 @@
+{"brief": "47_garcetti_v_ceballos", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "We hold that when public employees make statements pursuant to their official duties, the employees are not speaking as citizens", "speaker": "Kennedy", "phrases": ["pursuant to their official duties, the employees are not speaking as citizens"], "counts": [490], "score": 490, "source": "brief"},
+  {"rank": 2, "text": "Restricting speech that owes its existence to a public employee's professional responsibilities does not infringe", "speaker": "Kennedy", "phrases": ["owes its existence to a public employee's professional responsibilities"], "counts": [91], "score": 91, "source": "brief"},
+  {"rank": 3, "text": "The proper inquiry is a practical one. Formal job descriptions often bear little resemblance to the duties", "speaker": "Kennedy", "phrases": ["Formal job descriptions often bear little resemblance to the duties"], "counts": [67], "score": 67, "source": "brief"},
+  {"rank": 4, "text": "As Justice Souter explains, public employees are still citizens while they are in the office", "speaker": "Stevens", "phrases": [], "counts": [], "score": 0, "source": "brief"},
+  {"rank": 5, "text": "Even there, the lesson of Pickering (and the object of most constitutional adjudication) is still to the point", "speaker": "Souter", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Rank 1 exceeded three times every other count after three searches; dissent quotations not searched and ranked below."}

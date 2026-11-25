@@ -1,0 +1,9 @@
+{"brief": "126_taylor_v_united_states", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "Rather, to satisfy the Act's commerce element, it is enough that a defendant knowingly stole or attempted to steal drugs or drug proceeds", "speaker": "Alito", "phrases": ["knowingly stole or attempted to steal drugs or drug proceeds", "as a matter of law, the market for illegal drugs"], "counts": [9, 7], "score": 9, "source": "brief", "reason": "States the case's rule for the Hobbs Act commerce element."},
+  {"rank": 2, "text": "Our holding today is limited to cases in which the defendant targets drug dealers for the purpose of stealing drugs or drug proceeds", "speaker": "Alito", "phrases": ["targets drug dealers for the purpose of stealing drugs or drug proceeds"], "counts": [4], "score": 4, "source": "brief", "reason": "Defines the holding's limit, central to later application."},
+  {"rank": 3, "text": "By applying the substantial-effects test to the criminal prohibition before us, the Court effectively gives Congress a police power", "speaker": "Thomas (dissent)", "source": "brief", "reason": "The dissent's core objection, echoed by the originalist critique."},
+  {"rank": 4, "text": "The case now before us requires no more than that we graft our holding in Raich onto the commerce element", "speaker": "Alito", "phrases": ["graft our holding in Raich onto the commerce element of the Hobbs Act"], "counts": [4], "score": 4, "source": "brief", "reason": "Frames the case as applying Raich."},
+  {"rank": 5, "text": "Under the Court's decision today, the Government can obtain a Hobbs Act conviction without proving", "speaker": "Thomas (dissent)", "source": "brief", "reason": "Restates the dissent's proof objection."}
+ ],
+ "notes": "Top count below 10 (9); ranked by judgment."}

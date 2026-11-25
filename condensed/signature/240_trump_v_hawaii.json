@@ -1,0 +1,8 @@
+{"brief": "240_trump_v_hawaii", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The forcible relocation of U.S. citizens to concentration camps, solely and explicitly on the basis of race, is objectively unlawful", "speaker": "Roberts", "phrases": ["gravely wrong the day it was decided", "has been overruled in the court of history"], "counts": [19, 10], "score": 19, "source": "brief"},
+  {"rank": 2, "text": "By its terms, § 1182(f) exudes deference to the President in every clause. It entrusts to the President", "speaker": "Roberts", "phrases": ["exudes deference to the President in every clause"], "counts": [11], "score": 11, "source": "brief"},
+  {"rank": 3, "text": "By blindly accepting the Government's misguided invitation to sanction a discriminatory policy motivated by animosity", "speaker": "Sotomayor", "phrases": ["redeploys the same dangerous logic underlying Korematsu"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 4, "text": "More fundamentally, plaintiffs and the dissent challenge the entry suspension based on their perception of its effectiveness and wisdom", "speaker": "Roberts", "phrases": ["cannot substitute our own assessment for the Executive's predictive judgments"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "Ranked by citation count; top two close."}

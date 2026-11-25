@@ -1,0 +1,63 @@
+{
+ "brief": "221_craig_v_missouri",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "To emit bills of credit conveys to the mind the idea of issuing paper, intended to circulate through the community",
+   "speaker": "Marshall",
+   "phrases": [
+    "To emit bills of credit conveys to the mind the idea of issuing paper"
+   ],
+   "counts": [
+    8
+   ],
+   "score": 8,
+   "source": "brief",
+   "reason": "States the Court's definition of a bill of credit, the rule of the case."
+  },
+  {
+   "rank": 2,
+   "text": "Is the proposition to be maintained that the Constitution meant to prohibit names, and not things",
+   "speaker": "Marshall",
+   "phrases": [
+    "openly evaded by giving a new name to an old thing"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief",
+   "reason": "Substance-over-label reasoning that decides the application."
+  },
+  {
+   "rank": 3,
+   "text": "The Constitution therefore considers the emission of bills of credit and the enactment of tender laws as distinct operations",
+   "speaker": "Marshall",
+   "phrases": [
+    "emission of bills of credit and the enactment of tender laws as distinct operations"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief",
+   "reason": "Rejects the tender-law limitation."
+  },
+  {
+   "rank": 4,
+   "text": "To constitute a `bill of credit' within the meaning of the Constitution, it must be issued by a state",
+   "speaker": "McLean, dissenting",
+   "phrases": [
+    "its circulation as money enforced by statutory provisions"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief",
+   "reason": "Leading dissent, later echoed in Briscoe."
+  }
+ ],
+ "notes": "Top count (8) below 10, so ranked by judgment."
+}

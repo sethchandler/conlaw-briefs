@@ -1,0 +1,12 @@
+{
+ "brief": "70_learning_resources_v_trump",
+ "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "Based on two words separated by 16 others in Section 1702(a)(1)(B) of IEEPA", "speaker": "Roberts", "phrases": ["Those words cannot bear such weight"], "counts": [0], "score": 0, "source": "brief", "reason": "States the six-Justice statutory holding that IEEPA's 'regulate ... importation' does not authorize tariffs."},
+  {"rank": 2, "text": "There is no major questions exception to the major questions doctrine.", "speaker": "Roberts (plurality)", "phrases": ["no major questions exception to the major questions doctrine"], "counts": [2], "score": 2, "source": "brief", "reason": "The plurality's signature major-questions line, central to the Critique's 'canon war' discussion."},
+  {"rank": 3, "text": "For all those reasons, straight-up statutory construction resolves this case for me", "speaker": "Kagan", "source": "brief", "reason": "Kagan's rejection of the major-questions doctrine, stressed by Levin in the Critique."},
+  {"rank": 4, "text": "The major questions doctrine is not `anti-administrative state.' It is pro-Congress.", "speaker": "Gorsuch", "source": "brief", "reason": "Gorsuch's defense of the doctrine as a clear-statement rule."},
+  {"rank": 5, "text": "Both Clauses forbid Congress from delegating core legislative power", "speaker": "Thomas", "source": "brief", "reason": "Thomas's originalist nondelegation theory."}
+ ],
+ "notes": "2026 decision: top CourtListener count 2 (below 10); ranked by judgment. Search for 'Those words cannot bear such weight' timed out; not retried because the judgment path applies regardless."
+}

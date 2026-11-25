@@ -1,0 +1,9 @@
+{"brief": "135_trump_v_cook", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "At minimum, Cook was entitled to some explanation of the evidence at issue, some avenue for a response, and a deadline", "speaker": "Roberts", "phrases": ["appearance of independence is key to the Federal Reserve's design"], "counts": [0], "score": 0, "source": "brief", "reason": "States the dispositive notice-and-response rule on which the stay was denied."},
+  {"rank": 2, "text": "Not only the fact of independence but also the appearance of independence is key to the Federal Reserve's design", "speaker": "Roberts", "source": "brief", "reason": "The passage on Fed independence that the Critique's commentators treat as central and set against Slaughter."},
+  {"rank": 3, "text": "To accept any one of those arguments would in effect transform the Federal Reserve's for-cause protection into at-will employment", "speaker": "Roberts", "source": "brief", "reason": "Frames the rejection of the Government's threshold arguments on reviewability and the meaning of cause."},
+  {"rank": 4, "text": "Even temporary uncertainty about the status of the Federal Reserve could spark political upheaval", "speaker": "Kavanaugh", "source": "brief", "reason": "Main concurrence's justification for settling the Fed's constitutional status."},
+  {"rank": 5, "text": "Although the Court expresses concern that the President removed a Board member for the first time", "speaker": "Thomas", "source": "brief", "reason": "Principal dissent's rhetorical counterpoint."}
+ ],
+ "notes": "2026 decision: a test search for the best-known phrase returned 0 opinions, so ranked by judgment."}

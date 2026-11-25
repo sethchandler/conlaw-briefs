@@ -1,0 +1,9 @@
+{"brief": "72_lemon_v_kurtzman", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "First, the statute must have a secular legislative purpose; second, its principal or primary effect must be one that neither advances nor inhibits religion", "speaker": "Burger", "phrases": ["principal or primary effect must be one that neither advances nor inhibits religion"], "counts": [518], "score": 518, "source": "brief"},
+  {"rank": 2, "text": "Judicial caveats against entanglement must recognize that the line of separation, far from being a", "speaker": "Burger", "phrases": ["blurred, indistinct, and variable barrier"], "counts": [147], "score": 147, "source": "brief"},
+  {"rank": 3, "text": "A comprehensive, discriminating, and continuing state surveillance will inevitably be required to ensure", "speaker": "Burger", "phrases": ["comprehensive, discriminating, and continuing state surveillance"], "counts": [134], "score": 134, "source": "brief"},
+  {"rank": 4, "text": "The Court thus creates an insoluble paradox for the State and the parochial schools", "speaker": "White", "phrases": ["insoluble paradox for the State and the parochial schools"], "counts": [5], "score": 5, "source": "brief"},
+  {"rank": 5, "text": "The surveillance or supervision of the States needed to police grants involved in these three cases", "speaker": "Douglas", "phrases": ["puts a public investigator into every classroom"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "Ranked by citation count; the three-part test leads by more than three to one."}

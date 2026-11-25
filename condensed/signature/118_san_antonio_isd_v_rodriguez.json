@@ -1,0 +1,9 @@
+{"brief": "118_san_antonio_isd_v_rodriguez", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The system of alleged discrimination and the class it defines have none of the traditional indicia of suspectness", "speaker": "Powell", "phrases": ["traditional indicia of suspectness", "position of political powerlessness as to command extraordinary protection"], "counts": [80, 288], "score": 288, "source": "brief"},
+  {"rank": 2, "text": "It is not the province of this Court to create substantive constitutional rights in the name of guaranteeing equal protection", "speaker": "Powell", "phrases": ["explicitly or implicitly guaranteed by the Constitution", "It is not the province of this Court to create substantive constitutional rights"], "counts": [226, 25], "score": 226, "source": "brief"},
+  {"rank": 3, "text": "Education, of course, is not among the rights afforded explicit protection under our Federal Constitution", "speaker": "Powell", "phrases": ["Education, of course, is not among the rights afforded explicit protection"], "counts": [36], "score": 36, "source": "brief"},
+  {"rank": 4, "text": "The Court apparently seeks to establish today that equal protection cases fall into one of two neat categories", "speaker": "Marshall", "phrases": ["applied a spectrum of standards in reviewing discrimination"], "counts": [6], "score": 6, "source": "brief"},
+  {"rank": 5, "text": "The method of financing public schools in Texas, as in almost every other State", "speaker": "Stewart", "source": "brief", "reason": "Not searched."}
+ ],
+ "notes": "Ranked by citation count."}

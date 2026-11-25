@@ -1,0 +1,12 @@
+{
+ "brief": "100_nlrb_v_jones_and_laughlin_steel_corp",
+ "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Although activities may be intrastate in character when separately considered, if they have such a close and substantial relation to interstate commerce", "speaker": "Hughes", "phrases": ["close and substantial relation to interstate commerce that their control is essential or appropriate"], "counts": [52], "score": 52, "source": "brief"},
+  {"rank": 2, "text": "The authority of the federal government may not be pushed to such an extreme as to destroy the distinction", "speaker": "Hughes", "phrases": ["distinction between what is national and what is local in the activities of commerce"], "counts": [33], "score": 33, "source": "brief"},
+  {"rank": 3, "text": "We have often said that interstate commerce itself is a practical conception.", "speaker": "Hughes", "phrases": ["interferences with that commerce must be appraised by a judgment that does not ignore actual experience"], "counts": [8], "score": 8, "source": "brief"},
+  {"rank": 4, "text": "In view of respondent's far-flung activities, it is idle to say that the effect would be indirect or remote.", "speaker": "Hughes", "phrases": ["deal with the question of direct and indirect effects in an intellectual vacuum", "shut our eyes to the plainest facts of our national life"], "counts": [1, 3], "score": 3, "source": "brief"},
+  {"rank": 5, "text": "The things inhibited by the Labor Act relate to the management of a manufacturing plant", "speaker": "McReynolds", "source": "brief", "reason": "Not searched; dissent ranked last by judgment."}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026."
+}

@@ -1,0 +1,74 @@
+{
+ "brief": "11_bmw_v_gore",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Elementary notions of fairness enshrined in our constitutional jurisprudence dictate that a person receive fair notice",
+   "speaker": "Stevens",
+   "phrases": [
+    "notions of fairness enshrined in our constitutional jurisprudence",
+    "three guideposts, each of which indicates that BMW"
+   ],
+   "counts": [
+    143,
+    4
+   ],
+   "score": 143,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Punitive damages may properly be imposed to further a State's legitimate interests in punishing unlawful conduct",
+   "speaker": "Stevens",
+   "phrases": [
+    "enter the zone of arbitrariness that violates the Due Process Clause"
+   ],
+   "counts": [
+    61
+   ],
+   "score": 61,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "In most cases, the ratio will be within a constitutionally acceptable range, and remittitur will not be justified",
+   "speaker": "Stevens",
+   "phrases": [
+    "breathtaking 500 to 1"
+   ],
+   "counts": [
+    49
+   ],
+   "score": 49,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "I do not regard the Fourteenth Amendment's Due Process Clause as a secret repository",
+   "speaker": "Scalia",
+   "phrases": [
+    "secret repository of substantive guarantees against"
+   ],
+   "counts": [
+    8
+   ],
+   "score": 8,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "What is the Court's measure of too big? Not a cap of the kind a legislature could order",
+   "speaker": "Ginsburg",
+   "phrases": [
+    "amount at which five Members of the Court bridle"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026."
+}

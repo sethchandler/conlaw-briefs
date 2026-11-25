@@ -1,0 +1,9 @@
+{"brief": "07_ashcroft_v_free_speech_coalition", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "In contrast to the speech in Ferber, speech that itself is the record of sexual abuse, the CPPA prohibits speech that records no crime and creates no victims by its production", "speaker": "Kennedy", "phrases": ["records no crime and creates no victims"], "counts": [31], "score": 31, "source": "brief"},
+  {"rank": 2, "text": "The Government may not suppress lawful speech as the means to suppress unlawful speech", "speaker": "Kennedy", "phrases": ["may not suppress lawful speech as the means to suppress unlawful speech", "Protected speech does not become unprotected merely because it resembles"], "counts": [31, 28], "score": 31, "source": "brief"},
+  {"rank": 3, "text": "First Amendment freedoms are most in danger when the government seeks to control thought or to justify its laws for that impermissible end", "speaker": "Kennedy", "phrases": ["The right to think is the beginning of freedom"], "counts": [24], "score": 24, "source": "brief"},
+  {"rank": 4, "text": "While this speculative interest cannot support the broad reach of the CPPA, technology may evolve to the point", "speaker": "Thomas", "phrases": ["technology may evolve to the point where it becomes impossible to enforce"], "counts": [7], "score": 7, "source": "brief"},
+  {"rank": 5, "text": "The aim of ensuring the enforceability of our Nation's child pornography laws is a compelling one", "speaker": "Rehnquist", "phrases": ["virtually indistinguishable from real children engaged in sexually explicit conduct"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "Ranks 1 and 2 tied at 31; the production-harm rule ranked first as the case's holding line. No candidate led by 3x."}

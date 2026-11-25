@@ -1,0 +1,9 @@
+{"brief": "194_home_building_v_blaisdell", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "is not an absolute one, and is not to be read with literal exactness, like a mathematical formula", "speaker": "Hughes", "phrases": ["is not to be read with literal exactness, like a mathematical formula"], "counts": [125], "score": 125, "source": "brief"},
+  {"rank": 2, "text": "Emergency does not create power. Emergency does not increase granted power or remove or diminish the restrictions", "speaker": "Hughes", "phrases": ["Emergency does not create power"], "counts": [73], "score": 73, "source": "brief"},
+  {"rank": 3, "text": "The reserved power cannot be construed so as to destroy the limitation, nor is the limitation to be construed", "speaker": "Hughes", "phrases": ["The reserved power cannot be construed so as to destroy the limitation"], "counts": [33], "score": 33, "source": "brief"},
+  {"rank": 4, "text": "If by the statement that what the Constitution meant at the time of its adoption it means to-day", "speaker": "Hughes", "phrases": ["the statement carries its own refutation"], "counts": [22], "score": 22, "source": "brief"},
+  {"rank": 5, "text": "The only legitimate inquiry we can make is whether it is constitutional", "speaker": "Sutherland (dissent)", "phrases": ["when they pinch, as well as when they comfort"], "counts": [20], "score": 20, "source": "brief"}
+ ],
+ "notes": "Rank 1 leads (125 vs 73)."}

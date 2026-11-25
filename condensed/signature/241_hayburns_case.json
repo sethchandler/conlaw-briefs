@@ -1,0 +1,8 @@
+{"brief": "241_hayburns_case", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "That by the Constitution of the United States, the government thereof is divided into three distinct and independent branches", "speaker": "New York Circuit Court (Jay, C.J., Cushing, J., Duane, D.J.)", "phrases": ["any duties but such as are properly judicial, and to be performed in a judicial manner"], "counts": [39], "score": 39, "source": "brief"},
+  {"rank": 2, "text": "Such revision and control we deemed radically inconsistent with the independence of that judicial power which is vested in the courts", "speaker": "Pennsylvania Circuit Court (Wilson, J., Blair, J., Peters, D.J.)", "phrases": ["radically inconsistent with the independence of that judicial power"], "counts": [15], "score": 15, "source": "brief"},
+  {"rank": 3, "text": "And we beg leave to add, with all due deference, that no decision of any court of the United States can, under any circumstances", "speaker": "North Carolina Circuit Court (Iredell, J., Sitgreaves, D.J.)", "phrases": ["liable to a reversion, or even suspension, by the Legislature itself"], "counts": [5], "score": 5, "source": "brief"},
+  {"rank": 4, "text": "But the court being divided in opinion on that question, the motion, made ex officio, was not allowed", "speaker": "Reporter's entry", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. Rank 4 (procedural entry) not searched."}

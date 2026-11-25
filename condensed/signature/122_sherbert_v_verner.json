@@ -1,0 +1,9 @@
+{"brief": "122_sherbert_v_verner", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The ruling forces her to choose between following the precepts of her religion and forfeiting benefits", "speaker": "Brennan", "phrases": ["same kind of burden upon the free exercise of religion as would a fine", "choose between following the precepts of her religion and forfeiting benefits"], "counts": [75, 136], "score": 136, "source": "brief"},
+  {"rank": 2, "text": "It is too late in the day to doubt that the liberties of religion and expression may be infringed", "speaker": "Brennan", "phrases": ["too late in the day to doubt that the liberties of religion and expression"], "counts": [69], "score": 69, "source": "brief"},
+  {"rank": 3, "text": "It is basic that no showing merely of a rational relationship to some colorable state interest would suffice", "speaker": "Brennan", "phrases": ["no showing merely of a rational relationship to some colorable state interest"], "counts": [53], "score": 53, "source": "brief"},
+  {"rank": 4, "text": "And I think that the guarantee of religious liberty embodied in the Free Exercise Clause affirmatively requires", "speaker": "Stewart", "phrases": ["atmosphere of hospitality and accommodation to individual belief or disbelief"], "counts": [3], "score": 3, "source": "brief"},
+  {"rank": 5, "text": "The State, in other words, must single out for financial assistance those whose behavior is religiously motivated", "speaker": "Harlan", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "The 'gravest abuses' language quotes Thomas v. Collins (stock), so rank 3 was scored by Brennan's own phrase. Harlan dissent not searched."}

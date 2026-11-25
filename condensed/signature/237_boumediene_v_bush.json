@@ -1,0 +1,59 @@
+{
+ "brief": "237_boumediene_v_bush",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "To hold the political branches have the power to switch the Constitution on or off at will is quite another",
+   "speaker": "Kennedy",
+   "phrases": [
+    "switch the Constitution on or off at will"
+   ],
+   "counts": [
+    21
+   ],
+   "score": 21,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "However, security subsists, too, in fidelity to freedom's first principles, chief among them being freedom from arbitrary and unlawful restraint",
+   "speaker": "Kennedy",
+   "phrases": [
+    "security subsists, too, in fidelity to freedom's first principles"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Today, for the first time in our Nation's history, the Court confers a constitutional right to habeas corpus on alien enemies",
+   "speaker": "Scalia",
+   "phrases": [
+    "The Nation will live to regret what the Court has done today"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "Not the rule of law, unless by that is meant the rule of lawyers",
+   "speaker": "Roberts",
+   "phrases": [
+    "unless by that is meant the rule of lawyers"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. Ranks 3 and 4 tied at 1; Scalia's principal originalist dissent placed third."
+}

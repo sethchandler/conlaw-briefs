@@ -1,0 +1,9 @@
+{"brief": "163_hein_v_freedom_from_religion_foundation", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "It is a necessary concomitant of the doctrine of stare decisis that a precedent is not always expanded to the limit of its logic.", "speaker": "Alito (plurality)", "phrases": ["We leave Flast as we found it", "a precedent is not always expanded to the limit of its logic"], "counts": [11, 6], "score": 11, "source": "brief"},
+  {"rank": 2, "text": "In light of the size of the federal budget, it is a complete fiction to argue that an unconstitutional federal expenditure causes an individual federal taxpayer any measurable economic harm.", "speaker": "Alito (plurality)", "phrases": ["cast in the role of general complaint bureaus"], "counts": [6], "score": 6, "source": "brief"},
+  {"rank": 3, "text": "If this Court is to decide cases by rule of law rather than show of hands, we must surrender to logic and choose sides", "speaker": "Scalia, concurring in the judgment", "phrases": ["decide cases by rule of law rather than show of hands"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 4, "text": "It must be remembered that, even where parties have no standing to sue", "speaker": "Kennedy", "source": "brief", "reason": "Not searched."},
+  {"rank": 5, "text": "Here, the controlling, plurality opinion declares that Flast does not apply", "speaker": "Souter, dissenting", "source": "brief", "reason": "Not searched."}
+ ],
+ "notes": "Rank 1 scored on 'We leave Flast as we found it' (11)."}

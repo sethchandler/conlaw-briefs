@@ -1,0 +1,61 @@
+{
+ "brief": "250_us_term_limits_v_thornton",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Federalism was our Nation's own discovery. The Framers split the atom of sovereignty",
+   "speaker": "Kennedy",
+   "phrases": [
+    "The Framers split the atom of sovereignty"
+   ],
+   "counts": [
+    26
+   ],
+   "score": 26,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "We are, however, firmly convinced that allowing the several States to adopt term limits for congressional service would effect a fundamental change",
+   "speaker": "Stevens",
+   "phrases": [
+    "would effect a fundamental change in the constitutional framework"
+   ],
+   "counts": [
+    7
+   ],
+   "score": 7,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Contrary to petitioners' assertions, the power to add qualifications is not part of the original powers of sovereignty",
+   "speaker": "Stevens",
+   "phrases": [
+    "the power to add qualifications is not part of the original powers of sovereignty",
+    "that Amendment could only reserve that which existed before"
+   ],
+   "counts": [
+    3,
+    2
+   ],
+   "score": 3,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "Nothing in the Constitution deprives the people of each State of the power to prescribe eligibility requirements",
+   "speaker": "Thomas",
+   "phrases": [
+    "where the Constitution is silent, it raises no bar to action by the States"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. Story's 'No state can say, that it has reserved, what it never possessed' (11) predates the case and was not used to score."
+}

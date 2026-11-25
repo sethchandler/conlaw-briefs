@@ -1,0 +1,63 @@
+{
+ "brief": "178_cfpb_v_community_financial_services_assn",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Under the Appropriations Clause, an appropriation is simply a law that authorizes expenditures from a specified source of public money for designated purposes",
+   "speaker": "Thomas",
+   "phrases": [
+    "an appropriation is simply a law that authorizes expenditures"
+   ],
+   "counts": [
+    8
+   ],
+   "score": 8,
+   "source": "brief",
+   "reason": "States the Court's source-and-purpose rule in its most compact form."
+  },
+  {
+   "rank": 2,
+   "text": "Based on the Constitution's text, the history against which that text was enacted, and congressional practice immediately following ratification",
+   "speaker": "Thomas",
+   "phrases": [
+    "need only identify a source of public funds and authorize the expenditure"
+   ],
+   "counts": [
+    5
+   ],
+   "score": 5,
+   "source": "brief",
+   "reason": "Restates the holding with its textual-historical method."
+  },
+  {
+   "rank": 3,
+   "text": "Unfortunately, today's decision turns the Appropriations Clause into a minor vestige",
+   "speaker": "Alito",
+   "phrases": [
+    "financial autonomy that a Stuart king would envy"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief",
+   "reason": "The dissent the Critique's leading objection echoes."
+  },
+  {
+   "rank": 4,
+   "text": "Whether or not the CFPB's mechanism has an exact replica, its essentials are nothing new",
+   "speaker": "Kagan",
+   "source": "brief",
+   "reason": "Concurrence on post-ratification practice."
+  },
+  {
+   "rank": 5,
+   "text": "When the Constitution's text does not provide a limit to a coordinate branch's power, we should not lightly assume",
+   "speaker": "Jackson",
+   "source": "brief",
+   "reason": "Concurrence urging restraint."
+  }
+ ],
+ "notes": "2024 decision: CourtListener counts (Nov. 25, 2026) below 10 (top 8), so ranked by judgment."
+}

@@ -1,0 +1,8 @@
+{"brief": "229_united_states_steel_corp_v_multistate_tax_commission", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "But the test is whether the Compact enhances state power quoad the National Government.", "speaker": "Powell", "phrases": ["whether the Compact enhances state power quoad the National Government"], "counts": [9], "score": 9, "source": "brief", "reason": "States the case's governing test and its application."},
+  {"rank": 2, "text": "Read literally, the Compact Clause would require the States to obtain congressional approval before entering into any agreement among themselves", "speaker": "Powell", "phrases": ["irrespective of form, subject, duration, or interest to the United States"], "counts": [6], "score": 6, "source": "brief", "reason": "Rejects the literal reading, the premise of the functional test."},
+  {"rank": 3, "text": "The Compact Clause, however, is directed to joint action by more than one State.", "speaker": "White, dissenting", "source": "brief", "reason": "The dissent the Critique's originalist objection echoes."},
+  {"rank": 4, "text": "The Clause reaches both `agreements' and `compacts,' the formal as well as the informal.", "speaker": "Powell", "phrases": ["The relevant inquiry must be one of impact on our federal structure"], "counts": [3], "score": 3, "source": "brief", "reason": "Functional framing."}
+ ],
+ "notes": "Top count below 10; ranked by judgment."}

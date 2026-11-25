@@ -1,0 +1,8 @@
+{"brief": "245_medellin_v_texas", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "In sum, while treaties `may comprise international commitments . . . they are not domestic law unless Congress has either enacted implementing statutes", "speaker": "Roberts", "phrases": ["they are not domestic law unless Congress has either enacted implementing statutes"], "counts": [23], "score": 23, "source": "brief"},
+  {"rank": 2, "text": "The President has an array of political and diplomatic means available to enforce international obligations", "speaker": "Roberts", "phrases": ["unilaterally converting a non-self-executing treaty into a self-executing one", "responsibility for transforming an international obligation arising from a non-self-executing treaty"], "counts": [4, 5], "score": 5, "source": "brief"},
+  {"rank": 3, "text": "When the President asserts the power to `enforce' a non-self-executing treaty by unilaterally creating domestic law", "speaker": "Roberts", "phrases": ["acts in conflict with the implicit understanding of the ratifying Senate"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 4, "text": "The majority reaches a different conclusion because it looks for the wrong thing (explicit textual expression about self-execution)", "speaker": "Breyer", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Rank 1 led by more than 4x. The rank-1 sentence quotes an earlier circuit formulation, so a few of its 23 citing opinions may predate 2008; it remains the passage courts quote Medellin for. Breyer not searched."}

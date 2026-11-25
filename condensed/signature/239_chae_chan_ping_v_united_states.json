@@ -1,0 +1,8 @@
+{"brief": "239_chae_chan_ping_v_united_states", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "For local interests the several states of the Union exist, but for national purposes, embracing our relations with foreign nations, we are but one people, one nation, one power.", "speaker": "Field, for the Court", "phrases": ["we are but one people, one nation, one power"], "counts": [27], "score": 27, "source": "brief"},
+  {"rank": 2, "text": "By the constitution, laws made in pursuance thereof, and treaties made under the authority of the United States, are both declared to be the supreme law of the land", "speaker": "Field, for the Court", "phrases": ["the last expression of the sovereign will must control"], "counts": [10], "score": 10, "source": "brief"},
+  {"rank": 3, "text": "That the government of the United States, through the action of the legislative department, can exclude aliens from its territory is a proposition which we do not think open to controversy.", "speaker": "Field, for the Court", "phrases": ["can exclude aliens from its territory is a proposition which we do not think open to controversy", "Jurisdiction over its own territory to that extent is an incident of every independent nation"], "counts": [9, 7], "score": 9, "source": "brief"},
+  {"rank": 4, "text": "The power of exclusion of foreigners being an incident of sovereignty belonging to the government of the United States", "speaker": "Field, for the Court", "phrases": ["cannot be granted away or restrained on behalf of anyone"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026; one search returned HTTP 502 and succeeded on retry."}

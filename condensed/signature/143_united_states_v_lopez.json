@@ -1,0 +1,72 @@
+{
+ "brief": "143_united_states_v_lopez",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "To uphold the Government's contentions here, we would have to pile inference upon inference",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "pile inference upon inference"
+   ],
+   "counts": [
+    271
+   ],
+   "score": 271,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Section 922(q) is a criminal statute that by its terms has nothing to do with `commerce' or any sort of economic enterprise",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "essential part of a larger regulation of economic activity"
+   ],
+   "counts": [
+    184
+   ],
+   "score": 184,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Were the Federal Government to take over the regulation of entire areas of traditional state concern",
+   "speaker": "Kennedy, concurring",
+   "phrases": [
+    "boundaries between the spheres of federal and state authority would blur"
+   ],
+   "counts": [
+    30
+   ],
+   "score": 30,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "Upholding this legislation would do no more than simply recognize that Congress had a `rational basis'",
+   "speaker": "Breyer, dissenting",
+   "phrases": [
+    "significant connection between guns in or near schools"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "Put simply, much if not all of Art. I, \u00a7 8 (including portions of the Commerce Clause itself) would be surplusage",
+   "speaker": "Thomas, concurring",
+   "phrases": [
+    "An interpretation of cl. 3 that makes the rest of \u00a7 8 superfluous"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026."
+}

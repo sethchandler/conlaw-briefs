@@ -1,0 +1,8 @@
+{"brief": "104_pierce_v_society_of_sisters", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Under the doctrine of Meyer v. Nebraska, 262 U. S. 390, we think it entirely plain that the Act of 1922 unreasonably interferes with the liberty of parents and guardians", "speaker": "McReynolds, J.", "phrases": ["liberty of parents and guardians to direct the upbringing and education of children under their control"], "counts": [161], "score": 161, "source": "brief"},
+  {"rank": 2, "text": "The fundamental theory of liberty upon which all governments in this Union repose excludes any general power of the State to standardize its children", "speaker": "McReynolds, J.", "phrases": ["The child is not the mere creature of the State", "standardize its children by forcing them to accept instruction from public teachers only"], "counts": [106, 67], "score": 106, "source": "brief"},
+  {"rank": 3, "text": "No question is raised concerning the power of the State reasonably to regulate all schools, to inspect, supervise and examine them", "speaker": "McReynolds, J.", "phrases": ["power of the State reasonably to regulate all schools, to inspect, supervise and examine them"], "counts": [45], "score": 45, "source": "brief"},
+  {"rank": 4, "text": "Plaintiffs asked protection against arbitrary, unreasonable and unlawful interference with their patrons", "speaker": "McReynolds, J.", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. Rank 4 (standing passage) not searched after the parental-liberty passages clearly led."}

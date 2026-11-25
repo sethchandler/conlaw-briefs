@@ -1,0 +1,9 @@
+{"brief": "166_ex_parte_mccardle", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Without jurisdiction, the court cannot proceed at all in any cause. Jurisdiction is power to declare the law", "speaker": "Chase", "phrases": ["Jurisdiction is power to declare the law, and when it ceases to exist"], "counts": [492], "score": 492, "source": "brief"},
+  {"rank": 2, "text": "We are not at liberty to inquire into the motives of the legislature. We can only examine into its power under the Constitution", "speaker": "Chase", "phrases": ["We are not at liberty to inquire into the motives of the legislature"], "counts": [15], "score": 15, "source": "brief"},
+  {"rank": 3, "text": "Counsel seem to have supposed, if effect be given to the repealing act in question, that the whole appellate power of the court", "speaker": "Chase", "phrases": [], "counts": [], "score": 0, "source": "brief"},
+  {"rank": 4, "text": "It is quite true, as was argued by the counsel for the petitioner, that the appellate jurisdiction of this court is not derived from acts of Congress", "speaker": "Chase", "phrases": [], "counts": [], "score": 0, "source": "brief"},
+  {"rank": 5, "text": "It is quite clear, therefore, that this court cannot proceed to pronounce judgment in this case", "speaker": "Chase", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Rank 1 led by more than 30x after two searches, so searching stopped; ranks 3-5 ordered by judgment (rank 3 states the narrow reading the critique stresses)."}

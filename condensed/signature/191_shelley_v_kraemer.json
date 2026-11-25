@@ -1,0 +1,66 @@
+{
+ "brief": "191_shelley_v_kraemer",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "That Amendment erects no shield against merely private conduct, however discriminatory or wrongful",
+   "speaker": "Vinson",
+   "source": "brief",
+   "phrases": [
+    "erects no shield against merely private conduct"
+   ],
+   "counts": [
+    209
+   ],
+   "score": 209
+  },
+  {
+   "rank": 2,
+   "text": "It is clear that, but for the active intervention of the state courts, supported by the full panoply of state power",
+   "speaker": "Vinson",
+   "source": "brief",
+   "phrases": [
+    "full panoply of state power"
+   ],
+   "counts": [
+    37
+   ],
+   "score": 37
+  },
+  {
+   "rank": 3,
+   "text": "The rights created by the first section of the Fourteenth Amendment are, by its terms, guaranteed to the individual",
+   "speaker": "Vinson",
+   "source": "brief",
+   "phrases": [
+    "Equal protection of the laws is not achieved through indiscriminate imposition of inequalities"
+   ],
+   "counts": [
+    30
+   ],
+   "score": 30
+  },
+  {
+   "rank": 4,
+   "text": "The judicial action in each case bears the clear and unmistakable imprimatur of the State",
+   "speaker": "Vinson",
+   "source": "brief",
+   "phrases": [
+    "refers to exertions of state power in all forms"
+   ],
+   "counts": [
+    21
+   ],
+   "score": 21
+  },
+  {
+   "rank": 5,
+   "text": "The Constitution confers upon no individual the right to demand action by the State which results in the denial of equal protection",
+   "speaker": "Vinson",
+   "source": "brief",
+   "reason": "not searched; rank 1 led by more than threefold"
+  }
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026."
+}

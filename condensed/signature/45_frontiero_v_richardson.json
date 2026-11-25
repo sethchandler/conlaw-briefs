@@ -1,0 +1,9 @@
+{"brief": "45_frontiero_v_richardson", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "And what differentiates sex from such nonsuspect statuses as intelligence or physical disability, and aligns it with the recognized suspect criteria", "speaker": "Brennan, J., plurality", "phrases": ["frequently bears no relation to ability to perform or contribute to society"], "counts": [75], "score": 75, "source": "brief"},
+  {"rank": 2, "text": "There can be no doubt that our Nation has had a long and unfortunate history of sex discrimination", "speaker": "Brennan, J., plurality", "phrases": ["put women, not on a pedestal, but in a cage", "long and unfortunate history of sex discrimination"], "counts": [29, 61], "score": 61, "source": "brief"},
+  {"rank": 3, "text": "With these considerations in mind, we can only conclude that classifications based upon sex, like classifications based upon race, alienage, or national origin", "speaker": "Brennan, J., plurality", "phrases": ["classifications based upon sex, like classifications based upon race, alienage, or national origin, are inherently suspect"], "counts": [21], "score": 21, "source": "brief"},
+  {"rank": 4, "text": "And when we enter the realm of `strict judicial scrutiny,' there can be no doubt that `administrative convenience' is not a shibboleth", "speaker": "Brennan, J., plurality", "phrases": ["is not a shibboleth, the mere recitation of which dictates constitutionality"], "counts": [14], "score": 14, "source": "brief"},
+  {"rank": 5, "text": "By acting prematurely and unnecessarily, as I view it, the Court has assumed a decisional responsibility", "speaker": "Powell, J., concurring in the judgment", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. Top two are close (75 vs. 61); rank follows the counts. Powell concurrence not searched."}

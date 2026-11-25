@@ -1,0 +1,9 @@
+{"brief": "03_usaid_v_aosi", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "In the present context, the relevant distinction that has emerged from our cases is between conditions that define the limits of the government spending program", "speaker": "Roberts, C.J.", "phrases": ["leverage funding to regulate speech outside the contours of the program"], "counts": [26], "score": 26, "source": "brief"},
+  {"rank": 2, "text": "By demanding that funding recipients adopt---as their own---the Government's view on an issue of public concern", "speaker": "Roberts, C.J.", "phrases": ["defining the limits of the federally funded program to defining the recipient"], "counts": [6], "score": 6, "source": "brief"},
+  {"rank": 3, "text": "Affiliates cannot serve that purpose when the condition is that a funding recipient espouse a specific belief as its own", "speaker": "Roberts, C.J.", "phrases": ["only at the price of evident hypocrisy"], "counts": [5], "score": 5, "source": "brief"},
+  {"rank": 4, "text": "The First Amendment does not mandate a viewpoint-neutral government. Government must choose between rival ideas", "speaker": "Scalia, J., dissenting", "phrases": ["The First Amendment does not mandate a viewpoint-neutral government"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 5, "text": "But the Policy Requirement goes beyond preventing recipients from using private funds in a way that would undermine the federal program", "speaker": "Roberts, C.J.", "phrases": ["It requires them to pledge allegiance to the Government's policy"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. The Barnette 'fixed star' line inside quotation 5 predates the case and was not used. Rank 1 leads (26 vs. 6) by more than threefold."}

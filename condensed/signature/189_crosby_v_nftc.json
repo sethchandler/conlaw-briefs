@@ -1,0 +1,9 @@
+{"brief": "189_crosby_v_nftc", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The fact of a common end hardly neutralizes conflicting means, see Gade v. National Solid Wastes Management Assn., 505 U.S. 88, 103 (1992)", "speaker": "Souter", "phrases": ["The fact of a common end hardly neutralizes conflicting means", "congressional calibration of force"], "counts": [5, 25], "score": 25, "source": "brief"},
+  {"rank": 2, "text": "We find that the state law undermines the intended purpose and `natural effect' of at least three provisions of the federal Act", "speaker": "Souter", "phrases": ["undermines the intended purpose and natural effect of at least three provisions"], "counts": [4], "score": 4, "source": "brief"},
+  {"rank": 3, "text": "A failure to provide for preemption expressly may reflect nothing more than the settled character of implied preemption doctrine", "speaker": "Souter", "phrases": ["simply because the silence of Congress is ambiguous"], "counts": [4], "score": 4, "source": "brief"},
+  {"rank": 4, "text": "Within the sphere defined by Congress, then, the statute has placed the President in a position", "speaker": "Souter", "phrases": ["plenitude of Executive authority", "reduces the value of the chips created by the federal statute"], "counts": [3, 1], "score": 3, "source": "brief"},
+  {"rank": 5, "text": "The only reliable indication of that intent---the only thing we know for sure", "speaker": "Scalia, concurring in the judgment", "source": "brief", "reason": "Not searched after the stop rule."}
+ ],
+ "notes": "Rank 1 scored on 'congressional calibration of force' (25), more than three times every other candidate."}

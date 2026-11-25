@@ -1,0 +1,70 @@
+{
+ "brief": "113_roe_v_wade",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "This right of privacy, whether it be founded in the Fourteenth Amendment's concept of personal liberty and restrictions upon state action",
+   "speaker": "Blackmun",
+   "phrases": [
+    "broad enough to encompass a woman's decision whether or not to terminate her pregnancy"
+   ],
+   "counts": [
+    111
+   ],
+   "score": 111,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "All this, together with our observation, supra, that, throughout the major portion of the 19th century",
+   "speaker": "Blackmun",
+   "phrases": [
+    "as used in the Fourteenth Amendment, does not include the unborn"
+   ],
+   "counts": [
+    70
+   ],
+   "score": 70,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "We need not resolve the difficult question of when life begins. When those trained in the respective disciplines",
+   "speaker": "Blackmun",
+   "phrases": [
+    "need not resolve the difficult question of when life begins"
+   ],
+   "counts": [
+    20
+   ],
+   "score": 20,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "As an exercise of raw judicial power, the Court perhaps has authority to do what it does today",
+   "speaker": "White, dissenting",
+   "phrases": [
+    "As an exercise of raw judicial power",
+    "improvident and extravagant exercise of the power of judicial review"
+   ],
+   "counts": [
+    12,
+    5
+   ],
+   "score": 12,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "The decision here to break pregnancy into three distinct terms and to outline the permissible restrictions",
+   "speaker": "Rehnquist, dissenting",
+   "phrases": [],
+   "counts": [],
+   "score": 0,
+   "source": "brief"
+  }
+ ],
+ "notes": ""
+}

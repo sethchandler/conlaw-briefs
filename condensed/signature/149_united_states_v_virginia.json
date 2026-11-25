@@ -1,0 +1,9 @@
+{"brief": "149_united_states_v_virginia", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The justification must be genuine, not hypothesized or invented post hoc in response to litigation.", "speaker": "Ginsburg", "phrases": ["must be genuine, not hypothesized or invented post hoc in response to litigation"], "counts": [80], "score": 80, "source": "brief"},
+  {"rank": 2, "text": "Parties who seek to defend gender-based government action must demonstrate an `exceedingly persuasive justification' for that action.", "speaker": "Ginsburg", "phrases": ["Parties who seek to defend gender-based government action must demonstrate"], "counts": [19], "score": 19, "source": "brief"},
+  {"rank": 3, "text": "Inherent differences'' between men and women, we have come to appreciate, remain cause for celebration", "speaker": "Ginsburg", "phrases": ["remain cause for celebration, but not for denigration"], "counts": [10], "score": 10, "source": "brief"},
+  {"rank": 4, "text": "While terms like `important governmental objective' and `substantially related' are hardly models of precision", "speaker": "Rehnquist", "source": "brief", "reason": "Not searched after the stop rule."},
+  {"rank": 5, "text": "The virtue of a democratic system with a First Amendment is that it readily enables the people", "speaker": "Scalia", "source": "brief", "reason": "Not searched after the stop rule."}
+ ],
+ "notes": "'Exceedingly persuasive justification' itself predates the case (Hogan), so rank 2 was scored on VMI's own framing words. Rank 1 leads at more than three times the others."}

@@ -1,0 +1,8 @@
+{"brief": "226_bivens_v_six_unknown_named_agents", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The present case involves no special factors counseling hesitation in the absence of affirmative action by Congress", "speaker": "Brennan", "phrases": ["no special factors counseling hesitation in the absence of affirmative action by Congress", "involves no special factors counseling hesitation", "special factors counseling hesitation"], "counts": [47, 11, 268], "score": 268, "source": "brief"},
+  {"rank": 2, "text": "Finally, assuming Bivens' innocence of the crime charged, the `exclusionary rule' is simply irrelevant", "speaker": "Harlan", "phrases": ["For people in Bivens' shoes, it is damages or nothing", "it is damages or nothing"], "counts": [28, 129], "score": 129, "source": "brief"},
+  {"rank": 3, "text": "An agent acting---albeit unconstitutionally---in the name of the United States possesses a far greater capacity for harm", "speaker": "Brennan", "phrases": ["possesses a far greater capacity for harm than an individual trespasser"], "counts": [38], "score": 38, "source": "brief"},
+  {"rank": 4, "text": "But the point of this case and the fatal weakness in the Court's judgment is that neither Congress nor the State of New York", "speaker": "Black", "source": "brief", "reason": "Not searched."}
+ ],
+ "notes": "Ranked by citation count. The two best-known phrases ('special factors counseling hesitation'; 'damages or nothing') are short, so longer variants were also searched; both orderings put the special-factors passage first."}

@@ -1,0 +1,9 @@
+{"brief": "90_moore_v_harper", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "The Elections Clause does not insulate state legislatures from the ordinary exercise of state judicial review.", "speaker": "Roberts", "phrases": ["does not insulate state legislatures from the ordinary exercise of state judicial review"], "counts": [2], "score": 2, "source": "brief", "reason": "States the case's central holding rejecting the independent state legislature theory."},
+  {"rank": 2, "text": "We do not adopt these or any other test by which we can measure state court interpretations of state law in cases implicating the Elections Clause.", "speaker": "Roberts", "phrases": ["transgress the ordinary bounds of judicial review"], "counts": [7], "score": 7, "source": "brief", "reason": "The 'ordinary bounds' backstop that the Critique's scholarship treats as the opinion's time bomb."},
+  {"rank": 3, "text": "The legislature acts both as a lawmaking body created and bound by its state constitution", "speaker": "Roberts", "source": "brief", "reason": "States the two-fold-commission reasoning."},
+  {"rank": 4, "text": "Federal court review of a state court's interpretation of state law in a federal election case should be deferential", "speaker": "Kavanaugh, concurring", "phrases": ["deference is not abdication"], "counts": [67], "score": 0, "source": "brief", "reason": "Count disregarded: 'deference is not abdication' is stock language that predates the case (Miller-El v. Cockrell)."},
+  {"rank": 5, "text": "In the end, I fear that this framework will have the effect of investing potentially large swaths", "speaker": "Thomas, dissenting", "source": "brief", "reason": "Dissent."}
+ ],
+ "notes": "Top count for the case's own language below 10; ranked by judgment."}

@@ -1,0 +1,8 @@
+{"brief": "247_loper_bright_enterprises_v_raimondo", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Chevron is overruled. Courts must exercise their independent judgment in deciding whether an agency has acted within its statutory authority", "speaker": "Roberts", "phrases": ["Courts must exercise their independent judgment in deciding whether an agency has acted within its statutory authority", "need not and under the APA may not defer to an agency interpretation of the law simply because a statute is ambiguous"], "counts": [26, 17], "score": 26, "source": "brief"},
+  {"rank": 2, "text": "In an agency case as in any other, though, even if some judges might (or might not) consider the statute ambiguous", "speaker": "Roberts", "phrases": ["if it is not the best, it is not permissible"], "counts": [13], "score": 13, "source": "brief"},
+  {"rank": 3, "text": "By doing so, however, we do not call into question prior cases that relied on the Chevron framework", "speaker": "Roberts", "phrases": ["we do not call into question prior cases that relied on the Chevron framework"], "counts": [9], "score": 9, "source": "brief"},
+  {"rank": 4, "text": "A rule of judicial humility gives way to a rule of judicial hubris", "speaker": "Kagan (dissent)", "phrases": ["A rule of judicial humility gives way to a rule of judicial hubris"], "counts": [2], "score": 2, "source": "brief"}
+ ],
+ "notes": "2024 decision but top count above 10 (26); ranked by count."}

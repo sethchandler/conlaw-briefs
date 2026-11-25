@@ -1,0 +1,8 @@
+{"brief": "91_murphy_v_ncaa", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The basic principle---that Congress cannot issue direct orders to state legislatures---applies in either event", "speaker": "Alito", "phrases": ["Congress cannot issue direct orders to state legislatures"], "counts": [14], "score": 14, "source": "brief"},
+  {"rank": 2, "text": "A more direct affront to state sovereignty is not easy to imagine", "speaker": "Alito", "phrases": ["A more direct affront to state sovereignty is not easy to imagine"], "counts": [7], "score": 7, "source": "brief"},
+  {"rank": 3, "text": "Congress can regulate sports gambling directly, but if it elects not to do so, each State is free to act on its own", "speaker": "Alito", "phrases": ["Congress can regulate sports gambling directly"], "counts": [4], "score": 4, "source": "brief"},
+  {"rank": 4, "text": "The Court wields an ax to cut down 3702 instead of using a scalpel to trim the statute", "speaker": "Ginsburg", "phrases": ["wields an ax to cut down"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "All four brief quotations searched; top count 14 (>= 10), so ranked by citation count. Rank 1 verified in the official text at 584 U.S. 475."}

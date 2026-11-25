@@ -1,0 +1,72 @@
+{
+ "brief": "165_transunion_llc_v_ramirez",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Congress may enact legal prohibitions and obligations. And Congress may create causes of action for plaintiffs",
+   "speaker": "Kavanaugh",
+   "source": "brief",
+   "phrases": [
+    "an injury in law is not an injury in fact"
+   ],
+   "counts": [
+    38
+   ],
+   "score": 38
+  },
+  {
+   "rank": 2,
+   "text": "To have Article III standing to sue in federal court, plaintiffs must demonstrate, among other things, that they suffered a concrete harm",
+   "speaker": "Kavanaugh",
+   "source": "brief",
+   "phrases": [
+    "No concrete harm, no standing"
+   ],
+   "counts": [
+    26
+   ],
+   "score": 26
+  },
+  {
+   "rank": 3,
+   "text": "In cases such as these where allegedly inaccurate or misleading information sits in a company database",
+   "speaker": "Kavanaugh",
+   "source": "brief",
+   "phrases": [
+    "stored it in her desk drawer"
+   ],
+   "counts": [
+    11
+   ],
+   "score": 11
+  },
+  {
+   "rank": 4,
+   "text": "Never before has this Court declared that legal injury is inherently insufficient to support standing",
+   "speaker": "Thomas",
+   "source": "brief",
+   "phrases": [
+    "Never before has this Court declared that legal injury is inherently insufficient"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4
+  },
+  {
+   "rank": 5,
+   "text": "The Court here transforms standing law from a doctrine of judicial modesty into a tool of judicial aggrandizement",
+   "speaker": "Kagan",
+   "source": "brief",
+   "phrases": [
+    "doctrine of judicial modesty into a tool of judicial aggrandizement"
+   ],
+   "counts": [
+    0
+   ],
+   "score": 0
+  }
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026."
+}

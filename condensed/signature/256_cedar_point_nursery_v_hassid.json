@@ -1,0 +1,8 @@
+{"brief": "256_cedar_point_nursery_v_hassid", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The essential question is not, as the Ninth Circuit seemed to think, whether the government action at issue comes garbed as a regulation", "speaker": "Roberts", "phrases": ["whether the government has physically taken property for itself or someone else"], "counts": [25], "score": 25, "source": "brief"},
+  {"rank": 2, "text": "The access regulation appropriates a right to invade the growers' property and therefore constitutes a per se physical taking", "speaker": "Roberts", "phrases": ["appropriates a right to invade the growers' property"], "counts": [12], "score": 12, "source": "brief"},
+  {"rank": 3, "text": "We cannot agree that the right to exclude is an empty formality, subject to modification at the government's pleasure", "speaker": "Roberts", "phrases": ["right to exclude is an empty formality, subject to modification at the government's pleasure", "right to exclude is an empty formality"], "counts": [0, 1], "score": 1, "source": "brief"},
+  {"rank": 4, "text": "The regulation does not appropriate anything. It gives union organizers the right temporarily to invade", "speaker": "Breyer", "phrases": ["regulates (but does not appropriate) the owners' right to exclude"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "All four brief quotations searched; top count 25. Ranks 3 and 4 tied at 1; majority ranked first."}

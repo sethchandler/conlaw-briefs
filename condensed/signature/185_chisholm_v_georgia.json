@@ -1,0 +1,11 @@
+{
+ "brief": "185_chisholm_v_georgia",
+ "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "No such ideas obtain here; at the Revolution, the sovereignty devolved on the people, and they are truly the sovereigns of the country", "speaker": "Jay", "phrases": ["sovereigns without subjects", "joint tenants in the sovereignty"], "counts": [6, 4], "score": 6, "source": "brief", "reason": "States the popular-sovereignty premise on which the majority rejected Georgia's immunity."},
+  {"rank": 2, "text": "Every State in the Union, in every instance where its sovereignty has not been delegated to the United States", "speaker": "Iredell", "phrases": ["as completely sovereign as the United States are in respect to the powers surrendered"], "counts": [3], "score": 3, "source": "brief", "reason": "Iredell's dual-sovereignty dissent, which the Critique identifies as the source of modern immunity doctrine."},
+  {"rank": 3, "text": "A state, like a merchant, makes a contract. A dishonest state, like a dishonest merchant, wilfully refuses to discharge it.", "speaker": "Wilson", "phrases": ["A dishonest state, like a dishonest merchant"], "counts": [4], "score": 4, "source": "brief", "reason": "Wilson's accountability argument for suability on contracts."},
+  {"rank": 4, "text": "To the Constitution of the United States, the term SOVEREIGN, is totally unknown.", "speaker": "Wilson", "phrases": ["the term SOVEREIGN, is totally unknown"], "counts": [6], "score": 6, "source": "brief", "reason": "Wilson's rhetorical point on the Constitution's silence about sovereignty."}
+ ],
+ "notes": "Top CourtListener count 6 (below 10); ranked by judgment."
+}

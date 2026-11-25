@@ -1,0 +1,9 @@
+{"brief": "133_troxel_v_granville", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The liberty interest at issue in this case---the interest of parents in the care, custody, and control of their children---is perhaps the oldest of the fundamental liberty interests", "speaker": "O'Connor, J., plurality", "phrases": ["perhaps the oldest of the fundamental liberty interests recognized by this Court"], "counts": [408], "score": 408, "source": "brief"},
+  {"rank": 2, "text": "Accordingly, so long as a parent adequately cares for his or her children (i.e., is fit), there will normally be no reason for the State to inject itself", "speaker": "O'Connor, J., plurality", "phrases": ["no reason for the State to inject itself into the private realm of the family"], "counts": [311], "score": 311, "source": "brief"},
+  {"rank": 3, "text": "As we have explained, the Due Process Clause does not permit a State to infringe on the fundamental right of parents to make childrearing decisions", "speaker": "O'Connor, J., plurality", "phrases": ["simply because a state judge believes a"], "counts": [176], "score": 176, "source": "brief"},
+  {"rank": 4, "text": "If we embrace this unenumerated right, I think it obvious---whether we affirm or reverse the judgment here", "speaker": "Scalia, J., dissenting", "phrases": ["new regime of judicially prescribed, and federally prescribed, family law"], "counts": [4], "score": 4, "source": "brief"},
+  {"rank": 5, "text": "I would apply strict scrutiny to infringements of fundamental rights. Here, the State of Washington lacks even a legitimate governmental interest", "speaker": "Thomas, J., concurring in the judgment", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. Thomas concurrence not searched. No pin cites given in the brief for these quotations."}

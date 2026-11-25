@@ -1,0 +1,12 @@
+{
+ "brief": "198_everson_v_board_of_education",
+ "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Neither can pass laws which aid one religion, aid all religions, or prefer one religion over another.", "speaker": "Black", "phrases": ["aid one religion, aid all religions, or prefer one religion over another"], "counts": [242], "score": 242, "source": "brief"},
+  {"rank": 2, "text": "That Amendment requires the state to be a neutral in its relations with groups of religious believers and nonbelievers", "speaker": "Black", "phrases": ["it does not require the state to be their adversary", "That wall must be kept high and impregnable"], "counts": [46, 23], "score": 46, "source": "brief"},
+  {"rank": 3, "text": "But we cannot have it both ways. Religious teaching cannot be a private affair", "speaker": "Jackson", "source": "brief", "reason": "Not searched (rank 1 led by more than 3x); Jackson's subsidy-and-regulation warning, which the Critique says drives post-Carson disputes."},
+  {"rank": 4, "text": "In fact, the undertones of the opinion, advocating complete and uncompromising separation of Church from State", "speaker": "Jackson", "source": "brief", "reason": "Not searched; famous Byron's Julia passage, ranked by judgment."},
+  {"rank": 5, "text": "Neither so high nor so impregnable today as yesterday is the wall raised between church and state", "speaker": "Rutledge", "source": "brief", "reason": "Not searched; ranked by judgment."}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. Jefferson's 'wall of separation' phrase not used for counting (stock language predating the case). Stopped after three searches: rank 1 (242) exceeded 3x the runner-up (46)."
+}

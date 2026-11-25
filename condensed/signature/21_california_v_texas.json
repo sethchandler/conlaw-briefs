@@ -1,0 +1,9 @@
+{"brief": "21_california_v_texas", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "To find standing here to attack an unenforceable statutory provision would allow a federal court to issue what would amount to", "speaker": "Breyer", "phrases": ["to attack an unenforceable statutory provision"], "counts": [3], "score": 3, "source": "brief", "reason": "States the case's rule: unenforceable text cannot support standing because relief would be an advisory opinion."},
+  {"rank": 2, "text": "The provision is unenforceable. There is no one, and nothing, to enjoin.", "speaker": "Breyer", "phrases": ["There is no one, and nothing, to enjoin"], "counts": [3], "score": 3, "source": "brief", "reason": "The majority's compact statement of the traceability and redressability defect."},
+  {"rank": 3, "text": "A penalty is a tax. The United States is a State. And 18 States who bear costly burdens", "speaker": "Alito", "source": "brief", "reason": "The principal dissent's challenge, central to the brief's critique of selective standing rules."},
+  {"rank": 4, "text": "A penalty might have led some inertia-bound individuals to enroll. But without a penalty, what incentive could the provision provide?", "speaker": "Breyer", "source": "brief", "reason": "Rejects the States' indirect-injury theory."},
+  {"rank": 5, "text": "Although this Court has erred twice before in cases involving the Affordable Care Act, it does not err today.", "speaker": "Thomas", "source": "brief", "reason": "Concurrence."}
+ ],
+ "notes": "Top counts were 3 (one search timed out and was retried once); below 10, so ranked by judgment."}

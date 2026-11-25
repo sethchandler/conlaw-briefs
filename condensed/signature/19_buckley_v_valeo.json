@@ -1,0 +1,9 @@
+{"brief": "19_buckley_v_valeo", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "[T]he concept that government may restrict the speech of some elements of our society in order to enhance the relative voice of others is wholly foreign to the First Amendment", "speaker": "Per Curiam", "phrases": ["enhance the relative voice of others is wholly foreign to the First Amendment"], "counts": [97], "score": 97, "source": "brief"},
+  {"rank": 2, "text": "We think its fair import is that any appointee exercising significant authority pursuant to the laws of the United States", "speaker": "Per Curiam", "phrases": ["exercising significant authority pursuant to the laws of the United States"], "counts": [76], "score": 76, "source": "brief"},
+  {"rank": 3, "text": "By contrast with a limitation upon expenditures for political expression, a limitation upon the amount", "speaker": "Per Curiam", "phrases": ["entails only a marginal restriction upon the contributor's ability"], "counts": [58], "score": 58, "source": "brief"},
+  {"rank": 4, "text": "A restriction on the amount of money a person or group can spend on political communication", "speaker": "Per Curiam", "phrases": ["virtually every means of communicating ideas in today's mass society"], "counts": [50], "score": 50, "source": "brief"},
+  {"rank": 5, "text": "In the free society ordained by our Constitution, it is not the government, but the people", "speaker": "Per Curiam", "phrases": ["retain control over the quantity and range of debate"], "counts": [20], "score": 20, "source": "brief"}
+ ],
+ "notes": "No candidate reached three times the others; all five searched."}

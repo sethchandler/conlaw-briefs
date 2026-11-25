@@ -1,0 +1,9 @@
+{"brief": "85_miller_v_california", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The basic guidelines for the trier of fact must be: (a) whether the average person, applying contemporary community standards would find that the work, taken as a whole, appeals to the prurient interest", "speaker": "Burger, for the Court", "phrases": ["lacks serious literary, artistic, political, or scientific value"], "counts": [946], "score": 946, "source": "brief"},
+  {"rank": 2, "text": "It is neither realistic nor constitutionally sound to read the First Amendment as requiring that the people of Maine or Mississippi accept public depiction of conduct found tolerable in Las Vegas, or New York City.", "speaker": "Burger, for the Court", "phrases": ["people of Maine or Mississippi accept public depiction of conduct found tolerable in Las Vegas"], "counts": [42], "score": 42, "source": "brief"},
+  {"rank": 3, "text": "The First Amendment protects works which, taken as a whole, have serious literary, artistic, political, or scientific value", "speaker": "Burger, for the Court", "phrases": ["regardless of whether the government or a majority of the people approve of the ideas these works represent"], "counts": [11], "score": 11, "source": "brief"},
+  {"rank": 4, "text": "The idea that the First Amendment permits punishment for ideas that are offensive to the particular judge or jury", "speaker": "Douglas, dissenting", "phrases": ["No greater leveler of speech or literature has ever been designed"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 5, "text": "The difficulty is that we do not deal with constitutional terms, since obscenity is not mentioned in the Constitution", "speaker": "Douglas, dissenting", "source": "brief", "notes": "not searched"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. The three-part test dominates (more than 20x the runner-up)."}

@@ -1,0 +1,8 @@
+{"brief": "201_new_york_times_co_v_sullivan", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The constitutional guarantees require, we think, a federal rule that prohibits a public official from recovering damages for a defamatory falsehood", "speaker": "Brennan, J., for the Court", "phrases": ["with knowledge that it was false or with reckless disregard of whether it was false or not"], "counts": [1365], "score": 1365, "source": "brief"},
+  {"rank": 2, "text": "Thus, we consider this case against the background of a profound national commitment to the principle that debate on public issues should be uninhibited", "speaker": "Brennan, J., for the Court", "phrases": ["debate on public issues should be uninhibited, robust, and wide-open"], "counts": [947], "score": 947, "source": "brief"},
+  {"rank": 3, "text": "Whether or not a newspaper can survive a succession of such judgments, the pall of fear and timidity imposed upon those who would give voice to public criticism", "speaker": "Brennan, J., for the Court", "phrases": ["the pall of fear and timidity imposed upon those who would give voice to public criticism"], "counts": [19], "score": 19, "source": "brief"},
+  {"rank": 4, "text": "`Malice,' even as defined by the Court, is an elusive, abstract concept, hard to prove and hard to disprove", "speaker": "Black, J., concurring", "phrases": ["is an elusive, abstract concept, hard to prove and hard to disprove"], "counts": [12], "score": 12, "source": "brief"}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. The two canonical passages are close (1365 vs. 947); rank follows the counts."}

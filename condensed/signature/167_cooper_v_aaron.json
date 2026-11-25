@@ -1,0 +1,9 @@
+{"brief": "167_cooper_v_aaron", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "This decision declared the basic principle that the federal judiciary is supreme in the exposition of the law of the Constitution", "speaker": "Opinion of the Court (all nine Justices)", "phrases": ["federal judiciary is supreme in the exposition of the law of the Constitution"], "counts": [49], "score": 49, "source": "brief"},
+  {"rank": 2, "text": "In short, the constitutional rights of children not to be discriminated against in school admission on grounds of race or color", "speaker": "Opinion of the Court", "phrases": ["nullified indirectly by them through evasive schemes for segregation"], "counts": [35], "score": 35, "source": "brief"},
+  {"rank": 3, "text": "The constitutional rights of respondents are not to be sacrificed or yielded to the violence and disorder", "speaker": "Opinion of the Court", "phrases": ["are not to be sacrificed or yielded to the violence and disorder"], "counts": [18], "score": 18, "source": "brief"},
+  {"rank": 4, "text": "No state legislator or executive or judicial officer can war against the Constitution without violating his undertaking to support it", "speaker": "Opinion of the Court", "phrases": ["can war against the Constitution without violating his undertaking to support it"], "counts": [17], "score": 17, "source": "brief"},
+  {"rank": 5, "text": "Violent resistance to law cannot be made a legal reason for its suspension", "speaker": "Frankfurter", "source": "brief", "score": 0, "reason": "Not searched."}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026."}

@@ -1,0 +1,9 @@
+{"brief": "65_katzenbach_v_mcclung", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Of course, the mere fact that Congress has said when particular activity shall be deemed to affect commerce does not preclude further examination by this Court", "speaker": "Clark", "phrases": ["rational basis for finding a chosen regulatory scheme necessary to the protection of commerce"], "counts": [42], "score": 42, "source": "brief"},
+  {"rank": 2, "text": "The power of Congress in this field is broad and sweeping; where it keeps within its sphere", "speaker": "Clark", "phrases": ["The power of Congress in this field is broad and sweeping"], "counts": [7], "score": 7, "source": "brief"},
+  {"rank": 3, "text": "We believe that this testimony afforded ample basis for the conclusion that established restaurants in such areas sold less interstate goods", "speaker": "Clark", "phrases": ["sold less interstate goods because of the discrimination"], "counts": [4], "score": 4, "source": "brief"},
+  {"rank": 4, "text": "The primary purpose of the Civil Rights Act of 1964, however, as the Court recognizes", "speaker": "Goldberg", "phrases": ["vindication of human dignity and not mere economics"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 5, "text": "A decision based on the Fourteenth Amendment would have a more settling effect", "speaker": "Douglas", "source": "brief", "score": 0, "reason": "Not searched; rank-1 already led by more than three times."}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026."}

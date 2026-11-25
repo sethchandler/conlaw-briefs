@@ -1,0 +1,9 @@
+{"brief": "74_louisiana_v_callais", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "In short, § 2 imposes liability only when the evidence supports a strong inference that the State intentionally drew its districts to afford minority voters less opportunity because of their race.", "speaker": "Alito", "phrases": ["strong inference that the State intentionally drew its districts"], "counts": [2], "score": 2, "source": "brief", "reason": "States the case's new Section 2 rule, the focus of the scholarship in the Critique."},
+  {"rank": 2, "text": "Section 2 of the Voting Rights Act of 1965, 52 U. S. C. § 10301 et seq., was designed to enforce the Constitution---not collide with it.", "speaker": "Alito", "source": "brief", "reason": "The opinion's framing thesis of constitutional avoidance."},
+  {"rank": 3, "text": "Today's decision renders Section 2 all but a dead letter.", "speaker": "Kagan, dissenting", "source": "brief", "reason": "The dissent's central charge, echoed by progressive critics."},
+  {"rank": 4, "text": "Under the Court's new view of Section 2, a State can, without legal consequence, systematically dilute minority citizens' voting power.", "speaker": "Kagan, dissenting", "source": "brief", "reason": "Dissent's characterization of the holding."},
+  {"rank": 5, "text": "This Court should never have interpreted § 2 of the Voting Rights Act of 1965", "speaker": "Thomas, concurring", "source": "brief", "reason": "Concurrence."}
+ ],
+ "notes": "2026 decision: too recent for citation counts (rule phrase quoted in 2 opinions); ranked by judgment."}

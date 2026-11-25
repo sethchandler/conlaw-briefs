@@ -1,0 +1,66 @@
+{
+ "brief": "158_wisconsin_v_mitchell",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "The First Amendment, moreover, does not prohibit the evidentiary use of speech to establish the elements of a crime or to prove motive or intent",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "does not prohibit the evidentiary use of speech to establish the elements of a crime"
+   ],
+   "counts": [
+    96
+   ],
+   "score": 96,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Thus, a physical assault is not by any stretch of the imagination expressive conduct protected by the First Amendment",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "physical assault is not by any stretch of the imagination expressive conduct"
+   ],
+   "counts": [
+    30
+   ],
+   "score": 30,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Moreover, the Wisconsin statute singles out for enhancement bias-inspired conduct because this conduct is thought to inflict greater individual and societal harm",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "thought to inflict greater individual and societal harm"
+   ],
+   "counts": [
+    28
+   ],
+   "score": 28,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "But it is equally true that a defendant's abstract beliefs, however obnoxious to most people, may not be taken into consideration",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "abstract beliefs, however obnoxious to most people"
+   ],
+   "counts": [
+    11
+   ],
+   "score": 11,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "But whereas the ordinance struck down in R. A. V. was explicitly directed at expression",
+   "speaker": "Rehnquist",
+   "source": "brief",
+   "reason": "Not searched: rank 1 led every other candidate by more than three to one."
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026."
+}

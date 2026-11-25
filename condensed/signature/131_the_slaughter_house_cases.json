@@ -1,0 +1,9 @@
+{"brief": "131_the_slaughter_house_cases", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "no one can fail to be impressed with the one pervading purpose found in them all, lying at the foundation of each", "speaker": "Miller, for the Court", "phrases": ["the freedom of the slave race, the security and firm establishment of that freedom", "one pervading purpose found in them all"], "counts": [33, 11], "score": 33, "source": "brief"},
+  {"rank": 2, "text": "And still further, such a construction followed by the reversal of the judgments of the Supreme Court of Louisiana in these cases, would constitute this court a perpetual censor", "speaker": "Miller, for the Court", "phrases": ["perpetual censor upon all legislation of the States"], "counts": [10], "score": 10, "source": "brief"},
+  {"rank": 3, "text": "If this inhibition has no reference to privileges and immunities of this character, but only refers, as held by the majority", "speaker": "Field, dissenting", "phrases": ["vain and idle enactment, which accomplished nothing"], "counts": [9], "score": 9, "source": "brief"},
+  {"rank": 4, "text": "This right to choose one's calling is an essential part of that liberty which it is the object of government to protect", "speaker": "Bradley, dissenting", "phrases": ["right to choose one's calling is an essential part of that liberty"], "counts": [5], "score": 5, "source": "brief"},
+  {"rank": 5, "text": "It is objected that the power conferred is novel and large. The answer is that the novelty was known", "speaker": "Swayne, dissenting", "phrases": ["what was meant for bread into a stone"], "counts": [2], "score": 2, "source": "brief"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. Rank-1 text is the contiguous excerpt used in the 1-page edition."}

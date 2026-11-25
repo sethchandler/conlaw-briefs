@@ -1,0 +1,8 @@
+{"brief": "233_tennessee_wine_and_spirits_retailers_assn_v_thomas", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "Section 2 gives the States regulatory authority that they would not otherwise enjoy, but as we pointed out in Granholm", "speaker": "Alito", "phrases": ["Where the predominant effect of a law is protectionism, not the protection of public health or safety"], "counts": [1], "score": 1, "source": "brief", "reason": "States the case's rule: the concrete-evidence, predominant-effect test under Section 2."},
+  {"rank": 2, "text": "Section 2 was adopted as part of the scheme that ended prohibition on the national level", "speaker": "Alito", "phrases": ["is not a license to impose all manner of protectionist restrictions on commerce in alcoholic beverages"], "counts": [2], "score": 2, "source": "brief", "reason": "The opinion's summary of Section 2's limits."},
+  {"rank": 3, "text": "At issue in the present case is not the basic three-tiered model of separating producers, wholesalers, and retailers", "speaker": "Alito", "phrases": ["Such a requirement is not an essential feature of a three-tiered scheme"], "counts": [1], "score": 1, "source": "brief", "reason": "The 'essential feature' language at the center of the later circuit split."},
+  {"rank": 4, "text": "Like it or not, those who adopted the Twenty-first Amendment took the view that reasonable people can disagree", "speaker": "Gorsuch", "source": "brief", "reason": "Principal dissent."}
+ ],
+ "notes": "Top CourtListener count 2 (below 10); ranked by judgment."}

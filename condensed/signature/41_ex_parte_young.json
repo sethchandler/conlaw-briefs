@@ -1,0 +1,72 @@
+{
+ "brief": "41_ex_parte_young",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "If the act which the state Attorney General seeks to enforce be a violation of the Federal Constitution",
+   "speaker": "Peckham",
+   "phrases": [
+    "stripped of his official or representative character"
+   ],
+   "counts": [
+    328
+   ],
+   "score": 328,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "In making an officer of the State a party defendant in a suit to enjoin the enforcement of an act",
+   "speaker": "Peckham",
+   "phrases": [
+    "must have some connection with the enforcement of the act"
+   ],
+   "counts": [
+    132
+   ],
+   "score": 132,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "We hold, therefore, that the provisions of the acts relating to the enforcement of the rates",
+   "speaker": "Peckham",
+   "phrases": [
+    "as a result of an unsuccessful effort to test the validity of the laws"
+   ],
+   "counts": [
+    12
+   ],
+   "score": 12,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "This principle, if firmly established, would work a radical change in our governmental system",
+   "speaker": "Harlan",
+   "phrases": [
+    "supervise and control the official action of the States"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "It would therefore seem clear that, within the true meaning of the Eleventh Amendment",
+   "speaker": "Harlan",
+   "phrases": [
+    "as much so as if the State had been formally named on the record"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026 (first search timed out; retried once after a pause)."
+}

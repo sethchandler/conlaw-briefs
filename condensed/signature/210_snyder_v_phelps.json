@@ -1,0 +1,55 @@
+{
+ "brief": "210_snyder_v_phelps",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Speech is powerful. It can stir people to action, move them to tears of both joy and sorrow",
+   "speaker": "Roberts",
+   "phrases": [
+    "to protect even hurtful speech on public issues to ensure that we do not stifle public debate"
+   ],
+   "counts": [
+    17
+   ],
+   "score": 17,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "What Westboro said, in the whole context of how and where it chose to say it, is entitled to special protection",
+   "speaker": "Roberts",
+   "phrases": [
+    "cannot be overcome by a jury finding that the picketing was outrageous",
+    "in the whole context of how and where it chose to say it"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Our profound national commitment to free and open debate is not a license for the vicious verbal assault that occurred in this case",
+   "speaker": "Alito",
+   "phrases": [
+    "is not a license for the vicious verbal assault"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "To uphold the application of state law in these circumstances would punish Westboro",
+   "speaker": "Breyer",
+   "source": "brief",
+   "reason": "Not searched: rank 1 led every other candidate by more than three to one."
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. Ranks 2 and 3 tied at 1; the majority's holding sentence placed second."
+}

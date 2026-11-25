@@ -1,0 +1,12 @@
+{
+ "brief": "28_city_of_boerne_v_flores",
+ "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "There must be a congruence and proportionality between the injury to be prevented or remedied and the means adopted to that end.", "speaker": "Kennedy", "phrases": ["congruence and proportionality between the injury to be prevented or remedied"], "counts": [240], "score": 240, "source": "brief"},
+  {"rank": 2, "text": "Legislation which alters the meaning of the Free Exercise Clause cannot be said to be enforcing the Clause.", "speaker": "Kennedy", "phrases": ["Congress does not enforce a constitutional right by changing what the right is"], "counts": [73], "score": 73, "source": "brief"},
+  {"rank": 3, "text": "Shifting legislative majorities could change the Constitution and effectively circumvent the difficult and detailed amendment process contained in Article V.", "speaker": "Kennedy", "source": "brief", "reason": "Not searched (rank 1 led by more than 3x); ordered by judgment as the majority's structural rationale."},
+  {"rank": 4, "text": "Whether the Church would actually prevail under the statute or not, the statute has provided the Church with a legal weapon", "speaker": "Stevens", "source": "brief", "reason": "Not searched; separate concurrence."},
+  {"rank": 5, "text": "Rather, the Clause is best understood as an affirmative guarantee of the right to participate in religious practices", "speaker": "O'Connor", "source": "brief", "reason": "Not searched; dissent."}
+ ],
+ "notes": "Stopped after two searches: rank 1 (240) exceeded 3x the runner-up (73). Ranks 3-5 by judgment."
+}

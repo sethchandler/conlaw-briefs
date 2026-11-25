@@ -1,0 +1,10 @@
+{"brief": "34_cruzan_v_director_missouri_dept_of_health", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The principle that a competent person has a constitutionally protected liberty interest in refusing unwanted medical treatment may be inferred from our prior decisions.", "speaker": "Rehnquist", "phrases": ["constitutionally protected liberty interest in refusing unwanted medical treatment"], "counts": [100], "score": 100, "source": "nominated", "verified_in": "497 U.S. at 278"},
+  {"rank": 2, "text": "An erroneous decision not to terminate results in a maintenance of the status quo", "speaker": "Rehnquist", "phrases": ["erroneous decision not to terminate results in a maintenance of the status quo"], "counts": [12], "score": 12, "source": "brief"},
+  {"rank": 3, "text": "Requiring a competent adult to endure such procedures against her will burdens the patient's liberty", "speaker": "O'Connor", "phrases": ["deeply personal decision to reject medical treatment"], "counts": [11], "score": 11, "source": "brief"},
+  {"rank": 4, "text": "While I agree with the Court's analysis today, and therefore join in its opinion", "speaker": "Scalia", "phrases": ["picked at random from the Kansas City telephone directory"], "counts": [5], "score": 5, "source": "brief"},
+  {"rank": 5, "text": "But the State has no legitimate general interest in someone's life, completely abstracted", "speaker": "Brennan", "phrases": [], "counts": [], "score": 0, "source": "brief"},
+  {"rank": 6, "text": "Nancy Cruzan is obviously alive in a physiological sense", "speaker": "Stevens", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Nominated the Court's liberty-interest sentence (verified at 497 U.S. 278 in the official text); it leads by more than three times, so ranks 5-6 were not searched."}

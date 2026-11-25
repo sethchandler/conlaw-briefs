@@ -1,0 +1,9 @@
+{"brief": "01_303_creative_v_elenis", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "When a state public accommodations law and the Constitution collide, there can be no question which must prevail", "speaker": "Gorsuch", "phrases": ["public accommodations law and the Constitution collide"], "counts": [4], "score": 4, "source": "brief", "reason": "States the case's rule: the Free Speech Clause prevails over a public accommodations law that compels expression."},
+  {"rank": 2, "text": "Were the rule otherwise, the better the artist, the finer the writer, the more unique his talent", "speaker": "Gorsuch", "phrases": ["the more easily his voice could be conscripted"], "counts": [2], "score": 2, "source": "brief", "reason": "Rejects the Tenth Circuit's unique-services rationale, the decisive move on strict scrutiny."},
+  {"rank": 3, "text": "Today, the Court, for the first time in its history, grants a business open to the public a constitutional right to refuse to serve members of a protected class", "speaker": "Sotomayor", "phrases": ["for the first time in its history, grants a business open to the public"], "counts": [1], "score": 1, "source": "brief", "reason": "The dissent's central charge, at the heart of the progressive critiques in the brief."},
+  {"rank": 4, "text": "But tolerance, not coercion, is our Nation's answer", "speaker": "Gorsuch", "phrases": ["tolerance, not coercion, is our Nation's answer"], "counts": [0], "score": 0, "source": "brief", "reason": "Rhetorical summary rather than rule."},
+  {"rank": 5, "text": "As I will explain, the law in question targets conduct, not speech, for regulation", "speaker": "Sotomayor", "source": "brief", "reason": "Restates the dissent's conduct-regulation framework."}
+ ],
+ "notes": "2023 decision; top count below 10, so ranked by judgment."}

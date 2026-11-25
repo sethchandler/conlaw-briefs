@@ -1,0 +1,49 @@
+{
+ "brief": "244_trump_v_casa",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "`Complete relief' is not synonymous with `universal relief.' It is a narrower concept: The equitable tradition has long embraced the rule",
+   "speaker": "Barrett",
+   "phrases": [
+    "Complete relief is not synonymous with universal relief"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4,
+   "source": "brief",
+   "reason": "States the governing test: relief is limited to what gives each plaintiff with standing complete relief, not universal relief."
+  },
+  {
+   "rank": 2,
+   "text": "But federal courts do not exercise general oversight of the Executive Branch; they resolve cases and controversies",
+   "speaker": "Barrett",
+   "phrases": [
+    "federal courts do not exercise general oversight of the Executive Branch"
+   ],
+   "counts": [
+    8
+   ],
+   "score": 8,
+   "source": "brief",
+   "reason": "The structural premise of the holding, most often repeated."
+  },
+  {
+   "rank": 3,
+   "text": "No right is safe in the new legal regime the Court creates",
+   "speaker": "Sotomayor",
+   "source": "brief",
+   "reason": "Principal dissent."
+  },
+  {
+   "rank": 4,
+   "text": "The Court's decision to permit the Executive to violate the Constitution with respect to anyone who has not yet sued",
+   "speaker": "Jackson",
+   "source": "brief",
+   "reason": "Second dissent."
+  }
+ ],
+ "notes": "2025 decision: CourtListener counts (Nov. 25, 2026) below 10 (top 8), so ranked by judgment."
+}

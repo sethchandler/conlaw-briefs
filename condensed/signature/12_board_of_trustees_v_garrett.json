@@ -1,0 +1,78 @@
+{
+ "brief": "12_board_of_trustees_v_garrett",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "States are not required by the Fourteenth Amendment to make special accommodations for the disabled, so long as their actions toward such individuals are rational",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "perhaps hardheartedly hold to job-qualification requirements",
+    "hardheartedly hold to job",
+    "special accommodations for the disabled are to be required"
+   ],
+   "counts": [
+    2,
+    4,
+    29
+   ],
+   "score": 29,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Congress is the final authority as to desirable public policy, but in order to authorize private individuals to recover money damages against the States",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "must be a pattern of discrimination by the States which violates the Fourteenth Amendment",
+    "authorize private individuals to recover money damages against the States"
+   ],
+   "counts": [
+    15,
+    11
+   ],
+   "score": 15,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "One of the undoubted achievements of statutes designed to assist those with impairments is that citizens have an incentive",
+   "speaker": "Kennedy",
+   "phrases": [
+    "because the law can be a teacher"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "And it is difficult to understand why the Court, which applies minimum rational-basis review",
+   "speaker": "Breyer",
+   "phrases": [
+    "subjects to far stricter scrutiny a statute that seeks to help"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "But a legislature is not a court of law",
+   "speaker": "Breyer",
+   "phrases": [
+    "a legislature is not a court of law"
+   ],
+   "counts": [
+    0
+   ],
+   "score": 0,
+   "source": "brief"
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. The em-dash phrase 'quite hardheadedly and perhaps hardheartedly' returned 0, so the accommodations sentence's own phrase scored the passage."
+}

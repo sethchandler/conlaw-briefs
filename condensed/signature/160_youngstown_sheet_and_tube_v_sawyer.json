@@ -1,0 +1,9 @@
+{"brief": "160_youngstown_sheet_and_tube_v_sawyer", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "While the Constitution diffuses power the better to secure liberty, it also contemplates that practice will integrate the dispersed powers into a workable government.", "speaker": "Jackson, concurring", "phrases": ["diffuses power the better to secure liberty"], "counts": [126], "score": 126, "source": "brief"},
+  {"rank": 2, "text": "The President's power, if any, to issue the order must stem either from an act of Congress or from the Constitution itself.", "speaker": "Black, for the Court", "phrases": ["must stem either from an act of Congress or from the Constitution itself"], "counts": [63], "score": 63, "source": "brief"},
+  {"rank": 3, "text": "In the framework of our Constitution, the President's power to see that the laws are faithfully executed refutes the idea that he is to be a lawmaker.", "speaker": "Black, for the Court", "phrases": ["faithfully executed refutes the idea that he is to be a lawmaker"], "counts": [49], "score": 49, "source": "brief"},
+  {"rank": 4, "text": "In short, a systematic, unbroken, executive practice, long pursued to the knowledge of the Congress and never before questioned", "speaker": "Frankfurter, concurring", "phrases": ["systematic, unbroken, executive practice, long pursued to the knowledge of the Congress"], "counts": [25], "score": 25, "source": "brief"},
+  {"rank": 5, "text": "Under this messenger-boy concept of the Office, the President cannot even act to preserve legislative programs from destruction", "speaker": "Vinson, dissenting", "phrases": ["Under this messenger-boy concept of the Office"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "CourtListener phrase counts; ranks 1-2 from the Nov. 25, 2026 validation table, others searched Nov. 25, 2026."}

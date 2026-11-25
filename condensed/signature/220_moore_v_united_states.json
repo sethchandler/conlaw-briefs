@@ -1,0 +1,8 @@
+{"brief": "220_moore_v_united_states", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "So the precise and narrow question that the Court addresses today is whether Congress may attribute an entity's realized and undistributed income", "speaker": "Kavanaugh", "phrases": ["precise and narrow question that the Court addresses today", "attribute an entity's realized and undistributed income to the entity's shareholders or partners"], "counts": [1, 0], "score": 1, "source": "brief", "reason": "States the Court's narrow attribution holding."},
+  {"rank": 2, "text": "The Sixteenth Amendment's reference to income `derived' from any source encompasses a requirement that income", "speaker": "Barrett", "phrases": ["encompasses a requirement that income, to be taxed without apportionment, must be realized"], "counts": [1], "score": 1, "source": "brief", "reason": "Four Justices' realization view, central to the reserved question and the Critique."},
+  {"rank": 3, "text": "Sixteenth Amendment `incomes' include only income realized by the taxpayer", "speaker": "Thomas (dissent)", "source": "brief", "reason": "The dissent's thesis."},
+  {"rank": 4, "text": "Moreover, both before and after the Sixteenth Amendment was adopted, the term `income' was widely recognized as flexible", "speaker": "Jackson", "phrases": ["flexible enough to include both realized and unrealized gains"], "counts": [1], "score": 1, "source": "brief", "reason": "Concurrence rejecting any realization requirement."}
+ ],
+ "notes": "2024 decision: counts at most 1; ranked by judgment."}

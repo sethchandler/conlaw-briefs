@@ -1,0 +1,74 @@
+{
+ "brief": "127_tennessee_v_lane",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "For these reasons, we conclude that Title II, as it applies to the class of cases implicating the fundamental right of access to the courts",
+   "speaker": "Stevens",
+   "phrases": [
+    "fundamental right of access to the courts, constitutes a valid exercise"
+   ],
+   "counts": [
+    27
+   ],
+   "score": 27,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Including individuals with disabilities among people who count in composing `We the People,' Congress understood in shaping the ADA",
+   "speaker": "Ginsburg, concurring",
+   "phrases": [
+    "not blindfolded equality, but responsiveness to difference"
+   ],
+   "counts": [
+    6
+   ],
+   "score": 6,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "In conducting its as-applied analysis, however, the majority posits a hypothetical statute, never enacted by Congress",
+   "speaker": "Rehnquist, dissenting",
+   "phrases": [
+    "rig the congruence-and-proportionality test"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "The `congruence and proportionality' standard, like all such flabby tests, is a standing invitation to judicial arbitrariness",
+   "speaker": "Scalia, dissenting",
+   "phrases": [
+    "like all such flabby tests",
+    "a standing invitation to judicial arbitrariness and policy-driven decisionmaking"
+   ],
+   "counts": [
+    1,
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "Nothing in \u00a7 5 allows Congress to go beyond the provisions of the Fourteenth Amendment to proscribe",
+   "speaker": "Scalia, dissenting",
+   "phrases": [
+    "reinforcement rather than enforcement"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": ""
+}

@@ -1,0 +1,9 @@
+{"brief": "180_champion_v_ames", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "As a state may, for the purpose of guarding the morals of its own people, forbid all sales of lottery tickets within its limits", "speaker": "Harlan", "phrases": ["widespread pestilence of lotteries"], "counts": [34], "score": 0, "source": "brief", "reason": "States the rule that the power to regulate commerce includes the power to prohibit it. Count excluded: 'widespread pestilence' is quoted from Phalen v. Virginia (1850), predating the case."},
+  {"rank": 2, "text": "We are of opinion that lottery tickets are subjects of traffic, and therefore are subjects of commerce", "speaker": "Harlan", "phrases": ["lottery tickets are subjects of traffic, and therefore are subjects of commerce"], "counts": [5], "score": 5, "source": "brief", "reason": "States the first holding: lottery tickets are articles of commerce."},
+  {"rank": 3, "text": "If a state, when considering legislation for the suppression of lotteries within its own limits, may properly take into view the evils", "speaker": "Harlan", "phrases": ["shall not be polluted by the carrying of lottery tickets from one state to another"], "counts": [4], "score": 4, "source": "brief", "reason": "The 'pollution' passage the Critique treats as central."},
+  {"rank": 4, "text": "An invitation to dine, or to take a drive, or a note of introduction, all become articles of commerce", "speaker": "Fuller", "phrases": ["An invitation to dine, or to take a drive, or a note of introduction"], "counts": [2], "score": 2, "source": "brief", "reason": "Principal dissent."},
+  {"rank": 5, "text": "But, as often said, the possible abuse of a power is not an argument against its existence", "speaker": "Harlan", "source": "brief", "reason": "Stock language predating the case; not scored."}
+ ],
+ "notes": "Excluding a pre-1903 stock phrase, the top CourtListener count is 5 (below 10); ranked by judgment."}

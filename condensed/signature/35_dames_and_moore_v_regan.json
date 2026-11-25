@@ -1,0 +1,72 @@
+{
+ "brief": "35_dames_and_moore_v_regan",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Past practice does not, by itself, create power, but `long-continued practice, known to and acquiesced in by Congress",
+   "speaker": "Rehnquist",
+   "source": "brief",
+   "phrases": [
+    "Past practice does not, by itself, create power"
+   ],
+   "counts": [
+    10
+   ],
+   "score": 10
+  },
+  {
+   "rank": 2,
+   "text": "Finally, we reemphasize the narrowness of our decision. We do not decide that the President possesses plenary power to settle claims",
+   "speaker": "Rehnquist",
+   "source": "brief",
+   "phrases": [
+    "plenary power to settle claims"
+   ],
+   "counts": [
+    8
+   ],
+   "score": 8
+  },
+  {
+   "rank": 3,
+   "text": "The Government must pay just compensation when it furthers the Nation's foreign policy goals by using as `bargaining chips'",
+   "speaker": "Powell",
+   "source": "brief",
+   "phrases": [
+    "using as bargaining chips claims lawfully held"
+   ],
+   "counts": [
+    5
+   ],
+   "score": 5
+  },
+  {
+   "rank": 4,
+   "text": "Such failure of Congress specifically to delegate authority does not, `especially",
+   "speaker": "Rehnquist",
+   "source": "brief",
+   "phrases": [
+    "failure of Congress specifically to delegate authority does not"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3
+  },
+  {
+   "rank": 5,
+   "text": "Justice Jackson himself recognized that his three categories represented `a somewhat over-simplified grouping,'",
+   "speaker": "Rehnquist",
+   "source": "brief",
+   "phrases": [
+    "along a spectrum running from explicit congressional authorization"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2
+  }
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026; all counts low and close (top 10). The spectrum passage scored only 2 on two phrasings."
+}

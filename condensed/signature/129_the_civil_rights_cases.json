@@ -1,0 +1,60 @@
+{
+ "brief": "129_the_civil_rights_cases",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "It is State action of a particular character that is prohibited. Individual invasion of individual rights is not the subject matter of the amendment",
+   "speaker": "Bradley",
+   "phrases": [
+    "Individual invasion of individual rights is not the subject-matter of the amendment"
+   ],
+   "counts": [
+    57
+   ],
+   "score": 57,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "In fine, the legislation which Congress is authorized to adopt in this behalf is not general legislation upon the rights of the citizen",
+   "speaker": "Bradley",
+   "phrases": [
+    "is not general legislation upon the rights of the citizen, but corrective legislation"
+   ],
+   "counts": [
+    8
+   ],
+   "score": 8,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "When a man has emerged from slavery, and, by the aid of beneficent legislation, has shaken off the inseparable concomitants of that state",
+   "speaker": "Bradley",
+   "phrases": [
+    "ceases to be the special favorite of the laws"
+   ],
+   "counts": [
+    7
+   ],
+   "score": 7,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "The opinion in these cases proceeds, it seems to me, upon grounds entirely too narrow and artificial",
+   "speaker": "Harlan",
+   "source": "brief",
+   "reason": "Not searched: rank 1 led every other candidate by more than three to one."
+  },
+  {
+   "rank": 5,
+   "text": "Today it is the colored race which is denied, by corporations and individuals wielding public authority",
+   "speaker": "Harlan",
+   "source": "brief",
+   "reason": "Not searched: rank 1 led every other candidate by more than three to one."
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026; searching stopped once rank 1 clearly led."
+}

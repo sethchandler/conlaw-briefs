@@ -1,0 +1,49 @@
+{
+ "brief": "136_trump_v_slaughter",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "When an agency `executes' a congressional mandate against private parties, it exercises executive power---no ifs, ands, or quasis about it",
+   "speaker": "Roberts",
+   "phrases": [
+    "no ifs, ands, or quasis"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief",
+   "reason": "States the governing test that decides the case: enforcing a mandate against private parties is executive power, which rejects Humphrey's quasi-legislative/quasi-judicial labels."
+  },
+  {
+   "rank": 2,
+   "text": "If anything more is left of \\textit{Humphrey's}, we overrule it. \\textit{Humphrey's} has for decades been a result in search of a rationale",
+   "speaker": "Roberts",
+   "source": "brief",
+   "reason": "The overruling holding itself."
+  },
+  {
+   "rank": 3,
+   "text": "Open-ended delegations of legislative power have not gone away; now they will just be exercised by agency officials who answer to the President",
+   "speaker": "Gorsuch",
+   "source": "brief",
+   "reason": "Most discussed separate opinion (the 'con-jority' commentary and severability-stacking critique)."
+  },
+  {
+   "rank": 4,
+   "text": "In holding otherwise, the Court gives the President a power unknown even to the English Crown against which the Founders revolted",
+   "speaker": "Sotomayor",
+   "source": "brief",
+   "reason": "Principal dissent."
+  },
+  {
+   "rank": 5,
+   "text": "Although it is up to the Senate to decide whether to confirm those with whom the President would prefer to work",
+   "speaker": "Roberts",
+   "source": "brief",
+   "reason": "Accountability rationale."
+  }
+ ],
+ "notes": "2026 decision: one test search ('no ifs, ands, or quasis') returned 2; ranked by judgment."
+}

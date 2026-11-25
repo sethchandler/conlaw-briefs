@@ -1,0 +1,9 @@
+{"brief": "77_luther_v_borden", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Under this article of the Constitution, it rests with Congress to decide what government is the established one in a State", "speaker": "Taney", "phrases": ["it rests with Congress to decide what government is the established one in a State"], "counts": [22], "score": 22, "source": "brief"},
+  {"rank": 2, "text": "If the judicial power extends so far, the guarantee contained in the Constitution of the United States is a guarantee of anarchy", "speaker": "Taney", "phrases": ["a guarantee of anarchy, and not of order"], "counts": [10], "score": 10, "source": "brief"},
+  {"rank": 3, "text": "And unquestionably a State may use its military power to put down an armed insurrection too strong to be controlled by the civil authority", "speaker": "Taney", "phrases": ["armed insurrection too strong to be controlled by the civil authority"], "counts": [5], "score": 5, "source": "brief"},
+  {"rank": 4, "text": "Undoubtedly the courts of the United States have certain powers under the Constitution and laws of the United States which do not belong to the State courts", "speaker": "Taney", "phrases": ["the power of determining that a State government has been lawfully established"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 5, "text": "Our power begins after theirs ends. Constitutions and laws precede the judiciary", "speaker": "Woodbury", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Top count 22, above the judgment threshold; Woodbury not searched."}

@@ -1,0 +1,61 @@
+{
+ "brief": "208_rav_v_city_of_st_paul",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "What they mean is that these areas of speech can, consistently with the First Amendment, be regulated because of their constitutionally proscribable content",
+   "speaker": "Scalia",
+   "phrases": [
+    "because of their constitutionally proscribable content",
+    "categories of speech entirely invisible to the Constitution"
+   ],
+   "counts": [
+    61,
+    29
+   ],
+   "score": 61,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "St. Paul has no such authority to license one side of a debate to fight freestyle",
+   "speaker": "Scalia",
+   "phrases": [
+    "license one side of a debate to fight freestyle"
+   ],
+   "counts": [
+    30
+   ],
+   "score": 30,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Let there be no mistake about our belief that burning a cross in someone's front yard is reprehensible",
+   "speaker": "Scalia",
+   "phrases": [
+    "without adding the First Amendment to the fire"
+   ],
+   "counts": [
+    8
+   ],
+   "score": 8,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "Its decision is an arid, doctrinaire interpretation, driven by the frequently irresistible impulse of judges to tinker with the First Amendment",
+   "speaker": "White, concurring in the judgment",
+   "phrases": [
+    "I join the judgment, but not the folly of the opinion"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  }
+ ],
+ "notes": "'Marquis of Queensberry rules' excluded as stock language predating the case."
+}

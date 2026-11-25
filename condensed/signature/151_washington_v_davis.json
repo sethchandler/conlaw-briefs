@@ -1,0 +1,9 @@
+{"brief": "151_washington_v_davis", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Disproportionate impact is not irrelevant, but it is not the sole touchstone of an invidious racial discrimination", "speaker": "White", "phrases": ["Disproportionate impact is not irrelevant, but it is not the sole touchstone"], "counts": [113], "score": 113, "source": "brief"},
+  {"rank": 2, "text": "Frequently the most probative evidence of intent will be objective evidence of what actually happened", "speaker": "Stevens", "phrases": ["most probative evidence of intent will be objective evidence of what actually happened"], "counts": [67], "score": 67, "source": "brief"},
+  {"rank": 3, "text": "The central purpose of the Equal Protection Clause of the Fourteenth Amendment is the prevention of official conduct", "speaker": "White", "phrases": ["is unconstitutional solely because it has a racially disproportionate impact"], "counts": [61], "score": 61, "source": "brief"},
+  {"rank": 4, "text": "A rule that a statute designed to serve neutral ends is nevertheless invalid, absent compelling justification", "speaker": "White", "phrases": ["whole range of tax, welfare, public service, regulatory, and licensing statutes"], "counts": [26], "score": 26, "source": "brief"},
+  {"rank": 5, "text": "Where employers try to validate written qualification tests by proving a correlation with written examinations", "speaker": "Brennan", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Brennan dissent (statutory validation) not searched."}

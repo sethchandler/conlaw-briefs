@@ -1,0 +1,59 @@
+{
+ "brief": "257_usda_v_moreno",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "For if the constitutional conception of `equal protection of the laws' means anything, it must, at the very least, mean",
+   "speaker": "Brennan",
+   "source": "brief",
+   "phrases": [
+    "bare congressional desire to harm a politically unpopular group"
+   ],
+   "counts": [
+    92
+   ],
+   "score": 92
+  },
+  {
+   "rank": 2,
+   "text": "Thus, in practical operation, the 1971 amendment excludes from participation in the food stamp program",
+   "speaker": "Brennan",
+   "source": "brief",
+   "phrases": [
+    "so desperately in need of aid that they cannot even afford to alter their living arrangements"
+   ],
+   "counts": [
+    11
+   ],
+   "score": 11
+  },
+  {
+   "rank": 3,
+   "text": "The right of association, the right to invite the stranger into one's home is too basic in our constitutional regime",
+   "speaker": "Douglas",
+   "source": "brief",
+   "phrases": [
+    "right to invite the stranger into one's home"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4
+  },
+  {
+   "rank": 4,
+   "text": "The Court's opinion would make a very persuasive congressional committee report arguing against the adoption",
+   "speaker": "Rehnquist",
+   "source": "brief",
+   "phrases": [
+    "very persuasive congressional committee report"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2
+  }
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026."
+}

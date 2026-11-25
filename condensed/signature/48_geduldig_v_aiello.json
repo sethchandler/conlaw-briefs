@@ -1,0 +1,59 @@
+{
+ "brief": "48_geduldig_v_aiello",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Absent a showing that distinctions involving pregnancy are mere pretexts designed to effect an invidious discrimination against the members of one sex or the other",
+   "speaker": "Stewart, Footnote 20",
+   "source": "brief",
+   "phrases": [
+    "mere pretexts designed to effect an invidious discrimination"
+   ],
+   "counts": [
+    64
+   ],
+   "score": 64
+  },
+  {
+   "rank": 2,
+   "text": "The lack of identity between the excluded disability and gender as such under this insurance program",
+   "speaker": "Stewart, Footnote 20",
+   "source": "brief",
+   "phrases": [
+    "pregnant women and nonpregnant persons"
+   ],
+   "counts": [
+    45
+   ],
+   "score": 45
+  },
+  {
+   "rank": 3,
+   "text": "There is no evidence in the record that the selection of the risks insured by the program",
+   "speaker": "Stewart",
+   "source": "brief",
+   "phrases": [
+    "There is no risk from which men are protected and women are not"
+   ],
+   "counts": [
+    16
+   ],
+   "score": 16
+  },
+  {
+   "rank": 4,
+   "text": "In my view, by singling out for less favorable treatment a gender-linked disability peculiar to women",
+   "speaker": "Brennan",
+   "source": "brief",
+   "phrases": [
+    "physical characteristics inextricably linked to one sex"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3
+  }
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. Rank 1 text is the closing sentence of Footnote 20's first passage, quoted alone in the 1-page edition."
+}

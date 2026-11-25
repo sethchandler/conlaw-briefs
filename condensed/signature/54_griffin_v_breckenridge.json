@@ -1,0 +1,61 @@
+{
+ "brief": "54_griffin_v_breckenridge",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "The language requiring intent to deprive of equal protection, or equal privileges and immunities, means that there must be some racial, or perhaps otherwise class-based, invidiously discriminatory animus",
+   "speaker": "Stewart",
+   "phrases": [
+    "class-based, invidiously discriminatory animus behind the conspirators' action"
+   ],
+   "counts": [
+    646
+   ],
+   "score": 646,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Our cases have firmly established that the right of interstate travel is constitutionally protected, does not necessarily rest on the Fourteenth Amendment",
+   "speaker": "Stewart",
+   "phrases": [
+    "is assertable against private, as well as governmental, interference"
+   ],
+   "counts": [
+    20
+   ],
+   "score": 20,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "We can only conclude that Congress was wholly within its powers under",
+   "speaker": "Stewart",
+   "phrases": [],
+   "counts": [],
+   "score": 0,
+   "source": "brief",
+   "reason": "Not searched (rank 1 led by more than 3x); ranked third as the Thirteenth Amendment holding."
+  },
+  {
+   "rank": 4,
+   "text": "It is thus evident that all indicators -- text, companion provisions, and legislative history -- point unwaveringly",
+   "speaker": "Stewart",
+   "phrases": [],
+   "counts": [],
+   "score": 0,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "I agree with the Court's opinion, except that I find it unnecessary to rely on the `right of interstate travel'",
+   "speaker": "Harlan, concurring",
+   "phrases": [],
+   "counts": [],
+   "score": 0,
+   "source": "brief"
+  }
+ ],
+ "notes": "Searching stopped once rank 1 exceeded every other count by more than 3x; unsearched candidates ordered by judgment."
+}

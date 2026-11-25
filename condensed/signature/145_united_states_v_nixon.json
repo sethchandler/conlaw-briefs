@@ -1,0 +1,12 @@
+{
+ "brief": "145_united_states_v_nixon",
+ "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "A President and those who assist him must be free to explore alternatives in the process of shaping policies and making decisions", "speaker": "Burger", "phrases": ["must be free to explore alternatives in the process of shaping policies and making decisions", "inextricably rooted in the separation of powers under the Constitution"], "counts": [41, 69], "score": 69, "source": "brief"},
+  {"rank": 2, "text": "We conclude that, when the ground for asserting privilege as to subpoenaed materials sought for use in a criminal trial", "speaker": "Burger", "phrases": ["generalized assertion of privilege must yield to the demonstrated, specific need for evidence", "fundamental demands of due process of law in the fair administration of criminal justice"], "counts": [33, 41], "score": 41, "source": "brief"},
+  {"rank": 3, "text": "However, neither the doctrine of separation of powers nor the need for confidentiality of high-level communications", "speaker": "Burger", "phrases": ["absolute, unqualified Presidential privilege of immunity from judicial process"], "counts": [25], "score": 25, "source": "brief"},
+  {"rank": 4, "text": "Marshall's statement cannot be read to mean in any sense that a President is above the law", "speaker": "Burger", "source": "brief", "reason": "Not searched; ranked by judgment."},
+  {"rank": 5, "text": "We therefore reaffirm that it is the province and duty of this Court", "speaker": "Burger", "source": "brief", "reason": "Not searched: its best-known words quote Marbury (stock language predating the case)."}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026."
+}

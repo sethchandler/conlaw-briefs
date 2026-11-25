@@ -1,0 +1,8 @@
+{"brief": "242_flast_v_cohen", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "First, the taxpayer must establish a logical link between that status and the type of legislative enactment attacked.", "speaker": "Warren", "phrases": ["logical link between that status and the type of legislative enactment attacked"], "counts": [66], "score": 66, "source": "brief"},
+  {"rank": 2, "text": "The taxpayer's allegation in such cases would be that his tax money is being extracted and spent in violation of specific constitutional protections", "speaker": "Warren", "phrases": ["his tax money is being extracted and spent in violation of specific constitutional protections"], "counts": [14], "score": 14, "source": "brief"},
+  {"rank": 3, "text": "To describe those rights and interests as personal, and to intimate that they are in some unspecified fashion to be differentiated", "speaker": "Harlan, dissenting", "phrases": ["a word game played by secret rules"], "counts": [8], "score": 8, "source": "brief"},
+  {"rank": 4, "text": "The status of taxpayer should not be accepted as a launching pad for an attack upon any target", "speaker": "Fortas, concurring", "source": "brief", "reason": "Not searched after the stop rule."}
+ ],
+ "notes": "Rank 1 (the double-nexus test) leads at more than three times every other candidate."}

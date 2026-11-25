@@ -1,0 +1,72 @@
+{
+ "brief": "196_yick_wo_v_hopkins",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Though the law itself be fair on its face and impartial in appearance, yet, if it is applied and administered",
+   "speaker": "Matthews",
+   "phrases": [
+    "with an evil eye and an unequal hand"
+   ],
+   "counts": [
+    341
+   ],
+   "score": 341,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "The Fourteenth Amendment to the Constitution is not confined to the protection of citizens",
+   "speaker": "Matthews",
+   "phrases": [
+    "universal in their application to all persons within the territorial jurisdiction"
+   ],
+   "counts": [
+    89
+   ],
+   "score": 89,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Though not regarded strictly as a natural right, but as a privilege merely conceded by society",
+   "speaker": "Matthews",
+   "phrases": [
+    "fundamental political right, because preservative of all rights"
+   ],
+   "counts": [
+    87
+   ],
+   "score": 87,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "For the very idea that one man may be compelled to hold his life, or the means of living",
+   "speaker": "Matthews",
+   "phrases": [
+    "the means of living, or any material right essential to the enjoyment of life"
+   ],
+   "counts": [
+    60
+   ],
+   "score": 60,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "The fact of this discrimination is admitted. No reason for it is shown",
+   "speaker": "Matthews",
+   "phrases": [
+    "no reason for it exists except hostility to the race and nationality"
+   ],
+   "counts": [
+    17
+   ],
+   "score": 17,
+   "source": "brief"
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026."
+}

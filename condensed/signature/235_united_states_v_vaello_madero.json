@@ -1,0 +1,49 @@
+{
+ "brief": "235_united_states_v_vaello_madero",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "In devising tax and benefits programs, it is reasonable for Congress to take account of the general balance of benefits to and burdens on the residents of Puerto Rico",
+   "speaker": "Kavanaugh",
+   "phrases": [
+    "general balance of benefits to and burdens on the residents of Puerto Rico"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief",
+   "reason": "States the Court's rational-basis rule."
+  },
+  {
+   "rank": 2,
+   "text": "It is past time to acknowledge the gravity of this error and admit what we know to be true",
+   "speaker": "Gorsuch, concurring",
+   "phrases": [
+    "have no foundation in the Constitution and rest instead on racial stereotypes"
+   ],
+   "counts": [
+    0
+   ],
+   "score": 0,
+   "source": "brief",
+   "reason": "Most discussed separate opinion on the Insular Cases."
+  },
+  {
+   "rank": 3,
+   "text": "In my view, there is no rational basis for Congress to treat needy citizens living anywhere in the United States so differently from others",
+   "speaker": "Sotomayor, dissenting",
+   "source": "brief",
+   "reason": "Leading dissent."
+  },
+  {
+   "rank": 4,
+   "text": "Rather than continue to invoke the Fifth Amendment's Due Process Clause to justify",
+   "speaker": "Thomas, concurring",
+   "source": "brief",
+   "reason": "Thomas's Citizenship Clause theory."
+  }
+ ],
+ "notes": "2022 decision; counts below 10, so ranked by judgment."
+}

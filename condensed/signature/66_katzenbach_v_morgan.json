@@ -1,0 +1,9 @@
+{"brief": "66_katzenbach_v_morgan", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Thus, the McCulloch v. Maryland standard is the measure of what constitutes `appropriate legislation' under § 5", "speaker": "Brennan", "phrases": ["is a positive grant of legislative power authorizing Congress"], "counts": [57], "score": 57, "source": "brief"},
+  {"rank": 2, "text": "We emphasize that Congress' power under § 5 is limited to adopting measures to enforce the guarantees", "speaker": "Brennan, n.10", "phrases": ["no power to restrict, abrogate, or dilute these guarantees", "restrict, abrogate, or dilute"], "counts": [9, 19], "score": 19, "source": "brief"},
+  {"rank": 3, "text": "It is not for us to review the congressional resolution of these factors. It is enough that we be able to perceive a basis", "speaker": "Brennan", "phrases": ["enough that we be able to perceive a basis upon which the Congress might resolve the conflict"], "counts": [15], "score": 15, "source": "brief"},
+  {"rank": 4, "text": "Worthy as its purposes may be thought by many, I do not see how § 4(e) of the Voting Rights Act", "speaker": "Harlan (dissent)", "source": "brief", "reason": "Not searched: rank 1 already led by more than three to one."},
+  {"rank": 5, "text": "In effect, the Court reads § 5 of the Fourteenth Amendment as giving Congress the power to define the substantive scope", "speaker": "Harlan (dissent)", "source": "brief", "reason": "Not searched: rank 1 already led by more than three to one."}
+ ],
+ "notes": "Rank 1 (57) at least three times every other count; stopped searching."}

@@ -1,0 +1,59 @@
+{
+ "brief": "236_ex_parte_milligan",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "The Constitution of the United States is a law for rulers and people, equally in war and in peace",
+   "speaker": "Davis",
+   "phrases": [
+    "law for rulers and people, equally in war and in peace"
+   ],
+   "counts": [
+    75
+   ],
+   "score": 75,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Martial rule can never exist where the courts are open and in the proper and unobstructed exercise",
+   "speaker": "Davis",
+   "phrases": [
+    "Martial rule can never exist where the courts are open"
+   ],
+   "counts": [
+    13
+   ],
+   "score": 13,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Not one of these safeguards can the President or Congress or the Judiciary disturb",
+   "speaker": "Davis",
+   "phrases": [
+    "shall be tried otherwise than by the course of the common law"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "We think that Congress had power, though not exercised, to authorize the military commission",
+   "speaker": "Chase, concurring in the judgment",
+   "phrases": [
+    "Congress had power, though not exercised, to authorize the military commission"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026."
+}

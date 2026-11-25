@@ -1,0 +1,9 @@
+{"brief": "140_united_states_v_cruikshank", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "This is not a right granted by the Constitution. Neither is it in any manner dependent upon that instrument for its existence", "speaker": "Waite", "phrases": ["means no more than that it shall not be infringed by Congress"], "counts": [34], "score": 34, "source": "brief"},
+  {"rank": 2, "text": "The Fourteenth Amendment prohibits a State from depriving any person of life, liberty, or property without due process", "speaker": "Waite", "phrases": ["adds nothing to the rights of one citizen as against another"], "counts": [15], "score": 15, "source": "brief"},
+  {"rank": 3, "text": "The same person may be at the same time a citizen of the United States and a citizen of a State", "speaker": "Waite", "phrases": ["his rights of citizenship under one of those governments will be different", "at the same time a citizen of the United States and a citizen of a State"], "counts": [0, 9], "score": 9, "source": "brief"},
+  {"rank": 4, "text": "We may suspect that race was the cause of the hostility, but it is not so averred", "speaker": "Waite", "phrases": ["Everything essential must be charged positively, and not inferentially", "may suspect that race was the cause of the hostility"], "counts": [0, 5], "score": 5, "source": "brief"},
+  {"rank": 5, "text": "I concur that the judgment in this case should be arrested, but for reasons quite different", "speaker": "Clifford", "source": "brief", "reason": "Not searched."}
+ ],
+ "notes": "Second Amendment passage leads (34 vs 15)."}

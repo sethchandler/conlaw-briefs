@@ -1,0 +1,9 @@
+{"brief": "46_fulton_v_city_of_philadelphia", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The creation of a formal mechanism for granting exceptions renders a policy not generally applicable, regardless whether any exceptions have been given", "speaker": "Roberts", "phrases": ["regardless whether any exceptions have been given", "which reasons for not complying with the policy are worthy of solicitude"], "counts": [13, 19], "score": 19, "source": "brief"},
+  {"rank": 2, "text": "This decision might as well be written on the dissolving paper sold in magic shops.", "speaker": "Alito, concurring in the judgment", "phrases": ["dissolving paper sold in magic shops"], "counts": [6], "score": 6, "source": "brief"},
+  {"rank": 3, "text": "As a matter of text and structure, it is difficult to see why the Free Exercise Clause", "speaker": "Barrett, concurring", "phrases": ["lone among the First Amendment freedoms"], "counts": [3], "score": 3, "source": "brief"},
+  {"rank": 4, "text": "A law is not generally applicable if it `invite[s]' the government to consider the particular reasons", "speaker": "Roberts", "phrases": [], "counts": [], "score": 0, "source": "brief", "reason": "Not searched: its distinctive phrases are stock language from Smith and Sherbert."},
+  {"rank": 5, "text": "Rather than rely on `broadly formulated interests,' courts must", "speaker": "Roberts", "phrases": [], "counts": [], "score": 0, "source": "brief", "reason": "Not searched: quoted language is from O Centro."}
+ ],
+ "notes": "Rank 1 leads at three times the next candidate."}

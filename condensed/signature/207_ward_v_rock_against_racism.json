@@ -1,0 +1,8 @@
+{"brief": "207_ward_v_rock_against_racism", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Lest any confusion on the point remain, we reaffirm today that a regulation of the time, place, or manner of protected speech", "speaker": "Kennedy", "phrases": ["need not be the least restrictive or least intrusive means"], "counts": [337], "score": 337, "source": "brief"},
+  {"rank": 2, "text": "The principal inquiry in determining content-neutrality, in speech cases generally and in time, place, or manner cases", "speaker": "Kennedy", "phrases": ["The principal inquiry in determining content-neutrality"], "counts": [293], "score": 293, "source": "brief"},
+  {"rank": 3, "text": "Music is one of the oldest forms of human expression", "speaker": "Kennedy", "phrases": ["Music is one of the oldest forms of human expression"], "counts": [18], "score": 18, "source": "brief"},
+  {"rank": 4, "text": "Under more familiar prior restraints, government officials censor speech `by a simple stroke of the pen'", "speaker": "Marshall (dissent)", "source": "brief", "reason": "Not searched."}
+ ],
+ "notes": "Top two close (337 vs 293), both canonical."}

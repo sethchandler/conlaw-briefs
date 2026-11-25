@@ -1,0 +1,9 @@
+{"brief": "61_hicklin_v_orbeck", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "In sum, the Act is an attempt to force virtually all businesses that benefit in some way from the economic ripple effect of Alaska's decision to develop its oil and gas resources", "speaker": "Brennan", "phrases": ["benefit in some way from the economic ripple effect"], "counts": [8], "score": 8, "source": "brief", "reason": "States the holding that resource ownership cannot justify pervasive private-sector discrimination; the 'ripple effect' is the case's signature concept."},
+  {"rank": 2, "text": "Rather than placing a statute completely beyond the Clause, a State's ownership of the property with which the statute is concerned is a factor", "speaker": "Brennan", "phrases": ["although often the crucial factor"], "counts": [5], "score": 5, "source": "brief", "reason": "States the rule that state ownership is a factor, not an exemption."},
+  {"rank": 3, "text": "Alaska Hire simply grants all Alaskans, regardless of their employment status, education, or training, a flat employment preference", "speaker": "Brennan", "phrases": ["habitually unemployed Arctic Eskimo"], "counts": [5], "score": 5, "source": "brief", "reason": "Applies the substantial-relationship (tailoring) prong."},
+  {"rank": 4, "text": "[I]t does bar discrimination against citizens of other States where there is no substantial reason", "speaker": "Brennan quoting Toomer", "source": "brief", "reason": "Not scored: the language is Toomer v. Witsell's (1948), predating the case."},
+  {"rank": 5, "text": "As Mr. Justice Cardozo observed in Baldwin v. G. A. F. Seelig", "speaker": "Brennan quoting Cardozo", "source": "brief", "reason": "Not scored: the language is Cardozo's (1935)."}
+ ],
+ "notes": "Top count below 10 for Hicklin's own language; ranked by judgment. The Toomer and Seelig passages were excluded as pre-existing language."}

@@ -1,0 +1,70 @@
+{
+ "brief": "39_duncan_v_louisiana",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Because we believe that trial by jury in criminal cases is fundamental to the American scheme of justice",
+   "speaker": "White",
+   "phrases": [
+    "fundamental to the American scheme of justice",
+    "trial by jury in criminal cases is fundamental to the American scheme of justice"
+   ],
+   "counts": [
+    324,
+    91
+   ],
+   "score": 324,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Providing an accused with the right to be tried by a jury of his peers gave him an inestimable safeguard against the corrupt or overzealous prosecutor",
+   "speaker": "White",
+   "phrases": [
+    "against the corrupt or overzealous prosecutor"
+   ],
+   "counts": [
+    165
+   ],
+   "score": 165,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "The question thus is whether given this kind of system a particular procedure is fundamental",
+   "speaker": "White",
+   "phrases": [
+    "necessary to an Anglo-American regime of ordered liberty"
+   ],
+   "counts": [
+    32
+   ],
+   "score": 32,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "In short, neither history nor sense supports using the Fourteenth Amendment to put the States in a constitutional straitjacket",
+   "speaker": "Harlan, dissenting",
+   "phrases": [
+    "put the States in a constitutional straitjacket"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "What more precious `privilege' of American citizenship could there be than that privilege to claim the protections of our great Bill of Rights",
+   "speaker": "Black, concurring",
+   "phrases": [],
+   "counts": [],
+   "score": 0,
+   "source": "brief"
+  }
+ ],
+ "notes": "Black and Fortas candidates not searched once the top three were clear."
+}

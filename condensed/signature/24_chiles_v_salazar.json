@@ -1,0 +1,9 @@
+{"brief": "24_chiles_v_salazar", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "Her speech does not become conduct just because the State may call it that", "speaker": "Gorsuch", "phrases": ["The First Amendment is no word game"], "counts": [4], "score": 4, "source": "brief", "reason": "States the case's rule: relabeling talk therapy as conduct or treatment cannot evade the First Amendment."},
+  {"rank": 2, "text": "Medical consensus, too, is not static; it evolves and always has", "speaker": "Gorsuch", "source": "brief", "reason": "The majority's answer to the State's reliance on professional consensus, central in the Critique."},
+  {"rank": 3, "text": "The Constitution does not pose a barrier to reasonable regulation of harmful medical treatments", "speaker": "Jackson", "source": "brief", "reason": "The lone dissent's thesis, echoed by the health-law critics in the Critique."},
+  {"rank": 4, "text": "But the First Amendment stands as a shield against any effort to enforce orthodoxy", "speaker": "Gorsuch", "source": "brief", "reason": "General free-speech principle restating the viewpoint rule."},
+  {"rank": 5, "text": "And that means the `difference between viewpoint-based and viewpoint-neutral content discrimination'", "speaker": "Kagan", "source": "brief", "reason": "Reserves the viewpoint-neutral question."}
+ ],
+ "notes": "2026 decision: top count below 10 (\"The First Amendment is no word game\": 4); ranked by judgment."}

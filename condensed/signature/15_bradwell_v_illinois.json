@@ -1,0 +1,8 @@
+{"brief": "15_bradwell_v_illinois", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Man is, or should be, woman's protector and defender. The natural and proper timidity and delicacy which belongs to the female sex evidently unfits it for many of the occupations of civil life.", "speaker": "Bradley, concurring in the judgment", "phrases": ["timidity and delicacy which belongs to the female sex", "Man is, or should be, woman's protector and defender"], "counts": [45, 20], "score": 45, "source": "brief"},
+  {"rank": 2, "text": "The paramount destiny and mission of woman are to fulfil the noble and benign offices of wife and mother.", "speaker": "Bradley, concurring in the judgment", "phrases": ["paramount destiny and mission of woman"], "counts": [36], "score": 36, "source": "brief"},
+  {"rank": 3, "text": "We agree with him that there are privileges and immunities belonging to citizens of the United States", "speaker": "Miller, for the Court", "phrases": ["right to admission to practice in the courts of a state is not one of them"], "counts": [3], "score": 3, "source": "brief"},
+  {"rank": 4, "text": "The opinion just delivered in the Slaughter-House Cases renders elaborate argument in the present case unnecessary", "speaker": "Miller, for the Court", "phrases": ["renders elaborate argument in the present case unnecessary"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. Bradley concurrence quoted far more than the majority."}

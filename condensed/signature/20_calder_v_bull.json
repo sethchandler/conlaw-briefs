@@ -1,0 +1,66 @@
+{
+ "brief": "20_calder_v_bull",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "1st. Every law that makes an action done before the passing of the law and which was innocent when done",
+   "speaker": "Chase",
+   "source": "brief",
+   "phrases": [
+    "inflicts a greater punishment than the law annexed to the crime"
+   ],
+   "counts": [
+    815
+   ],
+   "score": 815
+  },
+  {
+   "rank": 2,
+   "text": "An act of the legislature (for I cannot call it a law) contrary to the great first principles of the social compact",
+   "speaker": "Chase",
+   "source": "brief",
+   "phrases": [
+    "great first principles of the social compact"
+   ],
+   "counts": [
+    43
+   ],
+   "score": 43
+  },
+  {
+   "rank": 3,
+   "text": "Every ex post facto law must necessarily be retrospective, but every retrospective law is not an ex post facto law",
+   "speaker": "Chase",
+   "source": "brief",
+   "phrases": [
+    "every retrospective law is not an ex post facto law"
+   ],
+   "counts": [
+    26
+   ],
+   "score": 26
+  },
+  {
+   "rank": 4,
+   "text": "If, on the other hand, the legislature of the Union or the legislature of any member of the Union shall pass a law",
+   "speaker": "Iredell",
+   "source": "brief",
+   "phrases": [
+    "ideas of natural justice are regulated by no fixed standard"
+   ],
+   "counts": [
+    19
+   ],
+   "score": 19
+  },
+  {
+   "rank": 5,
+   "text": "The words ``ex post facto,'' when applied to a law, have a technical meaning",
+   "speaker": "Paterson",
+   "source": "brief",
+   "reason": "not searched; stopped once rank 1 led by more than threefold"
+  }
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. Rank 1 scored by its third-category phrase; quoted in full (all four categories) in every edition."
+}

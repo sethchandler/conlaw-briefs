@@ -1,0 +1,9 @@
+{"brief": "106_plessy_v_ferguson", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "But in view of the constitution, in the eye of the law, there is in this country no superior, dominant, ruling class of citizens", "speaker": "Harlan", "phrases": ["neither knows nor tolerates classes among citizens"], "counts": [105], "score": 105, "source": "brief"},
+  {"rank": 2, "text": "The object of the amendment was undoubtedly to enforce the absolute equality of the two races before the law", "speaker": "Brown", "phrases": ["enforce social, as distinguished from political, equality"], "counts": [35], "score": 35, "source": "brief"},
+  {"rank": 3, "text": "We consider the underlying fallacy of the plaintiff's argument to consist in the assumption that the enforced separation", "speaker": "Brown", "phrases": ["stamps the colored race with a badge of inferiority"], "counts": [20], "score": 20, "source": "brief"},
+  {"rank": 4, "text": "Legislation is powerless to eradicate racial instincts, or to abolish distinctions based upon physical differences", "speaker": "Brown", "phrases": ["Legislation is powerless to eradicate racial instincts", "powerless to eradicate racial instincts"], "counts": [13, 16], "score": 16, "source": "brief"},
+  {"rank": 5, "text": "In my opinion, the judgment this day rendered will, in time, prove to be quite as pernicious", "speaker": "Harlan", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Harlan's color-blind passage leads by three times; Dred Scott line not searched. Counts for the racial-instincts phrase were lower than in the validation table (66)."}

@@ -1,0 +1,9 @@
+{"brief": "111_reynolds_v_united_states", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Can a man excuse his practices to the contrary because of his religious belief? To permit this would be to make the professed doctrines", "speaker": "Waite", "phrases": ["to permit every citizen to become a law unto himself"], "counts": [85], "score": 85, "source": "brief"},
+  {"rank": 2, "text": "Laws are made for the government of actions, and while they cannot interfere with mere religious belief and opinions, they may with practices", "speaker": "Waite", "phrases": ["Laws are made for the government of actions"], "counts": [83], "score": 83, "source": "brief"},
+  {"rank": 3, "text": "Congress was deprived of all legislative power over mere opinion, but was left free to reach actions", "speaker": "Waite", "phrases": ["deprived of all legislative power over mere opinion"], "counts": [28], "score": 28, "source": "brief"},
+  {"rank": 4, "text": "Marriage, while from its very nature a sacred obligation, is nevertheless, in most civilized nations, a civil contract", "speaker": "Waite", "phrases": ["sacred obligation, is nevertheless, in most civilized nations, a civil contract"], "counts": [13], "score": 13, "source": "brief"},
+  {"rank": 5, "text": "I concur with the majority of the court on the several points decided except one", "speaker": "Field", "source": "brief", "reason": "Not searched."}
+ ],
+ "notes": "Top two nearly tied (85 vs 83); both canonical belief-action passages."}

@@ -1,0 +1,55 @@
+{
+ "brief": "184_haaland_v_brackeen",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "It is a federal court's judgment, not its opinion, that remedies an injury; thus it is the judgment, not the opinion, that demonstrates redressability",
+   "speaker": "Barrett",
+   "phrases": [
+    "it is the judgment, not the opinion, that demonstrates redressability"
+   ],
+   "counts": [
+    13
+   ],
+   "score": 13,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "It could not be otherwise---Article I gives Congress a series of enumerated powers, not a series of blank checks",
+   "speaker": "Barrett",
+   "phrases": [
+    "the Constitution does not erect a firewall around family law"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "To be clear, however, plenary does not mean free-floating. A power unmoored from the Constitution would lack both justification and limits",
+   "speaker": "Barrett",
+   "phrases": [
+    "plenary does not mean free-floating",
+    "must derive from the Constitution, not the atmosphere"
+   ],
+   "counts": [
+    1,
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "Our Constitution reserves for the Tribes a place---an enduring place---in the structure of American life",
+   "speaker": "Gorsuch",
+   "source": "brief",
+   "reason": "Not searched: rank 1 led every other candidate by more than three to one."
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. A 2023 decision; rank 1 cleared the threshold of 10 quoting opinions."
+}

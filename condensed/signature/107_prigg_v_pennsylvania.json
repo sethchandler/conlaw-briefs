@@ -1,0 +1,77 @@
+{
+ "brief": "107_prigg_v_pennsylvania",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Upon this ground, we have not the slightest hesitation in holding that, under and in virtue of the Constitution, the owner of a slave is clothed with entire authority",
+   "speaker": "Story",
+   "phrases": [
+    "to seize and recapture his slave whenever he can do it without any breach of the peace"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief",
+   "reason": "States the case's central rule: a self-executing constitutional right of peaceable recaption that voids obstructing state law."
+  },
+  {
+   "rank": 2,
+   "text": "The clause manifestly contemplates the existence of a positive, unqualified right on the part of the owner of the slave",
+   "speaker": "Story",
+   "phrases": [
+    "positive, unqualified right on the part of the owner of the slave"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief",
+   "reason": "The preemption premise (any state law that delays recaption is a pro tanto discharge) that Finkelman and Holden-Smith treat as the opinion's pro-slavery core."
+  },
+  {
+   "rank": 3,
+   "text": "As to the authority so conferred upon state magistrates, while a difference of opinion has existed, and may exist still",
+   "speaker": "Story",
+   "phrases": [
+    "state magistrates may, if they choose, exercise that authority"
+   ],
+   "counts": [
+    6
+   ],
+   "score": 6,
+   "source": "brief",
+   "reason": "Non-compulsion principle that spurred personal liberty laws and later anti-commandeering doctrine."
+  },
+  {
+   "rank": 4,
+   "text": "The language used in the Constitution does not, in my judgment, justify this construction given to it by the court",
+   "speaker": "Taney",
+   "phrases": [
+    "forbidden to make any regulation that shall impair it, but there the prohibition stops"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief",
+   "reason": "Leading separate opinion against exclusivity."
+  },
+  {
+   "rank": 5,
+   "text": "In a state where slavery is allowed, every coloured person is presumed to be a slave",
+   "speaker": "McLean",
+   "phrases": [
+    "in a non-slaveholding state, every person is presumed to be free"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief",
+   "reason": "Sole dissent."
+  }
+ ],
+ "notes": "CourtListener counts (Nov. 25, 2026) all below 10 (top 6), so ranked by judgment per the guide; counts recorded for reference."
+}

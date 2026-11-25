@@ -1,0 +1,8 @@
+{"brief": "260_naacp_v_alabama", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "It is beyond debate that freedom to engage in association for the advancement of beliefs and ideas is an inseparable aspect", "speaker": "Harlan", "phrases": ["freedom to engage in association for the advancement of beliefs and ideas is an inseparable aspect"], "counts": [141], "score": 141, "source": "brief"},
+  {"rank": 2, "text": "Inviolability of privacy in group association may in many circumstances be indispensable to preservation of freedom of association", "speaker": "Harlan", "phrases": ["Inviolability of privacy in group association"], "counts": [67], "score": 67, "source": "brief"},
+  {"rank": 3, "text": "To require that it be claimed by the members themselves would result in nullification of the right", "speaker": "Harlan", "phrases": ["nullification of the right at the very moment of its assertion"], "counts": [39], "score": 39, "source": "brief"},
+  {"rank": 4, "text": "The crucial factor is the interplay of governmental and private action, for it is only after the initial exertion", "speaker": "Harlan", "phrases": ["The crucial factor is the interplay of governmental and private action"], "counts": [7], "score": 7, "source": "brief"}
+ ],
+ "notes": "Rank 1 leads (141 vs 67)."}

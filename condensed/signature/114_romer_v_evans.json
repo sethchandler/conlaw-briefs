@@ -1,0 +1,68 @@
+{
+ "brief": "114_romer_v_evans",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "A law declaring that in general it shall be more difficult for one group of citizens than for all others to seek aid from the government",
+   "speaker": "Kennedy",
+   "phrases": [
+    "more difficult for one group of citizens than for all others to seek aid from the government"
+   ],
+   "counts": [
+    38
+   ],
+   "score": 38,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "We must conclude that Amendment 2 classifies homosexuals not to further a proper legislative end but to make them unequal",
+   "speaker": "Kennedy",
+   "phrases": [
+    "not to further a proper legislative end but to make them unequal to everyone else",
+    "cannot so deem a class of persons a stranger to its laws"
+   ],
+   "counts": [
+    25,
+    6
+   ],
+   "score": 25,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "[I]f the constitutional conception of `equal protection of the laws' means anything, it must at the very least mean",
+   "speaker": "Kennedy (quoting Moreno)",
+   "source": "brief",
+   "reason": "Stock language from Department of Agriculture v. Moreno (1973); states Romer's animus rule."
+  },
+  {
+   "rank": 4,
+   "text": "One century ago, the first Justice Harlan admonished this Court that the Constitution",
+   "speaker": "Kennedy",
+   "phrases": [
+    "those words now are understood to state a commitment to the law's neutrality"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "The Court has mistaken a Kulturkampf for a fit of spite",
+   "speaker": "Scalia, dissenting",
+   "phrases": [
+    "mistaken a Kulturkampf for a fit of spite"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026. The Moreno-quoting passage is stock language predating Romer, so it was not scored; placed third by judgment as the statement of the animus rule."
+}

@@ -1,0 +1,9 @@
+{"brief": "181_missouri_v_holland", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The case before us must be considered in the light of our whole experience, and not merely in that of what was said a hundred years ago", "speaker": "Holmes", "phrases": ["in the light of our whole experience, and not merely in that of what was said a hundred years ago"], "counts": [24], "score": 24, "source": "brief"},
+  {"rank": 2, "text": "If the treaty is valid, there can be no dispute about the validity of the statute under Article", "speaker": "Holmes", "phrases": ["there can be no dispute about the validity of the statute under Article"], "counts": [14], "score": 14, "source": "brief"},
+  {"rank": 3, "text": "To put the claim of the State upon title is to lean upon a slender reed", "speaker": "Holmes", "phrases": ["Wild birds are not in the possession of anyone", "to lean upon a slender reed"], "counts": [14, 24], "score": 14, "source": "brief"},
+  {"rank": 4, "text": "The treaty in question does not contravene any prohibitory words to be found in the Constitution", "speaker": "Holmes", "phrases": ["invisible radiation from the general terms of the Tenth Amendment"], "counts": [7], "score": 7, "source": "brief"},
+  {"rank": 5, "text": "Acts of Congress are the supreme law of the land only when made in pursuance of the Constitution", "speaker": "Holmes", "phrases": ["treaties are declared to be so when made under the authority of the United States"], "counts": [5], "score": 5, "source": "brief"}
+ ],
+ "notes": "'to lean upon a slender reed' (24) excluded as a stock phrase; the passage scored on its distinctive sentence (14). Ranks 2 and 3 tied at 14; the holding sentence placed first."}

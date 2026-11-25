@@ -1,0 +1,9 @@
+{"brief": "153_west_coast_hotel_v_parrish", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The Constitution does not speak of freedom of contract. It speaks of liberty and prohibits the deprivation of liberty without due process of law.", "speaker": "Hughes", "phrases": ["The Constitution does not speak of freedom of contract"], "counts": [32], "score": 32, "source": "brief"},
+  {"rank": 2, "text": "The judicial function is that of interpretation; it does not include the power of amendment under the guise of interpretation.", "speaker": "Sutherland", "phrases": ["does not include the power of amendment under the guise of interpretation"], "counts": [15], "score": 15, "source": "brief"},
+  {"rank": 3, "text": "The exploitation of a class of workers who are in an unequal position with respect to bargaining power", "speaker": "Hughes", "phrases": ["subsidy for unconscionable employers", "relatively defenseless against the denial of a living wage"], "counts": [5, 5], "score": 5, "source": "brief"},
+  {"rank": 4, "text": "It is urged that the question involved should now receive fresh consideration, among other reasons", "speaker": "Sutherland", "phrases": ["does not change with the ebb and flow of economic events"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 5, "text": "Women today stand upon a legal and political equality with men.", "speaker": "Sutherland", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Rank 1 led by about 2x. Rank-1 text is the excerpt used in all editions (the 4-page quotes the full passage)."}

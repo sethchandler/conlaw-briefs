@@ -1,0 +1,76 @@
+{
+ "brief": "27_citizens_united_v_fec",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "For the reasons explained above, we now conclude that independent expenditures, including those made by corporations, do not give rise to corruption or the appearance of corruption",
+   "speaker": "Kennedy",
+   "phrases": [
+    "independent expenditures, including those made by corporations, do not give rise to corruption",
+    "do not give rise to corruption or the appearance of corruption"
+   ],
+   "counts": [
+    23,
+    37
+   ],
+   "score": 37,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "We return to the principle established in Buckley and Bellotti that the Government may not suppress political speech on the basis of the speaker's corporate identity",
+   "speaker": "Kennedy",
+   "phrases": [
+    "may not suppress political speech on the basis of the speaker's corporate identity",
+    "No sufficient governmental interest justifies limits on the political speech"
+   ],
+   "counts": [
+    12,
+    12
+   ],
+   "score": 12,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "The Government may regulate corporate political speech through disclaimer and disclosure requirements, but it may not suppress that speech altogether",
+   "speaker": "Kennedy",
+   "phrases": [
+    "may regulate corporate political speech through disclaimer and disclosure requirements"
+   ],
+   "counts": [
+    12
+   ],
+   "score": 12,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "The Amendment is written in terms of speech, not speakers",
+   "speaker": "Scalia",
+   "phrases": [
+    "written in terms of speech, not speakers"
+   ],
+   "counts": [
+    8
+   ],
+   "score": 8,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "In the context of election to public office, the distinction between corporate and human speakers is significant",
+   "speaker": "Stevens",
+   "phrases": [
+    "corporations are not actually members of it"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. Ranks 2 and 3 tied at 12; the speaker-identity rule placed second."
+}

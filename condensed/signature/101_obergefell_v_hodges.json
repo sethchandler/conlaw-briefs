@@ -1,0 +1,9 @@
+{"brief": "101_obergefell_v_hodges", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The identification and protection of fundamental rights is an enduring part of the judicial duty to interpret the Constitution.", "speaker": "Kennedy, for the Court", "phrases": ["exercise reasoned judgment in identifying interests of the person so fundamental"], "counts": [13], "score": 13, "source": "brief"},
+  {"rank": 2, "text": "No union is more profound than marriage, for it embodies the highest ideals of love, fidelity, devotion, sacrifice, and family.", "speaker": "Kennedy, for the Court", "phrases": ["No union is more profound than marriage", "two people become something greater than once they were", "They ask for equal dignity in the eyes of the law"], "counts": [7, 4, 3], "score": 7, "source": "brief"},
+  {"rank": 3, "text": "If rights were defined by who exercised them in the past, then received practices could serve as their own continued justification", "speaker": "Kennedy, for the Court", "phrases": ["If rights were defined by who exercised them in the past"], "counts": [7], "score": 7, "source": "brief"},
+  {"rank": 4, "text": "Today's decree says that my Ruler, and the Ruler of 320 million Americans coast-to-coast", "speaker": "Scalia, dissenting", "phrases": ["a majority of the nine lawyers on the Supreme Court"], "counts": [3], "score": 3, "source": "brief"},
+  {"rank": 5, "text": "If you are among the many Americans---of whatever sexual orientation---who favor expanding same-sex marriage", "speaker": "Roberts, dissenting", "phrases": ["But do not celebrate the Constitution. It had nothing to do with it"], "counts": [2], "score": 2, "source": "brief"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. Counts are modest for a 2015 decision; top count (13) clears the judgment threshold. Rank 2/3 tie at 7 kept in brief order."}

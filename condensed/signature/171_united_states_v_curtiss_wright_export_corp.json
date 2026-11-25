@@ -1,0 +1,68 @@
+{
+ "brief": "171_united_states_v_curtiss_wright_export_corp",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "It is important to bear in mind that we are here dealing not alone with an authority vested in the President",
+   "speaker": "Sutherland",
+   "phrases": [
+    "sole organ of the federal government in the field of international relations"
+   ],
+   "counts": [
+    99
+   ],
+   "score": 99,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "congressional legislation which is to be made effective through negotiation and inquiry within the international field must often accord to the President",
+   "speaker": "Sutherland",
+   "phrases": [
+    "degree of discretion and freedom from statutory restriction which would not be admissible"
+   ],
+   "counts": [
+    37
+   ],
+   "score": 37,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "In this vast external realm, with its important, complicated, delicate and manifold problems, the President alone has the power",
+   "speaker": "Sutherland",
+   "phrases": [
+    "In this vast external realm, with its important, complicated, delicate and manifold problems",
+    "advice and consent of the Senate; but he alone negotiates"
+   ],
+   "counts": [
+    22,
+    14
+   ],
+   "score": 22,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "The broad statement that the federal government can exercise no powers except those specifically enumerated in the Constitution",
+   "speaker": "Sutherland",
+   "phrases": [
+    "is categorically true only in respect of our internal affairs"
+   ],
+   "counts": [
+    20
+   ],
+   "score": 20,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "As a result of the separation from Great Britain by the colonies, acting as a unit",
+   "speaker": "Sutherland",
+   "source": "brief",
+   "reason": "Not searched; the external-sovereignty passage is less often quoted than the sole-organ and discretion lines."
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026."
+}

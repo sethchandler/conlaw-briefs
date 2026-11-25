@@ -1,0 +1,63 @@
+{
+ "brief": "222_poindexter_v_greenhow",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "The defendant in error is not her officer, her agent, or her representative, in the matter complained of",
+   "speaker": "Matthews",
+   "phrases": [
+    "acted not only without her authority, but contrary to her express commands"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief",
+   "reason": "States the officer-stripping rule the case is known for, which passed into Ex parte Young and is the focus of the brief's Critique."
+  },
+  {
+   "rank": 2,
+   "text": "It is well settled by many decisions of this Court that, for the purpose of affecting proceedings to enforce the payment of taxes",
+   "speaker": "Matthews",
+   "phrases": [
+    "lawful tender of payment is equivalent to actual payment"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief",
+   "reason": "States the tender-equals-payment premise of the Contracts Clause holding."
+  },
+  {
+   "rank": 3,
+   "text": "They do not become receivable in payment of taxes till they are due, and the design, we are bound to presume",
+   "speaker": "Matthews",
+   "phrases": [
+    "This necessarily excludes the idea that they were intended for circulation"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief",
+   "reason": "States the Bills of Credit holding."
+  },
+  {
+   "rank": 4,
+   "text": "Unless the State chooses to allow itself to be sued, it cannot be sued; it has this prerogative if no other",
+   "speaker": "Bradley, dissenting",
+   "phrases": [
+    "Unless the State chooses to allow itself to be sued, it cannot be sued"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief",
+   "reason": "Leading dissent."
+  }
+ ],
+ "notes": "Top CourtListener count (3) below 10, so ranked by judgment. Counts recorded for the phrases searched."
+}

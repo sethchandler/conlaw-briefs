@@ -1,0 +1,72 @@
+{
+ "brief": "68_korematsu_v_united_states",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "It should be noted, to begin with, that all legal restrictions which curtail the civil rights of a single racial group are immediately suspect",
+   "speaker": "Black",
+   "phrases": [
+    "immediately suspect"
+   ],
+   "counts": [
+    28
+   ],
+   "score": 28,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "But once a judicial opinion rationalizes such an order to show that it conforms to the Constitution",
+   "speaker": "Jackson, dissenting",
+   "phrases": [
+    "loaded weapon"
+   ],
+   "counts": [
+    14
+   ],
+   "score": 14,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "This exclusion of `all persons of Japanese ancestry, both alien and non-alien,' from the Pacific Coast area",
+   "speaker": "Murphy, dissenting",
+   "phrases": [
+    "falls into the ugly abyss of racism"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "On the contrary, it is the case of convicting a citizen as a punishment for not submitting to imprisonment",
+   "speaker": "Roberts, dissenting",
+   "phrases": [
+    "solely because of his ancestry, without evidence or inquiry concerning his loyalty"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "Compulsory exclusion of large groups of citizens from their homes, except under circumstances of direst emergency",
+   "speaker": "Black",
+   "phrases": [
+    "power to protect must be commensurate with the threatened danger"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "Counts for ranks 1-2 from the Nov. 25, 2026 validation table (SIGNATURE_QUOTE_METHOD.md); others searched Nov. 25, 2026. Murphy and Roberts tie at 2; Murphy placed third by judgment."
+}

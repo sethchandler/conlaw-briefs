@@ -1,0 +1,75 @@
+{
+ "brief": "25_christian_legal_society_v_martinez",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "The First Amendment shields CLS against state prohibition of the organization's expressive activity, however exclusionary that activity may be",
+   "speaker": "Ginsburg",
+   "phrases": [
+    "no constitutional right to state subvention of its selectivity"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief",
+   "reason": "States the Court's rule: no right to subsidy of selectivity."
+  },
+  {
+   "rank": 2,
+   "text": "It is, after all, hard to imagine a more viewpoint-neutral policy than one requiring all student groups to accept all comers",
+   "speaker": "Ginsburg",
+   "phrases": [
+    "hard to imagine a more viewpoint-neutral policy"
+   ],
+   "counts": [
+    8
+   ],
+   "score": 8,
+   "source": "brief",
+   "reason": "Most quoted line; the all-comers policy's viewpoint neutrality is the crux of the case."
+  },
+  {
+   "rank": 3,
+   "text": "Application of the less-restrictive limited-public-forum analysis better accounts for the fact that Hastings, through its RSO program, is dangling the carrot of subsidy",
+   "speaker": "Ginsburg",
+   "phrases": [
+    "dangling the carrot of subsidy"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief",
+   "reason": "Explains the choice of limited-public-forum analysis."
+  },
+  {
+   "rank": 4,
+   "text": "A vibrant dialogue is not possible if students wall themselves off from opposing points of view",
+   "speaker": "Kennedy, concurring",
+   "phrases": [
+    "wall themselves off from opposing points of view"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "The proudest boast of our free speech jurisprudence is that we protect the freedom to express",
+   "speaker": "Alito, dissenting",
+   "phrases": [
+    "offends prevailing standards of political correctness"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  }
+ ],
+ "notes": "Top count (8) below 10, so ranked by judgment."
+}

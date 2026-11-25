@@ -1,0 +1,9 @@
+{"brief": "219_smith_v_doe", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "If the intention of the legislature was to impose punishment, that ends the inquiry. If, however, the intention was to enact a regulatory scheme", "speaker": "Kennedy", "phrases": ["If the intention of the legislature was to impose punishment, that ends the inquiry"], "counts": [102], "score": 102, "source": "brief"},
+  {"rank": 2, "text": "The excessiveness inquiry of our ex post facto jurisprudence is not an exercise in determining whether the legislature has made the best choice possible", "speaker": "Kennedy", "phrases": ["is not an exercise in determining whether the legislature has made the best choice possible"], "counts": [65], "score": 65, "source": "brief"},
+  {"rank": 3, "text": "The process is more analogous to a visit to an official archive of criminal records than it is to a scheme forcing an offender", "speaker": "Kennedy", "phrases": ["more analogous to a visit to an official archive of criminal records"], "counts": [23], "score": 23, "source": "brief"},
+  {"rank": 4, "text": "In my opinion, a sanction that (1) is imposed on everyone who commits a criminal offense", "speaker": "Stevens", "source": "brief", "score": 0, "reason": "Not searched."},
+  {"rank": 5, "text": "And meriting heaviest weight in my judgment, the Act makes no provision whatever for the possibility of rehabilitation", "speaker": "Ginsburg", "source": "brief", "score": 0, "reason": "Not searched."}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026."}

@@ -1,0 +1,9 @@
+{"brief": "04_allen_v_cooper", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "But everything in Katz is about and limited to the Bankruptcy Clause; the opinion reflects what might be called bankruptcy exceptionalism.", "speaker": "Kagan", "phrases": ["bankruptcy exceptionalism"], "counts": [3], "score": 3, "source": "brief", "reason": "States the Article I rule (Katz confined to bankruptcy) that the Critique treats as the decision's central and unstable move."},
+  {"rank": 2, "text": "The slate on which we write today is anything but clean. Florida Prepaid, along with other precedent, forecloses each of Allen's arguments.", "speaker": "Kagan", "phrases": ["The slate on which we write today is anything but clean", "all but prewrote our decision today"], "counts": [1, 2], "score": 2, "source": "brief", "reason": "States the controlling-precedent thesis of the opinion."},
+  {"rank": 3, "text": "That kind of tailored statute can effectively stop States from behaving as copyright pirates.", "speaker": "Kagan", "phrases": ["digital Blackbeards"], "counts": [1], "score": 1, "source": "brief", "reason": "The roadmap dicta for a tailored Section 5 statute."},
+  {"rank": 4, "text": "If our decision in Florida Prepaid were demonstrably erroneous, the Court would be obligated", "speaker": "Thomas", "source": "brief", "reason": "Main separate-opinion point on stare decisis."},
+  {"rank": 5, "text": "In its view, Congress' power under the Intellectual Property Clause cannot support a federal law", "speaker": "Breyer", "source": "brief", "reason": "Pragmatic concurrence."}
+ ],
+ "notes": "Top CourtListener count below 10 (2020 decision rarely quoted verbatim); ranked by judgment."}

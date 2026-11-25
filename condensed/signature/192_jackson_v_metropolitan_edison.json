@@ -1,0 +1,9 @@
+{"brief": "192_jackson_v_metropolitan_edison", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "But the inquiry must be whether there is a sufficiently close nexus between the State and the challenged action of the regulated entity", "speaker": "Rehnquist", "phrases": ["sufficiently close nexus between the State and the challenged action of the regulated entity"], "counts": [384], "score": 384, "source": "brief"},
+  {"rank": 2, "text": "We have, of course, found state action present in the exercise by a private entity of powers traditionally exclusively reserved to the State.", "speaker": "Rehnquist", "phrases": ["powers traditionally exclusively reserved to the State"], "counts": [145], "score": 145, "source": "brief"},
+  {"rank": 3, "text": "Approval by a state utility commission of such a request from a regulated utility, where the commission has not put its own weight", "speaker": "Rehnquist", "phrases": ["has not put its own weight on the side of the proposed practice"], "counts": [53], "score": 53, "source": "brief"},
+  {"rank": 4, "text": "It is not enough to examine seriatim each of the factors upon which a claimant relies", "speaker": "Douglas", "phrases": [], "counts": [], "score": 0, "source": "brief"},
+  {"rank": 5, "text": "The values of pluralism and diversity are simply not relevant when the private company is the only electric company in town.", "speaker": "Marshall", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Rank 1 led by 2.6x; dissents not searched."}

@@ -1,0 +1,9 @@
+{"brief": "146_united_states_v_rahimi", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Taken together, the surety and going armed laws confirm what common sense suggests: When an individual poses a clear threat of physical violence to another, the threatening individual may be disarmed.", "speaker": "Roberts, for the Court", "phrases": ["the threatening individual may be disarmed"], "counts": [77], "score": 77, "source": "brief"},
+  {"rank": 2, "text": "Rather, we conclude only this: An individual found by a court to pose a credible threat to the physical safety of another may be temporarily disarmed consistent with the Second Amendment.", "speaker": "Roberts, for the Court", "phrases": ["may be temporarily disarmed consistent with the Second Amendment"], "counts": [35], "score": 35, "source": "brief"},
+  {"rank": 3, "text": "Nevertheless, some courts have misunderstood the methodology of our recent Second Amendment cases. These precedents were not meant to suggest a law trapped in amber.", "speaker": "Roberts, for the Court", "phrases": ["were not meant to suggest a law trapped in amber"], "counts": [28], "score": 28, "source": "brief"},
+  {"rank": 4, "text": "Analogical reasoning under Bruen demands a wider lens: Historical regulations reveal a principle, not a mold.", "speaker": "Barrett, concurring", "phrases": ["Historical regulations reveal a principle, not a mold"], "counts": [11], "score": 11, "source": "brief"},
+  {"rank": 5, "text": "Not a single historical regulation justifies the statute at issue, 18 U.S.C. 922(g)(8). Therefore, I respectfully dissent.", "speaker": "Thomas, dissenting", "source": "brief", "notes": "not searched"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. A 2024 decision, but counts clear the judgment threshold."}

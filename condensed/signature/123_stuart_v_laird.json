@@ -1,0 +1,59 @@
+{
+ "brief": "123_stuart_v_laird",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "To this objection, which is of recent date, it is sufficient to observe, that practice and acquiescence under it",
+   "speaker": "Paterson",
+   "source": "brief",
+   "phrases": [
+    "practice and acquiescence under it for a period of several years"
+   ],
+   "counts": [
+    34
+   ],
+   "score": 34
+  },
+  {
+   "rank": 2,
+   "text": "It is a contemporary interpretation of the most forcible nature. This practical exposition is too strong and obstinate",
+   "speaker": "Paterson",
+   "source": "brief",
+   "phrases": [
+    "contemporary interpretation of the most forcible nature"
+   ],
+   "counts": [
+    32
+   ],
+   "score": 32
+  },
+  {
+   "rank": 3,
+   "text": "Congress have constitutional authority to establish from time to time such inferior tribunals as they may think proper",
+   "speaker": "Paterson",
+   "source": "brief",
+   "phrases": [
+    "no words in the constitution to prohibit or restrain the exercise of legislative power"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2
+  },
+  {
+   "rank": 4,
+   "text": "The forthcoming bond is an appendage to the cause, or rather a component part of the proceedings",
+   "speaker": "Paterson",
+   "source": "brief",
+   "phrases": [
+    "forthcoming bond is an appendage to the cause"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1
+  }
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026; top two near tie (34 vs 32)."
+}

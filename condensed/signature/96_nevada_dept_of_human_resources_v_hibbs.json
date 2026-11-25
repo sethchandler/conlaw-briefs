@@ -1,0 +1,9 @@
+{"brief": "96_nevada_dept_of_human_resources_v_hibbs", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Stereotypes about women's domestic roles are reinforced by parallel stereotypes presuming a lack of domestic responsibilities for men", "speaker": "Rehnquist", "phrases": ["self-fulfilling cycle of discrimination"], "counts": [10], "score": 10, "source": "brief"},
+  {"rank": 2, "text": "By setting a minimum standard of family leave for all eligible employees, irrespective of gender, the FMLA attacks", "speaker": "Rehnquist", "phrases": ["attacks the formerly state-sanctioned stereotype"], "counts": [8], "score": 8, "source": "brief"},
+  {"rank": 3, "text": "Unlike the statutes at issue in City of Boerne, Kimel, and Garrett, which applied broadly to every aspect", "speaker": "Rehnquist", "phrases": ["narrowly targeted at the faultline between work and family", "faultline between work and family"], "counts": [2, 3], "score": 3, "source": "brief"},
+  {"rank": 4, "text": "The constitutional violation that is a prerequisite to `prophylactic' congressional action", "speaker": "Scalia (dissent)", "phrases": ["There is no guilt by association, enabling the sovereignty of one State"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 5, "text": "The Court is unable to show that States have engaged in a pattern of unlawful conduct", "speaker": "Kennedy (dissent)", "source": "brief", "reason": "Not searched."}
+ ],
+ "notes": "Low counts; top count (10) at the threshold, so ranked by count."}

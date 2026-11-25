@@ -1,0 +1,8 @@
+{"brief": "253_penn_central_transportation_co_v_nyc", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "In engaging in these essentially ad hoc, factual inquiries, the Court's decisions have identified several factors that have particular significance", "speaker": "Brennan", "phrases": ["interfered with distinct investment-backed expectations"], "counts": [755], "score": 755, "source": "brief"},
+  {"rank": 2, "text": "`Taking' jurisprudence does not divide a single parcel into discrete segments and attempt to determine whether rights", "speaker": "Brennan", "phrases": ["does not divide a single parcel into discrete segments"], "counts": [127], "score": 127, "source": "brief"},
+  {"rank": 3, "text": "Appellees have imposed a substantial cost on less than one one-tenth of one percent of the buildings in New York City", "speaker": "Rehnquist", "phrases": ["less than one one-tenth of one percent of the buildings"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 4, "text": "Penn Central is prevented from further developing its property basically because too good a job was done", "speaker": "Rehnquist", "phrases": ["too good a job was done in designing and building it"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "Ranked by citation count; the three-factor passage leads by far. The two dissent passages tie at 1; the reciprocity-of-burden passage is ranked first as the dissent's legal core."}

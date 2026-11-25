@@ -1,0 +1,9 @@
+{"brief": "64_jones_v_alfred_h_mayer_co", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Surely Congress has the power under the Thirteenth Amendment rationally to determine what are the badges and the incidents of slavery", "speaker": "Stewart", "phrases": ["rationally to determine what are the badges and the incidents of slavery", "translate that determination into effective legislation"], "counts": [30, 43], "score": 43, "source": "brief"},
+  {"rank": 2, "text": "We hold that \\S~1982 bars all racial discrimination, private as well as public, in the sale or rental of property", "speaker": "Stewart", "phrases": ["bars all racial discrimination, private as well as public"], "counts": [33], "score": 33, "source": "brief"},
+  {"rank": 3, "text": "At the very least, the freedom that Congress is empowered to secure under the Thirteenth Amendment includes the freedom to buy whatever a white man can buy", "speaker": "Stewart", "phrases": ["freedom to buy whatever a white man can buy", "made a promise the Nation cannot keep"], "counts": [15, 12], "score": 15, "source": "brief"},
+  {"rank": 4, "text": "Some badges of slavery remain today. While the institution has been outlawed, it has remained in the minds and hearts of many white men.", "speaker": "Douglas", "phrases": [], "counts": [], "score": 0, "source": "brief"},
+  {"rank": 5, "text": "The decision in this case appears to me to be most ill-considered and ill-advised.", "speaker": "Harlan", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Close counts among the top three; separate opinions not searched."}

@@ -1,0 +1,9 @@
+{"brief": "43_fletcher_v_peck", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "A contract executed, as well as one which is executory, contains obligations binding on the parties. A grant, in its own nature, amounts to an extinguishment of the right of the grantor, and implies a contract not to reassert that right.", "speaker": "Marshall, for the Court", "phrases": ["implies a contract not to reassert that right", "always estopped by his own grant"], "counts": [22, 18], "score": 22, "source": "brief"},
+  {"rank": 2, "text": "It is, then, the unanimous opinion of the court, that, in this case, the estate having passed into the hands of a purchaser", "speaker": "Marshall, for the Court", "phrases": ["general principles which are common to our free institutions"], "counts": [8], "score": 8, "source": "brief"},
+  {"rank": 3, "text": "Is the clause to be considered as inhibiting the state from impairing the obligation of contracts between two individuals", "speaker": "Marshall, for the Court", "phrases": ["applicable to contracts of every description", "excluding from that inhibition contracts made with itself"], "counts": [7, 2], "score": 7, "source": "brief"},
+  {"rank": 4, "text": "I do not hesitate to declare that a state does not possess the power of revoking its own grants", "speaker": "Johnson, concurring in part and dissenting in part", "phrases": ["impose laws even on the deity"], "counts": [7], "score": 7, "source": "brief"},
+  {"rank": 5, "text": "I have been very unwilling to proceed to the decision of this cause at all", "speaker": "Johnson, concurring in part and dissenting in part", "phrases": ["bear strong evidence, upon the face of it, of being a mere feigned case"], "counts": [2], "score": 2, "source": "brief"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. Tie at 7 broken in favor of the majority opinion. Considered but not nominated: 'when a law is in its nature a contract' (5)."}

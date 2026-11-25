@@ -1,0 +1,9 @@
+{"brief": "174_zivotofsky_v_kerry", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "This case is confined solely to the exclusive power of the President to control recognition determinations", "speaker": "Kennedy", "phrases": ["Congress cannot command the President to contradict an earlier recognition determination"], "counts": [2], "score": 2, "source": "brief", "reason": "States the holding and its limits; the passage Trump v. United States cites (576 U.S. at 32)."},
+  {"rank": 2, "text": "The Executive is not free from the ordinary controls and checks of Congress merely because foreign affairs are at issue", "speaker": "Kennedy", "phrases": ["It is not for the President alone to determine the whole content of the Nation's foreign policy"], "counts": [1], "score": 1, "source": "brief", "reason": "The majority's rejection of Curtiss-Wright 'sole organ' dicta, central to the critique."},
+  {"rank": 3, "text": "Today's decision is a first: Never before has this Court accepted a President's direct defiance of an Act of Congress", "speaker": "Roberts", "phrases": ["Never before has this Court accepted a President's direct defiance of an Act of Congress"], "counts": [1], "score": 1, "source": "brief", "reason": "Principal dissent's framing of the Category Three problem."},
+  {"rank": 4, "text": "Recognition is a type of legal act, not a type of statement", "speaker": "Scalia", "phrases": ["a leap worthy of the Mad Hatter"], "counts": [2], "score": 2, "source": "brief", "reason": "Statement-versus-legal-act critique."},
+  {"rank": 5, "text": "The President does have a unique role in communicating with foreign governments", "speaker": "Kennedy", "phrases": ["it is still the Legislative Branch, not the Executive Branch, that makes the law"], "counts": [7], "score": 7, "source": "brief", "reason": "General statement of congressional lawmaking power."}
+ ],
+ "notes": "Top count 7, below 10; ranked by judgment."}

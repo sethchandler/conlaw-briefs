@@ -1,0 +1,8 @@
+{"brief": "206_central_hudson_v_public_service_commission", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "In commercial speech cases, then, a four-part analysis has developed. At the outset, we must determine whether the expression is protected by the First Amendment", "speaker": "Powell", "phrases": ["In commercial speech cases, then, a four-part analysis has developed", "whether it is not more extensive than is necessary to serve that interest"], "counts": [50, 316], "score": 316, "source": "brief"},
+  {"rank": 2, "text": "The Constitution therefore accords a lesser protection to commercial speech than to other constitutionally guaranteed expression", "speaker": "Powell", "phrases": ["accords a lesser protection to commercial speech than to other constitutionally guaranteed expression"], "counts": [121], "score": 121, "source": "brief"},
+  {"rank": 3, "text": "No differences between commercial speech and other protected speech justify suppression of commercial speech in order to influence public conduct", "speaker": "Blackmun", "phrases": ["influence public conduct through manipulation of the availability of information"], "counts": [1], "score": 1, "source": "brief", "reason": "Tied with the Rehnquist dissent at 1; placed third because 44 Liquormart later echoed it."},
+  {"rank": 4, "text": "The Court in so doing returns to the bygone era of Lochner v. New York", "speaker": "Rehnquist", "phrases": ["returns to the bygone era of Lochner"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026."}

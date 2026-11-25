@@ -1,0 +1,70 @@
+{
+ "brief": "97_nysrpa_v_bruen",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "When the Second Amendment's plain text covers an individual's conduct, the Constitution presumptively protects that conduct",
+   "speaker": "Thomas",
+   "phrases": [
+    "the Constitution presumptively protects that conduct",
+    "consistent with the Nation's historical tradition of firearm regulation"
+   ],
+   "counts": [
+    304,
+    6
+   ],
+   "score": 304,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "To be clear, analogical reasoning under the Second Amendment is neither a regulatory straightjacket nor a regulatory blank check",
+   "speaker": "Thomas",
+   "phrases": [
+    "representative historical analogue, not a historical twin"
+   ],
+   "counts": [
+    99
+   ],
+   "score": 99,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Going forward, therefore, the 43 States that employ objective shall-issue licensing regimes for carrying handguns",
+   "speaker": "Kavanaugh, concurring",
+   "phrases": [
+    "employ objective shall-issue licensing regimes"
+   ],
+   "counts": [
+    17
+   ],
+   "score": 17,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "The constitutional right to bear arms in public for self-defense is not `a second-class right",
+   "speaker": "Thomas",
+   "phrases": [
+    "only after demonstrating to government officers some special need"
+   ],
+   "counts": [
+    5
+   ],
+   "score": 5,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "In my view, when courts interpret the Second Amendment, it is constitutionally proper, indeed often necessary",
+   "speaker": "Breyer, dissenting",
+   "phrases": [],
+   "counts": [],
+   "score": 0,
+   "source": "brief"
+  }
+ ],
+ "notes": "Phrases containing apostrophes undercounted on CourtListener; the apostrophe-free phrase was used for rank 1."
+}

@@ -1,0 +1,9 @@
+{"brief": "94_national_pork_producers_council_v_ross", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "Companies that choose to sell products in various States must normally comply with the laws of those various States.", "speaker": "Gorsuch (Court)", "phrases": ["Companies that choose to sell products in various States must normally comply"], "counts": [1], "score": 1, "source": "brief", "reason": "Majority's statement of the governing rule rejecting the extraterritoriality theory."},
+  {"rank": 2, "text": "How is a court supposed to compare or weigh economic costs (to some) against noneconomic benefits (to others)?", "speaker": "Gorsuch (plurality)", "source": "brief", "reason": "The incommensurability argument at the center of the fractured Pike debate in the brief's analysis and critique."},
+  {"rank": 3, "text": "The State has aggressively propounded a `California knows best' economic philosophy", "speaker": "Kavanaugh", "phrases": ["California knows best"], "counts": [3], "score": 3, "source": "brief", "reason": "Principal statement of the balkanization concern the critique discusses."},
+  {"rank": 4, "text": "Although Pike is susceptible to misapplication as a freewheeling judicial weighing of benefits and burdens", "speaker": "Roberts", "source": "brief", "reason": "Lead partial dissent preserving Pike."},
+  {"rank": 5, "text": "In short, I vote to affirm the judgment because petitioners fail to allege a substantial burden", "speaker": "Sotomayor", "source": "brief", "reason": "Concurrence."}
+ ],
+ "notes": "2023 decision: top counts 1 and 3, below 10; ranked by judgment."}

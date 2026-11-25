@@ -1,0 +1,8 @@
+{"brief": "79_martin_v_hunters_lessee", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "That motive is the importance, and even necessity, of uniformity of decisions throughout the whole United States upon all subjects within the purview of the Constitution", "speaker": "Story", "phrases": ["jarring and discordant judgments", "uniformity of decisions throughout the whole United States"], "counts": [7, 11], "score": 11, "source": "brief"},
+  {"rank": 2, "text": "The Constitution of the United States was ordained and established not by the States in their sovereign capacities", "speaker": "Story", "phrases": ["not by the States in their sovereign capacities, but emphatically"], "counts": [9], "score": 9, "source": "brief"},
+  {"rank": 3, "text": "It is the case, then, and not the court, that gives the jurisdiction", "speaker": "Story", "phrases": ["It is the case, then, and not the court, that gives the jurisdiction"], "counts": [6], "score": 6, "source": "brief"},
+  {"rank": 4, "text": "On the other hand, so firmly am I persuaded that the American people can no longer enjoy the blessings of a free government", "speaker": "Johnson (concurring)", "source": "brief", "reason": "Not searched; concurrence."}
+ ],
+ "notes": "Low, close counts (11/9/6); top count just at the threshold of 10, so ranked by count."}

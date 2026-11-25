@@ -1,0 +1,8 @@
+{"brief": "234_balzac_v_porto_rico", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "It is locality that is determinative of the application of the Constitution, in such matters as judicial procedure", "speaker": "Taft", "phrases": ["It is locality that is determinative of the application of the Constitution"], "counts": [6], "score": 6, "source": "brief", "reason": "States the case's controlling rule: locality, not citizenship."},
+  {"rank": 2, "text": "Before that, the purpose of Congress might well be a matter of mere inference from various legislative acts", "speaker": "Taft", "phrases": ["incorporation is not to be assumed without express declaration"], "counts": [4], "score": 4, "source": "brief", "reason": "The clear-statement presumption against incorporation."},
+  {"rank": 3, "text": "Congress has thought that a people like the Filipinos, or the Porto Ricans, trained to a complete judicial system which knows no juries", "speaker": "Taft", "phrases": ["this institution of Anglo-Saxon origin"], "counts": [6], "score": 6, "source": "brief", "reason": "The racialized rationale at the center of the modern critique."},
+  {"rank": 4, "text": "It is past time to acknowledge the gravity of this error and admit what we know to be true", "speaker": "Gorsuch, Vaello Madero", "phrases": ["have no foundation in the Constitution and rest instead on racial stereotypes"], "counts": [0], "score": 0, "source": "brief", "reason": "From a later case."}
+ ],
+ "notes": "Top count below 10 (6); ranked by judgment."}

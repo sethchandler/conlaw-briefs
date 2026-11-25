@@ -1,0 +1,74 @@
+{
+ "brief": "56_grutter_v_bollinger",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "We expect that 25 years from now, the use of racial preferences will no longer be necessary to further the interest approved today",
+   "speaker": "O'Connor",
+   "phrases": [
+    "25 years from now, the use of racial preferences will no longer be necessary",
+    "no longer be necessary to further the interest approved today"
+   ],
+   "counts": [
+    18,
+    19
+   ],
+   "score": 19,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "In order to cultivate a set of leaders with legitimacy in the eyes of the citizenry, it is necessary that the path to leadership be visibly open",
+   "speaker": "O'Connor",
+   "phrases": [
+    "path to leadership be visibly open"
+   ],
+   "counts": [
+    16
+   ],
+   "score": 16,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Strict scrutiny is not strict in theory, but fatal in fact. ... Context matters when reviewing race-based governmental action",
+   "speaker": "O'Connor",
+   "phrases": [
+    "Context matters when reviewing race-based governmental action"
+   ],
+   "counts": [
+    12
+   ],
+   "score": 12,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "The Constitution abhors classifications based on race, not only because those classifications can harm favored races",
+   "speaker": "Thomas",
+   "phrases": [
+    "places citizens on racial registers and makes race relevant"
+   ],
+   "counts": [
+    6
+   ],
+   "score": 6,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "Stripped of its critical mass veil, the Law School's program is revealed as a naked effort to achieve racial balancing",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "naked effort to achieve racial balancing"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. 'strict in theory, but fatal in fact' predates Grutter and was not used."
+}

@@ -1,0 +1,9 @@
+{"brief": "36_district_of_columbia_v_heller", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "nothing in our opinion should be taken to cast doubt on longstanding prohibitions on the possession of firearms by felons and the mentally ill", "speaker": "Scalia", "phrases": ["longstanding prohibitions on the possession of firearms by felons and the mentally ill"], "counts": [425], "score": 425, "source": "brief"},
+  {"rank": 2, "text": "Putting all of these textual elements together, we find that they guarantee the individual right to possess and carry weapons in case of confrontation", "speaker": "Scalia", "phrases": ["individual right to possess and carry weapons in case of confrontation"], "counts": [169], "score": 169, "source": "brief"},
+  {"rank": 3, "text": "We know of no other enumerated constitutional right whose core protection has been subjected to a freestanding", "speaker": "Scalia", "phrases": ["freestanding interest-balancing approach", "subject to future judges' assessments of its usefulness"], "counts": [42, 36], "score": 42, "source": "brief"},
+  {"rank": 4, "text": "But the enshrinement of constitutional rights necessarily takes certain policy choices off the table", "speaker": "Scalia", "phrases": ["takes certain policy choices off the table"], "counts": [41], "score": 41, "source": "brief"},
+  {"rank": 5, "text": "The Second Amendment was adopted to protect the right of the people of each of the several States", "speaker": "Stevens", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Rank 1 led by 2.5x; Stevens dissent not searched. Rank-1 text is the excerpt used in the 1- and 2-page editions."}

@@ -1,0 +1,60 @@
+{
+ "brief": "82_meyer_v_nebraska",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Without doubt, it denotes not merely freedom from bodily restraint, but also the right of the individual to contract",
+   "speaker": "McReynolds",
+   "phrases": [
+    "establish a home and bring up children"
+   ],
+   "counts": [
+    561
+   ],
+   "score": 561,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "The established doctrine is that this liberty may not be interfered with, under the guise of protecting the public interest",
+   "speaker": "McReynolds",
+   "phrases": [
+    "under the guise of protecting the public interest, by legislative action which is arbitrary"
+   ],
+   "counts": [
+    55
+   ],
+   "score": 55,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "That the State may do much, go very far, indeed, in order to improve the quality of its citizens",
+   "speaker": "McReynolds",
+   "phrases": [
+    "a desirable end cannot be promoted by prohibited means"
+   ],
+   "counts": [
+    18
+   ],
+   "score": 18,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "Although such measures have been deliberately approved by men of great genius",
+   "speaker": "McReynolds",
+   "source": "brief",
+   "reason": "Not searched: rank 1 led every other candidate by more than three to one."
+  },
+  {
+   "rank": 5,
+   "text": "I think I appreciate the objection to the law but it appears to me to present a question upon which men reasonably might differ",
+   "speaker": "Holmes",
+   "source": "brief",
+   "reason": "Not searched: rank 1 led every other candidate by more than three to one."
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026; searching stopped once rank 1 clearly led."
+}

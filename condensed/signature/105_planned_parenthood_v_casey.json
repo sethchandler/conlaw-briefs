@@ -1,0 +1,9 @@
+{"brief": "105_planned_parenthood_v_casey", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "At the heart of liberty is the right to define one's own concept of existence, of meaning, of the universe, and of the mystery of human life.", "speaker": "O'Connor, Kennedy, and Souter (joint opinion)", "phrases": ["right to define one's own concept of existence", "of the universe, and of the mystery of human life"], "counts": [38, 105], "score": 105, "source": "brief"},
+  {"rank": 2, "text": "An undue burden exists, and therefore a provision of law is invalid, if its purpose or effect is to place a substantial obstacle in the path of a woman seeking an abortion before the fetus attains viability.", "speaker": "Joint opinion (plurality)", "phrases": ["place a substantial obstacle in the path of a woman seeking an abortion before the fetus attains viability", "An undue burden exists, and therefore a provision of law is invalid"], "counts": [96, 33], "score": 96, "source": "brief"},
+  {"rank": 3, "text": "Liberty finds no refuge in a jurisprudence of doubt.", "speaker": "Joint opinion", "phrases": ["Liberty finds no refuge in a jurisprudence of doubt"], "counts": [17], "score": 17, "source": "brief"},
+  {"rank": 4, "text": "The States may, if they wish, permit abortion on demand, but the Constitution does not require them to do so.", "speaker": "Scalia", "source": "brief", "reason": "Not searched."},
+  {"rank": 5, "text": "I am 83 years old. I cannot remain on this Court forever", "speaker": "Blackmun", "source": "brief", "reason": "Not searched."}
+ ],
+ "notes": "Ranks 1 and 2 nearly tied (105 vs. 96); both canonical."}

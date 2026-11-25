@@ -1,0 +1,9 @@
+{"brief": "86_milliken_v_bradley", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "No single tradition in public education is more deeply rooted than local control over the operation of schools", "speaker": "Burger", "phrases": ["No single tradition in public education is more deeply rooted than local control"], "counts": [59], "score": 59, "source": "brief"},
+  {"rank": 2, "text": "Before the boundaries of separate and autonomous school districts may be set aside by consolidating the separate units", "speaker": "Burger", "phrases": ["produces a significant segregative effect in another district", "have been a substantial cause of inter-district segregation"], "counts": [53, 11], "score": 53, "source": "brief"},
+  {"rank": 3, "text": "We deal here with the right of all of our children, whatever their race, to an equal start in life", "speaker": "Marshall", "phrases": ["unless our children begin to learn together"], "counts": [3], "score": 3, "source": "brief"},
+  {"rank": 4, "text": "Since the mere fact of different racial compositions in contiguous districts does not itself imply", "speaker": "Stewart", "phrases": ["the mere fact of different racial compositions in contiguous districts"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 5, "text": "The core of my disagreement is that deliberate acts of segregation and their consequences will go unremedied", "speaker": "White", "phrases": ["undue administrative inconvenience to the State"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "Ranked by citation count; top two nearly tied."}

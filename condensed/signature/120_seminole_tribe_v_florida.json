@@ -1,0 +1,9 @@
+{"brief": "120_seminole_tribe_v_florida", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Even when the Constitution vests in Congress complete lawmaking authority over a particular area, the Eleventh Amendment prevents congressional authorization of suits by private parties against unconsenting States.", "speaker": "Rehnquist", "phrases": ["Article I cannot be used to circumvent the constitutional limitations placed upon federal jurisdiction"], "counts": [122], "score": 122, "source": "brief"},
+  {"rank": 2, "text": "[T]herefore, where Congress has prescribed a detailed remedial scheme for the enforcement against a State of a statutorily created right", "speaker": "Rehnquist", "phrases": ["where Congress has prescribed a detailed remedial scheme for the enforcement against a State of a statutorily created right"], "counts": [72], "score": 72, "source": "brief"},
+  {"rank": 3, "text": "The majority's opinion does not simply preclude Congress from establishing the rather curious statutory scheme", "speaker": "Stevens, dissenting", "phrases": ["from those sounding in copyright and patent law"], "counts": [11], "score": 11, "source": "brief"},
+  {"rank": 4, "text": "In holding the State of Florida immune to suit under the Indian Gaming Regulatory Act", "speaker": "Souter, dissenting", "phrases": ["holds for the first time since the founding of the Republic that Congress has no authority"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 5, "text": "The dissent's lengthy analysis of the text of the Eleventh Amendment is directed at a straw man", "speaker": "Rehnquist", "phrases": ["directed at a straw man blind reliance upon the text of the Eleventh Amendment"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "Ranks 1 and 2 are both widely quoted; rank 1 leads."}

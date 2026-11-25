@@ -1,0 +1,9 @@
+{"brief": "137_trump_v_united_states", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "We conclude that under our constitutional structure of separated powers, the nature of Presidential power requires that a former President have some immunity", "speaker": "Roberts", "phrases": ["At least with respect to the President's exercise of his core constitutional powers", "some immunity from criminal prosecution for official acts during his tenure in office"], "counts": [0, 2], "score": 2, "source": "brief", "reason": "States the Court's tripartite immunity rule."},
+  {"rank": 2, "text": "The President enjoys no immunity for his unofficial acts, and not everything the President does is official.", "speaker": "Roberts", "source": "brief", "reason": "States the limit of the rule (no immunity for unofficial acts)."},
+  {"rank": 3, "text": "The relationship between the President and the people he serves has shifted irrevocably. In every use of official power, the President is now a king above the law.", "speaker": "Sotomayor", "source": "brief", "reason": "The principal dissent's thesis, central to the critique."},
+  {"rank": 4, "text": "The Constitution does not require blinding juries to the circumstances surrounding conduct for which Presidents can be held liable.", "speaker": "Barrett", "source": "brief", "reason": "Rejects Part III-C's evidentiary bar."},
+  {"rank": 5, "text": "Thus, being immune is not like having a defense under the law. Rather, it means that the law does not apply", "speaker": "Jackson", "source": "brief", "reason": "Second dissent."}
+ ],
+ "notes": "2024 decision: top count 2, below 10; ranked by judgment."}

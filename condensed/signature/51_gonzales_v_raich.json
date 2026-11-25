@@ -1,0 +1,9 @@
+{"brief": "51_gonzales_v_raich", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "We need not determine whether respondents' activities, taken in the aggregate, substantially affect interstate commerce in fact", "speaker": "Stevens", "phrases": ["taken in the aggregate, substantially affect interstate commerce in fact, but only whether a rational basis"], "counts": [43], "score": 43, "source": "brief"},
+  {"rank": 2, "text": "Where necessary to make a regulation of interstate commerce effective, Congress may regulate even those intrastate activities", "speaker": "Scalia", "phrases": ["Congress may regulate even those intrastate activities that do not themselves substantially affect interstate commerce"], "counts": [17], "score": 17, "source": "brief"},
+  {"rank": 3, "text": "The similarities between this case and Wickard are striking. Like the farmer in Wickard", "speaker": "Stevens", "phrases": ["fungible commodity for which there is an established, albeit illegal, interstate market", "similarities between this case and Wickard are striking"], "counts": [13, 4], "score": 13, "source": "brief"},
+  {"rank": 4, "text": "If the Court is right, then Lopez stands for nothing more than a drafting guide", "speaker": "O'Connor", "phrases": ["Lopez stands for nothing more than a drafting guide"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 5, "text": "Respondents Diane Monson and Angel Raich use marijuana that has never been bought or sold", "speaker": "Thomas", "phrases": ["then it can regulate virtually anything"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026."}

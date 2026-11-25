@@ -1,0 +1,8 @@
+{"brief": "212_counterman_v_colorado", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "We hold that it does, but that a mental state of recklessness is sufficient. The State must show that the defendant consciously disregarded a substantial risk", "speaker": "Kagan, for the Court", "phrases": ["consciously disregarded a substantial risk that his communications would be viewed as threatening violence"], "counts": [22], "score": 22, "source": "brief"},
+  {"rank": 2, "text": "Yet the First Amendment may still demand a subjective mental-state requirement shielding some true threats from liability.", "speaker": "Kagan, for the Court", "phrases": ["may still demand a subjective mental-state requirement shielding some true threats from liability"], "counts": [7], "score": 7, "source": "brief"},
+  {"rank": 3, "text": "The reality is that recklessness is not grounded in law, but in a Goldilocks judgment: Recklessness is not too much, not too little", "speaker": "Barrett, dissenting", "phrases": ["recklessness is not grounded in law, but in a Goldilocks judgment"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 4, "text": "There is simply no need to reach out in this stalking case to determine whether anything more than recklessness is needed", "speaker": "Sotomayor, concurring in part and in the judgment", "phrases": ["no need to reach out in this stalking case to determine whether anything more than recklessness"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. 2023 decision; top count (22) clears the judgment threshold."}

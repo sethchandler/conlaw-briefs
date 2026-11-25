@@ -1,0 +1,72 @@
+{
+ "brief": "55_griswold_v_connecticut",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "The foregoing cases suggest that specific guarantees in the Bill of Rights have penumbras, formed by emanations",
+   "speaker": "Douglas",
+   "phrases": [
+    "penumbras, formed by emanations from those guarantees"
+   ],
+   "counts": [
+    65
+   ],
+   "score": 65,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Would we allow the police to search the sacred precincts of marital bedrooms for telltale signs",
+   "speaker": "Douglas",
+   "phrases": [
+    "sacred precincts of marital bedrooms"
+   ],
+   "counts": [
+    52
+   ],
+   "score": 52,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "I think this is an uncommonly silly law. ... But we are not asked in this case to say",
+   "speaker": "Stewart, dissenting",
+   "phrases": [
+    "uncommonly silly law"
+   ],
+   "counts": [
+    5
+   ],
+   "score": 5,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "I like my privacy as well as the next one, but I am nevertheless compelled to admit",
+   "speaker": "Black, dissenting",
+   "phrases": [
+    "I like my privacy as well as the next one"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "The Due Process Clause of the Fourteenth Amendment stands, in my opinion, on its own bottom",
+   "speaker": "Harlan, concurring",
+   "phrases": [
+    "stands, in my opinion, on its own bottom"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026."
+}

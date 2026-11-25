@@ -1,0 +1,63 @@
+{
+ "brief": "10_biden_v_nebraska",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "We hold today that the Act allows the Secretary to `waive or modify' existing statutory or regulatory provisions",
+   "speaker": "Roberts",
+   "phrases": [
+    "not to rewrite that statute from the ground up"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief",
+   "reason": "States the Court's statutory holding: waive or modify does not mean rewrite."
+  },
+  {
+   "rank": 2,
+   "text": "Rather, I understand it to emphasize the importance of context when a court interprets a delegation to an administrative agency",
+   "speaker": "Barrett, concurring",
+   "phrases": [
+    "major questions doctrine is a tool for discerning"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief",
+   "reason": "Barrett's reframing of the major questions doctrine is the most discussed passage in the scholarship the Critique cites."
+  },
+  {
+   "rank": 3,
+   "text": "The dissent is correct that this is a case about one branch of government arrogating to itself power belonging to another",
+   "speaker": "Roberts",
+   "phrases": [
+    "the Executive seizing the power of the Legislature"
+   ],
+   "counts": [
+    0
+   ],
+   "score": 0,
+   "source": "brief",
+   "reason": "Majority's separation-of-powers framing, answering the dissent."
+  },
+  {
+   "rank": 4,
+   "text": "By law and function, MOHELA is an instrumentality of Missouri: It was created by the State to further a public purpose",
+   "speaker": "Roberts",
+   "source": "brief",
+   "reason": "States the standing holding."
+  },
+  {
+   "rank": 5,
+   "text": "So in a case not a case, the majority overrides the combined judgment of the Legislative and Executive Branches",
+   "speaker": "Kagan, dissenting",
+   "source": "brief",
+   "reason": "Leading dissent."
+  }
+ ],
+ "notes": "2023 decision; top count below 10, so ranked by judgment. Counts recorded where searched."
+}

@@ -1,0 +1,9 @@
+{"brief": "30_city_of_memphis_v_greene", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "We merely hold that the impact of the closing of West Drive on nonresidents of Hein Park is a routine burden of citizenship", "speaker": "Stevens", "phrases": ["routine burden of citizenship"], "counts": [2], "score": 2, "source": "brief", "reason": "States the holding; the phrase the case is known for."},
+  {"rank": 2, "text": "Because urban neighborhoods are so frequently characterized by a common ethnic or racial heritage", "speaker": "Stevens", "phrases": ["trivialize the great purpose of that charter of freedom"], "counts": [3], "score": 3, "source": "brief", "reason": "The majority's core reason for rejecting the Thirteenth Amendment claim."},
+  {"rank": 3, "text": "Petitioner city of Memphis, acting at the behest of white property owners, has closed the main thoroughfare", "speaker": "Marshall", "phrases": ["little more than code phrases for racial discrimination"], "counts": [1], "score": 1, "source": "brief", "reason": "The dissent's framing, central to the antisubordination critique."},
+  {"rank": 4, "text": "The injury to respondents established by the record is the requirement that one public street rather than another", "speaker": "Stevens", "phrases": ["one public street rather than another must be used"], "counts": [1], "score": 1, "source": "brief", "reason": "Section 1982 holding."},
+  {"rank": 5, "text": "We have no basis for concluding anything other than that a violation of", "speaker": "White", "phrases": ["requires some showing of racial animus or an intent to discriminate"], "counts": [1], "score": 1, "source": "brief", "reason": "Concurrence on intent."}
+ ],
+ "notes": "Top count below 10, so ranked by judgment."}

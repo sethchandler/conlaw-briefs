@@ -1,0 +1,65 @@
+{
+ "brief": "249_united_states_v_comstock",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Taken together, these considerations lead us to conclude that the statute is a `necessary and proper' means",
+   "speaker": "Breyer",
+   "phrases": [
+    "maintain the security of those who are not imprisoned but who may be affected",
+    "means of exercising the federal authority that permits Congress to create federal criminal laws"
+   ],
+   "counts": [
+    4,
+    3
+   ],
+   "score": 4,
+   "source": "brief",
+   "reason": "States the Court's holding and its custodial rationale."
+  },
+  {
+   "rank": 2,
+   "text": "The Necessary and Proper Clause does not give Congress carte blanche",
+   "speaker": "Alito, concurring in the judgment",
+   "phrases": [
+    "The Necessary and Proper Clause does not give Congress carte blanche"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief",
+   "reason": "The substantial-link reading of necessary that the Critique and NFIB build on."
+  },
+  {
+   "rank": 3,
+   "text": "Concluding that a relation can be put into a verbal formulation that fits somewhere along a causal chain",
+   "speaker": "Kennedy, concurring in the judgment",
+   "phrases": [
+    "fits somewhere along a causal chain of federal powers"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief",
+   "reason": "Kennedy's warning against stand-alone rational-basis rhetoric, central to the Critique."
+  },
+  {
+   "rank": 4,
+   "text": "For the reasons explained in Part III--A--2, infra, the enumerated power that justifies a particular defendant's criminal arrest",
+   "speaker": "Thomas, dissenting",
+   "phrases": [
+    "cannot justify his subsequent civil detention under"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief",
+   "reason": "Leading dissent."
+  }
+ ],
+ "notes": "Top CourtListener count (4) below 10, so ranked by judgment. Counts recorded for the phrases searched."
+}

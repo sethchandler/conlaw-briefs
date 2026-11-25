@@ -1,0 +1,8 @@
+{"brief": "203_cohen_v_california", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "[I]t is nevertheless often true that one man's vulgarity is another's lyric", "speaker": "Harlan", "phrases": ["one man's vulgarity is another's lyric"], "counts": [58], "score": 58, "source": "brief"},
+  {"rank": 2, "text": "Those in the Los Angeles courthouse could effectively avoid further bombardment of their sensibilities simply by averting their eyes", "speaker": "Harlan", "phrases": ["bombardment of their sensibilities simply by averting their eyes"], "counts": [39], "score": 39, "source": "brief"},
+  {"rank": 3, "text": "In fact, words are often chosen as much for their emotive as their cognitive force", "speaker": "Harlan", "phrases": ["words are often chosen as much for their emotive as their cognitive force"], "counts": [32], "score": 32, "source": "brief"},
+  {"rank": 4, "text": "Finally, and in the same vein, we cannot indulge the facile assumption that one can forbid particular words", "speaker": "Harlan", "phrases": ["convenient guise for banning the expression of unpopular views"], "counts": [22], "score": 22, "source": "brief"}
+ ],
+ "notes": "Two searches timed out and succeeded on one retry each after a wait. Rank 1 text is the famous clause inside the brief's 403 U.S. at 25 quotation."}

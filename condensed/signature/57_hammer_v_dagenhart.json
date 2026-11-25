@@ -1,0 +1,12 @@
+{
+ "brief": "57_hammer_v_dagenhart",
+ "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The making of goods and the mining of coal are not commerce, nor does the fact that these things are to be afterwards shipped", "speaker": "Day", "phrases": ["The making of goods and the mining of coal are not commerce"], "counts": [17], "score": 17, "source": "brief"},
+  {"rank": 2, "text": "In interpreting the Constitution, it must never be forgotten that the Nation is made up of States", "speaker": "Day", "phrases": ["the powers not expressly delegated to the National Government are reserved"], "counts": [8], "score": 8, "source": "brief"},
+  {"rank": 3, "text": "It does not matter whether the supposed evil precedes or follows the transportation.", "speaker": "Holmes", "phrases": ["in the opinion of Congress, the transportation encourages the evil"], "counts": [5], "score": 5, "source": "brief"},
+  {"rank": 4, "text": "The grant of power to Congress over the subject of interstate commerce was to enable it to regulate such commerce", "speaker": "Day", "phrases": ["not to give it authority to control the States in their exercise of the police power over local trade and manufacture"], "counts": [3], "score": 3, "source": "brief"},
+  {"rank": 5, "text": "But if an act is within the powers specifically conferred upon Congress, it seems to me that it is not made any less constitutional", "speaker": "Holmes", "phrases": ["not made any less constitutional because of the indirect effects"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. Top count 17 (above the judgment threshold of 10)."
+}

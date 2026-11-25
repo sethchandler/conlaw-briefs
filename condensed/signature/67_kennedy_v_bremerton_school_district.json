@@ -1,0 +1,63 @@
+{
+ "brief": "67_kennedy_v_bremerton_school_district",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "In place of Lemon and the endorsement test, this Court has instructed that the Establishment Clause must be interpreted by",
+   "speaker": "Gorsuch",
+   "phrases": [
+    "In place of Lemon and the endorsement test"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4,
+   "source": "brief",
+   "reason": "States the case's rule: history and tradition replace Lemon."
+  },
+  {
+   "rank": 2,
+   "text": "The Constitution and the best of our traditions counsel mutual respect and tolerance, not censorship and suppression",
+   "speaker": "Gorsuch",
+   "phrases": [
+    "mutual respect and tolerance, not censorship and suppression"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4,
+   "source": "brief",
+   "reason": "The opinion's closing theme."
+  },
+  {
+   "rank": 3,
+   "text": "And in no world may a government entity's concerns about phantom constitutional violations justify actual violations",
+   "speaker": "Gorsuch",
+   "phrases": [
+    "phantom constitutional violations"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4,
+   "source": "brief",
+   "reason": "Rejects the District's Establishment Clause defense."
+  },
+  {
+   "rank": 4,
+   "text": "A natural reading of that sentence would seem to suggest the Clauses have",
+   "speaker": "Gorsuch",
+   "source": "brief",
+   "reason": "Complementary-clauses reasoning."
+  },
+  {
+   "rank": 5,
+   "text": "Today's decision is particularly misguided because it elevates the religious rights of a school official",
+   "speaker": "Sotomayor, dissenting",
+   "source": "brief",
+   "reason": "Leading dissent."
+  }
+ ],
+ "notes": "Counts below 10 (CourtListener phrase matches appear incomplete for this 2022 opinion), so ranked by judgment."
+}

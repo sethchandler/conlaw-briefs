@@ -1,0 +1,12 @@
+{
+ "brief": "251_trump_v_anderson",
+ "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "We conclude that States may disqualify persons holding or attempting to hold state office.", "speaker": "Per Curiam", "phrases": ["States may disqualify persons holding or attempting to hold state office", "States have no power under the Constitution to enforce Section 3 with respect to federal offices"], "counts": [3, 0], "score": 3, "source": "brief", "reason": "States the unanimous rule: state power over state offices, none over federal offices."},
+  {"rank": 2, "text": "Because the Constitution makes Congress, rather than the States, responsible for enforcing Section 3 against federal officeholders and candidates", "speaker": "Per Curiam", "phrases": ["responsible for enforcing Section 3 against federal officeholders and candidates"], "counts": [2], "score": 2, "source": "brief", "reason": "The five-Justice Section 5 holding, the Critique's main target."},
+  {"rank": 3, "text": "The Court today needed to resolve only a single question: whether an individual State may keep a Presidential candidate", "speaker": "Sotomayor, Kagan, Jackson", "source": "brief", "reason": "Joint concurrence objecting that the majority decided too much."},
+  {"rank": 4, "text": "Nothing in the Constitution requires that we endure such chaos", "speaker": "Per Curiam", "source": "brief", "reason": "The patchwork rationale."},
+  {"rank": 5, "text": "Particularly in this circumstance, writings on the Court should turn the national temperature down, not up.", "speaker": "Barrett", "phrases": ["writings on the Court should turn the national temperature down"], "counts": [3], "score": 3, "source": "brief", "reason": "Barrett's call for restraint; less central to the rule."}
+ ],
+ "notes": "2024 decision: top CourtListener count 3 (below 10); ranked by judgment."
+}

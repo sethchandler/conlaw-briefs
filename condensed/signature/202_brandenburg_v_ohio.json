@@ -1,0 +1,8 @@
+{"brief": "202_brandenburg_v_ohio", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "[T]he constitutional guarantees of free speech and free press do not permit a State to forbid or proscribe advocacy of the use of force or of law violation", "speaker": "Per curiam", "phrases": ["directed to inciting or producing imminent lawless action and is likely to incite or produce such action"], "counts": [332], "score": 332, "source": "brief"},
+  {"rank": 2, "text": "Accordingly, we are here confronted with a statute which, by its own words and as applied, purports to punish mere advocacy", "speaker": "Per curiam", "phrases": ["purports to punish mere advocacy"], "counts": [11], "score": 11, "source": "brief"},
+  {"rank": 3, "text": "The line between what is permissible and not subject to control and what may be made impermissible and subject to regulation is the line between ideas and overt acts.", "speaker": "Douglas, concurring", "phrases": ["speech is brigaded with action"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 4, "text": "[T]he mere abstract teaching . . . of the moral propriety or even moral necessity for a resort to force and violence", "speaker": "Per curiam quoting Noto", "source": "brief", "reason": "Not scored: the language is Noto v. United States (1961), predating the case."}
+ ],
+ "notes": "Rank 1 leads by far."}

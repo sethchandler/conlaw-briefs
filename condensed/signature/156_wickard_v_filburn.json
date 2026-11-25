@@ -1,0 +1,59 @@
+{
+ "brief": "156_wickard_v_filburn",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "But even if appellee's activity be local, and though it may not be regarded as commerce, it may still",
+   "speaker": "Jackson",
+   "phrases": [
+    "exerts a substantial economic effect on interstate commerce"
+   ],
+   "counts": [
+    128
+   ],
+   "score": 128,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "That appellee's own contribution to the demand for wheat may be trivial by itself is not enough to remove him",
+   "speaker": "Jackson",
+   "phrases": [
+    "taken together with that of many others similarly situated, is far from trivial"
+   ],
+   "counts": [
+    71
+   ],
+   "score": 71,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Home-grown wheat in this sense competes with wheat in commerce. The stimulation of commerce is a use of the regulatory function",
+   "speaker": "Jackson",
+   "phrases": [
+    "Home-grown wheat in this sense competes with wheat in commerce"
+   ],
+   "counts": [
+    25
+   ],
+   "score": 25,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "It is hardly lack of due process for the Government to regulate that which it subsidizes",
+   "speaker": "Jackson",
+   "phrases": [
+    "hardly lack of due process for the Government to regulate that which it subsidizes"
+   ],
+   "counts": [
+    8
+   ],
+   "score": 8,
+   "source": "brief"
+  }
+ ],
+ "notes": ""
+}

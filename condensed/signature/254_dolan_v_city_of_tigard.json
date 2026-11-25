@@ -1,0 +1,8 @@
+{"brief": "254_dolan_v_city_of_tigard", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "We think a term such as `rough proportionality' best encapsulates what we hold to be the requirement of the Fifth Amendment", "speaker": "Rehnquist, C.J., for the Court", "phrases": ["some sort of individualized determination that the required dedication is related both in nature and extent"], "counts": [64], "score": 64, "source": "brief"},
+  {"rank": 2, "text": "Under the well-settled doctrine of `unconstitutional conditions,' the government may not require a person to give up a constitutional right", "speaker": "Rehnquist, C.J., for the Court", "phrases": ["in exchange for a discretionary benefit conferred by the government where the benefit sought has little or no relationship to the property"], "counts": [29], "score": 29, "source": "brief"},
+  {"rank": 3, "text": "We see no reason why the Takings Clause of the Fifth Amendment, as much a part of the Bill of Rights as the First Amendment or Fourth Amendment", "speaker": "Rehnquist, C.J., for the Court", "phrases": ["should be relegated to the status of a poor relation"], "counts": [6], "score": 6, "source": "brief"},
+  {"rank": 4, "text": "The Court has made a serious error by abandoning the traditional presumption of constitutionality and imposing a novel burden of proof", "speaker": "Stevens, J., dissenting", "phrases": ["resurrection of a species of substantive due process analysis that it firmly rejected decades ago"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. All four candidates searched; rank follows the counts."}

@@ -1,0 +1,9 @@
+{"brief": "29_city_of_cleburne_v_cleburne_living_center", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The Equal Protection Clause of the Fourteenth Amendment commands that no State shall deny to any person within its jurisdiction the equal protection of the laws, which is essentially a direction that all persons similarly situated should be treated alike.", "speaker": "White, for the Court", "phrases": ["essentially a direction that all persons similarly situated should be treated alike"], "counts": [811], "score": 811, "source": "brief"},
+  {"rank": 2, "text": "But mere negative attitudes, or fear, unsubstantiated by factors which are properly cognizable in a zoning proceeding", "speaker": "White, for the Court", "phrases": ["mere negative attitudes, or fear"], "counts": [45], "score": 45, "source": "brief"},
+  {"rank": 3, "text": "The short of it is that requiring the permit in this case appears to us to rest on an irrational prejudice against the mentally retarded", "speaker": "White, for the Court", "phrases": ["rest on an irrational prejudice against the mentally retarded"], "counts": [36], "score": 36, "source": "brief"},
+  {"rank": 4, "text": "Rather, our cases reflect a continuum of judgmental responses to differing classifications", "speaker": "Stevens, concurring", "source": "brief", "notes": "not searched; rank-1 already led by more than 3x"},
+  {"rank": 5, "text": "To be sure, the Court does not label its handiwork heightened scrutiny", "speaker": "Marshall, concurring in part and dissenting in part", "source": "brief", "notes": "not searched"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. Searching stopped once rank 1 led by more than 3x."}

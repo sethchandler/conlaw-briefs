@@ -1,0 +1,59 @@
+{
+ "brief": "248_united_states_v_ec_knight_co",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Commerce succeeds to manufacture, and is not a part of it. That which belongs to commerce is within the jurisdiction of the United States",
+   "speaker": "Fuller",
+   "phrases": [
+    "Commerce succeeds to manufacture, and is not a part of it"
+   ],
+   "counts": [
+    23
+   ],
+   "score": 23,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Doubtless the power to control the manufacture of a given thing involves, in a certain sense, the control of its disposition",
+   "speaker": "Fuller",
+   "phrases": [
+    "affects it only incidentally and indirectly"
+   ],
+   "counts": [
+    12
+   ],
+   "score": 12,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Nevertheless it does not follow that an attempt to monopolize, or the actual monopoly of, the manufacture was an attempt",
+   "speaker": "Fuller",
+   "phrases": [
+    "the instrumentality of commerce was necessarily invoked"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "Interstate commerce does not, therefore, consist in transportation simply. It includes the purchase and sale of articles",
+   "speaker": "Harlan, dissenting",
+   "phrases": [
+    "Interstate commerce does not, therefore, consist in transportation simply"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  }
+ ],
+ "notes": ""
+}

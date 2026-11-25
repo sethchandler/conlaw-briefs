@@ -1,0 +1,8 @@
+{"brief": "218_sveen_v_melin", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "In answering that question, the Court has considered the extent to which the law undermines the contractual bargain, interferes with a party's reasonable expectations", "speaker": "Kagan", "phrases": ["undermines the contractual bargain, interferes with a party's reasonable expectations", "prevents the party from safeguarding or reinstating his rights"], "counts": [12, 35], "score": 35, "source": "brief"},
+  {"rank": 2, "text": "First, the statute is designed to reflect a policyholder's intent---and so to support, rather than impair, the contractual scheme.", "speaker": "Kagan", "phrases": ["supplies a mere default rule, which the policyholder can undo in a moment"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 3, "text": "In cases going back to the 1800s, this Court has held that laws imposing such minimal paperwork burdens do not violate the Contracts Clause.", "speaker": "Kagan", "phrases": ["imposing such minimal paperwork burdens"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 4, "text": "[The Framers] took the view that treating existing contracts as `inviolable' would benefit society", "speaker": "Gorsuch", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Rank 1 led by 35x; Gorsuch dissent not searched."}

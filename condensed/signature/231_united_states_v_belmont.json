@@ -1,0 +1,59 @@
+{
+ "brief": "231_united_states_v_belmont",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Plainly, the external powers of the United States are to be exercised without regard to state laws or policies",
+   "speaker": "Sutherland",
+   "source": "brief",
+   "phrases": [
+    "external powers of the United States are to be exercised without regard to state laws or policies"
+   ],
+   "counts": [
+    11
+   ],
+   "score": 11
+  },
+  {
+   "rank": 2,
+   "text": "There are many such compacts, of which a protocol, a modus vivendi, a postal convention, and agreements like that now under consideration",
+   "speaker": "Sutherland",
+   "source": "brief",
+   "phrases": [
+    "a protocol, a modus vivendi, a postal convention"
+   ],
+   "counts": [
+    8
+   ],
+   "score": 8
+  },
+  {
+   "rank": 3,
+   "text": "... our Constitution, laws and policies have no extraterritorial operation, unless in respect of our own citizens",
+   "speaker": "Sutherland",
+   "source": "brief",
+   "phrases": [
+    "Constitution, laws and policies have no extraterritorial operation, unless in respect of our own citizens"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4
+  },
+  {
+   "rank": 4,
+   "text": "There is nothing in either document to suggest that the United States was to acquire or exert any greater rights than its transferor",
+   "speaker": "Stone",
+   "source": "brief",
+   "phrases": [
+    "greater rights than its transferor, or that the President, by mere executive action"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4
+  }
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026; counts low and close (top 11). No nomination: a search for the unquoted 'state lines disappear' passage returned a server error, so it was not pursued."
+}

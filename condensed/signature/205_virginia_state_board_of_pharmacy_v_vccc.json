@@ -1,0 +1,8 @@
+{"brief": "205_virginia_state_board_of_pharmacy_v_vccc", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "So long as we preserve a predominantly free enterprise economy, the allocation of our resources in large measure will be made through numerous private economic decisions.", "speaker": "Blackmun", "phrases": ["the free flow of commercial information is indispensable", "keen, if not keener by far, than his interest in the day's most urgent political debate"], "counts": [62, 27], "score": 62, "source": "brief"},
+  {"rank": 2, "text": "It is precisely this kind of choice, between the dangers of suppressing information, and the dangers of its misuse if it is freely available", "speaker": "Blackmun", "phrases": ["between the dangers of suppressing information, and the dangers of its misuse"], "counts": [46], "score": 46, "source": "brief"},
+  {"rank": 3, "text": "If there is a right to advertise, there is a reciprocal right to receive the advertising, and it may be asserted by these appellees.", "speaker": "Blackmun", "phrases": ["there is a reciprocal right to receive the advertising"], "counts": [16], "score": 16, "source": "brief"},
+  {"rank": 4, "text": "[T]here is certainly nothing in the United States Constitution which requires the Virginia Legislature to hew to the teachings of Adam Smith", "speaker": "Rehnquist", "phrases": ["hew to the teachings of Adam Smith"], "counts": [2], "score": 2, "source": "brief"}
+ ],
+ "notes": "Rank 1 led rank 2 narrowly (62 vs 46). Rank-1 text is the contiguous part of the passage quoted in the 1-page edition."}

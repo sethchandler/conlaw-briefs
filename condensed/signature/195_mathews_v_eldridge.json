@@ -1,0 +1,68 @@
+{
+ "brief": "195_mathews_v_eldridge",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "More precisely, our prior decisions indicate that identification of the specific dictates of due process generally requires consideration of three distinct factors",
+   "speaker": "Powell",
+   "phrases": [
+    "the risk of an erroneous deprivation of such interest through the procedures used"
+   ],
+   "counts": [
+    2808
+   ],
+   "score": 2808,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "To be sure, credibility and veracity may be a factor in the ultimate disability assessment in some cases",
+   "speaker": "Powell",
+   "phrases": [
+    "as applied to the generality of cases, not the rare exceptions"
+   ],
+   "counts": [
+    101
+   ],
+   "score": 101,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "The judicial model of an evidentiary hearing is neither a required, nor even the most effective, method of decisionmaking",
+   "speaker": "Powell",
+   "phrases": [
+    "judicial model of an evidentiary hearing is neither a required, nor even the most effective"
+   ],
+   "counts": [
+    52
+   ],
+   "score": 52,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "Financial cost alone is not a controlling weight in determining whether due process requires a particular procedural safeguard",
+   "speaker": "Powell",
+   "phrases": [
+    "Financial cost alone is not a controlling weight"
+   ],
+   "counts": [
+    20
+   ],
+   "score": 20,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "Indeed, in the present case, it is indicated that, because disability benefits were terminated",
+   "speaker": "Brennan, dissenting",
+   "phrases": [],
+   "counts": [],
+   "score": 0,
+   "source": "brief"
+  }
+ ],
+ "notes": ""
+}

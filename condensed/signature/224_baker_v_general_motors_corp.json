@@ -1,0 +1,11 @@
+{
+ "brief": "224_baker_v_general_motors_corp",
+ "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Regarding judgments, however, the full faith and credit obligation is exacting. A final judgment in one State", "speaker": "Ginsburg", "phrases": ["no roving public policy exception to the full faith and credit due judgments", "Regarding judgments, however, the full faith and credit obligation is exacting"], "counts": [36, 13], "score": 36, "source": "brief"},
+  {"rank": 2, "text": "Full faith and credit, however, does not mean that States must adopt the practices of other States", "speaker": "Ginsburg", "phrases": ["Enforcement measures do not travel with the sister state judgment"], "counts": [32], "score": 32, "source": "brief"},
+  {"rank": 3, "text": "Most essentially, Michigan lacks authority to control courts elsewhere by precluding them", "speaker": "Ginsburg", "phrases": ["Michigan lacks authority to control courts elsewhere"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 4, "text": "The Court's reliance upon unidentified principles to justify omitting certain types of injunctions", "speaker": "Kennedy", "phrases": ["uneasy tension with its own rejection of a broad public policy exception"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026; ranks 3 and 4 tied at 1, majority placed first."
+}

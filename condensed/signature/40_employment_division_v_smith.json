@@ -1,0 +1,65 @@
+{
+ "brief": "40_employment_division_v_smith",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "We have never held that an individual's religious beliefs excuse him from compliance with an otherwise valid law",
+   "speaker": "Scalia",
+   "phrases": [
+    "religious beliefs excuse him from compliance with an otherwise valid law"
+   ],
+   "counts": [
+    80
+   ],
+   "score": 80,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "It may fairly be said that leaving accommodation to the political process will place at a relative disadvantage",
+   "speaker": "Scalia",
+   "phrases": [
+    "each conscience is a law unto itself"
+   ],
+   "counts": [
+    18
+   ],
+   "score": 18,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Precisely because `we are a cosmopolitan nation made up of people of almost every conceivable religious preference",
+   "speaker": "Scalia",
+   "phrases": [
+    "cannot afford the luxury of deeming presumptively invalid"
+   ],
+   "counts": [
+    16
+   ],
+   "score": 16,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "There is nothing talismanic about neutral laws of general applicability or general criminal prohibitions",
+   "speaker": "O'Connor",
+   "phrases": [
+    "nothing talismanic about neutral laws of general applicability"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "I do not believe the Founders thought their dearly bought freedom from religious persecution a `luxury",
+   "speaker": "Blackmun",
+   "source": "brief"
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026; one search errored (Bad Gateway) and succeeded on retry. Blackmun not searched once rank 1 led by more than 3x."
+}

@@ -1,0 +1,12 @@
+{
+ "brief": "130_the_prize_cases",
+ "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "He has no power to initiate or declare a war either against a foreign nation or a domestic State.", "speaker": "Grier", "phrases": ["not only authorized but bound to resist force by force", "has no power to initiate or declare a war"], "counts": [18, 9], "score": 18, "source": "brief"},
+  {"rank": 2, "text": "Whether the President, in fulfilling his duties as Commander-in-chief in suppressing an insurrection, has met with such armed hostile resistance", "speaker": "Grier", "phrases": ["must be governed by the decisions and acts of the political department of the Government to which this power was entrusted"], "counts": [9], "score": 9, "source": "brief"},
+  {"rank": 3, "text": "The President was bound to meet it in the shape it presented itself, without waiting for Congress to baptize it with a name", "speaker": "Grier", "phrases": ["without waiting for Congress to baptize it with a name"], "counts": [7], "score": 7, "source": "brief"},
+  {"rank": 4, "text": "For we find there that to constitute a civil war in the sense in which we are speaking", "speaker": "Nelson", "source": "brief", "reason": "Not searched; dissent ranked by judgment."},
+  {"rank": 5, "text": "I am compelled to the conclusion that no civil war existed between this Government and the States in insurrection", "speaker": "Nelson", "source": "brief", "reason": "Not searched; dissent ranked by judgment."}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026."
+}

@@ -1,0 +1,61 @@
+{
+ "brief": "141_united_states_v_darby",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "The amendment states but a truism that all is retained which has not been surrendered",
+   "speaker": "Stone",
+   "phrases": [
+    "a truism that all is retained which has not been surrendered",
+    "states but a truism that all is retained which has not been surrendered"
+   ],
+   "counts": [
+    44,
+    38
+   ],
+   "score": 44,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "The power of Congress over interstate commerce is not confined to the regulation of commerce among the states",
+   "speaker": "Stone",
+   "phrases": [
+    "so affect interstate commerce or the exercise of the power of Congress over it"
+   ],
+   "counts": [
+    36
+   ],
+   "score": 36,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Whatever their motive and purpose, regulations of commerce which do not infringe some constitutional prohibition are within the plenary power",
+   "speaker": "Stone",
+   "phrases": [
+    "Whatever their motive and purpose, regulations of commerce which do not infringe"
+   ],
+   "counts": [
+    7
+   ],
+   "score": 7,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "The conclusion is inescapable that Hammer v. Dagenhart was a departure from the principles",
+   "speaker": "Stone",
+   "phrases": [
+    "Hammer v. Dagenhart was a departure from the principles"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": ""
+}

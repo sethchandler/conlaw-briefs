@@ -1,0 +1,66 @@
+{
+ "brief": "76_lujan_v_defenders_of_wildlife",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Over the years, our cases have established that the irreducible constitutional minimum of standing contains three elements",
+   "speaker": "Scalia",
+   "source": "brief",
+   "phrases": [
+    "irreducible constitutional minimum of standing contains three elements"
+   ],
+   "counts": [
+    666
+   ],
+   "score": 666
+  },
+  {
+   "rank": 2,
+   "text": "Such `some day' intentions---without any description of concrete plans, or indeed even any specification",
+   "speaker": "Scalia",
+   "source": "brief",
+   "phrases": [
+    "without any description of concrete plans"
+   ],
+   "counts": [
+    270
+   ],
+   "score": 270
+  },
+  {
+   "rank": 3,
+   "text": "In my view, Congress has the power to define injuries and articulate chains of causation that will give rise to a case or controversy",
+   "speaker": "Kennedy",
+   "source": "brief",
+   "phrases": [
+    "define injuries and articulate chains of causation"
+   ],
+   "counts": [
+    79
+   ],
+   "score": 79
+  },
+  {
+   "rank": 4,
+   "text": "To permit Congress to convert the undifferentiated public interest in executive officers' compliance with the law into an `individual right'",
+   "speaker": "Scalia",
+   "source": "brief",
+   "phrases": [
+    "undifferentiated public interest in executive officers' compliance with the law"
+   ],
+   "counts": [
+    25
+   ],
+   "score": 25
+  },
+  {
+   "rank": 5,
+   "text": "In conclusion, I cannot join the Court on what amounts to a slash-and-burn expedition through the law of environmental standing",
+   "speaker": "Blackmun",
+   "source": "brief",
+   "reason": "not searched; rank 1 led by more than threefold"
+  }
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. Rank 1 quoted in full in the 4- and 2-page editions; its opening sentence alone in the 1-page edition."
+}

@@ -1,0 +1,60 @@
+{
+ "brief": "152_washington_v_glucksberg",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Our established method of substantive-due-process analysis has two primary features: First, we have regularly observed",
+   "speaker": "Rehnquist",
+   "source": "brief",
+   "phrases": [
+    "careful description of the asserted fundamental liberty interest"
+   ],
+   "counts": [
+    220
+   ],
+   "score": 220
+  },
+  {
+   "rank": 2,
+   "text": "That many of the rights and liberties protected by the Due Process Clause sound in personal autonomy does not warrant",
+   "speaker": "Rehnquist",
+   "source": "brief",
+   "phrases": [
+    "any and all important, intimate, and personal decisions are so protected"
+   ],
+   "counts": [
+    20
+   ],
+   "score": 20
+  },
+  {
+   "rank": 3,
+   "text": "Throughout the Nation, Americans are engaged in an earnest and profound debate about the morality, legality, and practicality",
+   "speaker": "Rehnquist",
+   "source": "brief",
+   "phrases": [
+    "earnest and profound debate about the morality, legality, and practicality"
+   ],
+   "counts": [
+    18
+   ],
+   "score": 18
+  },
+  {
+   "rank": 4,
+   "text": "There is no reason to think the democratic process will not strike the proper balance between the interests",
+   "speaker": "O'Connor",
+   "source": "brief",
+   "reason": "not searched; rank 1 led by more than threefold"
+  },
+  {
+   "rank": 5,
+   "text": "The liberty interest at stake in a case like this differs from, and is stronger than, both the common-law right",
+   "speaker": "Stevens",
+   "source": "brief",
+   "reason": "not searched; rank 1 led by more than threefold"
+  }
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. 'Deeply rooted in this Nation's history and tradition' not used (pre-Glucksberg language, Moore v. East Cleveland)."
+}

@@ -1,0 +1,72 @@
+{
+ "brief": "98_new_york_v_united_states",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "In providing for a stronger central government, therefore, the Framers explicitly chose a Constitution that confers upon Congress the power to regulate individuals",
+   "speaker": "O'Connor",
+   "phrases": [
+    "power to regulate individuals, not States"
+   ],
+   "counts": [
+    46
+   ],
+   "score": 46,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "A choice between two unconstitutionally coercive regulatory techniques is no choice at all",
+   "speaker": "O'Connor",
+   "phrases": [
+    "choice between two unconstitutionally coercive regulatory techniques"
+   ],
+   "counts": [
+    15
+   ],
+   "score": 15,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "States are not mere political subdivisions of the United States. State governments are neither regional offices",
+   "speaker": "O'Connor",
+   "phrases": [
+    "neither regional offices nor administrative agencies of the Federal Government"
+   ],
+   "counts": [
+    15
+   ],
+   "score": 15,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "We conclude that while Congress has substantial power under the Constitution to encourage the States",
+   "speaker": "O'Connor",
+   "phrases": [
+    "does not confer upon Congress the ability simply to compel the States to do so"
+   ],
+   "counts": [
+    5
+   ],
+   "score": 5,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "The ultimate irony of the decision today is that in its formalistically rigid obeisance",
+   "speaker": "White, concurring in part and dissenting in part",
+   "phrases": [
+    "formalistically rigid obeisance to federalism"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026. Ranks 2 and 3 tie at 15; the take-title holding placed second by judgment."
+}

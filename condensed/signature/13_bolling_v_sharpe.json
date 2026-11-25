@@ -1,0 +1,12 @@
+{
+ "brief": "13_bolling_v_sharpe",
+ "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The \"equal protection of the laws\" is a more explicit safeguard of prohibited unfairness than \"due process of law,\" and therefore we do not imply that the two are always interchangeable phrases. But, as this Court has recognized, discrimination may be so unjustifiable as to be violative of due process.", "speaker": "Warren", "phrases": ["discrimination may be so unjustifiable as to be violative of due process"], "counts": [68], "score": 68, "source": "brief"},
+  {"rank": 2, "text": "The Fifth Amendment, which is applicable in the District of Columbia, does not contain an equal protection clause", "speaker": "Warren", "phrases": ["equal protection and due process, both stemming from our American ideal of fairness"], "counts": [41], "score": 41, "source": "brief"},
+  {"rank": 3, "text": "Liberty under law extends to the full range of conduct which the individual is free to pursue", "speaker": "Warren", "phrases": ["Liberty under law extends to the full range of conduct"], "counts": [33], "score": 33, "source": "brief"},
+  {"rank": 4, "text": "In view of our decision that the Constitution prohibits the states from maintaining racially segregated public schools", "speaker": "Warren", "phrases": ["unthinkable that the same Constitution would impose a lesser duty"], "counts": [31], "score": 31, "source": "brief"},
+  {"rank": 5, "text": "Classifications based solely upon race must be scrutinized with particular care, since they are contrary to our traditions", "speaker": "Warren", "phrases": ["scrutinized with particular care, since they are contrary to our traditions"], "counts": [18], "score": 18, "source": "brief"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026; no candidate led by 3x, so all five searched."
+}

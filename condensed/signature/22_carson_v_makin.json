@@ -1,0 +1,9 @@
+{"brief": "22_carson_v_makin", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "In short, the prohibition on status-based discrimination under the Free Exercise Clause is not a permission to engage in use-based discrimination", "speaker": "Roberts", "phrases": ["status-based discrimination under the Free Exercise Clause is not a permission to engage in use-based discrimination"], "counts": [1], "score": 1, "source": "brief", "reason": "States the case's rule: the status/use distinction is no safe harbor from strict scrutiny."},
+  {"rank": 2, "text": "The State pays tuition for certain students at private schools---so long as the schools are not religious", "speaker": "Roberts", "phrases": ["so long as the schools are not religious. That is discrimination against religion", "That is discrimination against religion"], "counts": [0, 0], "score": 0, "source": "brief", "reason": "The opinion's summary of the constitutional wrong."},
+  {"rank": 3, "text": "Regardless of how the benefit and restriction are described, the program operates to identify and exclude otherwise eligible schools", "speaker": "Roberts", "phrases": ["identify and exclude otherwise eligible schools on the basis of their religious exercise"], "counts": [1], "score": 1, "source": "brief", "reason": "Rejects the public-education-substitute characterization."},
+  {"rank": 4, "text": "Today, the Court leads us to a place where separation of church and state becomes a constitutional violation", "speaker": "Sotomayor", "source": "brief", "reason": "Most quoted dissent line."},
+  {"rank": 5, "text": "The Court today pays almost no attention to the words in the first Clause", "speaker": "Breyer", "source": "brief", "reason": "Principal dissent."}
+ ],
+ "notes": "2022 decision: CourtListener counts below 10 (0-1); ranked by judgment."}

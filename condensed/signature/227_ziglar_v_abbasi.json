@@ -1,0 +1,8 @@
+{"brief": "227_ziglar_v_abbasi", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The proper test for determining whether a case presents a new Bivens context is as follows. If the case is different in a meaningful way", "speaker": "Kennedy, J., for the Court", "phrases": ["If the case is different in a meaningful way from previous Bivens cases decided by this Court", "different in a meaningful way from previous Bivens cases"], "counts": [16, 94], "score": 94, "source": "brief"},
+  {"rank": 2, "text": "Given the notable change in the Court's approach to recognizing implied causes of action, however, the Court has made clear that expanding the Bivens remedy", "speaker": "Kennedy, J., for the Court", "phrases": ["expanding the Bivens remedy is now a"], "counts": [90], "score": 90, "source": "brief"},
+  {"rank": 3, "text": "The necessary inference, though, is that the inquiry must concentrate on whether the Judiciary is well suited, absent congressional action or instruction", "speaker": "Kennedy, J., for the Court", "phrases": ["whether the Judiciary is well suited, absent congressional action or instruction"], "counts": [64], "score": 64, "source": "brief"},
+  {"rank": 4, "text": "Given these safeguards against undue interference by the Judiciary in times of war or national-security emergency", "speaker": "Breyer, J., dissenting", "phrases": ["If you are cold, put on a sweater"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. The three Kennedy passages are close (94, 90, 64); rank follows the counts."}

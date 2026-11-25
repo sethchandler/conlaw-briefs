@@ -1,0 +1,12 @@
+{
+ "brief": "159_wolford_v_lopez",
+ "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "This regime hobbles what the Second Amendment protects: the right of Americans to carry arms for self-defense as they go about their daily lives.", "speaker": "Alito", "phrases": ["as they go about their daily lives. We hold that the law is unconstitutional"], "counts": [1], "score": 1, "source": "brief", "reason": "States the Court's holding and the practical-burden rationale for striking the opt-in default rule."},
+  {"rank": 2, "text": "But the Second Amendment does not apply to private parties. It does apply to the States.", "speaker": "Barrett", "source": "brief", "reason": "States the state-action principle answering the property-rights framing debated in the Critique."},
+  {"rank": 3, "text": "With this decision, the Court has now manipulated Bruen into a free-for-all", "speaker": "Jackson", "source": "brief", "reason": "Principal dissent, reflecting the Critique's charge that Bruen's method is indeterminate."},
+  {"rank": 4, "text": "The `how' is identical: The new law, just like the old ones, sets a default rule against gun carry", "speaker": "Kagan", "source": "brief", "reason": "Concise step-two dissent applying Rahimi."},
+  {"rank": 5, "text": "It cannot give way to `the spirit of Aloha' in Hawaii", "speaker": "Alito", "source": "brief", "reason": "Memorable line on uniform national meaning; less central to the rule."}
+ ],
+ "notes": "June 2026 decision: CourtListener count for the holding sentence was 1 (below 10); ranked by judgment."
+}

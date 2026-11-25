@@ -1,0 +1,9 @@
+{"brief": "176_trump_v_mazars_usa_llp", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "The President is the only person who alone composes a branch of government. As a result, there is not always a clear line between his personal and official affairs.", "speaker": "Roberts", "phrases": ["only person who alone composes a branch of government"], "counts": [9], "score": 9, "source": "brief", "reason": "States why separation-of-powers scrutiny reaches a President's personal records, the premise of the case's rule; also the most quoted line."},
+  {"rank": 2, "text": "The President's unique constitutional position means that Congress may not look to him as a `case study' for general legislation.", "speaker": "Roberts", "phrases": ["may not look to him as a case study for general legislation"], "counts": [1], "score": 1, "source": "brief", "reason": "States the first Mazars factor."},
+  {"rank": 3, "text": "I would hold that Congress has no power to issue a legislative subpoena for private, nonofficial documents", "speaker": "Thomas, dissenting", "source": "brief", "reason": "Main dissent, the impeachment-channeling problem in the Critique."},
+  {"rank": 4, "text": "Congress and the President---the two political branches established by the Constitution---have an ongoing relationship", "speaker": "Roberts", "phrases": ["ongoing relationship that the Framers intended to feature both rivalry and reciprocity"], "counts": [2], "score": 2, "source": "brief", "reason": "Framing passage."},
+  {"rank": 5, "text": "Other considerations may be pertinent as well; one case every two centuries does not afford enough experience", "speaker": "Roberts", "source": "brief", "reason": "Non-exhaustive factors."}
+ ],
+ "notes": "Top count below 10; ranked by judgment."}

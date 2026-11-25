@@ -1,0 +1,9 @@
+{"brief": "33_craig_v_boren", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "To withstand constitutional challenge, previous cases establish that classifications by gender must serve important governmental objectives and must be substantially related to achievement of those objectives.", "speaker": "Brennan", "phrases": ["must serve important governmental objectives and must be substantially related to achievement of those objectives"], "counts": [219], "score": 219, "source": "brief"},
+  {"rank": 2, "text": "It is unrealistic to expect either members of the judiciary or state officials to be well versed in the rigors of experimental or statistical technique.", "speaker": "Brennan", "phrases": ["proving broad sociological propositions by statistics is a dubious business"], "counts": [19], "score": 19, "source": "brief"},
+  {"rank": 3, "text": "There is only one Equal Protection Clause. It requires every State to govern impartially.", "speaker": "Stevens, concurring", "phrases": ["There is only one Equal Protection Clause"], "counts": [8], "score": 8, "source": "brief"},
+  {"rank": 4, "text": "The Court's conclusion that a law which treats males less favorably than females", "speaker": "Rehnquist, dissenting", "source": "brief"},
+  {"rank": 5, "text": "But even assuming some such slight benefit, it does not seem to me that an insult to all of the young men", "speaker": "Stevens, concurring", "source": "brief"}
+ ],
+ "notes": "Rank 1 exceeded three times every other searched candidate; ranks 4-5 not searched after the stop rule applied."}

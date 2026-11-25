@@ -1,0 +1,68 @@
+{
+ "brief": "80_mcculloch_v_maryland",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Let the end be legitimate, let it be within the scope of the Constitution, and all means which are appropriate",
+   "speaker": "Marshall",
+   "phrases": [
+    "let the end be legitimate"
+   ],
+   "counts": [
+    255
+   ],
+   "score": 255,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "That the power to tax involves the power to destroy; that the power to destroy may defeat and render useless the power to create",
+   "speaker": "Marshall",
+   "phrases": [
+    "power to tax involves the power to destroy"
+   ],
+   "counts": [
+    247
+   ],
+   "score": 247,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Its nature, therefore, requires that only its great outlines should be marked, its important objects designated",
+   "speaker": "Marshall",
+   "phrases": [
+    "a constitution we are expounding"
+   ],
+   "counts": [
+    192
+   ],
+   "score": 192,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "This provision is made in a Constitution intended to endure for ages to come",
+   "speaker": "Marshall",
+   "phrases": [
+    "intended to endure for ages to come"
+   ],
+   "counts": [
+    114
+   ],
+   "score": 114,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "The result is a conviction that the States have no power, by taxation or otherwise, to retard, impede, burden",
+   "speaker": "Marshall",
+   "phrases": [],
+   "counts": [],
+   "score": 0,
+   "source": "brief"
+  }
+ ],
+ "notes": "Counts for the first three from the Nov. 25, 2026 validation; 'endure for ages' counted for this ranking."
+}

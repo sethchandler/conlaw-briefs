@@ -1,0 +1,72 @@
+{
+ "brief": "26_church_of_the_lukumi_babalu_aye_v_hialeah",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Official action that targets religious conduct for distinctive treatment cannot be shielded by mere compliance with the requirement of facial neutrality",
+   "speaker": "Kennedy",
+   "phrases": [
+    "governmental hostility which is masked as well as overt"
+   ],
+   "counts": [
+    37
+   ],
+   "score": 37,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "The Free Exercise Clause commits government itself to religious tolerance, and upon even slight suspicion",
+   "speaker": "Kennedy",
+   "phrases": [
+    "upon even slight suspicion that proposals for state intervention stem from animosity"
+   ],
+   "counts": [
+    13
+   ],
+   "score": 13,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "The compelling interest standard that we apply once a law fails to meet the Smith requirements",
+   "speaker": "Kennedy",
+   "phrases": [
+    "compelling interest standard that we apply once a law fails to meet the Smith requirements"
+   ],
+   "counts": [
+    6
+   ],
+   "score": 6,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "The First Amendment does not refer to the purposes for which legislators enact laws",
+   "speaker": "Scalia",
+   "phrases": [
+    "does not put us in the business of invalidating laws by reason of the evil motives"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "Neutral, generally applicable laws, drafted as they are from the perspective of the nonadherent",
+   "speaker": "Souter",
+   "phrases": [
+    "putting the believer to a choice between God and government"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026."
+}

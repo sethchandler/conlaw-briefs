@@ -1,0 +1,62 @@
+{
+ "brief": "262_shurtleff_v_city_of_boston",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "In answering these questions, we conduct a holistic inquiry designed to determine whether the government intends to speak for itself",
+   "speaker": "Breyer",
+   "phrases": [
+    "holistic inquiry designed to determine whether the government intends to speak for itself"
+   ],
+   "counts": [
+    9
+   ],
+   "score": 9,
+   "source": "brief",
+   "reason": "States the Court's government-speech test."
+  },
+  {
+   "rank": 2,
+   "text": "All told, while the historical practice of flag flying at government buildings favors Boston",
+   "speaker": "Breyer",
+   "phrases": [
+    "lack of meaningful involvement in the selection of flags"
+   ],
+   "counts": [
+    5
+   ],
+   "score": 5,
+   "source": "brief",
+   "reason": "Applies the test and states the holding."
+  },
+  {
+   "rank": 3,
+   "text": "To avoid a spurious First Amendment problem, Boston wound up inviting a real one",
+   "speaker": "Gorsuch, concurring in the judgment",
+   "phrases": [
+    "To avoid a spurious First Amendment problem, Boston wound up inviting a real one"
+   ],
+   "counts": [
+    0
+   ],
+   "score": 0,
+   "source": "brief",
+   "reason": "Most discussed separate opinion, urging the burial of Lemon."
+  },
+  {
+   "rank": 4,
+   "text": "Under the Constitution, a government may not treat religious persons, religious organizations, or religious speech as second-class",
+   "speaker": "Kavanaugh, concurring",
+   "phrases": [
+    "religious organizations, or religious speech as second-class"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  }
+ ],
+ "notes": "Top CourtListener count (9) below 10, so ranked by judgment. Counts recorded for the phrases searched."
+}

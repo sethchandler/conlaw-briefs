@@ -1,0 +1,9 @@
+{"brief": "110_regents_of_uc_v_bakke", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The guarantee of equal protection cannot mean one thing when applied to one individual and something else when applied to a person of another color", "speaker": "Powell", "phrases": ["cannot mean one thing when applied to one individual and something else when applied to a person of another color"], "counts": [54], "score": 54, "source": "brief"},
+  {"rank": 2, "text": "Preferring members of any one group for no reason other than race or ethnic origin is discrimination for its own sake", "speaker": "Powell", "phrases": ["discrimination for its own sake. This the Constitution forbids"], "counts": [25], "score": 25, "source": "brief"},
+  {"rank": 3, "text": "In such an admissions program, race or ethnic background may be deemed a `plus' in a particular applicant's file", "speaker": "Powell", "phrases": ["does not insulate the individual from comparison with all other candidates for the available seats"], "counts": [21], "score": 21, "source": "brief"},
+  {"rank": 4, "text": "In order to get beyond racism, we must first take account of race", "speaker": "Blackmun", "phrases": ["In order to get beyond racism, we must first take account of race"], "counts": [17], "score": 17, "source": "brief"},
+  {"rank": 5, "text": "the meaning of the Title VI ban on exclusion is crystal clear", "speaker": "Stevens", "source": "brief", "score": 0, "reason": "Not searched."}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026."}

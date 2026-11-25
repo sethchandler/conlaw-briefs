@@ -1,0 +1,9 @@
+{"brief": "108_printz_v_united_states", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The Federal Government may neither issue directives requiring the States to address particular problems, nor command the States' officers", "speaker": "Scalia", "phrases": ["Congress cannot circumvent that prohibition by conscripting the State's officers directly", "nor command the States' officers, or those of their political subdivisions"], "counts": [10, 53], "score": 53, "source": "brief"},
+  {"rank": 2, "text": "The power of the Federal Government would be augmented immeasurably if it were able to impress into its service", "speaker": "Scalia", "phrases": ["impress into its service--and at no cost to itself--the police officers", "augmented immeasurably"], "counts": [5, 2], "score": 5, "source": "brief"},
+  {"rank": 3, "text": "When a `La[w] . . . for carrying into Execution' the Commerce Clause violates the principle of state sovereignty", "speaker": "Scalia", "phrases": ["principle of state sovereignty reflected in the various constitutional provisions"], "counts": [3], "score": 3, "source": "brief"},
+  {"rank": 4, "text": "There is not a clause, sentence, or paragraph in the entire text of the Constitution of the United States", "speaker": "Stevens", "phrases": ["local police officer can ignore a command contained in a statute enacted by Congress"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 5, "text": "At least some other countries, facing the same basic problem, have found that local control is better maintained", "speaker": "Breyer", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Rank 1 led by more than 10x; Breyer not searched. Rank-1 text is the sentence quoted in the 1-page edition."}

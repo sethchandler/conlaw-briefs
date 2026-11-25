@@ -1,0 +1,8 @@
+{"brief": "187_south_central_timber_v_wunnicke", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "There is no talismanic significance to the phrase `expressly stated,' however; it merely states one way of meeting the requirement", "speaker": "White", "phrases": ["There is no talismanic significance to the phrase", "congressional intent must be unmistakably clear"], "counts": [7, 37], "score": 37, "source": "brief"},
+  {"rank": 2, "text": "The limit of the market participant doctrine must be that it allows a State to impose burdens on commerce", "speaker": "White (plurality)", "phrases": ["allows a State to impose burdens on commerce within the market in which it is a participant"], "counts": [24], "score": 24, "source": "brief"},
+  {"rank": 3, "text": "The fact that the state policy in this case appears to be consistent with federal policy", "speaker": "White", "phrases": ["is an insufficient indicium of congressional intent"], "counts": [11], "score": 11, "source": "brief"},
+  {"rank": 4, "text": "Alaska is merely paying the buyer of the timber indirectly, by means of a reduced price", "speaker": "Rehnquist", "phrases": ["Alaska is merely paying the buyer of the timber indirectly"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "Ranked by citation count; top two close."}

@@ -1,0 +1,12 @@
+{
+ "brief": "116_rust_v_sullivan",
+ "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The Government can, without violating the Constitution, selectively fund a program to encourage certain activities it believes to be in the public interest", "speaker": "Rehnquist", "phrases": ["selectively fund a program to encourage certain activities it believes to be in the public interest"], "counts": [62], "score": 62, "source": "brief"},
+  {"rank": 2, "text": "The Secretary's regulations do not force the Title X grantee to give up abortion-related speech", "speaker": "Rehnquist", "phrases": ["keep such activities separate and distinct from Title X activities"], "counts": [11], "score": 11, "source": "brief"},
+  {"rank": 3, "text": "When Congress established a National Endowment for Democracy to encourage other countries to adopt democratic principles", "speaker": "Rehnquist", "phrases": ["competing lines of political philosophy such as Communism and Fascism"], "counts": [6], "score": 6, "source": "brief"},
+  {"rank": 4, "text": "Until today, the Court never has upheld viewpoint-based suppression of speech simply because that suppression was a condition", "speaker": "Blackmun", "phrases": ["never has upheld viewpoint-based suppression of speech simply because that suppression was a condition"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 5, "text": "If we rule solely on statutory grounds, Congress retains the power to force the constitutional question", "speaker": "O'Connor", "source": "brief", "reason": "Not searched; rank 1 led every searched candidate by more than 3x."}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026."
+}

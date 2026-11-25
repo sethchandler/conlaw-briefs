@@ -1,0 +1,66 @@
+{
+ "brief": "157_williamson_v_lee_optical",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "But the law need not be in every respect logically consistent with its aims to be constitutional",
+   "speaker": "Douglas",
+   "phrases": [
+    "evil at hand for correction"
+   ],
+   "counts": [
+    250
+   ],
+   "score": 250,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "The problem of legislative classification is a perennial one, admitting of no doctrinaire definition",
+   "speaker": "Douglas",
+   "phrases": [
+    "perennial one, admitting of no doctrinaire definition"
+   ],
+   "counts": [
+    105
+   ],
+   "score": 105,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "The day is gone when this Court uses the Due Process Clause of the Fourteenth Amendment to strike down state laws",
+   "speaker": "Douglas",
+   "phrases": [
+    "The day is gone when this Court uses the Due Process Clause"
+   ],
+   "counts": [
+    87
+   ],
+   "score": 87,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "The Oklahoma law may exact a needless, wasteful requirement in many cases",
+   "speaker": "Douglas",
+   "phrases": [
+    "may exact a needless, wasteful requirement in many cases"
+   ],
+   "counts": [
+    30
+   ],
+   "score": 30,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "For protection against abuses by legislatures, the people must resort to the polls, not to the courts",
+   "speaker": "Douglas (quoting Munn)",
+   "source": "brief",
+   "reason": "Stock language from Munn v. Illinois (1876)."
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026. The Munn v. Illinois passage is stock language predating the case and was not scored."
+}

@@ -1,0 +1,9 @@
+{"brief": "138_united_public_workers_v_mitchell", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "The powers granted by the Constitution to the Federal Government are subtracted from the totality of sovereignty originally in the states and the people", "speaker": "Reed", "phrases": ["If granted power is found, necessarily the objection of invasion of those rights", "subtracted from the totality of sovereignty originally in the states and the people"], "counts": [5, 3], "score": 5, "source": "brief", "reason": "States the Ninth and Tenth Amendment rule that the brief's Critique (Barnett, Lash) treats as central."},
+  {"rank": 2, "text": "The determination of the extent to which political activities of governmental employees shall be regulated lies primarily with Congress", "speaker": "Reed", "phrases": ["passes beyond the generally existing conception of governmental power"], "counts": [4], "score": 4, "source": "brief", "reason": "States the deferential merits standard applied to the Hatch Act."},
+  {"rank": 3, "text": "The section of the Act here held valid reduces the constitutionally protected liberty of several million citizens to less than a shadow of its substance", "speaker": "Black", "source": "brief", "reason": "Principal dissent."},
+  {"rank": 4, "text": "Absent coercion, improper use of government position or government funds, or neglect or inefficiency in the performance of duty", "speaker": "Douglas", "phrases": ["They are not second-class citizens"], "counts": [1], "score": 1, "source": "brief", "reason": "Partial dissent."},
+  {"rank": 5, "text": "In that Act, Congress put a limit to the time within which a case may be docketed here", "speaker": "Frankfurter", "source": "brief", "reason": "Jurisdictional concurrence."}
+ ],
+ "notes": "Top CourtListener count 5 (below 10); ranked by judgment."}

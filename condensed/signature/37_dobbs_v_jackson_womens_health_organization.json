@@ -1,0 +1,9 @@
+{"brief": "37_dobbs_v_jackson_womens_health_organization", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "We hold that Roe and Casey must be overruled. The Constitution makes no reference to abortion, and no such right is implicitly protected by any constitutional provision", "speaker": "Alito", "phrases": ["The Constitution makes no reference to abortion"], "counts": [5], "score": 5, "source": "brief", "reason": "States the holding and rule: no constitutional right to abortion; Roe and Casey overruled."},
+  {"rank": 2, "text": "Roe was egregiously wrong from the start. Its reasoning was exceptionally weak, and the decision has had damaging consequences", "speaker": "Alito", "phrases": ["Roe was egregiously wrong from the start", "return the issue of abortion to the people's elected representatives"], "counts": [6, 0], "score": 6, "source": "brief", "reason": "The majority's stare decisis verdict, the most quoted line of the opinion."},
+  {"rank": 3, "text": "With sorrow---for this Court, but more, for the many millions of American women who have today lost a fundamental constitutional protection---we dissent", "speaker": "Breyer, Sotomayor, and Kagan", "source": "brief", "reason": "Principal dissent's signature line."},
+  {"rank": 4, "text": "On the question of abortion, the Constitution is therefore neither pro-life nor pro-choice", "speaker": "Kavanaugh", "phrases": ["neither pro-life nor pro-choice"], "counts": [1], "score": 1, "source": "brief", "reason": "Concurrence's neutrality framing."},
+  {"rank": 5, "text": "If it is not necessary to decide more to dispose of a case, then it is necessary not to decide more", "speaker": "Roberts", "source": "brief", "reason": "Stock Roberts line predating the case; not searched."}
+ ],
+ "notes": "2022 decision: top CourtListener count 6 (below 10); ranked by judgment."}

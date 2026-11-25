@@ -1,0 +1,9 @@
+{"brief": "88_moore_v_city_of_east_cleveland", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Our decisions establish that the Constitution protects the sanctity of the family precisely because the institution of the family is deeply rooted in this Nation's history and tradition", "speaker": "Powell, J., plurality", "phrases": ["protects the sanctity of the family precisely because the institution of the family is deeply rooted"], "counts": [201], "score": 201, "source": "brief"},
+  {"rank": 2, "text": "The Judiciary, including this Court, is the most vulnerable and comes nearest to illegitimacy when it deals with judge-made constitutional law", "speaker": "White, J., dissenting", "phrases": ["comes nearest to illegitimacy when it deals with judge-made constitutional law"], "counts": [63], "score": 63, "source": "brief"},
+  {"rank": 3, "text": "East Cleveland, in contrast, has chosen to regulate the occupancy of its housing by slicing deeply into the family itself", "speaker": "Powell, J., plurality", "phrases": ["slicing deeply into the family itself"], "counts": [14], "score": 14, "source": "brief"},
+  {"rank": 4, "text": "Appropriate limits on substantive due process come not from drawing arbitrary lines, but rather from careful", "speaker": "Powell, J., plurality", "phrases": ["Appropriate limits on substantive due process come not from drawing arbitrary lines"], "counts": [13], "score": 13, "source": "brief"},
+  {"rank": 5, "text": "The Constitution cannot be interpreted, however, to tolerate the imposition by government upon the rest of us of white suburbia's preference", "speaker": "Brennan, J., concurring", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. Rank 1 leads by more than threefold (201 vs. 63); Brennan concurrence not searched."}

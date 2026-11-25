@@ -1,0 +1,8 @@
+{"brief": "216_united_states_v_brown", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The best available evidence, the writings of the architects of our constitutional system, indicates that the Bill of Attainder Clause", "speaker": "Warren", "phrases": ["general safeguard against legislative exercise of the judicial function"], "counts": [62], "score": 62, "source": "brief"},
+  {"rank": 2, "text": "It would be archaic to limit the definition of punishment to retribution. Punishment serves several purposes", "speaker": "Warren", "phrases": ["It would be archaic to limit the definition of"], "counts": [12], "score": 12, "source": "brief"},
+  {"rank": 3, "text": "We do not hold today that Congress cannot weed dangerous persons out of the labor movement", "speaker": "Warren", "phrases": ["Congress must accomplish such results by rules of general applicability"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 4, "text": "In the Court's view, therefore, 504 is too narrow in specifying the particular class", "speaker": "White", "phrases": ["is too narrow in specifying the particular class; but it is also too broad"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "All four brief quotations searched."}

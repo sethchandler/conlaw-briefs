@@ -1,0 +1,8 @@
+{"brief": "125_tandon_v_newsom", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "First, government regulations are not neutral and generally applicable, and therefore trigger strict scrutiny under the Free Exercise Clause", "speaker": "Per Curiam", "phrases": ["whenever they treat any comparable secular activity more favorably than religious exercise"], "counts": [19], "score": 19, "source": "brief"},
+  {"rank": 2, "text": "Comparability is concerned with the risks various activities pose, not the reasons why people gather", "speaker": "Per Curiam", "phrases": ["Comparability is concerned with the risks various activities pose, not the reasons why people gather"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 3, "text": "As the per curiam's reliance on separate opinions and unreasoned orders signals, the law does not require that the State equally treat apples and watermelons", "speaker": "Kagan", "phrases": ["equally treat apples and watermelons"], "counts": [0], "score": 0, "source": "brief"},
+  {"rank": 4, "text": "The State cannot `assume the worst when people go to worship but assume the best when people go to work.'", "speaker": "Per Curiam (quoting Roberts v. Neace)", "source": "brief", "score": 0, "reason": "Not scored: quoted from a 2020 Sixth Circuit opinion that predates the case."}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026; rank 1 leads by more than three times."}

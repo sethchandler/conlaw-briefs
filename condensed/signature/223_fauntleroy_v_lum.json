@@ -1,0 +1,61 @@
+{
+ "brief": "223_fauntleroy_v_lum",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "A judgment is conclusive as to all the media concludendi, and it needs no authority to show that it cannot be impeached",
+   "speaker": "Holmes",
+   "phrases": [
+    "cannot be impeached in Mississippi even if it went upon a misapprehension",
+    "impeached either in or out of the state by showing that it was based upon a mistake of law"
+   ],
+   "counts": [
+    5,
+    15
+   ],
+   "score": 15,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "No doubt it sometimes may be difficult to decide whether certain words in a statute are directed to jurisdiction or to merits",
+   "speaker": "Holmes",
+   "phrases": [
+    "One goes to the power, the other only to the duty, of the court"
+   ],
+   "counts": [
+    11
+   ],
+   "score": 11,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "When it affects a court of general jurisdiction and deals with a matter upon which that court must pass",
+   "speaker": "Holmes",
+   "phrases": [
+    "slow to read ambiguous words as meaning to leave the judgment open to dispute"
+   ],
+   "counts": [
+    10
+   ],
+   "score": 10,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "Although not wishing in the slightest degree to weaken the operation of the due faith and credit clause",
+   "speaker": "White",
+   "phrases": [
+    "obliterate all state lines"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026."
+}

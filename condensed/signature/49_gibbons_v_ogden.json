@@ -1,0 +1,9 @@
+{"brief": "49_gibbons_v_ogden", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "It is the power to regulate; that is, to prescribe the rule by which commerce is to be governed", "speaker": "Marshall", "phrases": ["complete in itself, may be exercised to its utmost extent"], "counts": [188], "score": 188, "source": "brief"},
+  {"rank": 2, "text": "Commerce, undoubtedly, is traffic, but it is something more: it is intercourse", "speaker": "Marshall", "phrases": ["Commerce, undoubtedly, is traffic, but it is something more"], "counts": [95], "score": 95, "source": "brief"},
+  {"rank": 3, "text": "The enumeration presupposes something not enumerated; and that something, if we regard the language or the subject of the sentence", "speaker": "Marshall", "phrases": ["The enumeration presupposes something not enumerated"], "counts": [35], "score": 35, "source": "brief"},
+  {"rank": 4, "text": "The word `among' means intermingled with. A thing which is among others is intermingled with them", "speaker": "Marshall", "phrases": ["cannot stop at the external boundary line of each State"], "counts": [27], "score": 27, "source": "brief"},
+  {"rank": 5, "text": "And since the power to prescribe the limits to its freedom necessarily implies the power to determine what shall remain unrestrained", "speaker": "Johnson", "phrases": ["it can reside but in one potentate"], "counts": [5], "score": 5, "source": "brief"}
+ ],
+ "notes": "Rank 1 led rank 2 by about 2x; all five candidates searched."}

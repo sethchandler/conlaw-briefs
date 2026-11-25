@@ -1,0 +1,9 @@
+{"brief": "132_timbs_v_indiana", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Incorporated Bill of Rights guarantees are `enforced against the States under the Fourteenth Amendment according to the same standards", "speaker": "Ginsburg", "phrases": ["there is no daylight between the federal and state conduct it prohibits or requires"], "counts": [16], "score": 16, "source": "brief"},
+  {"rank": 2, "text": "For good reason, the protection against excessive fines has been a constant shield throughout Anglo-American history", "speaker": "Ginsburg", "phrases": ["Exorbitant tolls undermine other constitutional liberties"], "counts": [4], "score": 4, "source": "brief"},
+  {"rank": 3, "text": "In considering whether the Fourteenth Amendment incorporates a protection contained in the Bill of Rights, we ask whether the right guaranteed", "speaker": "Ginsburg", "phrases": ["not each and every particular application of that right"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 4, "text": "As an original matter, I acknowledge, the appropriate vehicle for incorporation may well be", "speaker": "Gorsuch", "source": "brief", "reason": "Not searched; leader already exceeds three times the others."},
+  {"rank": 5, "text": "Instead of reading the Fourteenth Amendment's Due Process Clause to encompass a substantive right", "speaker": "Thomas", "source": "brief", "reason": "Not searched."}
+ ],
+ "notes": "Ranked by citation count; the 'no daylight' phrase is Timbs's own (the first sentence quotes McDonald)."}

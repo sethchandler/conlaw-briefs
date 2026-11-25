@@ -1,0 +1,8 @@
+{"brief": "232_united_states_v_pink", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Power to remove such obstacles to full recognition as settlement of claims of our nationals ... certainly is a modest implied power of the President", "speaker": "Douglas", "phrases": ["modest implied power of the President"], "counts": [15], "score": 15, "source": "brief"},
+  {"rank": 2, "text": "Enforcement of such state policies would indeed tend to restore some of the precise impediments to friendly relations", "speaker": "Douglas", "phrases": ["restore some of the precise impediments to friendly relations"], "counts": [3], "score": 3, "source": "brief"},
+  {"rank": 3, "text": "Legal ideas like other organisms cannot survive severance from their congenial environment.", "speaker": "Frankfurter", "phrases": ["Legal ideas like other organisms cannot survive severance from their congenial environment"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 4, "text": "What another country has done in the way of taking over property of its nationals, and especially of its corporations", "speaker": "Douglas (quoting Belmont)", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Rank 1 led by 5x. The Belmont passage was not searched because it is stock language from the earlier Belmont decision."}

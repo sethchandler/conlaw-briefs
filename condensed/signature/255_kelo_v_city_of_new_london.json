@@ -1,0 +1,8 @@
+{"brief": "255_kelo_v_city_of_new_london", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "Promoting economic development is a traditional and long accepted function of government.", "speaker": "Stevens", "phrases": ["Promoting economic development is a traditional and long accepted function of government"], "counts": [8], "score": 8, "source": "brief", "reason": "States the case's holding that economic development is a public purpose, with the federal-floor coda."},
+  {"rank": 2, "text": "A court applying rational-basis review under the Public Use Clause should strike down a taking that, by a clear showing, is intended to favor a particular private party", "speaker": "Kennedy, concurring", "phrases": ["intended to favor a particular private party, with only incidental or pretextual public benefits"], "counts": [7], "score": 7, "source": "brief", "reason": "The pretext limit, the subject of the Critique."},
+  {"rank": 3, "text": "The specter of condemnation hangs over all property. Nothing is to prevent the State from replacing any Motel 6 with a Ritz-Carlton", "speaker": "O'Connor, dissenting", "phrases": ["specter of condemnation hangs over all property", "replacing any Motel 6 with a Ritz-Carlton"], "counts": [1, 1], "score": 1, "source": "brief", "reason": "Principal dissent."},
+  {"rank": 4, "text": "The most natural reading of the Clause is that it allows the government to take property only if the government owns", "speaker": "Thomas, dissenting", "source": "brief", "reason": "Originalist dissent."}
+ ],
+ "notes": "Top count below 10 (one search timed out and was retried once); ranked by judgment."}

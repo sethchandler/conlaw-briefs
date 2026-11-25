@@ -1,0 +1,79 @@
+{
+ "brief": "93_nfib_v_sebelius",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "The Framers gave Congress the power to regulate commerce, not to compel it, and for over 200 years both our decisions and Congress's actions have reflected this understanding",
+   "speaker": "Roberts",
+   "phrases": [
+    "the power to regulate commerce, not to compel it"
+   ],
+   "counts": [
+    6
+   ],
+   "score": 6,
+   "source": "brief",
+   "reason": "States the activity/inactivity limit on the commerce power that the Critique's scholarship (Barnett; Harvard Law Review Note) treats as the case's central doctrinal move."
+  },
+  {
+   "rank": 2,
+   "text": "In this case, the financial `inducement' Congress has chosen is much more than `relatively mild encouragement'---it is a gun to the head",
+   "speaker": "Roberts (plurality)",
+   "phrases": [
+    "economic dragooning that leaves the States with no real option",
+    "it is a gun to the head"
+   ],
+   "counts": [
+    8,
+    3
+   ],
+   "score": 8,
+   "source": "brief",
+   "reason": "States the Spending Clause coercion rule, the decision's most consequential new limit (Greve; coverage-gap critiques)."
+  },
+  {
+   "rank": 3,
+   "text": "The Affordable Care Act's requirement that certain individuals pay a financial penalty for not obtaining health insurance may reasonably be characterized as a tax",
+   "speaker": "Roberts",
+   "phrases": [
+    "may reasonably be characterized as a tax"
+   ],
+   "counts": [
+    5
+   ],
+   "score": 5,
+   "source": "brief",
+   "reason": "The taxing-power holding that sustained the mandate."
+  },
+  {
+   "rank": 4,
+   "text": "The Chief Justice's crabbed reading of the Commerce Clause harks back to the era in which the Court routinely thwarted Congress' efforts",
+   "speaker": "Ginsburg",
+   "phrases": [
+    "crabbed reading of the Commerce Clause"
+   ],
+   "counts": [
+    4
+   ],
+   "score": 4,
+   "source": "brief",
+   "reason": "Leading separate opinion's rebuttal."
+  },
+  {
+   "rank": 5,
+   "text": "The Act before us here exceeds federal power both in mandating the purchase of health insurance and in denying non-consenting States all Medicaid funding",
+   "speaker": "Joint dissent",
+   "phrases": [
+    "it must follow that the entire statute is inoperative"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief",
+   "reason": "Joint dissent's severability conclusion."
+  }
+ ],
+ "notes": "CourtListener counts (Nov. 25, 2026) all below 10 (top 8), so ranked by judgment per the guide; counts recorded for reference."
+}

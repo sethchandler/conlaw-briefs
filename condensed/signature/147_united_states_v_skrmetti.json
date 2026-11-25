@@ -1,0 +1,9 @@
+{"brief": "147_united_states_v_skrmetti", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "In the medical context, the mere use of sex-based language does not sweep a statute within the reach of heightened scrutiny", "speaker": "Roberts", "phrases": ["the mere use of sex-based language does not sweep a statute"], "counts": [3], "score": 3, "source": "brief", "reason": "States the case's rule on sex classification in the medical context; the Redburn critique of 'double deference' targets it."},
+  {"rank": 2, "text": "The Equal Protection Clause does not resolve these disagreements. Nor does it afford us license to decide them as we see best", "speaker": "Roberts", "phrases": ["we leave questions regarding its policy to the people, their elected representatives"], "counts": [2], "score": 2, "source": "brief", "reason": "States the rational-basis disposition and democratic-deference theme praised by defenders."},
+  {"rank": 3, "text": "The Court's willingness to do so here does irrevocable damage to the Equal Protection Clause and invites legislatures", "speaker": "Sotomayor", "source": "brief", "reason": "Principal dissent's central charge, echoed by progressive critics."},
+  {"rank": 4, "text": "The Equal Protection Clause does not demand heightened judicial scrutiny of laws that classify based on transgender status", "speaker": "Barrett", "source": "brief", "reason": "Answers the question the majority left open."},
+  {"rank": 5, "text": "This case carries a simple lesson: In politically contentious debates over matters shrouded in scientific uncertainty", "speaker": "Thomas", "phrases": ["courts should not assume that self-described experts are correct"], "counts": [2], "score": 2, "source": "brief", "reason": "Concurrence on medical consensus."}
+ ],
+ "notes": "2025 decision; top count below 10, ranked by judgment."}

@@ -1,0 +1,8 @@
+{"brief": "214_zelman_v_simmons_harris", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "[W]here a government aid program is neutral with respect to religion, and provides assistance directly to a broad class of citizens", "speaker": "Rehnquist, C.J., for the Court", "phrases": ["wholly as a result of their own genuine and independent private choice"], "counts": [30], "score": 30, "source": "brief"},
+  {"rank": 2, "text": "The constitutionality of a neutral educational aid program simply does not turn on whether and why, in a particular area, at a particular time", "speaker": "Rehnquist, C.J., for the Court", "phrases": ["simply does not turn on whether and why, in a particular area, at a particular time"], "counts": [11], "score": 11, "source": "brief"},
+  {"rank": 3, "text": "The criterion is one of genuinely free choice on the part of the private individuals who choose, and a Hobson's choice is not a choice", "speaker": "Souter, J., dissenting", "phrases": ["a Hobson's choice is not a choice, whatever the reason for being Hobsonian"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 4, "text": "There would be a tragic irony in converting the Fourteenth Amendment's guarantee of individual liberty into a prohibition on the exercise of educational choice", "speaker": "Thomas, J., concurring", "phrases": ["tragic irony in converting the Fourteenth Amendment's guarantee of individual liberty"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. All four candidates searched; rank follows the counts."}

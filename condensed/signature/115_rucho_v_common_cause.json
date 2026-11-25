@@ -1,0 +1,68 @@
+{
+ "brief": "115_rucho_v_common_cause",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Excessive partisanship in districting leads to results that reasonably seem unjust. But the fact that such gerrymandering is incompatible with democratic principles",
+   "speaker": "Roberts",
+   "phrases": [
+    "partisan gerrymandering claims present political questions beyond the reach of the federal courts",
+    "Excessive partisanship in districting leads to results that reasonably seem unjust"
+   ],
+   "counts": [
+    12,
+    1
+   ],
+   "score": 12,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "No one can accuse this Court of having a crabbed view of the reach of its competence",
+   "speaker": "Roberts",
+   "phrases": [
+    "we have no commission to allocate political power and influence"
+   ],
+   "counts": [
+    5
+   ],
+   "score": 5,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "For the first time ever, this Court refuses to remedy a constitutional violation because it thinks the task beyond judicial capabilities",
+   "speaker": "Kagan",
+   "phrases": [
+    "refuses to remedy a constitutional violation because it thinks the task beyond judicial capabilities"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "Our conclusion does not condone excessive partisan gerrymandering",
+   "speaker": "Roberts",
+   "phrases": [
+    "Our conclusion does not condone excessive partisan gerrymandering"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "Of all times to abandon the Court's duty to declare the law, this was not the one",
+   "speaker": "Kagan",
+   "source": "brief",
+   "reason": "Not searched; peroration of the dissent."
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. Ranks 3 and 4 tied at 2; the principal dissent's opening line placed third."
+}

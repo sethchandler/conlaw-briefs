@@ -1,0 +1,9 @@
+{"brief": "199_wisconsin_v_yoder", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The essence of all that has been said and written on the subject is that only those interests of the highest order and those not otherwise served can overbalance legitimate claims to the free exercise of religion.", "speaker": "Burger, for the Court", "phrases": ["only those interests of the highest order and those not otherwise served can overbalance"], "counts": [110], "score": 110, "source": "brief"},
+  {"rank": 2, "text": "A way of life, however virtuous and admirable, may not be interposed as a barrier to reasonable state regulation of education", "speaker": "Burger, for the Court", "phrases": ["may not be interposed as a barrier to reasonable state regulation of education if it is based on purely secular considerations"], "counts": [36], "score": 36, "source": "brief"},
+  {"rank": 3, "text": "A regulation neutral on its face may, in its application, nonetheless offend the constitutional requirement for governmental neutrality", "speaker": "Burger, for the Court", "phrases": ["A regulation neutral on its face may, in its application, nonetheless offend the constitutional requirement for governmental neutrality"], "counts": [34], "score": 34, "source": "brief"},
+  {"rank": 4, "text": "As the record shows, compulsory school attendance to age 16 for Amish children carries with it a very real threat", "speaker": "Burger, for the Court", "source": "brief", "notes": "not searched; rank 1 led by 3x"},
+  {"rank": 5, "text": "It is the future of the student, not the future of the parents, that is imperiled by today's decision.", "speaker": "Douglas, dissenting in part", "source": "brief", "notes": "not searched"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026."}

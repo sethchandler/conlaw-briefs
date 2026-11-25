@@ -1,0 +1,72 @@
+{
+ "brief": "197_plyler_v_doe",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "Section 21.031 imposes a lifetime hardship on a discrete class of children not accountable for their disabling status",
+   "speaker": "Brennan",
+   "phrases": [
+    "lifetime hardship on a discrete class of children not accountable for their disabling status",
+    "can hardly be considered rational unless it furthers some substantial goal of the State"
+   ],
+   "counts": [
+    29,
+    22
+   ],
+   "score": 29,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Public education is not a right granted to individuals by the Constitution",
+   "speaker": "Brennan",
+   "phrases": [
+    "governmental benefit indistinguishable from other forms of social welfare legislation",
+    "lasting impact of its deprivation on the life of the child"
+   ],
+   "counts": [
+    29,
+    18
+   ],
+   "score": 29,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "It is difficult to understand precisely what the State hopes to achieve by promoting the creation and perpetuation of a subclass of illiterates",
+   "speaker": "Brennan",
+   "phrases": [
+    "creation and perpetuation of a subclass of illiterates"
+   ],
+   "counts": [
+    7
+   ],
+   "score": 7,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "Use of the phrase within its jurisdiction thus does not detract from, but rather confirms, the understanding",
+   "speaker": "Brennan",
+   "phrases": [
+    "anyone, citizen or stranger, who is subject to the laws of a State",
+    "reaches into every corner of a State's territory"
+   ],
+   "counts": [
+    4,
+    1
+   ],
+   "score": 4,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "Were it our business to set the Nation's social policy, I would agree without hesitation",
+   "speaker": "Burger",
+   "source": "brief",
+   "reason": "Not searched; 'Platonic Guardians' is Learned Hand's phrase and predates the case."
+  }
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026. Ranks 1 and 2 tied at 29; the passage stating the 'substantial goal' test placed first."
+}

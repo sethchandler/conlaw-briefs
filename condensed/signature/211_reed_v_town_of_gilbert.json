@@ -1,0 +1,11 @@
+{
+ "brief": "211_reed_v_town_of_gilbert",
+ "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Content-based laws---those that target speech based on its communicative content---are presumptively unconstitutional", "speaker": "Thomas", "phrases": ["those that target speech based on its communicative content"], "counts": [106], "score": 106, "source": "brief"},
+  {"rank": 2, "text": "A law that is content based on its face is subject to strict scrutiny regardless of the government's benign motive", "speaker": "Thomas", "phrases": ["strict scrutiny regardless of the government's benign motive, content-neutral justification", "A law that is content based on its face is subject to strict scrutiny"], "counts": [16, 58], "score": 58, "source": "brief"},
+  {"rank": 3, "text": "Thus, a speech regulation targeted at specific subject matter is content based even if it does not discriminate among viewpoints", "speaker": "Thomas", "phrases": ["content based even if it does not discriminate among viewpoints within that subject matter"], "counts": [32], "score": 32, "source": "brief"},
+  {"rank": 4, "text": "The Town of Gilbert's defense of its sign ordinance---most notably, the law's distinctions between directional signs and others", "speaker": "Kagan", "phrases": ["veritable Supreme Board of Sign Review"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026."
+}

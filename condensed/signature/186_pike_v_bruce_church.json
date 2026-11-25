@@ -1,0 +1,8 @@
+{"brief": "186_pike_v_bruce_church", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Although the criteria for determining the validity of state statutes affecting interstate commerce have been variously stated, the general rule that emerges can be phrased as follows", "speaker": "Stewart, for the Court", "phrases": ["clearly excessive in relation to the putative local benefits"], "counts": [1198], "score": 1198, "source": "brief"},
+  {"rank": 2, "text": "The nature of that burden is, constitutionally, more significant than its extent. For the Court has viewed with particular suspicion state statutes", "speaker": "Stewart, for the Court", "phrases": ["requiring business operations to be performed in the home State that could more efficiently be performed elsewhere"], "counts": [38], "score": 38, "source": "brief"},
+  {"rank": 3, "text": "While the order issued under the Arizona statute does not impose such rigidity on an entire industry, it does impose just such a straitjacket", "speaker": "Stewart, for the Court", "phrases": ["impose just such a straitjacket on the appellee company"], "counts": [2], "score": 2, "source": "brief"},
+  {"rank": 4, "text": "The appellant's order would forbid the company to pack its cantaloupes outside Arizona not for the purpose of keeping the reputation", "speaker": "Stewart, for the Court", "phrases": ["reflected good will of the company's superior produce"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026. The balancing test dominates."}

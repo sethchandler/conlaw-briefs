@@ -1,0 +1,8 @@
+{"brief": "155_whole_womans_health_v_jackson", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "Consistent with historical practice, a federal court exercising its equitable authority may enjoin named defendants from taking specified unlawful actions", "speaker": "Gorsuch", "phrases": ["enjoin challenged laws themselves", "lawfully enjoin the world at large"], "counts": [7, 11], "score": 7, "source": "brief", "reason": "States the case's equitable rule limiting Ex parte Young relief; the 11 for 'enjoin the world at large' is excluded as stock language predating the case."},
+  {"rank": 2, "text": "The clear purpose and actual effect of S. B. 8 has been to nullify this Court's rulings", "speaker": "Roberts", "phrases": ["The clear purpose and actual effect of S. B. 8"], "counts": [3], "score": 3, "source": "brief", "reason": "The Chief Justice's nullification warning, central to the remedies critique."},
+  {"rank": 3, "text": "As Ex parte Young put it, `an injunction against a state court' or its `machinery'", "speaker": "Gorsuch", "phrases": ["would be a violation of the whole scheme of our Government"], "counts": [6], "score": 6, "source": "brief", "reason": "Grounds the unanimous dismissal of state judges; phrase quotes Ex parte Young itself."},
+  {"rank": 4, "text": "By foreclosing suit against state-court officials and the state attorney general, the Court effectively invites other States", "speaker": "Sotomayor", "phrases": ["refine S. B. 8's model for nullifying federal rights"], "counts": [3], "score": 3, "source": "brief", "reason": "Dissent's vigilante-federalism warning."}
+ ],
+ "notes": "Top count below 10 once pre-existing stock phrases are excluded; ranked by judgment."}

@@ -1,0 +1,60 @@
+{
+ "brief": "128_texas_v_johnson",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "If there is a bedrock principle underlying the First Amendment, it is that the government may not prohibit the expression of an idea",
+   "speaker": "Brennan",
+   "phrases": [
+    "If there is a bedrock principle underlying the First Amendment"
+   ],
+   "counts": [
+    131
+   ],
+   "score": 131,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "The hard fact is that sometimes we must make decisions we do not like",
+   "speaker": "Kennedy, concurring",
+   "phrases": [
+    "sometimes we must make decisions we do not like"
+   ],
+   "counts": [
+    22
+   ],
+   "score": 22,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "We do not consecrate the flag by punishing its desecration, for in doing so we dilute the freedom",
+   "speaker": "Brennan",
+   "phrases": [
+    "We do not consecrate the flag by punishing its desecration",
+    "dilute the freedom that this cherished emblem represents"
+   ],
+   "counts": [
+    2,
+    4
+   ],
+   "score": 4,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "In holding this Texas statute unconstitutional, the Court ignores Justice Holmes' familiar aphorism",
+   "speaker": "Rehnquist, dissenting",
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "The creation of a federal right to post bulletin boards and graffiti on the Washington Monument",
+   "speaker": "Stevens, dissenting",
+   "source": "brief"
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026. Searching stopped once rank 1 led by more than 3x; Rehnquist and Stevens candidates unsearched, ordered by judgment."
+}

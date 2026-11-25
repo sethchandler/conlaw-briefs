@@ -1,0 +1,8 @@
+{"brief": "16_brown_v_board_of_education_i", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Today, education is perhaps the most important function of state and local governments", "speaker": "Warren", "phrases": ["education is perhaps the most important function of state and local governments"], "counts": [227], "score": 227, "source": "brief"},
+  {"rank": 2, "text": "We conclude that in the field of public education the doctrine of \"separate but equal\" has no place. Separate educational facilities are inherently unequal", "speaker": "Warren", "phrases": ["Separate educational facilities are inherently unequal", "in the field of public education the doctrine of"], "counts": [124, 114], "score": 124, "source": "brief"},
+  {"rank": 3, "text": "To separate them from others of similar age and qualifications solely because of their race generates a feeling of inferiority", "speaker": "Warren", "phrases": ["affect their hearts and minds in a way unlikely ever to be undone"], "counts": [107], "score": 107, "source": "brief"},
+  {"rank": 4, "text": "In approaching this problem, we cannot turn the clock back to 1868 when the Amendment was adopted", "speaker": "Warren", "phrases": ["cannot turn the clock back to 1868"], "counts": [21], "score": 21, "source": "brief"}
+ ],
+ "notes": "No candidate reached three times every other; all four searched. The education passage leads on count."}

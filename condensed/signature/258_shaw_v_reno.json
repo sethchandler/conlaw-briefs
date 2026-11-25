@@ -1,0 +1,8 @@
+{"brief": "258_shaw_v_reno", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Racial gerrymandering, even for remedial purposes, may balkanize us into competing racial factions", "speaker": "O'Connor", "phrases": ["may balkanize us into competing racial factions"], "counts": [31], "score": 31, "source": "brief"},
+  {"rank": 2, "text": "When a district obviously is created solely to effectuate the perceived common interests of one racial group", "speaker": "O'Connor", "phrases": ["their primary obligation is to represent only the members of that group"], "counts": [28], "score": 28, "source": "brief"},
+  {"rank": 3, "text": "Put differently, we believe that reapportionment is one area in which appearances do matter.", "speaker": "O'Connor", "phrases": ["bears an uncomfortable resemblance to political apartheid", "reapportionment is one area in which appearances do matter", "widely separated by geographical and political boundaries"], "counts": [26, 13, 25], "score": 26, "source": "brief"},
+  {"rank": 4, "text": "Nonetheless, the notion that North Carolina's plan, under which whites remain a voting majority", "speaker": "White", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Top three nearly tied (31, 28, 26); ranked by count. White dissent not searched."}

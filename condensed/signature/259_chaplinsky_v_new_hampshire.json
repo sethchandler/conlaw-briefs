@@ -1,0 +1,8 @@
+{"brief": "259_chaplinsky_v_new_hampshire", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "These include the lewd and obscene, the profane, the libelous, and the insulting or `fighting' words---those which by their very utterance inflict injury", "speaker": "Murphy", "phrases": ["by their very utterance inflict injury or tend to incite an immediate breach of the peace"], "counts": [534], "score": 534, "source": "brief"},
+  {"rank": 2, "text": "Allowing the broadest scope to the language and purpose of the Fourteenth Amendment, it is well understood that the right of free speech is not absolute", "speaker": "Murphy", "phrases": ["well-defined and narrowly limited classes of speech, the prevention and punishment of which"], "counts": [326], "score": 326, "source": "brief"},
+  {"rank": 3, "text": "The test is what men of common intelligence would understand would be words likely to cause an average addressee to fight", "speaker": "Murphy (quoting the New Hampshire Supreme Court)", "phrases": ["words likely to cause an average addressee to fight"], "counts": [75], "score": 75, "source": "brief"},
+  {"rank": 4, "text": "Argument is unnecessary to demonstrate that the appellations `damned racketeer' and `damned Fascist' are epithets", "speaker": "Murphy", "source": "brief", "score": 0, "reason": "Not searched."}
+ ],
+ "notes": "Counts from CourtListener phrase searches, Nov. 25, 2026."}

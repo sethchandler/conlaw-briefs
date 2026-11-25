@@ -1,0 +1,9 @@
+{"brief": "75_loving_v_virginia", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "The freedom to marry has long been recognized as one of the vital personal rights essential to the orderly pursuit of happiness by free men", "speaker": "Warren", "phrases": ["vital personal rights essential to the orderly pursuit of happiness"], "counts": [115], "score": 115, "source": "brief"},
+  {"rank": 2, "text": "Under our Constitution, the freedom to marry, or not marry, a person of another race resides with the individual", "speaker": "Warren", "phrases": ["freedom to marry, or not marry, a person of another race"], "counts": [30], "score": 30, "source": "brief"},
+  {"rank": 3, "text": "At the very least, the Equal Protection Clause demands that racial classifications, especially suspect in criminal statutes", "speaker": "Warren", "phrases": ["especially suspect in criminal statutes, be subjected to the", "necessary to the accomplishment of some permissible state objective"], "counts": [10, 22], "score": 22, "source": "brief"},
+  {"rank": 4, "text": "There is patently no legitimate overriding purpose independent of invidious racial discrimination which justifies this classification", "speaker": "Warren", "phrases": ["measures designed to maintain White Supremacy"], "counts": [7], "score": 7, "source": "brief"},
+  {"rank": 5, "text": "I have previously expressed the belief that it is simply not possible for a state law to be valid", "speaker": "Stewart", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Rank 1 exceeded three times every other count; Stewart quotation (itself quoting McLaughlin) not searched."}

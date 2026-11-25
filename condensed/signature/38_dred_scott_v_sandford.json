@@ -1,0 +1,9 @@
+{"brief": "38_dred_scott_v_sandford", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "They had for more than a century before been regarded as beings of an inferior order", "speaker": "Taney", "phrases": ["no rights which the white man was bound to respect"], "counts": [28], "score": 28, "source": "brief"},
+  {"rank": 2, "text": "And an act of Congress which deprives a citizen of the United States of his liberty or property", "speaker": "Taney", "phrases": ["could hardly be dignified with the name of due process of law"], "counts": [7], "score": 7, "source": "brief"},
+  {"rank": 3, "text": "The truth is that citizenship, under the Constitution of the United States, is not dependent on the possession", "speaker": "Curtis (dissent)", "phrases": ["is not dependent on the possession of any particular political or even of all civil rights"], "counts": [4], "score": 4, "source": "brief"},
+  {"rank": 4, "text": "[T]he right of property in a slave is distinctly and expressly affirmed in the Constitution", "speaker": "Taney", "phrases": ["distinctly and expressly affirmed in the Constitution"], "counts": [4], "score": 4, "source": "brief"},
+  {"rank": 5, "text": "And my opinion is, that, under the Constitution of the United States, every free person born on the soil of a State", "speaker": "Curtis (dissent)", "phrases": ["every free person born on the soil of a State"], "counts": [4], "score": 4, "source": "brief"}
+ ],
+ "notes": "Rank 1 leads clearly (28 vs 7). Three-way tie at 4 for rank 3; Curtis's citizenship passage placed third so the 4-page edition carries the leading dissent."}

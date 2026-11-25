@@ -1,0 +1,12 @@
+{
+ "brief": "42_fitzpatrick_v_bitzer",
+ "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "But we think that the Eleventh Amendment, and the principle of state sovereignty which it embodies", "speaker": "Rehnquist", "phrases": ["necessarily limited by the enforcement provisions of"], "counts": [96], "score": 96, "source": "brief"},
+  {"rank": 2, "text": "When Congress acts pursuant to § 5, not only is it exercising legislative authority that is plenary within the terms of the constitutional grant", "speaker": "Rehnquist", "phrases": ["provide for private suits against States or state officials which are constitutionally impermissible in other contexts"], "counts": [80], "score": 80, "source": "brief"},
+  {"rank": 3, "text": "The legislation considered in each case was grounded on the expansion of Congress' powers", "speaker": "Rehnquist", "phrases": ["with the corresponding diminution of state sovereignty"], "counts": [8], "score": 8, "source": "brief"},
+  {"rank": 4, "text": "In that circumstance, Connecticut may not invoke the Eleventh Amendment, since that Amendment bars only federal court suits", "speaker": "Brennan", "phrases": ["nonconstitutional but ancient doctrine of sovereign immunity"], "counts": [5], "score": 5, "source": "brief"},
+  {"rank": 5, "text": "In my opinion the commerce power is broad enough to support federal legislation regulating the terms and conditions of state employment", "speaker": "Stevens", "source": "brief", "reason": "Not searched; separate concurrence, ranked last by judgment."}
+ ],
+ "notes": "CourtListener phrase counts, Nov. 25, 2026."
+}

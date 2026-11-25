@@ -1,0 +1,72 @@
+{
+ "brief": "183_south_dakota_v_dole",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "These cases establish that the `independent constitutional bar' limitation on the spending power is not",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "induce the States to engage in activities that would themselves be unconstitutional"
+   ],
+   "counts": [
+    44
+   ],
+   "score": 44,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Thus, objectives not thought to be within Article I's `enumerated legislative fields,'",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "may nevertheless be attained through the use of the spending power and the conditional grant"
+   ],
+   "counts": [
+    20
+   ],
+   "score": 20,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "Our decisions have recognized that, in some circumstances, the financial inducement offered by Congress",
+   "speaker": "Rehnquist",
+   "phrases": [
+    "relatively mild encouragement to the States"
+   ],
+   "counts": [
+    18
+   ],
+   "score": 18,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "When Congress appropriates money to build a highway, it is entitled to insist that the highway be a safe one",
+   "speaker": "O'Connor, dissenting",
+   "phrases": [
+    "attenuated or tangential relationship to highway use or safety"
+   ],
+   "counts": [
+    3
+   ],
+   "score": 3,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "Since States possess this constitutional power, Congress cannot condition a federal grant",
+   "speaker": "Brennan, dissenting",
+   "phrases": [
+    "The Amendment, itself, strikes the proper balance between federal and state authority"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026. 'Pressure turns into compulsion' (Steward Machine, 1937) treated as stock language; rank 3 scored on 'relatively mild encouragement'."
+}

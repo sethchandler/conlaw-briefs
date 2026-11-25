@@ -1,0 +1,9 @@
+{"brief": "05_allen_v_wright", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "More important, the law of Art. III standing is built on a single basic idea --- the idea of separation of powers", "speaker": "O'Connor", "phrases": ["standing is built on a single basic idea"], "counts": [92], "score": 92, "source": "brief"},
+  {"rank": 2, "text": "If the abstract stigmatic injury were cognizable, standing would extend nationwide to all members", "speaker": "O'Connor", "phrases": ["abstract stigmatic injury were cognizable", "A black person in Hawaii could challenge"], "counts": [9, 6], "score": 9, "source": "brief"},
+  {"rank": 3, "text": "The Constitution, after all, assigns to the Executive Branch, and not to the Judicial Branch, the duty", "speaker": "O'Connor", "phrases": ["assigns to the Executive Branch, and not to the Judicial Branch"], "counts": [9], "score": 9, "source": "brief"},
+  {"rank": 4, "text": "More than one commentator has noted that the causation component of the Court's standing inquiry", "speaker": "Brennan", "phrases": [], "counts": [], "score": 0, "source": "brief"},
+  {"rank": 5, "text": "This causation analysis is nothing more than a restatement of elementary economics", "speaker": "Stevens", "phrases": [], "counts": [], "score": 0, "source": "brief"}
+ ],
+ "notes": "Stopped searching once rank 1 (92) exceeded three times every other count; ranks 4-5 not searched. Rank 2 tie with rank 3 broken by brief order."}

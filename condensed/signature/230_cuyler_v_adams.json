@@ -1,0 +1,8 @@
+{"brief": "230_cuyler_v_adams", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "But where Congress has authorized the States to enter into a cooperative agreement, and where the subject matter", "speaker": "Brennan", "phrases": ["consent of Congress transforms the States' agreement into federal law"], "counts": [28], "score": 28, "source": "brief"},
+  {"rank": 2, "text": "Because congressional consent transforms an interstate compact within this Clause into a law of the United States", "speaker": "Brennan", "phrases": ["congressional consent transforms an interstate compact within this Clause into a law of the United States"], "counts": [9], "score": 9, "source": "brief"},
+  {"rank": 3, "text": "By vesting in Congress the power to grant or withhold consent, or to condition consent on the States' compliance", "speaker": "Brennan", "phrases": ["maintain ultimate supervisory power over cooperative state action"], "counts": [7], "score": 7, "source": "brief"},
+  {"rank": 4, "text": "In a remarkable feat of judicial alchemy the Court today transforms state law into federal law", "speaker": "Rehnquist", "phrases": ["judicial Midas meandering through the state statute books"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "All four brief quotations searched; top count 28."}

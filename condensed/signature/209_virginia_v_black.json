@@ -1,0 +1,59 @@
+{
+ "brief": "209_virginia_v_black",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "True threats encompass those statements where the speaker means to communicate a serious expression of an intent",
+   "speaker": "O'Connor",
+   "phrases": [
+    "serious expression of an intent to commit an act of unlawful violence"
+   ],
+   "counts": [
+    329
+   ],
+   "score": 329,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "The First Amendment permits Virginia to outlaw cross burnings done with the intent to intimidate",
+   "speaker": "O'Connor",
+   "phrases": [
+    "particularly virulent form of intimidation"
+   ],
+   "counts": [
+    31
+   ],
+   "score": 31,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "The act of burning a cross may mean that a person is engaging in constitutionally proscribable intimidation",
+   "speaker": "O'Connor, plurality",
+   "phrases": [
+    "The First Amendment does not permit such a shortcut"
+   ],
+   "counts": [
+    5
+   ],
+   "score": 5,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "Accordingly, this statute prohibits only conduct, not expression",
+   "speaker": "Thomas, dissenting",
+   "phrases": [
+    "those who hate cannot terrorize and intimidate to make their point"
+   ],
+   "counts": [
+    2
+   ],
+   "score": 2,
+   "source": "brief"
+  }
+ ],
+ "notes": "CourtListener exact-phrase counts, Nov. 25, 2026. The brief has four Key Quotations."
+}

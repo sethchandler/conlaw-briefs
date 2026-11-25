@@ -1,0 +1,9 @@
+{"brief": "164_massachusetts_v_epa", "method": "citation_count",
+ "candidates": [
+  {"rank": 1, "text": "Given that procedural right and Massachusetts' stake in protecting its quasi-sovereign interests, the Commonwealth is entitled to special solicitude", "speaker": "Stevens", "phrases": ["entitled to special solicitude in our standing analysis"], "counts": [31], "score": 31, "source": "brief"},
+  {"rank": 2, "text": "On its face, the definition embraces all airborne compounds of whatever stripe, and underscores that intent", "speaker": "Stevens", "phrases": ["embraces all airborne compounds of whatever stripe"], "counts": [12], "score": 12, "source": "brief"},
+  {"rank": 3, "text": "Relaxing Article III standing requirements because asserted injuries are pressed by a State, however, has no basis", "speaker": "Roberts", "phrases": ["Relaxing Article III standing requirements because asserted injuries are pressed by a State"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 4, "text": "SCRAP made standing seem a lawyer's game, rather than a fundamental limitation ensuring that courts function as courts", "speaker": "Roberts", "phrases": ["Today's decision is SCRAP for a new generation"], "counts": [1], "score": 1, "source": "brief"},
+  {"rank": 5, "text": "It follows that everything airborne, from Frisbees to flatulence, qualifies as an air pollutant", "speaker": "Scalia", "phrases": ["from Frisbees to flatulence"], "counts": [1], "score": 1, "source": "brief"}
+ ],
+ "notes": "All five searched; ranks 3-5 tied at 1 and were ordered by the Holding's priority (standing first)."}

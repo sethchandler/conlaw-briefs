@@ -1,0 +1,9 @@
+{"brief": "179_sec_v_jarkesy", "method": "judgment",
+ "candidates": [
+  {"rank": 1, "text": "In sum, the civil penalties in this case are designed to punish and deter, not to compensate. They are therefore `a type of remedy at common law that could only be enforced in courts of law.'", "speaker": "Roberts", "phrases": ["the remedy is all but dispositive"], "counts": [8], "score": 8, "source": "brief", "reason": "States the case's test: punitive civil penalties are a legal remedy triggering the jury right. Text is the contiguous part used in the 1-page edition."},
+  {"rank": 2, "text": "What matters is the substance of the suit, not where it is brought, who brings it, or how it is labeled.", "speaker": "Roberts", "phrases": ["What matters is the substance of the suit, not where it is brought"], "counts": [7], "score": 7, "source": "brief", "reason": "States the limit on the public rights exception (first search returned HTTP 502; retried once after a pause)."},
+  {"rank": 3, "text": "A defendant facing a fraud suit has the right to be tried by a jury of his peers before a neutral adjudicator.", "speaker": "Roberts", "source": "brief", "reason": "The majority's framing of the separation-of-powers stakes."},
+  {"rank": 4, "text": "Today, for the very first time, this Court holds that Congress violated the Constitution by authorizing a federal agency to adjudicate", "speaker": "Sotomayor", "source": "brief", "reason": "Principal dissent."},
+  {"rank": 5, "text": "The Seventh Amendment's jury-trial right does not work alone. It operates together with Article~III and the Due Process Clause", "speaker": "Gorsuch", "source": "brief", "reason": "Concurrence."}
+ ],
+ "notes": "2024 decision: top count 8, below 10; ranked by judgment."}
