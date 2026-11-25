@@ -1,0 +1,59 @@
+{
+ "brief": "228_egbert_v_boule",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "While our cases describe two steps, those steps often resolve to a single question",
+   "speaker": "Thomas",
+   "phrases": [
+    "Congress might be better equipped to create a damages remedy"
+   ],
+   "counts": [
+    50
+   ],
+   "score": 50,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Because our cases have made clear that, in all but the most unusual circumstances",
+   "speaker": "Thomas",
+   "phrases": [
+    "prescribing a cause of action is a job for Congress, not the courts"
+   ],
+   "counts": [
+    25
+   ],
+   "score": 25,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "So long as Congress or the Executive has created a remedial process",
+   "speaker": "Thomas",
+   "phrases": [
+    "second-guess that calibration by superimposing a Bivens remedy"
+   ],
+   "counts": [
+    24
+   ],
+   "score": 24,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "The Court goes to extraordinary lengths to avoid this result",
+   "speaker": "Sotomayor",
+   "phrases": [
+    "discerns an alternative remedial structure where none exists"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "Pilot case; counts from the Nov. 25, 2026 validation."
+}

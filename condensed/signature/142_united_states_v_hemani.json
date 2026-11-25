@@ -1,0 +1,35 @@
+{
+ "brief": "142_united_states_v_hemani",
+ "method": "judgment",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "And the habitual drunkard laws on which the government relies here differ dramatically",
+   "speaker": "Gorsuch",
+   "phrases": [
+    "awkwardly positioned to suggest that the millions of Americans"
+   ],
+   "counts": [
+    0
+   ],
+   "score": 0,
+   "source": "brief",
+   "reason": "States the Court's governing comparison (who, why, how) that decides the case."
+  },
+  {
+   "rank": 2,
+   "text": "All of which leaves it awkwardly positioned to suggest that the millions of Americans",
+   "speaker": "Gorsuch",
+   "source": "brief",
+   "reason": "Rejects categorical dangerousness."
+  },
+  {
+   "rank": 3,
+   "text": "In a future case that squarely presents the question, we should consider whether to retire the failed Bruen experiment",
+   "speaker": "Jackson",
+   "source": "brief",
+   "reason": "Most discussed separate opinion."
+  }
+ ],
+ "notes": "2026 decision: too recent for citation counts; ranked by judgment (pilot)."
+}

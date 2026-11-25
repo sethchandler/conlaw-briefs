@@ -1,0 +1,72 @@
+{
+ "brief": "139_united_states_v_carolene_products",
+ "method": "citation_count",
+ "candidates": [
+  {
+   "rank": 1,
+   "text": "prejudice against discrete and insular minorities may be a special condition, which tends seriously to curtail the operation of those political processes ordinarily to be relied upon to protect minorities, and which may call for a correspondingly more searching judicial inquiry",
+   "speaker": "Stone, Footnote Four",
+   "phrases": [
+    "discrete and insular minorities"
+   ],
+   "counts": [
+    222
+   ],
+   "score": 222,
+   "source": "brief"
+  },
+  {
+   "rank": 2,
+   "text": "Even in the absence of such aids, the existence of facts supporting the legislative judgment is to be presumed",
+   "speaker": "Stone",
+   "phrases": [
+    "rests upon some rational basis within the knowledge and experience of the legislators"
+   ],
+   "counts": [
+    74
+   ],
+   "score": 74,
+   "source": "brief"
+  },
+  {
+   "rank": 3,
+   "text": "There may be narrower scope for operation of the presumption of constitutionality",
+   "speaker": "Stone, Footnote Four",
+   "phrases": [
+    "narrower scope for operation of the presumption of constitutionality"
+   ],
+   "counts": [
+    26
+   ],
+   "score": 26,
+   "source": "brief"
+  },
+  {
+   "rank": 4,
+   "text": "The Fifth Amendment has no equal protection clause",
+   "speaker": "Stone",
+   "phrases": [
+    "may hit at an abuse which it has found"
+   ],
+   "counts": [
+    25
+   ],
+   "score": 25,
+   "source": "brief"
+  },
+  {
+   "rank": 5,
+   "text": "If construed to exclude from interstate commerce wholesome food products",
+   "speaker": "Butler",
+   "phrases": [
+    "demonstrably are neither injurious to health nor calculated to deceive"
+   ],
+   "counts": [
+    1
+   ],
+   "score": 1,
+   "source": "brief"
+  }
+ ],
+ "notes": "Pilot case; counts from the Nov. 25, 2026 validation."
+}
